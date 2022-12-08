@@ -40,3 +40,8 @@ Two important educational policies in this decade made their impact on Jing Shan
 <img src="/images/fourth_decade_2.jpg" style="width:60%" align = "right">
 
 In 1982, the school was handed over to the government as the school board did not have sufficient resources to upgrade the school to meet the standard Primary School criteria set by the government. It was during this period that Chin San School became a full government school. With the handing over of the school, the dialect name “Chin San School” was dropped. The hanyu pinyin version based on the Chinese name of the school was used and “Jing Shan Primary School” (静山小学) became the official name of the school in 1982.
+
+
+### Good, Better, Best
+
+##### 1985 to 1994
