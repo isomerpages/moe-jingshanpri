@@ -2,4 +2,5 @@ collections:
   the-js-experience:
     output: true
     order:
+      - Co Curricular Activities/.keep
       - example-page.md
