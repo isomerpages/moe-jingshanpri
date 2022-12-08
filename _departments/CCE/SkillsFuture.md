@@ -15,3 +15,9 @@ This portal is a rich resource for all primary 5 to pre-university students, tea
 **_Exploring my SkillsFuture Portal_** 
 
 [https://www.myskillsfuture.sg/content/student/en/primary.html](https://www.myskillsfuture.sg/content/student/en/primary.html)
+
+![](/images/Skills%20Future%201.jpg)
+
+**_Career Fest_**
+
+![](/images/My%20Skills%20Future%202.jpg)
