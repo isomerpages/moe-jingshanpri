@@ -2,6 +2,7 @@ collections:
   the-js-identity:
     output: true
     order:
+      - Our School Staff/Administrative Staff and Support Staff.md
       - Our School Staff/.keep
       - Our History/Our School's History.md
       - Our History/Jing Shan's History.md
