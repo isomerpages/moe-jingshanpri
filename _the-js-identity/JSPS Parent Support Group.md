@@ -11,6 +11,3 @@ description: ""
 ![](/images/Picture3.png)
 ![](/images/Picture4.png)
 In JSPS, we believe in partnering our parents to grow thriving Jingshanites together.
-
-
-
