@@ -14,13 +14,19 @@ Inherent in the concept of Learning Journeys is the belief that every trip under
 
 
 ![](/images/Jacob%20Ballas%20group.jpg)
+_**P1 LJ to Jacob Ballas Children’s Garden**_
 
 ![](/images/Orchid.jpg)
+__**P2 LJ to National Orchid Garden**__
 
 ![](/images/Marina%20Barrage.jpg)
+_**P3 LJ to Marina Barrage**_
 
 ![](/images/Primary%204%20LJ.jpg)
+**__P4 LJ to National Museum and__ __Fort Canning Hill__**
 
 ![](/images/Primary%205.jpg)
+_**P5 LJ to Chinatown**_
 
 ![](/images/Primary%206%20amend.jpg)
+_**P6 LJ to Little India**_
