@@ -33,4 +33,10 @@ Goal 6: Enjoy and value the benefits of living a physically active and healthy l
 
 **Let’s take a look at our students in action!** (Note: Photos were taken during the SMM guidelines then. All SMM guidelines were strictly adhered to.)
 
-**PE lessons**
+##### PE lessons
+
+![](/images/PE1.png)
+
+![](/images/PE2.png)
+
+##### Swimsafer 2.0 Programme
