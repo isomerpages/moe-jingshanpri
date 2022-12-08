@@ -3,7 +3,6 @@ collections:
     output: true
     order:
       - Our School Staff.md
-      - School Leaders.md
       - Our School Staff/Key Personnel.md
       - Our School Staff/Teachers.md
       - Our School Staff/Allied Educators.md
