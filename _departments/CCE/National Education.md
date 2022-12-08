@@ -12,3 +12,19 @@ third_nav_title: CCE
 ### Total Defence Day
 
 ![](/images/Total%20Defence%20Day.jpg)
+
+###  International Friendship Day
+
+![](/images/International%20Friendship.jpg)
+
+### Racial Harmony Day**
+
+![](/images/Racial%20Harmony%20Day.jpg)
+
+### National Day Observance Ceremony
+
+![](/images/National%20Day%20Observance.jpg)
+
+### P5 NE Show
+
+![](/images/P5%20NE%20show.jpg)
