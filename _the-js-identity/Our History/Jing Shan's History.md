@@ -13,3 +13,6 @@ The story of Jing Shan Primary School began in 1945, when it was established as 
 <img src="/images/history3a.png" style="width:40%" align = "right">
 
 The students were mostly from farming families who lived in the kampung and they communicated mostly in Chinese dialects.  Many of them had to walk for half an hour or more to reach the school. Facilities were basic then and half of the walls were constructed with bricks while the other half was built from zinc plates. As the building was small, the school was divided into two sessions. The same levels were split so that students could choose to attend their classes either in the morning or afternoon.
+### The Kampong Spirit
+
+##### 1965 to 1974
