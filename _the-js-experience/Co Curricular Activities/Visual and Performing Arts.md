@@ -61,5 +61,20 @@ performances and competitions
 * Ms Charlotte Lee
 * Ms Isadora Zhong
 
-Cultural Dance
---------------
+#### Cultural Dance
+
+![](/images/culturaldance.jpg)
+
+The JSPS Cultural Dance CCA aims to provide students with experiences to immerse themselves in the vast world of music and movement in global cultures, and become confident performers. Cultural Dancers at JSPS are encouraged to grow their sense of appreciation and passion for the cultural dances by learning the nuances of the arts. They do this through a blended learning experience consisting of face-to-face and online dance sessions, and online self-directed learning. In doing so, they will cultivate the BRIGHT values and demonstrate inventiveness and critical thinking skills through their execution of the dance movements and teamwork. The Cultural Dancers have been awarded the Certificate of Distinction at the Singapore Youth Festival (SYF) Performing Arts Presentation and garnered great support from external organisations during public performances.
+
+**CCA Objectives**
+
+1.  Demonstrate appreciation and passion for a variety of cultural dances by learning about their nuances in terms of movement and music.
+2.  Demonstrate inventiveness and critical thinking through peer and self evaluation of their performance in dance techniques, teamwork and coordination.
+3.  Cultivate bravery, responsibility and tenacity by persevering through challenging dance routines.
+
+**Teachers-in-Charge**
+* Ms Dharshini Rajah (co-IC)
+* Mdm Yap Xuelin (co-IC)
+* Ms Joanne Kow
+* Ms Ning Shuang
