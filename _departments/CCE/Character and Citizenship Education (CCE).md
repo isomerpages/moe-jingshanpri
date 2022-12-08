@@ -7,3 +7,23 @@ third_nav_title: CCE
 # **Character and Citizenship Education (CCE)**
 
 <table style="border-collapse:collapse;border-spacing:0" class="tg"><thead><tr><td style="background-color:#FFF;border-color:#c0c0c0;border-style:solid;border-width:1px;color:#222;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">At JS, the school’s BRIGHT values are put into practice through a myriad of experiences to equip students with knowledge, skills, attitudes and values through a TEACH, EMBED and LIVE approach in all its programmes.</td></tr></thead></table>
+
+
+
+
+
+
+
+![](/images/CCE%20170720.jpg)
+
+
+Leveraging the strengths of every Jingshanite, TEACHING of well-being and values is integrated into the Form Teachers Guidance Period (FTGP), CCE Mother Tongue Languages and Social Studies lessons. The skills of putting values into action are EMBEDDED in level-wide practices and programmes in National Education, Education and Career Guidance (Future Charting) and Sexuality Education. School-wide initiatives that cut across all of these segments in CCE help students to LIVE out the BRIGHT values so that students can Do Good to others and Feel Good about themselves.
+
+The science-based approach to wellbeing provides the delivery of a customised curriculum delivered through the language of Positive Psychology for students to:
+1. Develop their character and values through Mindfulness,
+2. Cultivate positive attitudes by having a Growth Mindset,
+3. Strengthen their self management,
+4. Instil a sense of rootedness and responsibility for community and fellow Singaporeans.
+
+With these rich, curated experiences that gets students to use a single language of wellbeing, the school firmly believes that every child will have a strong sense of self awareness and deep love for the community and the nation. He will also be able to take good care of self and the society as he shows confidence in charting his own path towards success as a Thriving Explorer and a Mindful Leader.
+There are 5 principles in implementing the programmes (PERMA)
