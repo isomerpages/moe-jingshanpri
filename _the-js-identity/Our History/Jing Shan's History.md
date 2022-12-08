@@ -27,7 +27,16 @@ When Singapore gained independence in 1965, the key problem which the government
 
 Over time, more and more Chinese families enrolled their children in English-medium schools. This was to give the children an edge when they progressed to higher education or when they entered the workforce.
 
-Growth of Ang Mo Kio New Town, Our Home
----------------------------------------
+### Growth of Ang Mo Kio New Town, Our Home
 
-### 1975 to 1984
+##### 1975 to 1984
+
+<img src="/images/fourth_decade_1.jpg" style="width:60%" align = "right">
+
+Development of the present Ang Mo Kio New Town began in 1973, and it was the seventh new town to be built in Singapore. In the 1970s, many new flats sprung up in this new town. The development of Ang Mo Kio New Town led to higher population density in the area. Many schools in Ang Mo Kio functioned at full capacity, and Jing Shan Primary School was one of them.
+
+Two important educational policies in this decade made their impact on Jing Shan Primary School. In 1979, Singapore’s education system adopted the bilingual policy. Every child in Singapore would have to learn English as the First Language and Mother Tongue as the Second Language.
+
+<img src="/images/fourth_decade_2.jpg" style="width:60%" align = "right">
+
+In 1982, the school was handed over to the government as the school board did not have sufficient resources to upgrade the school to meet the standard Primary School criteria set by the government. It was during this period that Chin San School became a full government school. With the handing over of the school, the dialect name “Chin San School” was dropped. The hanyu pinyin version based on the Chinese name of the school was used and “Jing Shan Primary School” (静山小学) became the official name of the school in 1982.
