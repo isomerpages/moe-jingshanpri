@@ -26,3 +26,18 @@ Art education is one of the important areas in the holistic development of the c
 * Mdm Katie Soon (co-IC)
 * Mr Norizam Bin Samsudin
 * Mdm Ang Geok Pheng
+
+
+### Guzheng Ensemble
+
+![](/images/guzheng.jpg)
+
+JSPS Guzheng Ensemble CCA provides opportunities for members to learn the Guzheng as well as to showcase their talents. It also enables our members to learn and appreciate Chinese Cultural music. In addition, it instills self-discipline, confidence, team spirit, and a sense of belonging in our members. Our Guzheng Ensemble team was awarded the Certificate of Distinction in the Singapore Youth Festival (SYF) Arts Presentation in 2018.  
+
+**Objectives**   
+To provide opportunities for our pupils to learn and appreciate music and Guzheng. Also to provide the platform for our pupils to have the experience of taking part in a SIngapore Youth Festival Arts Presentation as a member of an ensemble.
+
+**Teachers’ In-charge**
+* Mdm Anna Foo (IC)
+* Mrs Yap Ying Ying
+* Mdm Ong Baojin
