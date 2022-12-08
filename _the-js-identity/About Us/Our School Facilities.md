@@ -16,6 +16,16 @@ The school is also equipped with outdoor sports facilities such as a netball cou
 
 ![](/images/274303685_3076083925988725_889606242209342028_n.jpg)
 
+### Block B
+
+![](/images/blkb.jpg)
+![](/images/blkb1.jpg)
+
+### Block C
+
+![](/images/blkc.jpg)
+![](/images/blkc1.jpg)
+
 ### Indoor Sports Hall
 
 ![](/images/ish.jpg)
