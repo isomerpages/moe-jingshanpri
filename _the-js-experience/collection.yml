@@ -2,6 +2,7 @@ collections:
   the-js-experience:
     output: true
     order:
+      - Departments/.keep
       - Signature Programmes/PAL.md
       - Signature Programmes/Learn For Life Programme (LLP).md
       - Signature Programmes/Applied Learning Programme (ALP).md
