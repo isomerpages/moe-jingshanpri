@@ -49,3 +49,15 @@ Badminton aims to develop not only the basic skills of the game but also charact
 * Mr James Seah (IC)
 * Mr Wong Foo Kheong
 * Mrs Gunavathi Arulselvan
+
+### Football
+
+![](/images/football.jpg)
+
+**Objectives of Football**
+* To help develop pupils’ psychomotor skills, including hand-eye coordination and anticipation.
+* To promote teamwork and trust among the pupils and sportsmanship during CCA and competitions.
+
+**Teachers’ In-charge**:
+* Mr Cedric Tan (IC)
+* Mr Swarnapala Methias
