@@ -40,3 +40,15 @@ Goal 6: Enjoy and value the benefits of living a physically active and healthy l
 ![](/images/PE2.png)
 
 ##### Swimsafer 2.0 Programme
+
+![](/images/Swimsafer.png)
+
+##### P5 Cohort Camp 2021
+
+![](/images/Camp%201.png)
+
+![](/images/Camp%202.png)
+
+**Our PE Champs who have done a great job during Recess Play!**
+
+![](/images/Level%20Camps%20amended.jpg)
