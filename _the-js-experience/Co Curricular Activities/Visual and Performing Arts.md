@@ -41,3 +41,6 @@ To provide opportunities for our pupils to learn and appreciate music and Guzhen
 * Mdm Anna Foo (IC)
 * Mrs Yap Ying Ying
 * Mdm Ong Baojin
+
+
+### Modern Dance
