@@ -38,3 +38,6 @@ The **Scope and Sequence** **for** **Primary 5 Social Studies** comprises 
 **Primary 6**
 
 The **Scope and Sequence** **for** **Primary 6 Social Studies** comprises _Discovering Southeast Asia._ The concepts to be taught include _Cooperation,_ _Diversity, Culture, Change and Continuity, Legacy, Interconnectedness, Heritage_ and _Interconnectedness__._
+
+![](/images/Primary%206.jpg)
+Places and their significance
