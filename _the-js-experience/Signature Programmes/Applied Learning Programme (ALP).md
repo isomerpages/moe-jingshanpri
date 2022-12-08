@@ -44,3 +44,12 @@ What’s upcoming will be even more exciting! Stay tune to our page as we will b
 Have you seen our green corridors in our school? The corridors along our classroom blocks are lined with beautiful greenery! These plants are adopted by every class and it is our responsibility to care for them.
 
 ![](/images/green.jpg)
+
+**Farm-to-table Initiative**
+
+Defined as a social movement where farmers source ingredients from local farms or grow what they need themselves, Jing Shan Primary also has our very own farm-to-table project! With three sets of hydroponics system, we grow our own baby bak choy, lettuce, mustard greens and kale (just to name a few). Harvested by our students in the Environmental Science CCA, the vegetables are given to our canteen stall holders to prepare meals for staff and students and the salads are also enjoyed by the teachers in the staff pantry!
+
+![](/images/Picture9.jpg)
+
+As part of the signature programme, students across the levels are also involved in various upcycling projects such as the making of calming jars using recycled bottles and applying what they have learnt in the topic of measurement in Mathematics! These calming jars were presented to students from Chao Yang School as part of our partnership in VIA!
+
