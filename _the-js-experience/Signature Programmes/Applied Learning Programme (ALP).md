@@ -32,3 +32,13 @@ Through platforms such as the Morning Express, Assembly talks and Learning Journ
 ![](/images/Picture2%20(1).png)
 
 ![](/images/Picture3(1).png)
+
+We also have exciting programmes during Assembly like the Young Intertidal Explorer’s Programme where students will learn about the different eco-systems as part of our focus on Sustainability in school. Students get the opportunity to engage in conservation efforts beyond the campus!
+
+What’s upcoming will be even more exciting! Stay tune to our page as we will be having a totally new VR experience as part of oral communication in Mother Tongue. Students will be immersed in a virtual environment like our eco-garden as they learn in their MTL languages on themes such as Sustainability!  
+
+**Embed**
+
+Green Corridors in JS
+
+Have you seen our green corridors in our school? The corridors along our classroom blocks are lined with beautiful greenery! These plants are adopted by every class and it is our responsibility to care for them.
