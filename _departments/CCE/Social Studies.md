@@ -26,3 +26,15 @@ The **Scope and Sequence** **for** **Primary 3 Social Studies** comprises 
 
 ![](/images/Primary%203.jpg)
 _Map Reading_
+
+**Primary 4**
+
+The **Scope and Sequence** **for** **Primary 4 Social Studies** comprises _Valuing Our Past._ The concepts to be taught include _Contributions, Change and_ _Continuity, Heritage, Diversity, Independence_ and _Identity._
+
+**Primary 5**
+
+The **Scope and Sequence** **for** **Primary 5 Social Studies** comprises _Appreciating The World._ The concepts to be taught include _Civilisation,_ _Achievement, Change and Continuity, Legacy, Culture, Heritage_ and _Interconnectedness__._
+
+**Primary 6**
+
+The **Scope and Sequence** **for** **Primary 6 Social Studies** comprises _Discovering Southeast Asia._ The concepts to be taught include _Cooperation,_ _Diversity, Culture, Change and Continuity, Legacy, Interconnectedness, Heritage_ and _Interconnectedness__._
