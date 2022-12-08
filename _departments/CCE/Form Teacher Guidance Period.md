@@ -13,6 +13,5 @@ The lessons are designed for students to acquire skills that will help them to:
 a) better understand themselves (Self-Awareness);  
 b) learn ways to manage themselves (Self-Management);   
 c) better understand their family and friends (Social Awareness);   
-d) learn ways to work with their family and friends (Relationship Management); and
-
+d) learn ways to work with their family and friends (Relationship Management); and   
 e) make appropriate and responsible decisions (Responsible Decision Making).
