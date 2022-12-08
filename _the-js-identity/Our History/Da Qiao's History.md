@@ -14,3 +14,8 @@ Da Qiao Primary School was officially opened on 11 January 1936 at North Bridge 
 
 <img src="/images/DQ2.png" 
      style="width:70%">
+		 
+		 
+### The Dawn of a New Beginning
+
+In 1981, Da Qiao Primary School was established as a government school in the residential estate of Ang Mo Kio. The school name ‘Da Qiao’, a Hanyu Pinyin version of Tai Keou, was chosen to perpetuate the name of the former Tai Keou School and to recognize the past contributions made to the school by members of the Char Yong (Dabu) Association.   The new school started operating in its new building at 10 Ang Mo Kio St 54 in January 1982 with 38 classes and a pupil enrolment of about 1200. The school was officially declared open by Mr Hwang Soo Jin, Deputy Speaker and Member of Parliament for Jalan Kayu on 22 July 1983. The first Principal was Mr Cheong Cheng Swee and the Vice Principal was Mr Ng Hing. Mr Cheong was succeeded by Mrs Christina Koh in 1985 and later, by Mr Lee Lam Hua in 1995.   As a result of PRIME, a Ministry of Education school rebuilding programme, Da Qiao Primary moved to its current campus at 8 Ang Mo Kio St 54 on 8 December 1999.
