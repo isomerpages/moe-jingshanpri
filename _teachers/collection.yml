@@ -2,5 +2,6 @@ collections:
   teachers:
     output: true
     order:
+      - Primary 6 Teachers.md
       - Non Form Teachers.md
       - Flexi Adjunct Teachers.md
