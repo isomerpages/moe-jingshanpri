@@ -2,6 +2,7 @@ collections:
   the-js-identity:
     output: true
     order:
+      - Our History/Jing Shan's History.md
       - Our History/.keep
       - Our History/Da Qiao's History.md
       - Our School Advisory Committee.md
