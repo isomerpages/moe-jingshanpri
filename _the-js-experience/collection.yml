@@ -2,7 +2,7 @@ collections:
   the-js-experience:
     output: true
     order:
-      - Upper School/example-page.md
+      - Upper School/P6.md
       - Upper School/.keep
       - Departments/.keep
       - Signature Programmes/PAL.md
