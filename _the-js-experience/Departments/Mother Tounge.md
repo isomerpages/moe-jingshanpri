@@ -44,5 +44,23 @@ Reading is critical to expand students’ language capacities. Time is set aside
 
 **Strength Spotlight Programme**
 
-The department recognises the uniqueness of each student and offers opportunities for them to stretch their potential. Showcase platforms and  
-programmes further expose students to the Mother Tongue languages. Examples include competitions, talent shows and ambassador programmes, all of which recognise students’ strength and offer them opportunities to shine.
+The department recognises the uniqueness of each student and offers opportunities for them to stretch their potential. Showcase platforms and programmes further expose students to the Mother Tongue languages. Examples include competitions, talent shows and ambassador programmes, all of which recognise students’ strength and offer them opportunities to shine.
+
+![](/images/1a.png)
+Learning language in context through an authentic learning experience:  kite-making and kite-flying
+
+![](/images/2a.png)
+Use of ICT in teaching and learning
+
+![](/images/3a.png)
+Collaborating through role play and having fun!
+
+![](/images/5a.png)
+Appreciating and understanding one’s culture
+
+![](/images/6a.jpg)
+Formative assessment on the go!
+
+![](/images/7a.png)
+Cultural immersion via a Learning Journey
+
