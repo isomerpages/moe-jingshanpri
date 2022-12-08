@@ -25,4 +25,4 @@ This is actualised through the various programmes and activities that cater to l
 
 (ii) **Develop Critical and Inventive Thinking through thoughtful pedagogy** – Using specific strategies to support students’ learning with technology.
 
-(iii) **Ensure student well-****being through JS Cyber Wellness Education** – Developing students as responsible digital learners; taking  responsibility for their own well-being in cyberspace and advocating positive online behaviours.
+(iii) **Ensure student well-** being through JS Cyber Wellness Education** – Developing students as responsible digital learners; taking  responsibility for their own well-being in cyberspace and advocating positive online behaviours.
