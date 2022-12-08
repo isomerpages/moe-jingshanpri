@@ -22,7 +22,7 @@ In 1981, Da Qiao Primary School was established as a government school in the re
 
 
 
-DA QIAO PRIMARY SCHOOL SONG    
+**DA QIAO PRIMARY SCHOOL SONG**    
 
 <img src="/images/DQ3.png" style="width:300px;height:200px;margin-left:15px;" align="right">
 
