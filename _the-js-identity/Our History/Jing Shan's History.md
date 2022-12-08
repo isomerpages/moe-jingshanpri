@@ -54,3 +54,17 @@ During this period, many national campaigns were initiated to promote values and
 
 Pupils in Jing Shan Primary School often participated in activities led by the mascots Teamy the Bee (1982 – 1999), Singa the Lion, and Sharity the Elephant. The values that these mascots represented were infused into the school total curriculum and contextualised to cater to pupils’ learning. The emphasis was to equip pupils with a spirit of innovation and productivity, to have a strong anchor on moral values, and to practise graciousness by contributing to society.
 
+
+### Pushing the Boundaries
+
+##### 1995 to 2004
+
+In 1997, the Singapore education system started to move in the direction of an ability-driven system with inspiration from then Prime Minister Goh Chok Tong’s vision of "Thinking Schools, Learning Nation" (TSLN).
+
+This vision described a nation of thinking and committed citizens capable of meeting the challenges of the future, and an education system geared to the needs of the 21st century.
+
+The Ministry of Education launched a major programme, “Programme for Rebuilding and IMproving Existing schools” (PRIME) in 1999 to ensure that all schools have a conducive physical environment to enhance teaching and learning. Under the programme, schools were fitted with state-of-the-art facilities, which included computer laboratories, media resource libraries and Information Technology (IT) learning resource rooms.
+
+As Jing Shan Primary School was built prior to 1997, the old building was torn down and the current building was erected at 5 Ang Mo Kio Street 52. Due to the extent of the construction, Jing Shan Primary School moved to a holding school (the present Da Qiao Primary School) while waiting for construction to be completed. In December 2001, Jing Shan Primary School finally moved back to its current premises. 
+
+The new building was officially opened by the late Dr Balaji Sadasivan, then Minister of State for Health and Transport and MP for Ang Mo Kio GRC, on 11 July 2003. The school held an official opening ceremony to mark the special occasion.
