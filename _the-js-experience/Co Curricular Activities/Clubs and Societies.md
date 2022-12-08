@@ -58,3 +58,17 @@ To equip designers of the Design and Innovation club to be gritty, purposeful le
 * Mrs Karen Chew
 
 ### Environmental Science
+
+![](/images/Ensci.jpg)
+
+Environmental Science CCA seeks to develop students’ interest in Science and care for the sustainable environment based on the 3As, Advocate, Act and Appreciate.  
+
+**Objectives:**     
+* Advocate: Promote sustainability and raise awareness about environmental issues to create a school community, which is more environmentally responsible.  
+* Act: Innovate using the 3Rs ideas and participate in hands-on green activities and projects that demonstrate science concepts and promote sustainability.  
+* Appreciate: Develop interest and care for our environment and nature.  
+  
+**Teachers-In-charge**  
+* Ms Peggy Cheong (IC)  
+* Mrs Mariam Abas  
+* Mr Ken Ng
