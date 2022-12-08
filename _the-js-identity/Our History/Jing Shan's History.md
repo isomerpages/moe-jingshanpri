@@ -68,3 +68,8 @@ The Ministry of Education launched a major programme, “Programme for Rebuildi
 As Jing Shan Primary School was built prior to 1997, the old building was torn down and the current building was erected at 5 Ang Mo Kio Street 52. Due to the extent of the construction, Jing Shan Primary School moved to a holding school (the present Da Qiao Primary School) while waiting for construction to be completed. In December 2001, Jing Shan Primary School finally moved back to its current premises. 
 
 The new building was officially opened by the late Dr Balaji Sadasivan, then Minister of State for Health and Transport and MP for Ang Mo Kio GRC, on 11 July 2003. The school held an official opening ceremony to mark the special occasion.
+
+
+### Onward We Strive
+
+##### 2005 to 2015
