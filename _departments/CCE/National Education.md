@@ -10,3 +10,5 @@ third_nav_title: CCE
 
 
 ### Total Defence Day
+
+![](/images/Total%20Defence%20Day.jpg)
