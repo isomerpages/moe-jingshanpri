@@ -7,7 +7,6 @@ third_nav_title: Aesthetics
 # **Music Curriculum**
 
 ![](/images/music.jpg)
-
  _My musical experience as I journey through lower, middle and upper school._  
   
 The Music Curriculum seeks to empower all students with the knowledge, skills and dispositions to appreciate Music and participate in it. Musical understanding is developed through the integrated domains of Listening, Creating and Performing.
