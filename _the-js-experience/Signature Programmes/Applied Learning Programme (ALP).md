@@ -53,3 +53,8 @@ Defined as a social movement where farmers source ingredients from local farms o
 
 As part of the signature programme, students across the levels are also involved in various upcycling projects such as the making of calming jars using recycled bottles and applying what they have learnt in the topic of measurement in Mathematics! These calming jars were presented to students from Chao Yang School as part of our partnership in VIA!
 
+![](/images/farm.jpg)
+
+**Live**
+
+To cultivate mindful habits such as minimizing food wastage, buying or ordering only what we need and reusing waste materials, staff and students in school also practice food waste recycling. Food waste is recycled and made into compost in the Food Composters which are strategically placed in the school canteen and staff pantry! The compost are weighed and packed termly by our Environmental Science CCA members and these compost can be added to soil as fertilizers for our plants!
