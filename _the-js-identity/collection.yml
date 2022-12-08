@@ -2,6 +2,7 @@ collections:
   the-js-identity:
     output: true
     order:
+      - School Leaders.md
       - Key Personnel.md
       - Our School Staff/Teachers.md
       - Our School Staff/Allied Educators.md
