@@ -48,3 +48,7 @@ On top of the Core Art Learning Experiences, students will also have opportunit
 * Art Enrichment Programme (Stop Animation) at Primary 3
 * Pottery Programme at Primary 4 and 5
 * JS Arts Festival
+
+![](/images/art2.jpg)
+Museum Based Learning
+
