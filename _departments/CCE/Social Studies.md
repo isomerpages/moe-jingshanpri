@@ -23,3 +23,6 @@ The **Scope and Sequence for Primary 2 Social Studies** comprises _Coming Tog
 **Primary 3**
 
 The **Scope and Sequence** **for** **Primary 3 Social Studies** comprises  _Understanding Singapore._ The concepts to be taught include _Physical Environment,_ _Change and Continuity, Decision Making, Land Use, Choice, Cause and Consequence, Nature Conservation, Personal Choice, Social Responsibility_ _and Environmental Conservation._
+
+![](/images/Primary%203.jpg)
+_Map Reading_
