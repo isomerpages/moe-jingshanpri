@@ -3,6 +3,6 @@ collections:
     output: true
     order:
       - Our History/.keep
-      - Our History/subfolder-page.md
+      - Our History/Da Qiao's History.md
       - Our School Advisory Committee.md
       - JSPS Parent Support Group.md
