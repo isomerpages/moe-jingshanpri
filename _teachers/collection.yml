@@ -2,4 +2,5 @@ collections:
   teachers:
     output: true
     order:
+      - Non Form Teachers.md
       - Flexi Adjunct Teachers.md
