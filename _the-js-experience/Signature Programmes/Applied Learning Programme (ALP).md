@@ -58,3 +58,9 @@ As part of the signature programme, students across the levels are also involved
 **Live**
 
 To cultivate mindful habits such as minimizing food wastage, buying or ordering only what we need and reusing waste materials, staff and students in school also practice food waste recycling. Food waste is recycled and made into compost in the Food Composters which are strategically placed in the school canteen and staff pantry! The compost are weighed and packed termly by our Environmental Science CCA members and these compost can be added to soil as fertilizers for our plants!
+
+![](/images/Picture10a.png)
+
+![](/images/Picture11a.png)
+
+![](/images/Picture12.png)
