@@ -16,3 +16,10 @@ It provides a key platform where every student is provided with Basic Music Educ
 * Develop awareness and appreciation of music in local and global cultures
 * Develop ability for creative expression and communication through Music Making
 * Provide the basis to develop an informed and life-long involvement in Music
+
+![](/images/Music%20Curriculum%201.png)
+Joy of Learning in Music
+
+**Core Music Learning Experience**
+
+Music is a core subject. In JS, students from Primary 1 to 4 attend two periods of music lessons weekly. For Primary 5 and 6, students attend two periods of music lessons fortnightly.
