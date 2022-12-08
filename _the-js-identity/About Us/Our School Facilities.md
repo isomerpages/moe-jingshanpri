@@ -16,6 +16,12 @@ The school is also equipped with outdoor sports facilities such as a netball cou
 
 ![](/images/274303685_3076083925988725_889606242209342028_n.jpg)
 
+### Indoor Sports Hall
+
+![](/images/ish.jpg)
+![](/images/ish1.jpg)
+![](/images/ish2.jpg)
+
 ### Outdoor Facilities
 
 ![](/images/outdoor1.jpg)
