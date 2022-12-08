@@ -40,4 +40,21 @@ In Robotics CCA, pupils learn basic concepts and technical aspects of robotics, 
 * Mrs Rajendran
 * Mrs Saheerabanu Jiaudeen
 
+### Design & Innovation
 
+![](/images/Design&Innovation.jpg)
+
+Innovation is key. In Design and Innovation CCA, you will get to experience the joy of learning through the use of technology and various tools such as Strawbees, Chibitronics, 3D pens, 3D printing and more! We are on the constant lookout for new tools and technologies to learn and explore.
+
+*   Design changes the world. With this as a focus, we curtail and take part in competitions that allow us to do just that. The Strawbee Global Challenge is one…and last year (2021) we won the most creative award! Students who join us get to experience creativity in action, and discover that they are capable of so much more!
+
+**Objective**   
+To equip designers of the Design and Innovation club to be gritty, purposeful learners who use creativity and technology to meet the ever changing needs of the VUCA world with skills and passion. We work to become inspired learners that use technology to enable us to innovate with Purpose. We seek opportunities to serve the community with mastery.
+
+**Teachers-In-charge**  
+* Ms Grace Tan (IC)
+* Mdm Aliana Abdul Rahim
+* Mr Chong Chai Hwa
+* Mrs Karen Chew
+
+### Environmental Science
