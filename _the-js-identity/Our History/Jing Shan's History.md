@@ -45,3 +45,12 @@ In 1982, the school was handed over to the government as the school board did no
 ### Good, Better, Best
 
 ##### 1985 to 1994
+
+<img src="/images/fifth_decade.jpg" style="width:60%" align = "right">
+
+A series of well-planned educational changes were introduced to all Singapore schools from 1985-1991, to reduce wastage, increase flexibility within the school system, give greater autonomy to schools, and provide greater access to higher education.
+
+During this period, many national campaigns were initiated to promote values and encourage productivity among Singaporeans. The key messages and values in these campaigns were cascaded and reinforced through schools.
+
+Pupils in Jing Shan Primary School often participated in activities led by the mascots Teamy the Bee (1982 – 1999), Singa the Lion, and Sharity the Elephant. The values that these mascots represented were infused into the school total curriculum and contextualised to cater to pupils’ learning. The emphasis was to equip pupils with a spirit of innovation and productivity, to have a strong anchor on moral values, and to practise graciousness by contributing to society.
+
