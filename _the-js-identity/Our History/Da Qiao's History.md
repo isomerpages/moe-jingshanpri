@@ -53,3 +53,14 @@ The new millennium marked another milestone in the history of the school when it
 <img src="/images/DQ5.png" style="width:300px;height:200px;margin-left:15px;" align = "right">
 
 During this visit, the students visited the schools in Dabu. They visited Hongdu Elementary School and Dabu County Zhangyunzai Experimental Primary School. The students also had the opportunities to visit the Lee Kuan Yew Memorial Hall where they learnt more things about Singapore’s first Prime Minister, Mr Lee Kuan Yew. Through this trip, our students are able to broader their horizons and expands their learning experiences that transcends beyond the shores of Singapore. Over the years, Char Yong Dabu Association has played a significant role in partnering Da Qiao. Together in close partnership, we shape our students education.
+
+![](/images/DQ6.jpg)
+
+![](/images/DQ7.jpg)
+
+![](/images/DQ8.jpg)
+
+![](/images/DQ9.jpg)
+
+![](/images/DQ10.png)
+
