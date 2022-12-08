@@ -18,3 +18,9 @@ In order to develop JingShanites into active artists and informed audiences, the
 * Curiosity, imagination and enjoyment in Art making and discussion
 * Confidence in working individually and in groups to create artworks
 * Awareness of and respect for histories and cultures of artworks and artists in Singapore and the world
+
+![](/images/Art%20Curriculum%201.jpg)
+
+![](/images/Art%20Curriculum%203.jpg)
+
+![](/images/Art%20Curriculum%202.jpg)
