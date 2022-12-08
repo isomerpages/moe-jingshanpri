@@ -46,3 +46,20 @@ To provide opportunities for our pupils to learn and appreciate music and Guzhen
 ### Modern Dance
 
 ![](/images/moderndance.jpg)
+
+Our Modern Dance CCA aims to develop the physical skills and deportment of our students, as well as to build up their enthusiasm in the performing arts. We also aim to instill resilience and respect in each member, to be responsible in every role and action they take and striving for excellence in all performances. We believe with all these in place, our students will be better prepared to represent the school in future SYF. Our Modern Dance team was awarded the Certificate of Accomplishment in the Singapore Youth Festival (SYF) Arts Presentation in 2016.
+
+**Objectives**   
+1\. To build up pupils’ enthusiasm in the performing arts   
+2\. To instil teamwork and responsibility in each member   
+3\. To prepare our pupils to represent the school in SYF, striving for excellence in all
+
+performances and competitions
+
+**Teachers’ In-charge**
+* Ms Jolene Lim (IC)
+* Ms Charlotte Lee
+* Ms Isadora Zhong
+
+Cultural Dance
+--------------
