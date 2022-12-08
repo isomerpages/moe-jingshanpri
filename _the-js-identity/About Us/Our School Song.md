@@ -32,3 +32,6 @@ We learn to think creatively
 Holding fast to integrity   
 We'll live together as one   
 As we strive for excellence in all we do
+
+(insert JSPS school song)   
+Audio of Jing Shan Primary School Song
