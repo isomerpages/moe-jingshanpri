@@ -12,7 +12,7 @@ third_nav_title: Signature Programmes
 
 ![](/images/Picture1a.png)
 
-**Introduction**
+##### Introduction
 
 Green Explorers @ JS” is our school’s Applied Learning Programme (ALP) that aims to cultivate students’ awareness, strengthen affiliation and empower action that contributes to a more sustainable future.
 
@@ -22,7 +22,7 @@ Through the Teach, Embed and Live approach, our ALP seeks to combine head knowle
 
 ALP at JS is aligned to the school’s vision of “Thriving Explorers, Mindful Leaders” which aims to develop JingShanites with the 21st Century Competencies, to be values-driven Green Explorers, who are knowledgeable, resourceful, and creative problem solvers to address emerging environmental challenges and take mindful actions to reduce their carbon footprints and create a kinder and more sustainable future for all.
 
-**Teach**
+##### Teach
 
 Through platforms such as the Morning Express, Assembly talks and Learning Journeys, JingShanites become aware of various local and global environmental issues such as global warming and climate change and learn ways to combat them through the 3Rs, water and energy conservation, just to name a few!
 
@@ -37,8 +37,10 @@ We also have exciting programmes during Assembly like the Young Intertidal Explo
 
 What’s upcoming will be even more exciting! Stay tune to our page as we will be having a totally new VR experience as part of oral communication in Mother Tongue. Students will be immersed in a virtual environment like our eco-garden as they learn in their MTL languages on themes such as Sustainability!  
 
-**Embed**
+##### Embed
 
-Green Corridors in JS
+**Green Corridors in JS**
 
 Have you seen our green corridors in our school? The corridors along our classroom blocks are lined with beautiful greenery! These plants are adopted by every class and it is our responsibility to care for them.
+
+![](/images/green.jpg)
