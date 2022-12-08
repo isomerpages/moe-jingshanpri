@@ -64,3 +64,7 @@ To cultivate mindful habits such as minimizing food wastage, buying or ordering 
 ![](/images/Picture11a.png)
 
 ![](/images/Picture12.png)
+
+JingShanites recently took part in the Clean Plate Campaign this month! Organised by Food from the Heart, the Clean Plate Campaign seeks to raise awareness on food wastage and encourage all JingShanites to pledge and support this movement. Stickers were given out by our student leaders to JingsShanites who end their meal with a clean plate during recess. Each clean plate will raise $1 which will go towards feeding the needy. It really is such a meaningful activity to be part of!
+
+![](/images/Picture11%20(1).png)
