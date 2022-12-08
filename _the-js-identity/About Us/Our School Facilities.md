@@ -11,3 +11,9 @@ The current premises of Jing Shan Primary School was rebuilt and officially open
 The school consists of four main blocks (A, B ,C and our Indoor Sports Hall). **Block A** houses the school canteen, multi-purpose hall, school library and the foyer. **Block B** consists of the General Office, administrative and staff rooms and special purpose rooms. **Block C** consists of the main bulk of the classrooms, learning labs as well as the after-school care centre. **Our Indoor Sports Hall** was completed in 2021.  
   
 The school is also equipped with outdoor sports facilities such as a netball court, a basketball court, a playground and a grass field.
+
+![](/images/School%20Building.jpeg)
+
+![](/images/274303685_3076083925988725_889606242209342028_n.jpg)
+
+### Outdoor Facilities
