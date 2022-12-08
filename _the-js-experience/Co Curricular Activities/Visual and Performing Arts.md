@@ -44,3 +44,5 @@ To provide opportunities for our pupils to learn and appreciate music and Guzhen
 
 
 ### Modern Dance
+
+![](/images/moderndance.jpg)
