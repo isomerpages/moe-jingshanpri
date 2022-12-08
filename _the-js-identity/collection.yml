@@ -2,7 +2,7 @@ collections:
   the-js-identity:
     output: true
     order:
-      - example-subfolder/.keep
-      - example-subfolder/subfolder-page.md
+      - Our History/.keep
+      - Our History/subfolder-page.md
       - Our School Advisory Committee.md
       - JSPS Parent Support Group.md
