@@ -73,3 +73,16 @@ The new building was officially opened by the late Dr Balaji Sadasivan, then Mi
 ### Onward We Strive
 
 ##### 2005 to 2015
+
+![](/images/seventh_decade.jpg)
+
+In 2005, Jing Shan celebrated her 60th Anniversary. The theme for the ceremony was “Peaks of Excellence”, as aligned with the Ministry of Education’s (MOE) vision of “Thinking Schools, Learning Nation”. As part of the celebration, pupils and teachers from the Pottery Club CCA designed and crafted pottery pieces in line with the theme. Since the “Peaks of Excellence” series, the pupils’ pottery pieces have been highly sought by organisations including the Ministry of Education to be used as tokens to be presented to guests at events.
+
+Seeing the opportunity to leverage on the school’s strength in pottery, the school developed a six-year spiral programme that developed literacy in visual arts and pottery skills, equipped pupils with critical and creative thinking skills, and built pupils’ social and emotional competencies through values-in-action. As a result of these efforts, the school was awarded the niche status for Visual Arts and Pottery in 2013.
+
+The year 2013 also saw Jing Shan Primary School in the limelight for its pupils’ stellar performance at the Primary School Leaving Examination (PSLE). The school's performance was its best in nine years. It was a fitting nod of recognition to the quality education that the school provides.
+
+The revamped mission and vision statements of the school in 2014 serve to reinforce Jing Shan Primary School’s continuing commitment to our unique brand of providing values-driven, holistic education that
+has sustained us over seven decades.
+
+With the love, care, support and dedication of our staff and the commitment and perseverance of our pupils, Jing Shan Primary School will scale even greater heights in future.
