@@ -2,6 +2,7 @@ collections:
   departments:
     output: true
     order:
+      - CCE/Learning Journeys.md
       - CCE/Sexuality Education.md
       - CCE/SkillsFuture.md
       - CCE/.keep
