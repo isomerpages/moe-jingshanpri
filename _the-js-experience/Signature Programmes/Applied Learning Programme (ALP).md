@@ -26,8 +26,9 @@ ALP at JS is aligned to the school’s vision of “Thriving Explorers, Mindful 
 
 Through platforms such as the Morning Express, Assembly talks and Learning Journeys, JingShanites become aware of various local and global environmental issues such as global warming and climate change and learn ways to combat them through the 3Rs, water and energy conservation, just to name a few!
 
-![](/images/Picture2%20(1).png)
 
 ![](/images/Picture2(2).png)
+
+![](/images/Picture2%20(1).png)
 
 ![](/images/Picture3(1).png)
