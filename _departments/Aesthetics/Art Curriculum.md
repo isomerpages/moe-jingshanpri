@@ -24,3 +24,4 @@ In order to develop JingShanites into active artists and informed audiences, the
 ![](/images/Art%20Curriculum%203.jpg)
 
 ![](/images/Art%20Curriculum%202.jpg)
+Art as an avenue to develop mindfulness
