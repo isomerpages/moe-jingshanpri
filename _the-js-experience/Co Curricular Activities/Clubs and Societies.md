@@ -18,7 +18,7 @@ Our Infocomm Club provides opportunities for members to learn skills valuable in
 **Objectives**   
 To equip pupils with ICT skills in order to be self-directed learners.
 
-**Teachers’ In-charge**
+**Teachers’ In-charge**    
 * Ms Sarifah Rahmat (IC)
 * Ms Lim Huishan
 * Ms Loh Chew Wi
