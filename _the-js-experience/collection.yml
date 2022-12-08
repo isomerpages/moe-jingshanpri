@@ -2,6 +2,7 @@ collections:
   the-js-experience:
     output: true
     order:
+      - Signature Programmes/Learn For Life Programme (LLP).md
       - Signature Programmes/Applied Learning Programme (ALP).md
       - Signature Programmes/.keep
       - Co Curricular Activities/Physical Sports.md
