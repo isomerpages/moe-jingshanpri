@@ -2,6 +2,7 @@ collections:
   the-js-experience:
     output: true
     order:
+      - Co Curricular Activities/Physical Sports.md
       - Co Curricular Activities/Uniformed Groups.md
       - Co Curricular Activities/Visual and Performing Arts.md
       - Co Curricular Activities/Clubs and Societies.md
