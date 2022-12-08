@@ -52,3 +52,13 @@ On top of the Core Art Learning Experiences, students will also have opportunit
 ![](/images/art2.jpg)
 Museum Based Learning
 
+![](/images/art3.jpg)
+
+![](/images/Art%20Curriculum%2016.png)
+
+![](/images/Art%20Curriculum%2017.png)
+
+Sample of Students’ Art Pieces
+
+![](/images/PAL_Art%20(1).jpg)
+PAL Art
