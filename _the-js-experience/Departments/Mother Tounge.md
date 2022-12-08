@@ -64,3 +64,11 @@ Formative assessment on the go!
 ![](/images/7a.png)
 Cultural immersion via a Learning Journey
 
+![](/images/8a.png)
+Joyful language learning through games with peers
+
+![](/images/9a.png)
+Recess immersion taking place
+
+![](/images/10.png)
+Recess immersion
