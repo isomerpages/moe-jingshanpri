@@ -12,3 +12,15 @@ Learning Journeys aim to instil in our students, pride in Singapore’s achievem
 
 Inherent in the concept of Learning Journeys is the belief that every trip undertaken by the students out of the school is an important learning experience that will link the theoretical with the experiential - injecting life and meaning to the learning so that it becomes real and concrete. By visiting key installations in Singapore, the students will get see the principles and theories learnt in the classroom and textbooks applied in real life situations, and understand that meritocracy, hard work, the desire to excel, and readiness to take calculated risks have allowed us to overcome many constraints and turn challenges into opportunities.
 
+
+![](/images/Jacob%20Ballas%20group.jpg)
+
+![](/images/Orchid.jpg)
+
+![](/images/Marina%20Barrage.jpg)
+
+![](/images/Primary%204%20LJ.jpg)
+
+![](/images/Primary%205.jpg)
+
+![](/images/Primary%206%20amend.jpg)
