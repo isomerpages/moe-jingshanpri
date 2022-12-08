@@ -2,6 +2,7 @@ collections:
   departments:
     output: true
     order:
+      - Aesthetics/Music Curriculum.md
       - Aesthetics/.keep
       - CCE/Character and Citizenship Education (CCE).md
       - CCE/Form Teacher Guidance Period.md
