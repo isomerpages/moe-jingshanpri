@@ -23,3 +23,21 @@ To equip pupils with ICT skills in order to be self-directed learners.
 * Ms Lim Huishan
 * Ms Loh Chew Wi
 *  Ms Sutha Ayavoo
+
+### Robotics
+
+![](/images/robotics1.jpg)
+
+In Robotics CCA, pupils learn basic concepts and technical aspects of robotics, the different types, methods and usages of robotics sensors and motors. They will also learn the basics of assembling and controlling simple robots using Lego EV3 Mindstorms.
+
+**Objectives**   
+1\. To equip all members with the basic skills in robotics assembling and programming.   
+2\. To develop character strengths of self-discipline, responsibility, creativity and tenacity.  
+3\. To forge camaraderie in the team to complete robotics challenges and missions.
+
+**Teachers-In-charge**
+* Mdm Chua Hwee Leng (IC)
+* Mrs Rajendran
+* Mrs Saheerabanu Jiaudeen
+
+
