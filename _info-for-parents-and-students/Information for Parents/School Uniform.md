@@ -18,8 +18,6 @@ Or you may scan the QR code below to purchase your online order.
 
 Please take note on the collection date if your are collecting your items on site.
 
-  
-
 Please click on this link here for more information on the [Delivery](https://uniformishop.com/delivery).   
 
 More information:    
