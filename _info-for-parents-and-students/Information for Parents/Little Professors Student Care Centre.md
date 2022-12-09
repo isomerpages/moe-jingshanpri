@@ -24,3 +24,5 @@ All P1(2022) children who have successfully been allocated a place in Jing Shan 
 Please refer to the link below for “Student Care Form of Interest”:
 
 (file in word doc)
+
+![](/images/Capture1-1.png)
