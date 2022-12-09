@@ -80,3 +80,9 @@ With the recent school closure, Mathematics learning continues at home through a
 ![](/images/Ja.jpg)
 
 Through the use of different online platforms, mathematical learning is a fun-filled one with games such as escape rooms and lots of quizzes to assess understanding!
+
+![](/images/Ka.jpg)
+
+**Mathematics Week**
+
+Mathematics can be found everywhere! Our JingShanites explored the tiered activities carried out in each class, bringing joy of learning to enhance the understanding of mathematical concepts. Mathematics was integrated with origami, music, art and maker activities (just to name a few!) – bringing much delight to students who get to see real life application of mathematics！
