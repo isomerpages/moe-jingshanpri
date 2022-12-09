@@ -6,7 +6,8 @@ third_nav_title: About Us
 ---
 # **Our School's Crest**
 
-![](/images/1010995_1384504968479971_449973550_n.jpg)
+<img src="/images/1010995_1384504968479971_449973550_n.jpg" 
+     style="width:50%">
 
 
 <center><b>The book on the crest represents Knowledge which the pupils of the school must strive to achieve through hard work and perseverance.<br><br>
