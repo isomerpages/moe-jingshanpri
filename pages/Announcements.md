@@ -7,9 +7,8 @@ description: ""
 
 ### 1. Information for Parents
 
-**2023 P1 Letter to parents**
+**[2023 P1 Letter to parents](/info-for-parents-and-students/information-for-parents/2023-p1-letter-to-parents/)**
 
-[**https://jingshanpri-moe-edu-sg-admin.cwp.sg/information-for-parents-and-students/information-for-parents/2023-p1-letter-to-parents**](https://jingshanpri-moe-edu-sg-admin.cwp.sg/information-for-parents-and-students/information-for-parents/2023-p1-letter-to-parents)
 
 **Student Care Centre**
 
