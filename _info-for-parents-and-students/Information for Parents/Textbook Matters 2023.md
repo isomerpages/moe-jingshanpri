@@ -36,3 +36,5 @@ School Bookstore opening hours:
 Mon to Fri: 9am to 3pm  
   
 Please do not purchase until your approval for FAS is known, do apply through school and do not proceed with the online purchase service.
+
+Please call in to school General Office for assistance:  [6456 6305](https://www.google.com/search?q=jing+shan+primary+school&rlz=1C1GCEA_enSG965SG965&oq=jing+shan+&aqs=chrome.0.69i59j46i175i199i512j69i57j0i457i512j0i512j69i60l3.4118j0j7&sourceid=chrome&ie=UTF-8#)
