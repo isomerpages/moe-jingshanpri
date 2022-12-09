@@ -25,3 +25,5 @@ Through the teaching and learning of English Language in JSPS we hope to nurture
 ### Programmes and Activities
 
 The English Department has adopted the 3S approach - Support, Strengthen and Stretch in customising programmes and activities targeting different groups of students. We believe that proficiency of the English Language is cultivated through rich learning experiences. Our programmes encourage the use of English Language through listening, speaking, reading and writing.
+
+##### World Book Day
