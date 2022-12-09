@@ -17,3 +17,6 @@ As your child moves from preschool to primary school, you might wonder what prim
  
  ![](/images/parent%20kit%202.png)
   [www.instagram.com/moesingapore](www.instagram.com/moesingaporet)                                                  [www.instagram.com/parentingwith.moesg](www.instagram.com/parentingwith.moesg)
+	
+![](/images/parent%20kit%203.png)
+[www.facebook.com/moesingapore](http://www.facebook.com/moesingapore)                              [www.youtube.com/moespore](http://www.youtube.com/moespore)
