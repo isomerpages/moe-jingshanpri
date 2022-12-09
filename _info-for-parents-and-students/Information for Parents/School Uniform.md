@@ -30,3 +30,6 @@ More information: 
 4) All student name-tag will be sent the school office before school term start
 
  Please refer to the PDF below for more information on how to get the correct size.
+ 
+ [JS SCH Size Guide chart-cm.pdf](/files/JS%20SCH%20Size%20Guide%20chart-cm.pdf)   
+ [JS SCH Size Guide chart-in.pdf](/files/JS%20SCH%20Size%20Guide%20chart-in.pdf)
