@@ -20,7 +20,7 @@ Click [here](/info-for-parents-and-students/information-for-parents/school-bus-s
 
 **4. School Uniforms**
 
-Click [here](info-for-parents-and-students/information-for-parents/school-uniform) for more information.
+Click [here](/info-for-parents-and-students/information-for-parents/school-uniform) for more information.
 
 **5. School Textbooks**
 
