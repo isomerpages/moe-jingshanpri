@@ -18,4 +18,12 @@ sections:
         - title: Quick Links
           description: Click here for more
           url: /quicklinks/for-students/
+  - infopic:
+      title: Facebook
+      subtitle: Find Jing Shan Primary's
+      description: here!
+      button: Click here
+      url: https://www.facebook.com/jingshanpri
+      image: /images/homepage.jpg
+      alt: Image alt text
 ---
