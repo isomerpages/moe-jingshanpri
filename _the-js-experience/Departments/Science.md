@@ -57,3 +57,11 @@ These e-lessons take the form of a flipped classroom (blended learning) delivere
 Every JingShanite keeps a science journal to record their observations and notes on the topics they are studying. Journaling allows students to recognize the importance of self-exploration, questioning and&nbsp;application of content.&nbsp;Important process skills such as observation and communication are taught through the science journaling process. The journal provides a gauge of every student’s level of comprehension in specific areas, for them to recognize possible gaps in their learning. Teachers use this feedback to bridge learning.
 
 ![](/images/12.jpg)
+
+![](/images/14.jpg)
+
+**Outside the classroom**
+
+5\. Science Week
+
+The annual Science Week provides JingShanites with a platform to apply Science to real-world situations, through play-based learning. Throughout the week, students are treated to many engaging demonstrations of the Science concepts in their daily lives. Science Ambassadors, consisting of JingShanites with talents in Science, facilitate these demonstrations. These students are handpicked and trained as Science ambassadors to guide their peers through various Science experiments.
