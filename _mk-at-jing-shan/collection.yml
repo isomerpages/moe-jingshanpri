@@ -2,6 +2,7 @@ collections:
   mk-at-jing-shan:
     output: true
     order:
+      - MK Curriculum.md
       - Our Learning Environment.md
       - Our Team.md
       - MK 2022 Virtual Open House.md
