@@ -1,5 +1,4 @@
 collections:
   teachers:
     output: true
-    order:
-      - Primary 1 Teachers.md
+    order: []
