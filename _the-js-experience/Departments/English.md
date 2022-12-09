@@ -34,3 +34,7 @@ The English Department has adopted the 3S approach - Support, Strengthen and Str
 ![](/images/Writing%20with%20Tech%20kids.jpg)
 
 ##### Authentic Learning Experience
+
+![](/images/Little%20Red%20Dot.jpg)
+
+##### Language Learning in Context
