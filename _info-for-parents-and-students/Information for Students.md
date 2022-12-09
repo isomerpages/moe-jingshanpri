@@ -56,19 +56,13 @@ Students should ensure that mobile devices are not brought into the examination
 
 Cheating is a major and serious offence. Disciplinary action will be taken against candidates found cheating, attempting to cheat or helping others to cheat in an examination.
 
-  
 
-Thermometers
-------------
+### Thermometers
 
 This is a reminder for all pupils to bring your Oral Digital Thermometers (ODT) to school daily. The school will be conducting thermometer checks during morning assembly daily. Please check regularly that your ODT is working.  
 
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-  
-
-Library Opening Hours
----------------------
+### Library Opening Hours
 
 Our Library is open during school term from Monday to Thursday, 7.30 am to 4.30 pm and 7.30 am to 4.00 pm on Friday.  
 
@@ -76,7 +70,8 @@ During school holidays, please check with the General Office for the opening hou
 
   
 
-Dental Clinic Opening Hours
----------------------------
+### Dental Clinic Opening Hours
 
 Our dental clinic's opening hours are as follows:
+
+<table style="border-collapse:collapse;border-spacing:0" class="tg"><thead><tr><th style="background-color:#103174;border-color:#002d13;border-style:solid;border-width:1px;color:#FFF;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">Day</th><th style="background-color:#103174;border-color:black;border-style:solid;border-width:1px;color:#FFF;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">Time</th></tr></thead><tbody><tr><td style="background-color:#FFE700;border-color:black;border-style:solid;border-width:1px;color:#222;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">Monday &amp; Thursday</td><td style="background-color:#FFE700;border-color:black;border-style:solid;border-width:1px;color:#222;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">8.00 am to 5.30 pm</td></tr><tr><td style="background-color:#FFF;border-color:black;border-style:solid;border-width:1px;color:#222;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">Friday</td><td style="background-color:#FFF;border-color:black;border-style:solid;border-width:1px;color:#58595B;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">8.00 am to 5.00 pm</td></tr></tbody></table>
