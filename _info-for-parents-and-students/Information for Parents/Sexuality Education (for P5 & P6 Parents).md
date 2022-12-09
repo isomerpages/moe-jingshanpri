@@ -76,6 +76,6 @@ You may click [here](https://www.moe.gov.sg/education/programmes/social-and-em
 
 9.       Parents who wish to opt their children out of the Sexuality Education lessons need to complete an opt-out form. This form will be distributed to parents at the start of the year and is also downloadable here (Parent Opt-out Form [Annex A for website.pdf](/files/Annex%20A%20for%20website.pdf)) . The completed opt-out form is to be submitted by 28 February 2022.
 
-10.     Parents can contact the school at 64566305 or email our school staff – Mrs Srividhya Shankar (Subject head CCE) [srividhyamohan@schools.gov.sg](srividhyamohan@schools.gov.sg) Mdm Chua Hwee Leng (Sexuality Education Coordinator) [chua\_hwee\_leng@schools.gov.sg](chua\_hwee\_leng@schools.gov.sg) for discussion or to seek clarification about the school’s sexuality education programme.
+10.     Parents can contact the school at 64566305 or email our school staff – Mrs Srividhya Shankar (Subject head CCE) [srividhya_mohan@schools.gov.sg](srividhya_mohan@schools.gov.sg) Mdm Chua Hwee Leng (Sexuality Education Coordinator) [chua\_hwee\_leng@schools.gov.sg](chua\_hwee\_leng@schools.gov.sg) for discussion or to seek clarification about the school’s sexuality education programme.
 
 11.     Parents, who wish to attend the school sexuality education lessons, should contact the school to make the necessary arrangements.
