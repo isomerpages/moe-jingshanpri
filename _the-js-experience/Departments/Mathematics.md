@@ -64,3 +64,7 @@ For the higher progress students, mathematical learning at the middle and upper 
 **Learning beyond the Mathematics classroom**
 
 To leverage students’ mathematical knowledge and skills in an authentic context and to develop resilience and mindfulness, learning of mathematics go beyond the four walls of the classroom. An example of contextualisation of math activities in the real-world which allows students to give back to the society is the VIA project done at Primary 4. The project titled ‘The Care Force’ replicates real-world situations that would allow for authenticity in the learning of mathematics. Such experiences which combines non-routine and multi-stage tasks require students to apply and combine mathematical concepts and skills learnt in their math lessons. It not only allows for transference of such knowledge and skills, it also helps consolidate students’ learning through co construction of new knowledge and develops real-world skills such as collaboration and communication. It also develops in students, empathy for others.
+
+![](/images/Learning%20beyond%20Math%20Classroom.jpg)
+
+![](/images/Learning%20beyond%20Math%20Classroom%202.jpg)
