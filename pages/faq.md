@@ -2,11 +2,26 @@
 title: FAQ
 permalink: /faq/
 ---
-
 ### **FAQ**
 
-1. Interdum et malesuada fames ac ante ipsum primis in faucibus. In sagittis ut nisl eget suscipit. Morbi lorem ligula, tincidunt et viverra et, gravida sit amet velit. Duis posuere mi lectus, molestie viverra metus consectetur quis. Fusce dignissim arcu enim, id faucibus felis dignissim ut. Suspendisse potenti. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Phasellus blandit sem sit amet neque fringilla cursus. Ut semper imperdiet dolor ac vulputate. Phasellus in accumsan urna. Suspendisse potenti. Curabitur porttitor risus a dolor pellentesque, sed dignissim ligula laoreet. Nullam lacus ligula, malesuada ac vestibulum vitae, condimentum nec sem.
+**What are the school’s opening hours?**
 
-2. Integer semper ultrices lorem ut sodales. Praesent rutrum vestibulum quam, ac rhoncus tortor ullamcorper sit amet. Curabitur sed hendrerit sem, ut dignissim nisi. Aenean eleifend in ligula at posuere. Phasellus turpis justo, mollis eget sagittis vel, viverra quis enim. Praesent luctus, elit ac mattis cursus, dui lorem sollicitudin urna, ac molestie lacus elit eget eros. Sed aliquam purus vitae tellus consequat rutrum. Etiam tristique, mi ut dapibus tristique, elit urna rhoncus leo, ac luctus augue ante eget felis. Fusce nisl enim, tempus a faucibus aliquam, lobortis at est. Donec nec mollis nibh. Donec vitae ipsum risus. Pellentesque eu est sed diam pulvinar dictum in sit amet purus. Fusce convallis risus tortor.
+Please refer to “School Information” for information on operating hours of the school, bookshop and canteen. Our school’s contact information can also be found on the same page.
 
-3. Pellentesque malesuada leo libero, et commodo lorem consequat quis. Etiam lobortis porttitor lobortis. Quisque pulvinar lorem eu dolor dictum dignissim. Sed faucibus, risus ut euismod viverra, massa nisi suscipit tellus, eu bibendum mi lorem nec mauris. Pellentesque tincidunt sem id gravida consectetur. Pellentesque id lacus ac ipsum ultricies hendrerit nec a tellus. Aliquam nec dapibus sapien. Sed laoreet sem at semper maximus.
+**I wish to enroll my child in JSPS for Primary 1**.
+
+Refer to Ministry of Education’s [website](https://www.moe.gov.sg/admissions/primary-one-registration) for information about the 2019 Primary One Registration Exercise for Admission to Primary One. 
+
+Non-Singaporean Citizen (SC) / non-Permanent Resident (PR) children are eligible to register for admission to Primary One during Phase 3 of the Primary One Registration Exercise.  [Click here](https://www.moe.gov.sg/admissions/primary-one-registration/phase-3-registration-for-non-singapore-citizen-non-permanent-resident-children) for more information. 
+
+**I wish to contact the Form Teachers to understand more about my child’s progress in school.**
+
+You may email your child’s form teacher. His/her email address can be found in the “School Information – Staff Information” on the website.
+
+**How can I contact the bookshop / uniform supplier / school bus vendor?**
+
+You may refer to “School Information – Information for Parents” tab on the school website.
+
+**I wish to share some feedback with the school. Who should I contact?**
+
+You can send an email to [jsps@moe.edu.sg](mailto:jsps@moe.edu.sg). You may also send an email to the teachers directly through their email. Your feedback is appreciated.
