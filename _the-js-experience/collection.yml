@@ -2,6 +2,7 @@ collections:
   the-js-experience:
     output: true
     order:
+      - Lower School/Lower School.md
       - Lower School/P1.md
       - Lower School/P2.md
       - Lower School/.keep
