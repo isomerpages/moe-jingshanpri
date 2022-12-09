@@ -68,3 +68,15 @@ To leverage students’ mathematical knowledge and skills in an authentic contex
 ![](/images/Learning%20beyond%20Math%20Classroom.jpg)
 
 ![](/images/Learning%20beyond%20Math%20Classroom%202.jpg)
+
+**Cluster Math Online Quizzes trails for our LSM students**
+
+![](/images/LSM.png)
+
+**Home-based Learning in Action**  
+
+With the recent school closure, Mathematics learning continues at home through a variety of math tasks and activities. Besides the use of online learning videos created by the teachers themselves, students continue to do hands-on learning through the use of items easily available at home to further engage themselves!
+
+![](/images/Ja.jpg)
+
+Through the use of different online platforms, mathematical learning is a fun-filled one with games such as escape rooms and lots of quizzes to assess understanding!
