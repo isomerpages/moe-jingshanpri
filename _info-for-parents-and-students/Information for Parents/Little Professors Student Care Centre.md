@@ -26,3 +26,9 @@ Please refer to the link below for “Student Care Form of Interest”:
 (file in word doc)
 
 ![](/images/Capture1-1.png)
+
+We will be contacting you again in November 2022, when you have selected the option to enrol your child for SCC in 2023.
+
+We look forward to welcoming your child to our family at Little Professors @ Jing Shan.
+
+Please feel free to contact us at 94572754 or jingshan@littleprofessors.com.sg should you need more information. Thank You.
