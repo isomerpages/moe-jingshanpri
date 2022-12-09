@@ -86,3 +86,13 @@ Through the use of different online platforms, mathematical learning is a fun-fi
 **Mathematics Week**
 
 Mathematics can be found everywhere! Our JingShanites explored the tiered activities carried out in each class, bringing joy of learning to enhance the understanding of mathematical concepts. Mathematics was integrated with origami, music, art and maker activities (just to name a few!) – bringing much delight to students who get to see real life application of mathematics！
+
+![](/images/Math%20week%201.jpg)
+
+![](/images/Math%20week%202.jpg)
+
+![](/images/Math%20Week%203.jpg)
+
+![](/images/Math%20week%204.jpg)
+
+![](/images/Math%20week%205.jpg)
