@@ -74,3 +74,10 @@ Science ambassadors explaining to JingShanites the experiments using inquiry-bas
 **6\. Learning Journeys**
 
 Out-of-classroom learning experiences are important in the learning of Science. The school eco-garden and other green spaces in and around the school allow the students to be exposed to nature and plants. Learning journeys to&nbsp;institutions like&nbsp;Science Centre and the Singapore Zoological Gardens enable students to expand their Science learning capacities through hands-on experiments and authentic learning.
+
+![](/images/23.jpg)
+P5 JingShanites explore diversity of cells at Science Centre
+
+![](/images/25.jpg)
+Curious JingShanites studying the diversity of plants in JSPS Science Garden &amp; investigating the living conditions of the eco-pond using
+the data logger
