@@ -2,5 +2,6 @@ collections:
   info-for-parents-and-students:
     output: true
     order:
+      - Information for Parents/2023 P1 Letter to parents.md
       - Information for Parents/.keep
       - Information for Students.md
