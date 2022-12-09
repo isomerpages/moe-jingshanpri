@@ -20,7 +20,7 @@ sections:
           url: /quicklinks/for-students/
   - infopic:
       title: Facebook
-      subtitle: Find Jing Shan Primary's
+      subtitle: Follow us on
       description: here!
       button: Click here
       url: https://www.facebook.com/jingshanpri
