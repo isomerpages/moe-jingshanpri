@@ -19,22 +19,34 @@ locations:
           Closed on weekends and public holidays
     maps_link: https://goo.gl/maps/v5eEZCvRDJqscaRu7
     title: School Address
-  - address:
-      - 109 North Bridge Road
-      - Singapore 179097
-      - ""
-    operating_hours: []
-    maps_link: https://goo.gl/maps/C8VfxphGxT2GsfcaA
-    title: Branch Office
 contacts:
   - content:
-      - phone: +65 6123 4567
-      - email: enquiries@abc.gov.sg
-      - other: Any text here <i>including HTML</i>
-    title: General Enquiries & Feedback
+      - phone: +65 6456 6305
+      - email: ""
+      - other: ""
+    title: General Office
+  - content:
+      - phone: +65 6458 1619
+      - email: ""
+      - other: ""
+    title: Fax
   - content:
       - phone: ""
-      - email: careers@abc.gov.sg
+      - email: jsps@moe.edu.sg
       - other: ""
-    title: Careers
+    title: E-mail Address
+  - content:
+      - phone: +65 6455 4142
+      - email: ""
+      - other: ""
+    title: Dental Clinic
+  - content:
+      - phone: ""
+      - email: ""
+      - other: <b> Nearest MRT station:</b> NS16 Ang Mo Kio (5 mins walk across Ang Mo
+          Kio Town Garden East)<br><br><b>Bus service:</b> 265 (loop service
+          from Ang Mo Kio Depot)<br><br><b>Nearest public car parks:</b>Block
+          596 Ang Mo Kio Street 52 or Block 588 Ang Mo Kio Street 52 (Park
+          Central @ AMK)
+    title: Transport options
 ---
