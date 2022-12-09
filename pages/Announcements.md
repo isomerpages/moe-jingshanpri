@@ -14,20 +14,20 @@ description: ""
 
 Click [here](/info-for-parents-and-students/information-for-parents/little-professors-student-care-centre) for more information.
 
-**School Bus Service**
+**3. School Bus Service**
 
-[https://jingshanpri.moe.edu.sg/information-for-parents-and-students/information-for-parents/school-bus-service](https://jingshanpri.moe.edu.sg/information-for-parents-and-students/information-for-parents/school-bus-service)
+Click [here](/info-for-parents-and-students/information-for-parents/school-bus-service) for more information.
 
-**School Uniforms**
+**4. School Uniforms**
 
-[https://jingshanpri.moe.edu.sg/information-for-parents-and-students/information-for-parents/school-uniform](https://jingshanpri.moe.edu.sg/information-for-parents-and-students/information-for-parents/school-uniform)
+Click [here](info-for-parents-and-students/information-for-parents/school-uniform) for more information.
 
-**School Textbooks**
+**5. School Textbooks**
 
-[https://jingshanpri-moe-edu-sg-admin.cwp.sg/information-for-parents-and-students/information-for-parents/textbook-matters-2023](https://jingshanpri-moe-edu-sg-admin.cwp.sg/information-for-parents-and-students/information-for-parents/textbook-matters-2023)
+Click [here](/info-for-parents-and-students/information-for-parents/textbook-matters-2023) for more information.
 
-**Application for MOE Financial Assistance (MOE FAS)**
+**6. Application for MOE Financial Assistance (MOE FAS)**
 
-[https://form.gov.sg/#!/632432ba67747a0011d4a0cc](https://form.gov.sg/#!/632432ba67747a0011d4a0cc)
+Click [here](https://form.gov.sg/#!/632432ba67747a0011d4a0cc) for more information
 
 _Important Note: If you are applying for MOE FAS, please do not purchase any textbooks or uniforms until the school informs you of the application outcome._
