@@ -54,7 +54,4 @@ These e-lessons take the form of a flipped classroom (blended learning) delivere
 
 **4\. Science Journaling**
 
-Every JingShanite keeps a science journal to record their observations and notes on the topics they are studying. Journaling allows students to  
-recognize the importance of self-exploration, questioning and&nbsp;application of content.&nbsp;Important process skills such as observation and communication  
-are taught through the science journaling process. &nbsp;The journal provides a gauge of every student’s level of comprehension in specific areas, for them  
-to recognize possible gaps in their learning. Teachers use this feedback to bridge learning.
+Every JingShanite keeps a science journal to record their observations and notes on the topics they are studying. Journaling allows students to recognize the importance of self-exploration, questioning and&nbsp;application of content.&nbsp;Important process skills such as observation and communication are taught through the science journaling process. The journal provides a gauge of every student’s level of comprehension in specific areas, for them to recognize possible gaps in their learning. Teachers use this feedback to bridge learning.
