@@ -15,3 +15,6 @@ We offer 4-hour K1 and K2 programmes for children who are Singapore Citizens or 
 In 2022, we offer only K1 programmes in the morning sessions. K2 programmes will be available from 2023.
 
 If you are wondering what a day in MOE Kindergarten is like, come and join our children at MK@JS! A strong start for every child!
+
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sIZCsv2O76U?start=2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
