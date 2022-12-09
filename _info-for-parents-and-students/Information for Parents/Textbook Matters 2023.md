@@ -30,5 +30,9 @@ Please refer to the PDF below for 2023 booklists:
 [P6 2023.pdf](/files/P6%202023.pdf)   
 [P6 FDN 2023.pdf](/files/P6%20FDN%202023.pdf)
 
-
-
+Parents may choose to the collect their items on site at Jing Shan Primary School with re-allocated date and time.  
+  
+School Bookstore opening hours:  
+Mon to Fri: 9am to 3pm  
+  
+Please do not purchase until your approval for FAS is known, do apply through school and do not proceed with the online purchase service.
