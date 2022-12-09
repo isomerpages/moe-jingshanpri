@@ -2,6 +2,7 @@ collections:
   departments:
     output: true
     order:
+      - Information and Communication Technology (ICT).md
       - Science/.keep
       - Science/Science.md
       - Science/Science Programmes.md
