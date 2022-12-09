@@ -20,3 +20,7 @@ As your child moves from preschool to primary school, you might wonder what prim
 	
 ![](/images/parent%20kit%203.png)
 [www.facebook.com/moesingapore](http://www.facebook.com/moesingapore)                              [www.youtube.com/moespore](http://www.youtube.com/moespore)
+
+[2022 0713 JS e-Open House - Principals Sharing.pdf](https://jingshanpri.moe.edu.sg/qql/slot/u506/Open%20House/2022%200713%20JS%20e-Open%20House%20-%20Principals%20Sharing.pdf)(file exceeds 5MB) 
+
+[2022 0713 JS e-Open House - Year Heads Sharing.pdf](https://jingshanpri.moe.edu.sg/qql/slot/u506/Open%20House/2022%200713%20JS%20e-Open%20House%20-%20Year%20Heads%20Sharing.pdf)(file exceeds 5MB)
