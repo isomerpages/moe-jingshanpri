@@ -2,4 +2,5 @@ collections:
   our-school-staff:
     output: true
     order:
+      - Teachers/Flexi Adjunct Teachers.md
       - Teachers/.keep
