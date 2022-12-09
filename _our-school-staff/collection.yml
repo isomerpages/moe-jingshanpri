@@ -1,0 +1,4 @@
+collections:
+  our-school-staff:
+    output: true
+    order: []
