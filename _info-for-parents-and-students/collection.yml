@@ -1,4 +1,5 @@
 collections:
   info-for-parents-and-students:
     output: true
-    order: []
+    order:
+      - Information for Students.md
