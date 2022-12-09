@@ -38,3 +38,11 @@ The English Department has adopted the 3S approach - Support, Strengthen and Str
 ![](/images/Little%20Red%20Dot.jpg)
 
 ##### Language Learning in Context
+
+![](/images/Langugae%20Learning%20in%20Context.jpg)
+
+##### Speech and Drama
+
+![](/images/Speech%20and%20Drama.jpg)
+
+![](/images/Lower%20School%20Speech%20and%20Drama.jpg)
