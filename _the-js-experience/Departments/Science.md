@@ -26,3 +26,7 @@ Visible Thinking routines&nbsp;help make students’ thinking visible. These rou
 This is a “learn anytime, learn anywhere” paradigm where students can continue learning even when they are out of the classroom, and outside of the formal school hours. ICT plays a strong role in facilitating seamless learning by providing collaborative learning. Students can tap on each other as peer resources anytime, anywhere to co-construct knowledge. This reinforces the idea that learning can take place anywhere – the world is their classroom.  
 
 [1\]](file:///C:/Users/S7148392D/AppData/Local/Microsoft/Windows/INetCache/Content.Outlook/PAMCZVMC/Science%2023%20June%20(cleared%20by%20Pauline)%20(002).docx#_ftnref1)&nbsp;The 5E-MTV-Seamless model integrates the BSCS 5E Instructional Model (Bybee et al., 2006), Making Thinking Visible (Ritchhart et al., 2011), Cultures of Thinking (Ritchhart, 2015) and Seamless Learning (Looi et al., 2010; Zhang et al., 2010).
+
+![](/images/Pic%202-1.jpg)
+
+![](/images/sci.jpg)
