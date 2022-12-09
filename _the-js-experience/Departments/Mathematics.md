@@ -39,7 +39,14 @@ In order to play an active role in their learning, students need to understand w
 
 There are also many opportunities for students to use ICT tools to explore and understand math concepts through simulations and a variety of representations.
 
+![](/images/D1.jpg)
+
+**Developing Positive Learning Attitudes through Alternative Assessment and Differentiated Programmes**
+
+A positive attitude towards mathematics contributes to one’s learning disposition and the inclination towards using math to solve problems. Attitudes include the belief, appreciation, confidence, motivation, interest and perseverance to solving problems using mathematics.
+
+Alternative assessments such as math journaling with content and process prompts allow teachers to have a better understanding of their students’ learning and also allow them to provide a more holistic report of a student’s progress in their mathematics learning rather than just a grade. Mathematical journaling as part of mathematics learning provides platforms for communication of mathematical ideas and concepts to their teachers and peers. It allows students to use mathematical language to express mathematical ideas to make their thinking visible.
+
 ![](/images/E1.jpg)
 
 **Tiered programmes** which cater to different segments of the student population allow for _greater customisation towards learning_. Support programme such as LSM and ICAN for low progress students will vary according to the level needs. The focus is on mastery of basic concepts and skills through factual fluency at each level (lower & middle schs) and on process skills such as reasoning for upper school students.
-
