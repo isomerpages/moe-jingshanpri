@@ -9,6 +9,7 @@ third_nav_title: Departments
 Through the teaching and learning of English Language in JSPS we hope to nurture a community of engaged learners who are **Empathetic** 
 
 **Communicators**, **Discerning Readers** and **Creative Inquirers**. To do that we will focus on developing 21st century competencies through the teaching of English Language, paying increased attention to **Multiliteracies**, **Metacognitive skills** and **Exploratory Talk**.
+
 ![](/images/Infographic%20-%20English%20vA2%20(1)%20revised%20190520.jpg)
 
 ### Lessons are supported by the following approaches:
