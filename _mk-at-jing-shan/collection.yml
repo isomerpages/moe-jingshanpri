@@ -1,4 +1,5 @@
 collections:
   mk-at-jing-shan:
     output: true
-    order: []
+    order:
+      - MK 2022 Virtual Open House.md
