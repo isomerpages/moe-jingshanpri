@@ -21,6 +21,6 @@ services to more than 1000 students island wide. Little Professors believes in b
 
 All P1(2022) children who have successfully been allocated a place in Jing Shan Primary School for 2022 can indicate their interest in joining Little Professors @ Jing Shan Primary School. Please note that placement in the SCC is subjected to vacancies and should there be more applicants for the vacancies, a ballot will be conducted.
 
-  
-
 Please refer to the link below for “Student Care Form of Interest”:
+
+(file in word doc)
