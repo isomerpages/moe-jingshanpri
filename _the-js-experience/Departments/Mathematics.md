@@ -16,3 +16,8 @@ Guided by the Singapore Mathematics Curriculum Framework, lessons in the Jing Sh
 
 **Mathematics Learning within the classroom**    
 Through the use of varied teaching resources such as hands-on manipulative, teachers encourage learning math concepts through exploration which lead to the development of deeper relational understanding. The provision of _authentic learning experiences_ in the classroom and purposefully engineered    tasks develop the proficiency required by the learners in carrying out skills such as visualizing space and use of mathematical tools such as measuring    and reading data on a weighing scale.
+
+![](/images/math.jpg)
+
+**Mathematical processes** are important for solving problems and building knowledge. Therefore, there is increased emphasis on _**reasoning** and **communication**_. Mathematical reasoning refers to the ability to analyse mathematical situations and construct logical arguments so as to apply concepts in different contexts. Communication refers to the ability to use mathematical language to express mathematical ideas and arguments precisely, concisely and logically. Therefore, platforms and opportunities such as the use of open tasks and problem solving are provided in mathematics lessons for students to visibly communicate their mathematical thinking and logical reasoning.
+
