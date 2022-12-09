@@ -4,3 +4,6 @@ permalink: /information-for-parents-and-students/information-for-parents/school-
 description: ""
 third_nav_title: Information for Parents
 ---
+# **School Uniform**
+
+![](/images/Capture7.png)
