@@ -62,6 +62,9 @@ Every JingShanite keeps a science journal to record their observations and notes
 
 **Outside the classroom**
 
-5\. Science Week
+**5\. Science Week**
 
 The annual Science Week provides JingShanites with a platform to apply Science to real-world situations, through play-based learning. Throughout the week, students are treated to many engaging demonstrations of the Science concepts in their daily lives. Science Ambassadors, consisting of JingShanites with talents in Science, facilitate these demonstrations. These students are handpicked and trained as Science ambassadors to guide their peers through various Science experiments.
+
+![](/images/21.jpg)
+Science ambassadors explaining to JingShanites the experiments using inquiry-based questioning with thinking routines
