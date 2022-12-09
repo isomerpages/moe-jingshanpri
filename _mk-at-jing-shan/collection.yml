@@ -2,6 +2,7 @@ collections:
   mk-at-jing-shan:
     output: true
     order:
+      - MK Vision, Mission and Belief.md
       - MK Curriculum.md
       - Our Learning Environment.md
       - Our Team.md
