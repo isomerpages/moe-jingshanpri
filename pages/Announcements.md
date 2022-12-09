@@ -5,14 +5,14 @@ description: ""
 ---
 # **Announcements**
 
-### 1. Information for Parents
+**1. Information for Parents**
 
-**[2023 P1 Letter to parents](/info-for-parents-and-students/information-for-parents/2023-p1-letter-to-parents/)**
+[2023 P1 Letter to parents](/info-for-parents-and-students/information-for-parents/2023-p1-letter-to-parents/)
 
 
-**Student Care Centre**
+**2. Student Care Centre**
 
-[https://jingshanpri.moe.edu.sg/information-for-parents-and-students/information-for-parents/little-professors-student-care-centre](https://jingshanpri.moe.edu.sg/information-for-parents-and-students/information-for-parents/little-professors-student-care-centre)
+Click [here](/info-for-parents-and-students/information-for-parents/little-professors-student-care-centre) for more information.
 
 **School Bus Service**
 
