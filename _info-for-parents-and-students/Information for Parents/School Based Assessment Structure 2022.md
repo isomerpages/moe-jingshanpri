@@ -4,3 +4,6 @@ permalink: /info-for-parents-and-students/information-for-parents/school-based-a
 description: ""
 third_nav_title: Information for Parents
 ---
+# **School-Based Assessment Structure 2022**
+
+![](/images/Assessment.png)
