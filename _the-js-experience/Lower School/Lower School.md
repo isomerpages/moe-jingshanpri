@@ -17,9 +17,22 @@ At the Lower School, students learn and grow as they progress from kindergarten 
 
 In Primary One and Two, students participate actively through active learning, outdoor education, drama and various experiential learning opportunities. Students acquire Social and Emotionalcompetencies through many platforms such as Form Teacher’s Guidance Period (FTGP) and Programme for Active Learning (PAL). 
 
-
-
 Learning in and outside of the classroom revolves around evidence-based practices in Positive Education that provide students with knowledge on their Character Strengths and skills to live outPositive Emotions and Mindfulness s do that children have a greater sense of self-regulation and thrive as resilient individuals.
   
 
  **School-Based Outcomes**
+ 
+ ![](/images/lower%20primary.png)
+ 
+ What does GROW AND BE PRESENT look like to a Lower School (Primary 1 and 2) student?
+
+•        To grow is to   
+1.      Engage in activities to learn   
+2.      Discover talents and have joy in learning   
+3.      Be aware of character strengths to enhance their relationships with family and friends
+
+•        To be present is to  
+1.      Focus their attention to an experience in the present moment  
+2.      Be aware and self-regulate himself/herself and   
+3.      Appreciate the present   
+4.      Start Mindfulness to start the day right
