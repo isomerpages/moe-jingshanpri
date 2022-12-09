@@ -30,3 +30,7 @@ The English Department has adopted the 3S approach - Support, Strengthen and Str
 ![](/images/World%20Book%20Day%202021.jpg)
 
 ##### Learning with Technology
+
+![](/images/Writing%20with%20Tech%20kids.jpg)
+
+##### Authentic Learning Experience
