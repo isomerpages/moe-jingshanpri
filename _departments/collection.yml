@@ -2,15 +2,16 @@ collections:
   departments:
     output: true
     order:
-      - Information and Communication Technology (ICT).md
       - Science/.keep
       - Science/Science.md
       - Science/Science Programmes.md
       - Science/Science Ecogarden.md
+      - Information and Communication Technology (ICT).md
+      - Aesthetics/.keep
       - Aesthetics/Aesthetics.md
       - Aesthetics/Art Curriculum.md
       - Aesthetics/Music Curriculum.md
-      - Aesthetics/.keep
+      - CCE/.keep
       - CCE/Character and Citizenship Education (CCE).md
       - CCE/Form Teacher Guidance Period.md
       - CCE/Values in Action.md
@@ -19,4 +20,3 @@ collections:
       - CCE/Learning Journeys.md
       - CCE/Sexuality Education.md
       - CCE/SkillsFuture.md
-      - CCE/.keep
