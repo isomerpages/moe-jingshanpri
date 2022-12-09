@@ -81,3 +81,9 @@ P5 JingShanites explore diversity of cells at Science Centre
 ![](/images/25.jpg)
 Curious JingShanites studying the diversity of plants in JSPS Science Garden &amp; investigating the living conditions of the eco-pond using
 the data logger
+
+![](/images/26.jpg)
+
+**7\. Science Challenge**
+
+Science Challenge provides JingShanites with the opportunity to learn Science beyond the classroom in a fun and enjoyable manner. JingShanites actively use their imagination and creativity, whilst applying certain scientific principles when creating a toy that work and has good functionality.
