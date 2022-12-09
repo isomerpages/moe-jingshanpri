@@ -56,3 +56,24 @@ EL – English Language; MA – Mathematics; MT – Mother Tongue; SC – Scienc
 7. Homework assignments will not be given before a festive period during term time, namely Chinese New Year, Hari Raya Puasa and Deepavali.
 
 8. No homework assignment will be given on Wednesdays to provide a mid-week break and free up time for greater family bonding and other dimensions of the child’s learning and growth outside school.
+
+**Guidelines on Spelling**
+
+9. The school believes that spelling instruction and activities help students become stronger readers and more proficient writers. The school conducts spelling as follows:
+
+* EL Spelling will be on Monday/Tuesdays.
+* MT Spelling will be on Thursdays.
+* If Spelling falls on a public/school holiday, it will be postponed to the next school day or another day stipulated by the subject teacher.
+
+**Guidelines on Daily Reading**
+
+10.     The school seeks to foster a culture of reading and reflection and develop good reading habits in students.
+
+It encourages daily reading of at least 15 minutes at home in the following ways:
+
+* P1/P2: Reading to the child and with the child by parents, care-givers or older siblings
+* P3/P4/P5/P6: Independent reading
+
+**Guidelines on Homework Assignment for School Holidays and Other Special Days**
+
+11.     During the school holidays and other special days when students are not required to report to school, homework assignments may be issued. The school has worked out an estimated amount of time that students would spend on homework during each period.
