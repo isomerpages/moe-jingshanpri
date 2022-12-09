@@ -75,3 +75,13 @@ During school holidays, please check with the General Office for the opening hou
 Our dental clinic's opening hours are as follows:
 
 <table style="border-collapse:collapse;border-spacing:0" class="tg"><thead><tr><th style="background-color:#103174;border-color:#002d13;border-style:solid;border-width:1px;color:#FFF;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">Day</th><th style="background-color:#103174;border-color:black;border-style:solid;border-width:1px;color:#FFF;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">Time</th></tr></thead><tbody><tr><td style="background-color:#FFE700;border-color:black;border-style:solid;border-width:1px;color:#222;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">Monday &amp; Thursday</td><td style="background-color:#FFE700;border-color:black;border-style:solid;border-width:1px;color:#222;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">8.00 am to 5.30 pm</td></tr><tr><td style="background-color:#FFF;border-color:black;border-style:solid;border-width:1px;color:#222;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">Friday</td><td style="background-color:#FFF;border-color:black;border-style:solid;border-width:1px;color:#58595B;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">8.00 am to 5.00 pm</td></tr></tbody></table>
+
+Please take note that the dental clinic will be closed during lunch time: **1 pm - 2 pm**.   
+
+Tel: 87647987
+
+### School Bookshop
+
+Our school bookshop's opening hours are as follows:    
+Monday to Friday: **9.00 am to 3.00 pm**      
+Tel/Fax: 6451 7450
