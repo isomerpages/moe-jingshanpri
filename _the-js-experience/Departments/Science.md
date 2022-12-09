@@ -87,3 +87,10 @@ the data logger
 **7\. Science Challenge**
 
 Science Challenge provides JingShanites with the opportunity to learn Science beyond the classroom in a fun and enjoyable manner. JingShanites actively use their imagination and creativity, whilst applying certain scientific principles when creating a toy that work and has good functionality.
+
+![](/images/27.jpg)
+
+incorporate design thinking principles. Students use their creativity to develop solutions that are eco-friendly and kind to the environment.
+
+![](/images/28.jpg)
+JingShanites working on a model of an energy-saving smart home using Micro-bits and coding.
