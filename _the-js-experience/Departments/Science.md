@@ -68,3 +68,9 @@ The annual Science Week provides JingShanites with a platform to apply Science t
 
 ![](/images/21.jpg)
 Science ambassadors explaining to JingShanites the experiments using inquiry-based questioning with thinking routines
+
+![](/images/22.jpg)
+
+**6\. Learning Journeys**
+
+Out-of-classroom learning experiences are important in the learning of Science. The school eco-garden and other green spaces in and around the school allow the students to be exposed to nature and plants. Learning journeys to&nbsp;institutions like&nbsp;Science Centre and the Singapore Zoological Gardens enable students to expand their Science learning capacities through hands-on experiments and authentic learning.
