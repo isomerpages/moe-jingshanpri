@@ -4,7 +4,6 @@ permalink: /the-js-experience/departments/cce/social-studies/
 description: ""
 third_nav_title: CCE
 ---
-
 # **Social Studies**
 
 **Primary 1**
