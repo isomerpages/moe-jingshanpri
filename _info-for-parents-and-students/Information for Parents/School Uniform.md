@@ -4,7 +4,6 @@ permalink: /info-for-parents-and-students/information-for-parents/school-uniform
 description: ""
 third_nav_title: Information for Parents
 ---
-
 # **School Uniform**
 
 ![](/images/Capture7.png)
@@ -34,3 +33,5 @@ More information: 
  
  [JS SCH Size Guide chart-cm.pdf](/files/JS%20SCH%20Size%20Guide%20chart-cm.pdf)   
  [JS SCH Size Guide chart-in.pdf](/files/JS%20SCH%20Size%20Guide%20chart-in.pdf)
+ 
+ For any other enquires, please [Contact us](https://uniformishop.com/contact-us).
