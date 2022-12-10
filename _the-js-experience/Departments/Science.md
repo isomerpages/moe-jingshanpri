@@ -96,4 +96,5 @@ incorporate design thinking principles. Students use their creativity to develop
 JingShanites working on a model of an energy-saving smart home using Micro-bits and coding.
 
 Find out more about our Science Curriculum here:
-1. 
+1. [Science Programmes](/the-js-experience/departments/science/science-programmes)
+2. [Science Ecogarden](/the-js-experience/departments/science/science-ecogarden)
