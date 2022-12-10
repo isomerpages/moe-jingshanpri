@@ -4,7 +4,6 @@ permalink: /info-for-parents-and-students/information-for-parents/little-profess
 description: ""
 third_nav_title: Information for Parents
 ---
-
 # **Little Professors Student Care Centre**
 
 ![](/images/Capture1.png)
@@ -32,4 +31,4 @@ We will be contacting you again in November 2022, when you have selected the opt
 
 We look forward to welcoming your child to our family at Little Professors @ Jing Shan.
 
-Please feel free to contact us at 94572754 or jingshan@littleprofessors.com.sg should you need more information. Thank You.
+Please feel free to contact us at 94572754 or [jingshan@littleprofessors.com.sg](mailto:jingshan@littleprofessors.com.sg) should you need more information. Thank You.
