@@ -2,7 +2,6 @@ collections:
   our-school-staff:
     output: true
     order:
-      - Administrative Staff and Support Staff.md
       - Teachers/.keep
       - Teachers/Primary 1 Teachers.md
       - Teachers/Primary 2 Teachers.md
