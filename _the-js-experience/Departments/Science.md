@@ -10,7 +10,7 @@ In alignment with the school vision, we envision every JingShanite to be a Young
 
 ![](/images/Science%20050720.jpg)
 
-The JS Science learning experiences are designed to provide opportunities to develop values, ethics and attitudes that are essential to the scientific endeavour. We also hope to develop 21st&nbsp;Century Competencies and Scientific Process skills. Emphasis is placed on the application of concepts to real life situations, inculcating a positive learning attitude and the development of reasoning and communication skills, metacognition, and creative problem-solving skills.&nbsp;These learning experiences tap on the students’ curiosity for learning, improving their intrinsic motivation to become independent learners.
+The JS Science learning experiences are designed to provide opportunities to develop values, ethics and attitudes that are essential to the scientific endeavour. We also hope to develop 21st Century Competencies and Scientific Process skills. Emphasis is placed on the application of concepts to real life situations, inculcating a positive learning attitude and the development of reasoning and communication skills, metacognition, and creative problem-solving skills.&nbsp;These learning experiences tap on the students’ curiosity for learning, improving their intrinsic motivation to become independent learners.
 
   
 
