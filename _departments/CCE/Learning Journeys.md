@@ -4,7 +4,6 @@ permalink: /the-js-experience/departments/cce/learning-journeys/
 description: ""
 third_nav_title: CCE
 ---
-
 # **Learning Journeys**
 
 The main objective of these Learning Journeys is for our children to understand what makes Singapore tick, to understand why we are where we are today. They illustrate our vision and planning and reflect our society's character. Our children must learn about them, understand their significance, and think about the part that they themselves can play to ensure that in our journey into the future Singapore continues to stay strong as a nation and to make progress.
@@ -18,13 +17,13 @@ Inherent in the concept of Learning Journeys is the belief that every trip under
 _**P1 LJ to Jacob Ballas Children’s Garden**_
 
 ![](/images/Orchid.jpg)
-__**P2 LJ to National Orchid Garden**__
+_**P2 LJ to National Orchid Garden**_
 
 ![](/images/Marina%20Barrage.jpg)
 _**P3 LJ to Marina Barrage**_
 
 ![](/images/Primary%204%20LJ.jpg)
-**__P4 LJ to National Museum and__ __Fort Canning Hill__**
+_**P4 LJ to National Museum and Fort Canning Hill**_
 
 ![](/images/Primary%205.jpg)
 _**P5 LJ to Chinatown**_
