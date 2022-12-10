@@ -2,11 +2,11 @@ collections:
   departments:
     output: true
     order:
-      - Physical Education (PE).md
       - Science/.keep
       - Science/Science.md
       - Science/Science Programmes.md
       - Science/Science Ecogarden.md
+      - Physical Education (PE).md
       - Information and Communication Technology (ICT).md
       - Aesthetics/.keep
       - Aesthetics/Aesthetics.md
