@@ -17,3 +17,5 @@ third_nav_title: Information for Parents
 ![](/images/Stall%206.jpg)
 
 ![](/images/Stall%207.jpg)
+
+(price list needs to be in PDF format)
