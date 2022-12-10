@@ -22,3 +22,5 @@ _A JingShanite's journey through  the lower, middle and upper school years. The
 
 Find out more about our Art and Music Curriculum here.
 
+1. [Art Curriculum](/the-js-experience/departments/aesthetics/art-curriculum)
+2. [Music Curriculum](/the-js-experience/departments/aesthetics/music-curriculum)
