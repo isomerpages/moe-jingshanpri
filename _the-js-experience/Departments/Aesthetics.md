@@ -14,7 +14,7 @@ The Jing Shan Arts Experience - Where JingShanite's artistic and creative expres
 
 <img src="/images/Aesthetics%202.jpg" style="width:300px;height:200px;margin-left:15px;" align = "right">
 
-The Aesthetics Department strives to develop every JingShanite into a “Thriving Explorer, Mindful Leader” through the arts. Through the various key programmes in the curriculum and co-curriculum, it develops students’ sense of aesthetics and artistic skills in the different arts genre. These art experiences include the [Art Curriculum](/our-curriculum/departments/aesthetics/art), [Music Curriculum](/our-curriculum/departments/aesthetics/music), [PAL (Visual Arts and Drama)](/our-curriculum/signature-programmes/pal), [Visual and Performing Arts Co-curricular Activities](/our-curriculum/co-curricular-activities/visual-and-performing-arts) and other cross-department programmes such as school celebrations and more.
+The Aesthetics Department strives to develop every JingShanite into a “Thriving Explorer, Mindful Leader” through the arts. Through the various key programmes in the curriculum and co-curriculum, it develops students’ sense of aesthetics and artistic skills in the different arts genre. These art experiences include the [Art Curriculum](/the-js-experience/departments/aesthetics/art-curriculum), [Music Curriculum](/the-js-experience/departments/aesthetics/music-curriculum), [PAL (Visual Arts and Drama)](/our-curriculum/signature-programmes/pal), [Visual and Performing Arts Co-curricular Activities](/our-curriculum/co-curricular-activities/visual-and-performing-arts) and other cross-department programmes such as school celebrations and more.
 
 ![](/images/Infographic%20-%20Art%20vA2-01.jpg)
 
