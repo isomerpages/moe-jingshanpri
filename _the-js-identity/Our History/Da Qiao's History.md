@@ -25,7 +25,7 @@ In 1981, Da Qiao Primary School was established as a government school in the re
 
 **DA QIAO PRIMARY SCHOOL SONG**    
 
-<img src="/images/DQ3.png" style="width:300px;height:200px;margin-left:15px;" align="right">
+<img src="/images/DQ3.png" style="width:300px;height:200px;margin-right:15px;" align = "left">
 
 Let’s stand together side by side  
 Da Qiao we cherish with love and pride  
@@ -46,7 +46,7 @@ Da Qiao we promise to do our best
 ### Breaking New Grounds
 
 
-<img src="/images/DQ4.png" style="width:300px;height:200px;margin-left:15px;" align = "right">
+<img src="/images/DQ4.png" style="width:300px;height:200px;margin-right:15px;" align = "left">
 
 The new millennium marked another milestone in the history of the school when it merged with Chong Boon Primary on 1 Jan 2000 to form the present Da Qiao Primary. On 2 February 2002, the school celebrated its 21st Anniversary and the Official Opening of its new campus which was declared open by Mr Wee Siew Kim, Member of Parliament for Ang Mo Kio GRC. The new merged school was headed by Mrs Loh Meng Har from 2000 to 2006.  Mrs Bilveer Singh took over the helm as Principal from 2007 to 2013.   Since its merger, the school has consciously focused its efforts in providing a holistic education for all its students by engaging them in various programmes and activities which mould their character, develop their academic potential, nurture their aesthetics and sports talents, groom them as leaders, equip them with lifeskills and instill in them a passion for learning. Today, the school offers a variety of CCAs in sports and games, performing and visual arts, clubs and societies. Students also performed consistently well in the PSLE with results above National Average for most academic subjects.   Mrs Joyce Ang, the current Principal, leads a team of highly dedicated teachers and administrative staff in delivering a quality student-centric, values-driven education in line with the school philosophy of ‘Everyone can flourish’. To date, Da Qiao has forged strong partnership with Char Yong (Dabu) Association. The association has made important contributions to the educational and wellbeing of the students. It was with the aim of nurturing and developing the young that the Association started two schools, one of which was Da Qiao. Annually, the Association awards the bursaries and scholarships to our students to affirm their good effort. The Association believed in bringing learning beyond the walls of the classroom. In 2017, the Association partially funded our students for their Trips for International Experience (TIE) Fund, to Dabu and Xiamen, China. 
 
@@ -55,12 +55,4 @@ The new millennium marked another milestone in the history of the school when it
 
 During this visit, the students visited the schools in Dabu. They visited Hongdu Elementary School and Dabu County Zhangyunzai Experimental Primary School. The students also had the opportunities to visit the Lee Kuan Yew Memorial Hall where they learnt more things about Singapore’s first Prime Minister, Mr Lee Kuan Yew. Through this trip, our students are able to broader their horizons and expands their learning experiences that transcends beyond the shores of Singapore. Over the years, Char Yong Dabu Association has played a significant role in partnering Da Qiao. Together in close partnership, we shape our students education.
 
-![](/images/DQ6.jpg)
-
-![](/images/DQ7.jpg)
-
-![](/images/DQ8.jpg)
-
-![](/images/DQ9.jpg)
-
-![](/images/DQ10.png)
+<img src="/images/dq.png" style="width:80%">
