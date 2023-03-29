@@ -1,4 +1,5 @@
 collections:
   our-school-staff:
     output: true
-    order: []
+    order:
+      - Music Teachers.md
