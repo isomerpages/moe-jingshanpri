@@ -5,7 +5,9 @@ description: ""
 ---
 # **Total Curriculum Framework**
 
-![](/images/Total%20Curriculum%20Framework%202020%20updated%20060620.jpg)
+<img src="/images/Total%20Curriculum%20Framework%202020%20updated%20060620.jpg" style="width:80%">
+
+[Featured Terms](https://docs.google.com/document/d/e/2PACX-1vSrf7bZEE-YwLFIJ-j_8BmDZvMxr5Gtn_uzco-OObacsgWZGO3glJEnQzy-AndpsA/pub)
 
 At Jing Shan Primary School, we see our students as painters of their own canvas. With every choice of colours and stroke of the brush, they paint their aspirations, pathways and futures. The work of the school and teachers is to equip the painters with the basic kit of know-how, techniques, attitudes and materials; the space to try, experiment, imagine and create; and the stewards to guide, challenge and support the painters. This analogy of painters and painting serves as the backdrop of the school’s Total Curriculum Framework.   
 
