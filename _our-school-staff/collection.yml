@@ -1,13 +1,4 @@
 collections:
   our-school-staff:
     output: true
-    order:
-      - Teachers/.keep
-      - Teachers/Primary 1 Teachers.md
-      - Teachers/Primary 2 Teachers.md
-      - Teachers/Primary 3 Teachers.md
-      - Teachers/Primary 4 Teachers.md
-      - Teachers/Primary 5 Teachers.md
-      - Teachers/Primary 6 Teachers.md
-      - Teachers/Non Form Teachers.md
-      - Teachers/Flexi Adjunct Teachers.md
+    order: []
