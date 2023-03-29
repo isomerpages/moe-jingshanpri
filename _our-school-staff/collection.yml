@@ -2,5 +2,6 @@ collections:
   our-school-staff:
     output: true
     order:
+      - Physical Education Teachers.md
       - Art Teachers.md
       - Music Teachers.md
