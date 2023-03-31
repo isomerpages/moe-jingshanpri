@@ -2,6 +2,7 @@ collections:
   mk-at-jing-shan:
     output: true
     order:
+      - The MKJS Experience/The MKJS Experience.md
       - The MKJS Experience/MKJS Centre Based Programmes.md
       - The MKJS Experience/.keep
       - Our Learning Space.md
