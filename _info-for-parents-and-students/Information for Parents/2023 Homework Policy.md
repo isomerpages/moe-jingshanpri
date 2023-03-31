@@ -4,10 +4,10 @@ permalink: /info-for-parents-and-students/information-for-parents/2023-homework-
 description: ""
 third_nav_title: Information for Parents
 ---
-# **2022 Homework Policy**
+# **2023 Homework Policy**
 
 **Jing Shan Primary School**  
-**2022 Homework Policy**
+**2023 Homework Policy**
 
 **Value of Homework**
 
