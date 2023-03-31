@@ -16,7 +16,6 @@ description: ""
 | 9.00am to 9.30am | P1 and P4 Recess |
 | 9.30am to 10.00am | P3 and P6 Recess |
 |  10.00am to 10.30am |  P2 and P5 Recess |
-|   |   |
 |  12.00pm to 12.30pm |  1/P2/P3/P4/P5/P6 Snack Break (10 minutes in the classroom) |
 |  |  |
 
