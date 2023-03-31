@@ -5,8 +5,7 @@ description: ""
 ---
 # **JSPS Parent Support Group**
 
-<img src="/images/Picture1.png" 
-     style="width:50%">
+<img src="/images/Picture1.png" style="width:50%">
 ![](/images/Picture2.png)
 ![](/images/Picture3.png)
 ![](/images/Picture4.png)
@@ -22,7 +21,7 @@ In JSPS, we believe in partnering our parents to grow thriving Jingshanites toge
 
 ![](/images/Picture10.png)
 
-<img src="/images/Picture11.png" style="width:280px;height:240px;margin-left:15px;" align = "right">
+<img src="/images/Picture11.png" style="width:280px;height:240px;margin-right:15px;" align="left">
 
 **Contact us at:**
 
