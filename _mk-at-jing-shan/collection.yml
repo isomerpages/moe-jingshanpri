@@ -2,6 +2,7 @@ collections:
   mk-at-jing-shan:
     output: true
     order:
+      - About Us.md
       - MK@ Jing Shan.md
       - MK Vision, Mission and Belief.md
       - MK Curriculum.md
