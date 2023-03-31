@@ -5,10 +5,5 @@ description: ""
 ---
 ###   Our Gallery
 
-<img style="width:80%" src="/images/mkjsgallery.png">
-
-
-
-
-
+<img src="/images/mkjsgallery.png" style="width:80%">
 
