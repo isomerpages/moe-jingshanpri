@@ -2,6 +2,7 @@ collections:
   mk-at-jing-shan:
     output: true
     order:
+      - The MKJS Experience/.keep
       - Our Learning Space.md
       - Our Gallery.md
       - 2023 MK Open House.md
