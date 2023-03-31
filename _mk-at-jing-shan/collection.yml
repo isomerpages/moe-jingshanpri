@@ -2,5 +2,6 @@ collections:
   mk-at-jing-shan:
     output: true
     order:
+      - 2023 MK Open House.md
       - About Us.md
       - Our Team.md
