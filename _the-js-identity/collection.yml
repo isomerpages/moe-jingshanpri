@@ -1,0 +1,23 @@
+collections:
+  the-js-identity:
+    output: true
+    order:
+      - The JS Identity.md
+      - About Us/.keep
+      - About Us/About Us.md
+      - About Us/Our School's Crest.md
+      - About Us/Our School Song.md
+      - About Us/Our School Facilities.md
+      - About Us/Personal Data and Protection Act.md
+      - Team JS/.keep
+      - Team JS/School Leaders.md
+      - Team JS/Key Personnel.md
+      - Team JS/Teachers.md
+      - Team JS/Allied Educators.md
+      - Team JS/Administrative Staff.md
+      - Our History/.keep
+      - Our History/Our School's History.md
+      - Our History/Jing Shan's History.md
+      - Our History/Da Qiao's History.md
+      - Our School Advisory Committee.md
+      - JSPS Parent Support Group.md

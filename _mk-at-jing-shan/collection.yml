@@ -1,0 +1,12 @@
+collections:
+  mk-at-jing-shan:
+    output: true
+    order:
+      - About Us.md
+      - Our Team.md
+      - The MKJS Experience/.keep
+      - The MKJS Experience/The MKJS Experience.md
+      - The MKJS Experience/MKJS Centre Based Programmes.md
+      - Our Learning Space.md
+      - Our Gallery.md
+      - 2023 MK Open House.md
