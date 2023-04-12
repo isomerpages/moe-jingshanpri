@@ -8,6 +8,8 @@ third_nav_title: Information for Parents
 
 ![](/images/Stall%201.jpg)
 
+[Stall 1 Price List (PDF)](/files/Canteen%20stall%20prices/canteen%20menu%20price%20list%2012%20april%202023%20stall%201.pdf)
+
 ![](/images/Stall%202.jpg)
 
 ![](/images/Stall%203.jpg)
