@@ -14,9 +14,11 @@ locations:
         description: During School Term
       - days: Mon-Fri
         time: 8.00am-5.00pm
-        description: |-
-          During school holidays ||
-          Closed on weekends and public holidays
+        description: |
+          During school holidays
+      - days: Sat-Sun
+        time: Closed
+        description: Closed on weekends and public holidays
     maps_link: https://goo.gl/maps/v5eEZCvRDJqscaRu7
     title: School Address
 contacts:
