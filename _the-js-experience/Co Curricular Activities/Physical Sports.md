@@ -17,7 +17,6 @@ third_nav_title: Co Curricular Activities
 **Teachers’ In-charge**
 * Mdm Fatimawati (IC)
 * Ms Chan Yan Sze
-* Mdm Ginny Teo
 
 
 ### Badminton
