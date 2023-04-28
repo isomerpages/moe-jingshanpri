@@ -16,20 +16,5 @@ The JSPS Brownie experience aims to inculcate in our girls, self-awareness, self
 * To enable pupils to develop their fullest potential as responsible citizens of the world.
 
 **Teachers’ In-charge**  
-* Ms Jadeite Yau (IC)
-* Ms Khoo Yuzhi
+* Ms Ang Geok Pheng (IC)
 * Mdm Santhi Nagamuthu
-
-### Scouts
-
-![](/images/scouts.jpg)
-
-The mission of Scouting is to contribute to the education of young people, through a value system based on the Scout Promise and Law, to help build a better world where people are self-fulfilled as individuals and play a constructive role in society. This is achieved by involving them throughout their formative years in a non-formal educational process using a specific method that makes each individual the principal agent of his or her development as a self-reliant, supportive, responsible and committed person assisting them to establish a value system based upon spiritual, social and personal principles as expressed in the Promise and Law.
-
-**Objectives**
-
-Equipping boys with life skills which will allow them to be prepared for life's challenges.
-
-**Teachers’ In-charge**
-* Mr Ong Yong Kian (IC)
-* Ms Tan Soo Hian

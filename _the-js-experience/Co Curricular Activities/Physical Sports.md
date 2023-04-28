@@ -46,8 +46,9 @@ Badminton aims to develop not only the basic skills of the game but also charact
 
 **Teachers’ In-charge**:
 * Mr James Seah (IC)
+* Mrs Ferline Lim
 * Mr Wong Foo Kheong
-* Mrs Gunavathi Arulselvan
+* Mr Lee Peng Soon
 
 ### Football
 
@@ -58,5 +59,7 @@ Badminton aims to develop not only the basic skills of the game but also charact
 * To promote teamwork and trust among the pupils and sportsmanship during CCA and competitions.
 
 **Teachers’ In-charge**:
-* Mr Cedric Tan (IC)
-* Mr Swarnapala Methias
+* Mrs Gunavathi Arulselvan (IC)
+* Mr Rendra
+* Mr Soo Wei Yi
+* Mr Wilfred Ho

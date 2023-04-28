@@ -22,10 +22,9 @@ Art education is one of the important areas in the holistic development of the c
 5\. Express emotions freely through the making of art in a non-threatening environment
 
 **Teachers’ In-charge**
-* Mdm Karmila (co-IC)
-* Mdm Katie Soon (co-IC)
-* Mr Norizam Bin Samsudin
-* Mdm Ang Geok Pheng
+* Mdm Karmila (IC)
+* Mr Norizam 
+* Mdm Aliana
 
 
 ### Guzheng Ensemble
@@ -38,9 +37,9 @@ JSPS Guzheng Ensemble CCA provides opportunities for members to learn the Guzhen
 To provide opportunities for our pupils to learn and appreciate music and Guzheng. Also to provide the platform for our pupils to have the experience of taking part in a SIngapore Youth Festival Arts Presentation as a member of an ensemble.
 
 **Teachers’ In-charge**
-* Mdm Anna Foo (IC)
-* Mrs Yap Ying Ying
-* Mdm Ong Baojin
+* Mrs Yap Ying Ying (IC)
+* Mrs Dawn Koh
+* Mrs Karen Chew
 
 
 ### Modern Dance
@@ -58,8 +57,8 @@ performances and competitions
 
 **Teachers’ In-charge**
 * Ms Jolene Lim (IC)
-* Ms Charlotte Lee
-* Ms Isadora Zhong
+* Ms Lim Huishan
+* Mdm Ong Bao Jin
 
 #### Cultural Dance
 
@@ -74,7 +73,6 @@ The JSPS Cultural Dance CCA aims to provide students with experiences to immerse
 3.  Cultivate bravery, responsibility and tenacity by persevering through challenging dance routines.
 
 **Teachers-in-Charge**
-* Ms Dharshini Rajah (co-IC)
-* Mdm Yap Xuelin (co-IC)
-* Ms Joanne Kow
-* Ms Ning Shuang
+* Mdm Yap Xuelin (IC)
+* Ms Sun Yan
+* Mdm Teo Bee Khim
