@@ -4,15 +4,15 @@ permalink: /info-for-parents-and-students/information-for-parents/school-bus-ser
 description: ""
 third_nav_title: Information for Parents
 ---
-
 # **School Bus Service**
 
 ###  DETAILS OF BUS OPERATORS AND BUS FARES
 
-![](/images/school%20bus.png)
+![Rates for school bus](/images/school-bus-2023.png)
 
-Please refer to the links below for information on the price and schedule on school bus service.   
-_Please use google chrome browser for better experience_  
+Please refer to the links below for information on the price and schedule on school bus service.
 
-[School bus services](https://www.moe.gov.sg/school-bus-services)  
-[IbsbSchoolBusServices.aspx](https://schadmsvc.moe.gov.sg/moeibsb/IbsbSchoolBusServices.aspx)
+_(Please use the Google Chrome browser for a better experience)_  
+
+* [School bus services](https://www.moe.gov.sg/school-bus-services)  
+* [MOE Information Notice Board for School Bus Services (IBSB)](https://schadmsvc.moe.gov.sg/moeibsb/IbsbSchoolBusServices.aspx)
