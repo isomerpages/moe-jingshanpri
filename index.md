@@ -19,6 +19,13 @@ sections:
           description: Click here for more
           url: /quicklinks/for-students/
   - infopic:
+      title: Join us in the e-Open House
+      subtitle: JS e-Open House 2023
+      description: Zoom session on Wednesday, 12 July 2023, 8-9 am.
+      button: Register here
+      alt: Image alt text
+      url: https://go.gov.sg/2023jseopenhouse
+  - infopic:
       title: Facebook
       subtitle: Follow us on
       description: here!
@@ -31,10 +38,4 @@ sections:
       description: Click on the button below to find out more!
       button: Click here
       url: /virtual-school-tour
-  - infopic:
-      title: Infopic Title
-      subtitle: Infopic Subtitle
-      description: Infopic description
-      button: Button Text
-      alt: Image alt text
 ---
