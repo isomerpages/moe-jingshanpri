@@ -31,4 +31,10 @@ sections:
       description: Click on the button below to find out more!
       button: Click here
       url: /virtual-school-tour
+  - infopic:
+      title: Infopic Title
+      subtitle: Infopic Subtitle
+      description: Infopic description
+      button: Button Text
+      alt: Image alt text
 ---
