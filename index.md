@@ -23,8 +23,9 @@ sections:
       subtitle: JS e-Open House 2023
       description: Zoom session on Wednesday, 12 July 2023, 8-9 am.
       button: Register here
-      alt: Image alt text
+      alt: JS e-open house poster
       url: https://go.gov.sg/2023jseopenhouse
+      image: /images/js open house 2023.jpeg
   - infopic:
       title: Facebook
       subtitle: Follow us on
