@@ -12,7 +12,6 @@ third_nav_title: Team JS
 [**Primary 4 Form Teachers**](/our-school-staff/p4-form-teachers/)<br>
 [**Primary 5 Form Teachers**](/our-school-staff/p5-form-teachers/)<br>
 [**Primary 6 Form Teachers**](/our-school-staff/p6-form-teachers/)<br>
-[**Primary 6 Form Teachers**](/our-school-staff/p6-form-teachers/)<br>
 [**English Language Teachers**](/our-school-staff/english-languange-teacher/)<br>
 [**Chinese Language Teachers**](/our-school-staff/chinese-language-teachers/)<br>
 [**Malay Language Teachers**](/our-school-staff/malay-language-teachers/)<br>
