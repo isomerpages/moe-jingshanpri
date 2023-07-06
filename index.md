@@ -19,7 +19,7 @@ sections:
           description: Click here for more
           url: /quicklinks/for-students/
   - infopic:
-      title: Join us in the e-Open House
+      title: Join us for the e-Open House
       subtitle: JS e-Open House 2023
       description: Zoom session on Wednesday, 12 July 2023, 8-9 am.
       button: Register here
