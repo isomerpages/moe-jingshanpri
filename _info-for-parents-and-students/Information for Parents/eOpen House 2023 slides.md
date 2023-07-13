@@ -15,4 +15,3 @@ Click on the respective links below to download the slides for the event.
 
 ![](/images/EOpen%20House%202023/eopen%20house%202023%20yh%20slides.png)
 [Lower School Year Head's address](https://go.gov.sg/2023jseopenhouse2)
-
