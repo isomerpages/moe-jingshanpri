@@ -6,7 +6,7 @@ image: /images/js open house 2023.jpeg
 third_nav_title: Information for Parents
 ---
 # Download presentation slides
-Thank you for attending the JS eOpen House 2023 held on 12 July 2023. 
+Thank you for attending the JS e-Open House 2023 held on 12 July 2023. 
 
 Click on the respective links below to download the slides for the event.
 
