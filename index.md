@@ -25,7 +25,7 @@ sections:
         School Year Head's address.
       button: Download here
       alt: JS e-open house poster
-      url: https://go.gov.sg/2023jseopenhouse
+      url: /info-for-parents-and-students/information-for-parents/eopenhse23/
       image: /images/js open house 2023.jpeg
   - infopic:
       title: Facebook
