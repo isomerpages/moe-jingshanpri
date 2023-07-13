@@ -19,12 +19,13 @@ sections:
           description: Click here for more
           url: /quicklinks/for-students/
   - infopic:
-      title: Join us for the e-Open House
+      title: Presentation slides for e-Open House
       subtitle: JS e-Open House 2023
-      description: Zoom session on Wednesday, 12 July 2023, 8-9 am.
-      button: Register here
+      description: Download the slides for the Principal's address and the Lower
+        School Year Head's address.
+      button: Download here
       alt: JS e-open house poster
-      url: https://go.gov.sg/2023jseopenhouse
+      url: /info-for-parents-and-students/information-for-parents/eopenhse23/
       image: /images/js open house 2023.jpeg
   - infopic:
       title: Facebook
