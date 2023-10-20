@@ -35,9 +35,4 @@ sections:
       url: https://www.facebook.com/jingshanpri
       image: /images/homepage.jpg
       alt: Image alt text
-  - infobar:
-      title: Virtual School Tour
-      description: Click on the button below to find out more!
-      button: Click here
-      url: /virtual-school-tour
 ---
