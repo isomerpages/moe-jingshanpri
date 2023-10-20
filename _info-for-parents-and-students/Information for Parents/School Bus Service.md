@@ -14,5 +14,4 @@ Please refer to the links below for information on the price and schedule on sch
 
 _(Please use the Google Chrome browser for a better experience)_  
 
-* [School bus services](https://www.moe.gov.sg/school-bus-services)  
-* [MOE Information Notice Board for School Bus Services (IBSB)](https://schadmsvc.moe.gov.sg/moeibsb/IbsbSchoolBusServices.aspx)
+* [School bus services](https://www.moe.gov.sg/school-bus-services)
