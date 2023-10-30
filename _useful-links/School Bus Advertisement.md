@@ -3,7 +3,7 @@ title: School Bus Advertisement
 permalink: /useful-links/school-bus-ad/
 description: ""
 ---
-#### School Bus Advertisement
+### School Bus Advertisement
 
 To apply, please refer to the Service Requirements and the Application Procedure below.
 
