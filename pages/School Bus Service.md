@@ -2,7 +2,6 @@
 title: School Bus Service
 permalink: /info-for-parents-and-students/information-for-parents/school-bus-service/
 description: ""
-third_nav_title: Information for Parents
 ---
 # **School Bus Service**
 
