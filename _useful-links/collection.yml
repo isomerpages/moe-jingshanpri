@@ -2,7 +2,6 @@ collections:
   useful-links:
     output: true
     order:
-      - School Bus Advertisement.md
       - faq.md
       - Links.md
       - Feedback.md
