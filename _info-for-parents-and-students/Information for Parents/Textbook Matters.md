@@ -11,12 +11,12 @@ variant: markdown
 
 **Parents may pre-order the 2024 textbooks online:** [https://www.pacificbookstores.com/](https://www.pacificbookstores.com/)  
 
-_Please note that online purchase will only be available on **16 Nov 2023** onwards._   
+_Please note that online purchase will only be available from **16 Nov 2023**._   
   
 Pacific Bookstore will require you to register in order to purchase online.  
   
 Links for other information:  
-[Home delivery faq](https://www.pacificbookstores.com/home-delivery-faq)  
+[Home delivery FAQ](https://www.pacificbookstores.com/home-delivery-faq)  
 [Account registration guide](https://www.pacificbookstores.com/account-registration-guide)
 
 Please refer to the PDF below for 2024 booklists:   
