@@ -2,6 +2,7 @@ collections:
   useful-links:
     output: true
     order:
+      - Canteen Stalls Advertisement.md
       - School Bus Advertisement.md
       - faq.md
       - Links.md
