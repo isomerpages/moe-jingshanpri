@@ -4,8 +4,6 @@ permalink: /useful-links/canteen-stall-ad-2023/
 variant: markdown
 description: ""
 ---
-
-
 |Type of Stall|Closing Date|
 | -------- | -------- |
 |Others (Non-Halal, Open to proposal) (Western/Japanese/Korean, etc.)|29 November 2023|
@@ -15,7 +13,7 @@ description: ""
 
 1. Download and complete the application form. You may also request for a hardcopy from the School’s General Office.
 
-Application form link
+[School application for canteen stall](/files/Canteen%20Stalls%20Ad%202023/school%20application%20for%20canteen%20stall.pdf)
 
 2. Attach the following documents together with the application form:
 * Photocopy of the NRIC (front and back)
