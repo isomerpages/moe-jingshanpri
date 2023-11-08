@@ -11,8 +11,7 @@ description: ""
 
 #### Application Procedure
 
-1. Download and complete the application form. You may also request for a hardcopy from the School’s General Office.
-
+1. Download and complete the application form. You may also request for a hardcopy from the School’s General Office. 
 [School application for canteen stall](/files/Canteen%20Stalls%20Ad%202023/school%20application%20for%20canteen%20stall.pdf)
 
 2. Attach the following documents together with the application form:
