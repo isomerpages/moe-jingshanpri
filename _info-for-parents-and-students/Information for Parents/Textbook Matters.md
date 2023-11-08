@@ -13,7 +13,7 @@ variant: markdown
 
 _Please note that online purchase will only be available from **16 Nov 2023**._   
   
-Pacific Bookstore will require you to register in order to purchase online.  
+Pacific Bookstore will require you to register in order to purchase online.
   
 Links for other information:  
 [Home delivery FAQ](https://www.pacificbookstores.com/home-delivery-faq)  
@@ -21,7 +21,6 @@ Links for other information:
 
 Please refer to the PDF below for 2024 booklists:   
 [P1 2024](/files/Textbook%20Matters%202024/p1%202024.pdf)
-
 [P2 2024](/files/Textbook%20Matters%202024/p2%202024.pdf)
 
 [P3 2024](/files/Textbook%20Matters%202024/p3%202024.pdf)
@@ -37,7 +36,7 @@ Please refer to the PDF below for 2024 booklists:
 [P6 Foundation 2024](/files/Textbook%20Matters%202024/p6%20foundation%202024.pdf)
 
 School Bookstore opening hours:  
-Normal school days:
+Normal School Days:
 Mon to Fri: (9am to 3pm)
 
 28 Nov 2023 to 29 Dec 2023: Tue to Fri (9am to 3pm)
