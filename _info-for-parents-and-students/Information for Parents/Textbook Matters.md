@@ -20,9 +20,22 @@ Links for other information:
 [Account registration guide](https://www.pacificbookstores.com/account-registration-guide)
 
 Please refer to the PDF below for 2024 booklists:   
+[P1 2024](/files/Textbook%20Matters%202024/p1%202024.pdf)
 
+[P2 2024](/files/Textbook%20Matters%202024/p2%202024.pdf)
 
- 
+[P3 2024](/files/Textbook%20Matters%202024/p3%202024.pdf)
+
+[P4 2024](/files/Textbook%20Matters%202024/p4%202024.pdf)
+
+[P5 2024](/files/Textbook%20Matters%202024/p5%202024.pdf)
+
+[P5 Foundation 2024](/files/Textbook%20Matters%202024/p5%20foundation%202024.pdf)
+
+[P6 2024](/files/Textbook%20Matters%202024/p6%202024.pdf)
+
+[P6 Foundation 2024](/files/Textbook%20Matters%202024/p6%20foundation%202024.pdf)
+
 School Bookstore opening hours:  
 Normal school days:
 Mon to Fri: (9am to 3pm)
