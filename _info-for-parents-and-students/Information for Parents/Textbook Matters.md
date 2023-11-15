@@ -3,6 +3,7 @@ title: Textbook Matters
 permalink: /info-for-parents-and-students/information-for-parents/textbook-matters/
 description: ""
 variant: markdown
+third_nav_title: Information for Parents
 ---
 # **Textbook Matters 2024**
 
