@@ -3,6 +3,7 @@ collections:
     output: true
     order:
       - Information for Parents and Students.md
+      - Information for Parents/School Bus Service.md
       - Information for Parents/Textbook Matters.md
       - Information for Parents/.keep
       - Information for Parents/2023 Homework Policy.md
