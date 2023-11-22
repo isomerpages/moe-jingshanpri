@@ -2,18 +2,19 @@
 title: School Bus Service
 permalink: /info-for-parents-and-students/information-for-parents/school-bus-service/
 description: ""
+variant: markdown
 ---
-# **School Bus Service**
 
-## Details of bus operators and bus fares
 
-![Rates for school bus](/images/school-bus-2023.png)
+## School Bus Operator and Bus Fare
 
-Please refer to the links below for information on the price and schedule on school bus service.
+KW Bus Pte Ltd
 
-_(Please use the Google Chrome browser for a better experience)_  
+764A Woodlands Circle #10-304
 
-* [School bus services](https://www.moe.gov.sg/school-bus-services)
+Singapore 731764
 
-## Request for school bus service
-* [Application form (FormSG)](https://form.gov.sg/651e58e03679720012d60657)
+Tel: 84984950
+
+Email: [kwbus@yahoo.com.sg](mailto:kwbus@yahoo.com.sg)kwbus@yahoo.com.sg
+
