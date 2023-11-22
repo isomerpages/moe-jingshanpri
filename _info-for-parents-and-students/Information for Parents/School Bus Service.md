@@ -15,7 +15,7 @@ Singapore 731764
 
 Tel: 84984950
 
-Email: [kwbus@yahoo.com.sg](mailto:kwbus@yahoo.com.sg)kwbus@yahoo.com.sg
+Email: [kwbus@yahoo.com.sg](mailto:kwbus@yahoo.com.sg)
 
 [School Bus Prices (Jan 2024 to Dec 2025)](/files/School%20bus%20prices%202024%20to%202025/School_Bus_Prices__Jan_2024_to_Dec_2025_.pdf)
 
