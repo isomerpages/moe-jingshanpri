@@ -7,13 +7,12 @@ third_nav_title: Information for Parents
 ---
 ## School Bus Operator and Bus Fare
 
+```
 KW Bus Pte Ltd
-
 764A Woodlands Circle #10-304
-
 Singapore 731764
-
 Tel: 84984950
+```
 
 Email: [kwbus@yahoo.com.sg](mailto:kwbus@yahoo.com.sg)
 
