@@ -3,7 +3,6 @@ collections:
     output: true
     order:
       - School Canteen Advertisement.md
-      - School Bus Advertisement.md
       - faq.md
       - Links.md
       - Feedback.md
