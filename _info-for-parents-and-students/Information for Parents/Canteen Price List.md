@@ -3,33 +3,6 @@ title: Canteen Price List
 permalink: /info-for-parents-and-students/information-for-parents/canteen-food-pricelist/
 description: ""
 third_nav_title: Information for Parents
+variant: tiptap
 ---
-# **Canteen Food Pricelist**
-**(Prices of food items w.e.f. 17 April 2023)** 
-
-Click on the respective links below each stall to download the price list (PDF format).
-
-Stall 1
-![](/images/Stall%201.jpg)
-[Stall 1 Price List](/files/Canteen%20stall%20prices/canteen%20menu%20price%20list%2012%20april%202023%20stall%201.pdf)
-
-Stall 2
-![](/images/Stall%202.jpg)
-[Stall 2 Price List](/files/Canteen%20stall%20prices/copy%20of%20canteen%20menu%20%20price%20list%2012%20april%202023%20stall%202.pdf)
-
-Stall 3
-![](/images/Stall%203.jpg)
-[Stall 3 Price List](/files/Canteen%20stall%20prices/copy%20of%20canteen%20menu%20%20price%20list%2012%20april%202023%20stall%203.pdf)
-
-Stall 5
-![](/images/Stall%205.jpeg)
-[Stall 5 Price List](/files/Canteen%20stall%20prices/copy%20of%20canteen%20menu%20%20price%20list%2012%20april%202023%20stall%205.pdf)
-
-
-Stall 6
-![](/images/Stall%206.jpg)
-[Stall 6 Price List](/files/Canteen%20stall%20prices/copy%20of%20canteen%20menu%20%20price%20list%2012%20april%202023%20stall%206.pdf)
-
-Stall 7 
-![](/images/Stall%207.jpg)
-[Stall 7 Price List](/files/Canteen%20stall%20prices/copy%20of%20canteen%20menu%20%20price%20list%2012%20april%202023%20stall%207.pdf)
+<h1><strong>Canteen Food Pricelist</strong></h1><p><strong>(Prices of food items w.e.f. 28 Dec 2023)</strong></p><p>Click on the respective links below each stall to download the price list (PDF format).</p><p>Stall 1</p><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/Stall%201.jpg"></div><p><a href="/files/Canteen%20stall%20prices/canteen%20menu%20price%20list%2012%20april%202023%20stall%201.pdf" rel="noopener noreferrer nofollow" target="_blank">Stall 1 Price List</a></p><p>Stall 2</p><p></p><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/Canteen stall/STALL_2_JSPS.jpg"></div><p><a href="/files/Canteen%20stall%20prices/copy%20of%20canteen%20menu%20%20price%20list%2012%20april%202023%20stall%202.pdf" rel="noopener noreferrer nofollow" target="_blank">Stall 2 Price List</a></p><p>Stall 3</p><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/Stall%203.jpg"></div><p><a href="/files/Canteen%20stall%20prices/copy%20of%20canteen%20menu%20%20price%20list%2012%20april%202023%20stall%203.pdf" rel="noopener noreferrer nofollow" target="_blank">Stall 3 Price List</a></p><p>Stall 5</p><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/Stall%205.jpeg"></div><p><a href="/files/Canteen%20stall%20prices/copy%20of%20canteen%20menu%20%20price%20list%2012%20april%202023%20stall%205.pdf" rel="noopener noreferrer nofollow" target="_blank">Stall 5 Price List</a></p><p>Stall 6</p><p></p><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/Canteen stall/STALL_6_JSPS.jpg"></div><p></p><p>Stall 7</p><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/Stall%207.jpg"></div><p><a href="/files/Canteen%20stall%20prices/copy%20of%20canteen%20menu%20%20price%20list%2012%20april%202023%20stall%207.pdf" rel="noopener noreferrer nofollow" target="_blank">Stall 7 Price List</a></p>
