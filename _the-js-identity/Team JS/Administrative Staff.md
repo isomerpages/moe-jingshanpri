@@ -3,14 +3,6 @@ title: Administrative Staff
 permalink: /the-js-identity/team-js/administrative-staff/
 description: ""
 third_nav_title: Team JS
+variant: tiptap
 ---
-### Administrative Staff
-
-| Name | Designation | Email Addresses |
-|---|---|---|
-| Mr Soh Goh Tee | Administration Manager | soh_goh_tee @schools.gov.sg |
-| Mr P Manimaran | Operations Manager | p_manimaran@schools.gov.sg |
-| Mr Bob Chan | Operations Manager | chan_ghim_hock@schools.gov.sg |
-| Mdm Krishnaveni | Administration Executive | krishnaveni_kalimuthu@schools.gov.sg |
-| Mdm Aenon Binte Jaafar | Corporate Support Officer | aenon_jaafar@schools.gov.sg |
-| Mdm Suhana Binte Adi | Corporate Support Officer | suhana_adi@schools.gov.sg |
+<h3>Administrative Staff</h3><table><tbody><tr><th rowspan="1" colspan="1"><p>Name</p></th><th rowspan="1" colspan="1"><p>Designation</p></th><th rowspan="1" colspan="1"><p>Email Addresses</p></th></tr><tr><td rowspan="1" colspan="1"><p>Mr Soh Goh Tee</p></td><td rowspan="1" colspan="1"><p>Administration Manager</p></td><td rowspan="1" colspan="1"><p>soh_goh_tee @schools.gov.sg</p></td></tr><tr><td rowspan="1" colspan="1"><p>Mr P Manimaran</p></td><td rowspan="1" colspan="1"><p>Operations Manager</p></td><td rowspan="1" colspan="1"><p>p_manimaran@schools.gov.sg</p></td></tr><tr><td rowspan="1" colspan="1"><p>Mr Bob Chan</p></td><td rowspan="1" colspan="1"><p>Operations Manager</p></td><td rowspan="1" colspan="1"><p>chan_ghim_hock@schools.gov.sg</p></td></tr><tr><td rowspan="1" colspan="1"><p>Mdm Krishnaveni</p></td><td rowspan="1" colspan="1"><p>Administration Executive</p></td><td rowspan="1" colspan="1"><p>krishnaveni_kalimuthu@schools.gov.sg</p></td></tr><tr><td rowspan="1" colspan="1"><p>Mdm Aenon Binte Jaafar</p></td><td rowspan="1" colspan="1"><p>Corporate Support Officer</p></td><td rowspan="1" colspan="1"><p>aenon_jaafar@schools.gov.sg</p></td></tr><tr><td rowspan="1" colspan="1"><p>Ms Sandra Loke</p></td><td rowspan="1" colspan="1"><p>Corporate Support Officer</p></td><td rowspan="1" colspan="1"><p>loke_low_ying@schools.gov.sg</p></td></tr></tbody></table><p></p>
