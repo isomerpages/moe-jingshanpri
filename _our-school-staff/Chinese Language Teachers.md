@@ -2,25 +2,6 @@
 title: Chinese Language Teachers
 permalink: /our-school-staff/chinese-language-teachers/
 description: ""
+variant: tiptap
 ---
-### Chinese Language Teachers
-
-| Teachers | Email Addresses |
-|---|---|
-| Mrs Wong Sujin | liow_sujin@schools.gov.sg |
-| Mdm Teo Bee Khim | teo_bee_khim@schools.gov.sg |
-| Miss Ang Geok Pheng | ang_geok_pheng@schools.gov.sg |
-| Mdm Chan Yan Sze | chan_yan_sze@schools.gov.sg |
-| Ms Chen Yijie | chen_yijie@schools.gov.sg |
-| Ms Cheow Mee Ping | cheow_mee_ping@schools.gov.sg |
-| Mdm Chua Hwee Leng | chua_hwee_leng@schools.gov.sg |
-| Ms Jolene Lim | lim_jie_yi_jolene@schools.gov.sg |
-| Ms Khoo Yuzhi | khoo_yuzhi@schools.gov.sg |
-| Mdm Li Na | li_na_a@schools.gov.sg |
-| Ms Lim Huishan | lim_huishan@schools.gov.sg |
-| Miss Loh Chew Wi | loh_chew_wi@schools.gov.sg |
-| Ms Ning Shuang | ning_shuang@schools.gov.sg |
-| Mdm Ong Baojin | ong_baojin@schools.gov.sg |
-| Mr Ong Yong Kian | yong_kian_ong@schools.gov.sg |
-| Ms Sun Yan | sun_yan_a@schools.gov.sg |
-| Mdm Yap Xuelin | yap_xuelin@schools.gov.sg |
+<h3>Chinese Language Teachers</h3><table><tbody><tr><th rowspan="1" colspan="1"><p>Teachers</p></th><th rowspan="1" colspan="1"><p>Email Addresses</p></th></tr><tr><td rowspan="1" colspan="1"><p>Mrs Wong Sujin</p></td><td rowspan="1" colspan="1"><p>liow_sujin@schools.gov.sg</p></td></tr><tr><td rowspan="1" colspan="1"><p>Mdm Teo Bee Khim</p></td><td rowspan="1" colspan="1"><p>teo_bee_khim@schools.gov.sg</p></td></tr><tr><td rowspan="1" colspan="1"><p>Miss Ang Geok Pheng</p></td><td rowspan="1" colspan="1"><p>ang_geok_pheng@schools.gov.sg</p></td></tr><tr><td rowspan="1" colspan="1"><p>Mdm Chan Yan Sze</p></td><td rowspan="1" colspan="1"><p>chan_yan_sze@schools.gov.sg</p></td></tr><tr><td rowspan="1" colspan="1"><p>Ms Chen Yijie</p></td><td rowspan="1" colspan="1"><p>chen_yijie@schools.gov.sg</p></td></tr><tr><td rowspan="1" colspan="1"><p>Ms Cheow Mee Ping</p></td><td rowspan="1" colspan="1"><p>cheow_mee_ping@schools.gov.sg</p></td></tr><tr><td rowspan="1" colspan="1"><p>Mdm Chua Hwee Leng</p></td><td rowspan="1" colspan="1"><p>chua_hwee_leng@schools.gov.sg</p></td></tr><tr><td rowspan="1" colspan="1"><p>Ms Jolene Lim</p></td><td rowspan="1" colspan="1"><p>lim_jie_yi_jolene@schools.gov.sg</p></td></tr><tr><td rowspan="1" colspan="1"><p>Ms Khoo Yuzhi</p></td><td rowspan="1" colspan="1"><p>khoo_yuzhi@schools.gov.sg</p></td></tr><tr><td rowspan="1" colspan="1"><p>Mdm Li Na</p></td><td rowspan="1" colspan="1"><p>li_na_a@schools.gov.sg</p></td></tr><tr><td rowspan="1" colspan="1"><p>Ms Lim Huishan</p></td><td rowspan="1" colspan="1"><p>lim_huishan@schools.gov.sg</p></td></tr><tr><td rowspan="1" colspan="1"><p>Miss Loh Chew Wi</p></td><td rowspan="1" colspan="1"><p>loh_chew_wi@schools.gov.sg</p></td></tr><tr><td rowspan="1" colspan="1"><p>Ms Ning Shuang</p></td><td rowspan="1" colspan="1"><p>ning_shuang@schools.gov.sg</p></td></tr><tr><td rowspan="1" colspan="1"><p>Mdm Ong Baojin</p></td><td rowspan="1" colspan="1"><p>ong_baojin@schools.gov.sg</p></td></tr><tr><td rowspan="1" colspan="1"><p>Mr Ong Yong Kian</p></td><td rowspan="1" colspan="1"><p>yong_kian_ong@schools.gov.sg</p></td></tr><tr><td rowspan="1" colspan="1"><p>Mdm Yap Xuelin</p></td><td rowspan="1" colspan="1"><p>yap_xuelin@schools.gov.sg</p></td></tr></tbody></table><p></p>

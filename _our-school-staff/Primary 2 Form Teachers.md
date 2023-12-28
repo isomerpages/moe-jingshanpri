@@ -2,23 +2,6 @@
 title: Primary 2 Form Teachers
 permalink: /our-school-staff/p2-form-teachers/
 description: ""
+variant: tiptap
 ---
-### Primary 2 Form Teachers
-
-<table><thead><tr><th>Classes</th><th>Teachers</th><th>Email Addresses</th></tr></thead>
-<tbody>
-<tr><td rowspan="2">2 Responsibility</td><td>Ms Chen Yijie</td><td>chen_yijie@schools.gov.sg</td></tr>
-	<tr><td>Ms Melody Tan</td><td>tan_seow_min_melody@schools.gov.sg</td></tr>
-<tr><td rowspan="3">2 Integrity</td><td>Mrs Uma Rama</td><td>dekshnamurthi_umavathi@schools.gov.sg</td></tr>
-	<tr><td>Ms Joanne Kow</td><td>kow_xiao_min_joanne@schools.gov.sg</td></tr>
-	<tr><td>Mdm Aliana Abdul Rahman</td><td>aliana_abdul_rahim@schools.gov.sg</td></tr>
-<tr><td rowspan="4">2 Gratitude</td><td>Ms Sutha d/o Ayavoo</td><td>sutha_ayavoo@schools.gov.sg</td></tr>
-	<tr><td>Miss Loh Chew Wi</td><td>loh_chew_wi@schools.gov.sg</td></tr>
-	<tr><td>Mdm Nor Karmila Hamzah</td><td>nor_karmila_hamzah@schools.gov.sg</td></tr>
-	<tr><td>Ms Teo Swee Huang</td><td>teo_swee_huang@schools.gov.sg</td></tr>
-<tr><td rowspan="2">2 Humility</td><td>Mrs Karen Chew</td><td>lee_peck_wah@schools.gov.sg</td></tr>
-	<tr><td>Ms Katie Soon</td><td>soon_hui_ying@schools.gov.sg</td></tr>
-<tr><td rowspan="3">2 Tenacity</td><td>Mrs Yap Yingying</td><td>lin_yingying@schools.gov.sg</td></tr>
-	<tr><td>Mdm Hazirah Djuanda</td><td>hazirah_djuanda@schools.gov.sg</td></tr>
-	<tr><td>Ms Helen Koh</td><td>helen_koh@schools.gov.sg</td></tr>
-</tbody></table>
+<h3>Primary 2 Form Teachers</h3><table><tbody><tr><th rowspan="1" colspan="1"><p>Classes</p></th><th rowspan="1" colspan="1"><p>Teachers</p></th><th rowspan="1" colspan="1"><p>Email Addresses</p></th></tr><tr><td rowspan="2" colspan="1"><p>2 Responsibility</p></td><td rowspan="1" colspan="1"><p>Mdm Fatimawati Affandi</p></td><td rowspan="1" colspan="1"><p>fatimawati_affandi@schools.gov.sg</p></td></tr><tr><td rowspan="1" colspan="1"><p>Mdm Yap Xuelin</p></td><td rowspan="1" colspan="1"><p>yap_xuelin@schools.gov.sg</p></td></tr><tr><td rowspan="2" colspan="1"><p>2 Integrity</p></td><td rowspan="1" colspan="1"><p>Ms Charlotte Lee</p></td><td rowspan="1" colspan="1"><p>lee_jia_xin_charlotte@schools.gov.sg</p></td></tr><tr><td rowspan="1" colspan="1"><p>Mrs Ferline Lim</p></td><td rowspan="1" colspan="1"><p>lin_lihui_ferline@schools.gov.sg</p></td></tr><tr><td rowspan="3" colspan="1"><p>2 Gratitude</p></td><td rowspan="1" colspan="1"><p>Mdm Ginny Teo</p></td><td rowspan="1" colspan="1"><p>teo_lay_bin@schools.gov.sg</p></td></tr><tr><td rowspan="1" colspan="1"><p>Ms Sarifah Rahmat</p></td><td rowspan="1" colspan="1"><p>sarifah_rahmat@schools.gov.sg</p></td></tr><tr><td rowspan="1" colspan="1"><p>Mdm Chua Su Lin</p></td><td rowspan="1" colspan="1"><p>chua_su_lin_a@schools.gov.sg</p></td></tr><tr><td rowspan="2" colspan="1"><p>2 Humility</p></td><td rowspan="1" colspan="1"><p>Ms Melody Tan</p></td><td rowspan="1" colspan="1"><p>tan_seow_min_melody@schools.gov.sg</p></td></tr><tr><td rowspan="1" colspan="1"><p>Mdm Ginny Teo</p></td><td rowspan="1" colspan="1"><p>teo_lay_bin@schools.gov.sg</p></td></tr><tr><td rowspan="2" colspan="1"><p>2 Tenacity</p></td><td rowspan="1" colspan="1"><p>Mrs Yap Yingying</p></td><td rowspan="1" colspan="1"><p>lin_yingying@schools.gov.sg</p></td></tr><tr><td rowspan="1" colspan="1"><p>Ms Shannen Ang</p></td><td rowspan="1" colspan="1"><p>shannen_ang@schools.gov.sg</p></td></tr></tbody></table><p></p>
