@@ -2,10 +2,6 @@
 title: Our School Advisory Committee
 permalink: /the-js-identity/our-school-advisory-committee/
 description: ""
+variant: tiptap
 ---
-# **Our School Advisory Committee**
-
-![](/images/SAC1.jpg)
-![](/images/SAC2.jpg)
-![](/images/SAC3.jpg)
-![](/images/SAC4.jpg)
+<h1><strong>School Advisory Committee</strong></h1><table><tbody><tr><td rowspan="1" colspan="1"><p>Chairman:&nbsp;</p></td><td rowspan="1" colspan="1"><p>Mr Chew Thiam Kwee</p></td></tr><tr><td rowspan="1" colspan="1"><p>Vice-Chairman:&nbsp;</p></td><td rowspan="1" colspan="1"><p>Mr Chua Chee Khng</p></td></tr><tr><td rowspan="1" colspan="1"><p>Treasurer:&nbsp;</p></td><td rowspan="1" colspan="1"><p>Mr Lim Li Boon Jonathan</p></td></tr><tr><td rowspan="1" colspan="1"><p>Members:</p></td><td rowspan="1" colspan="1"><p>Mr Ang Teck Yeo Sam</p><p>Mr Clifford Wei Lew</p><p>Mr Hoo Chee Wai</p><p>Mr Jayaram Kuppusamy</p><p>Mdm Lai Hsing Hui Gina</p><p>Mr P Maniyasaru</p><p>Mr Sim Kwang Yang Jason</p></td></tr></tbody></table><p></p><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/SAC 2024/WhatsApp_Image_2023_12_28_at_12_15_03_PM.jpeg"></div><p></p><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/SAC 2024/WhatsApp_Image_2023_12_28_at_12_15_03_PM__3_.jpeg"></div><p></p><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/SAC 2024/WhatsApp_Image_2023_12_28_at_12_15_03_PM__2_.jpeg"></div><p></p><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/SAC 2024/WhatsApp_Image_2023_12_28_at_12_15_03_PM__1_.jpeg"></div><p></p>
