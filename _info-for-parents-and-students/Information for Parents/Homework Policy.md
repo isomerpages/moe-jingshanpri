@@ -1,6 +1,6 @@
 ---
-title: 2023 Homework Policy
-permalink: /info-for-parents-and-students/information-for-parents/2023-homework-policy/
+title: Homework Policy
+permalink: /info-for-parents-and-students/information-for-parents/homework-policy/
 description: ""
 third_nav_title: Information for Parents
 variant: tiptap
