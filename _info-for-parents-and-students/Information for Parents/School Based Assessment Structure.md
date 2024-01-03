@@ -5,14 +5,4 @@ description: ""
 third_nav_title: Information for Parents
 variant: tiptap
 ---
-# **School-Based Assessment Structure 2022**
-
-| Level | Term 1 | Term 2 | Term 3 | Term 4 |
-|:---:|:---:|:---:|:---:|:---:|
-| P1<br>(No Weight Assessments) | 0% | 0% | 0% | 0% |
-| P2<br>(No Weight Assessments) | 0% | 0% | 0% | 0% |
-| P3<br>(No Mid-Year Examination) | 0% | 15%<br>(Weighted Assessment) | 15%<br>(Weighted Assessment) | 70%<br>(End-of-Year Examination) |
-| P4<br>(No Mid-Year Examination) | 0% | 15%<br>(Weighted Assessment) | 15%<br>(Weighted Assessment) | 70%<br>(End-of-Year Examination) |
-| P5<br>(No Mid-Year Examination) | 0% | 15%<br>(Weighted Assessment) | 15%<br>(Weighted Assessment) | 70%<br>(End-of-Year Examination) |
-| P6<br>(No Mid-Year Examination) | 0% | 0% | 100%<br>(Preliminary Examination) | 0% |
-|  |  |  |  |  |
+<h1><strong>School-Based Assessment Structure 2024</strong></h1><table><tbody><tr><th rowspan="1" colspan="1"><p>Level</p></th><th rowspan="1" colspan="1"><p>Term 1</p></th><th rowspan="1" colspan="1"><p>Term 2</p></th><th rowspan="1" colspan="1"><p>Term 3</p></th><th rowspan="1" colspan="1"><p>Term 4</p></th></tr><tr><td rowspan="1" colspan="1"><p>P1<br>(No Weight Assessments)</p></td><td rowspan="1" colspan="1"><p>0%</p></td><td rowspan="1" colspan="1"><p>0%</p></td><td rowspan="1" colspan="1"><p>0%</p></td><td rowspan="1" colspan="1"><p>0%</p></td></tr><tr><td rowspan="1" colspan="1"><p>P2<br>(No Weight Assessments)</p></td><td rowspan="1" colspan="1"><p>0%</p></td><td rowspan="1" colspan="1"><p>0%</p></td><td rowspan="1" colspan="1"><p>0%</p></td><td rowspan="1" colspan="1"><p>0%</p></td></tr><tr><td rowspan="1" colspan="1"><p>P3<br>(No Mid-Year Examination)</p></td><td rowspan="1" colspan="1"><p>0%</p></td><td rowspan="1" colspan="1"><p>15%<br>(Weighted Assessment)</p></td><td rowspan="1" colspan="1"><p>15%<br>(Weighted Assessment)</p></td><td rowspan="1" colspan="1"><p>70%<br>(End-of-Year Examination)</p></td></tr><tr><td rowspan="1" colspan="1"><p>P4<br>(No Mid-Year Examination)</p></td><td rowspan="1" colspan="1"><p>0%</p></td><td rowspan="1" colspan="1"><p>15%<br>(Weighted Assessment)</p></td><td rowspan="1" colspan="1"><p>15%<br>(Weighted Assessment)</p></td><td rowspan="1" colspan="1"><p>70%<br>(End-of-Year Examination)</p></td></tr><tr><td rowspan="1" colspan="1"><p>P5<br>(No Mid-Year Examination)</p></td><td rowspan="1" colspan="1"><p>0%</p></td><td rowspan="1" colspan="1"><p>15%<br>(Weighted Assessment)</p></td><td rowspan="1" colspan="1"><p>15%<br>(Weighted Assessment)</p></td><td rowspan="1" colspan="1"><p>70%<br>(End-of-Year Examination)</p></td></tr><tr><td rowspan="1" colspan="1"><p>P6<br>(No Mid-Year Examination)</p></td><td rowspan="1" colspan="1"><p>0%</p></td><td rowspan="1" colspan="1"><p>0%</p></td><td rowspan="1" colspan="1"><p>100%<br>(Preliminary Examination)</p></td><td rowspan="1" colspan="1"><p>0%</p></td></tr><tr><td rowspan="1" colspan="1"><p></p></td><td rowspan="1" colspan="1"><p></p></td><td rowspan="1" colspan="1"><p></p></td><td rowspan="1" colspan="1"><p></p></td><td rowspan="1" colspan="1"><p></p></td></tr></tbody></table><p></p>
