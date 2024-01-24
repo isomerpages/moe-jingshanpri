@@ -1,0 +1,9 @@
+collections:
+  useful-links:
+    output: true
+    order:
+      - School Canteen Advertisement.md
+      - faq.md
+      - Links.md
+      - Feedback.md
+      - Contact Us.md

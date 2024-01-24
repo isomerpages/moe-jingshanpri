@@ -1,0 +1,18 @@
+collections:
+  info-for-parents-and-students:
+    output: true
+    order:
+      - Information for Parents and Students.md
+      - Information for Parents/.keep
+      - Information for Parents/Homework Policy.md
+      - Information for Parents/School Based Assessment Structure.md
+      - Information for Parents/Sexuality Education (for P5 & P6 Parents).md
+      - Information for Parents/SLS Support for Home Based Learning.md
+      - Information for Parents/PSLE Matters.md
+      - Information for Parents/Canteen Price List.md
+      - Information for Parents/Little Professors Student Care Centre.md
+      - Information for Parents/Textbook Matters.md
+      - Information for Parents/School Bus Service.md
+      - Information for Parents/School Uniform.md
+      - Information for Parents/eOpen House 2023 slides.md
+      - Information for Students.md
