@@ -2,86 +2,109 @@
 title: Information for Students
 permalink: /information-for-parents-and-students/information-for-students/
 description: ""
+variant: tiptap
 ---
-# **Information for Students**
-
-### Rules and Regulations
-
-All students must observe the following attire rule:-
-
-**F -** **Fingernails** must be kept short and clean.   
-**A -** **Attire** for school and PE must be the prescribed and no modifications to be made.   
-**S -** **Socks** and **shoes** must be black.   
-**H -** **Hair** must be neat and tidy. Unacceptable hairstyles or dyed/coloured hair are strictly prohibited.   
-**I -**  **Include** accessories and jewellery. Only black hair/darkblue accessories are allowed. Only a small, plain silver/gold pair of ear studs may be worn by the girls. Body jewellery and accessories such as nose studs or nose rings are not allowed.  
-**O -** **Overall** cleanliness.    
-**N -** **Nametag** must be attached to all uniforms and PE T-shirts.
-
-**Behaviour**
-
-Students must show respect, in speech and/or body language towards others.   
-
-Students must play their part in ensuring that the school is a conducive and safe environment for learning to take place.
-
-Students are not to cheat, forge signatures or make changes on consent forms, medical certificates or test papers.
-
-Students are to submit all homework and assignments on time.
-
-**Use of Technology**
-
-Students are only allowed to use their mobile devices in the classroom or specific areas in the school after they have sought their teacher’s permission.
-
-Unless specifically instructed by teachers, mobile devices are to be switched off and kept in school bags at these times:
-
-* **7.30 am - 1.30 pm**
-* **2.00 pm - 5.00 pm**
-
-Students should demonstrate respect for others and not use their mobile devices to bully, intimidate or harass other students.
-
-Students should exercise care and responsibility for school-owned mobile devices. 
-
-These devices are for learning and research purposes only.
-
-Students are only allowed to switch on their mobile devices in the canteen from 1.30 pm to 2.00 pm It is strictly for communication and not for playing games, surfing the internet or taking photographs.
-
-This restriction on the use of mobile devices also applies during school excursions, camps and CCAs.
-
-  
-
-**Exams**
-
-Orderliness and silence must be observed in the examination room.
-
-Students should ensure that mobile devices are not brought into the examination hall or classrooms. They have to surrender them before entering the examination venues. The mobile devices will only be returned after all the examinations have ended for the day.
-
-Cheating is a major and serious offence. Disciplinary action will be taken against candidates found cheating, attempting to cheat or helping others to cheat in an examination.
-
-
-### Thermometers
-
-This is a reminder for all pupils to bring your Oral Digital Thermometers (ODT) to school daily. The school will be conducting thermometer checks during morning assembly daily. Please check regularly that your ODT is working.  
-
-
-### Library Opening Hours
-
-Our Library is open during school term from Monday to Thursday, 7.30 am to 4.30 pm and 7.30 am to 4.00 pm on Friday.  
-
-During school holidays, please check with the General Office for the opening hours of the Library.
-
-  
-
-### Dental Clinic Opening Hours
-
-Our dental clinic's opening hours are as follows:
-
-<table style="border-collapse:collapse;border-spacing:0" class="tg"><thead><tr><th style="background-color:#103174;border-color:#002d13;border-style:solid;border-width:1px;color:#FFF;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">Day</th><th style="background-color:#103174;border-color:black;border-style:solid;border-width:1px;color:#FFF;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">Time</th></tr></thead><tbody><tr><td style="background-color:#FFE700;border-color:black;border-style:solid;border-width:1px;color:#222;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">Monday &amp; Thursday</td><td style="background-color:#FFE700;border-color:black;border-style:solid;border-width:1px;color:#222;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">8.00 am to 5.30 pm</td></tr><tr><td style="background-color:#FFF;border-color:black;border-style:solid;border-width:1px;color:#222;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">Friday</td><td style="background-color:#FFF;border-color:black;border-style:solid;border-width:1px;color:#58595B;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">8.00 am to 5.00 pm</td></tr></tbody></table>
-
-Please take note that the dental clinic will be closed during lunch time: **1 pm - 2 pm**.   
-
-Tel: 87647987
-
-### School Bookshop
-
-Our school bookshop's opening hours are as follows:    
-Monday to Friday: **9.00 am to 3.00 pm**      
-Tel/Fax: 6451 7450
+<h1><strong>Information for Students</strong></h1>
+<h3>Rules and Regulations</h3>
+<p>All students must observe the following attire rule:-</p>
+<p><strong>F -</strong>&nbsp;<strong>Fingernails</strong>&nbsp;must be kept
+short and clean.
+<br><strong>A -</strong>&nbsp;<strong>Attire</strong>&nbsp;for school and
+PE must be the prescribed and no&nbsp;modifications to be made.
+<br><strong>S -</strong>&nbsp;<strong>Socks</strong>&nbsp;and&nbsp;<strong>shoes</strong>&nbsp;must
+be black.
+<br><strong>H -</strong>&nbsp;<strong>Hair</strong>&nbsp;must be neat and
+tidy. Unacceptable hairstyles or dyed/coloured hair are strictly prohibited.
+<br><strong>I -</strong>&nbsp;&nbsp;<strong>Include</strong>&nbsp;accessories
+and jewellery. Only black hair/darkblue accessories are allowed. Only a&nbsp;small,
+plain silver/gold&nbsp;pair of ear studs may be worn by the girls. Body
+jewellery&nbsp;and accessories such as nose studs or nose rings are not&nbsp;allowed.
+<br><strong>O&nbsp;-</strong>&nbsp;<strong>Overall</strong>&nbsp;cleanliness.
+<br><strong>N -</strong>&nbsp;<strong>Nametag</strong>&nbsp;must be attached
+to all uniforms and PE T-shirts.</p>
+<p><strong>Behaviour</strong>
+</p>
+<p>Students must show respect, in speech and/or body language&nbsp;towards
+others.</p>
+<p>Students must play their part in ensuring that the school is a&nbsp;conducive
+and safe environment for learning to take place.</p>
+<p>Students are not to cheat, forge signatures or make changes on&nbsp;consent
+forms, medical certificates or test papers.</p>
+<p>Students are to submit all homework and assignments on time.</p>
+<p><strong>Use of Technology</strong>
+</p>
+<p>Our school policy on students' use of personal mobile devices (such as
+handphones and smart watches) is as follows. Please help us to guide and
+remind your child to comply with the rules.</p>
+<p>1) Students can bring a handphone / smart watch to school, after parents
+inform the school formally.</p>
+<p>2) Students who bring a handphone / smart watch to school are to be fully
+responsible for the safety and security of the handphone / smart watch.</p>
+<p>3) Throughout the school day, students are to switch off the handphone
+/ smart watch, unless otherwise instructed by teachers and school staff.</p>
+<p>4) Students can only use the handphone / smart watch after all activities
+have ended for the school day for the purpose of contacting their parents
+and family. They can do so only in the foyer.</p>
+<p>5) Students found using their handphones / smart watches during any learning
+activity (e.g. recess, classroom lesson, CCA session and academic support/enrichment
+lesson) without permission may have their handphones / smart watches confiscated
+as a disciplinary measure or for the purpose of investigation. The school
+will return the handphone / smart watch directly to the parents.</p>
+<p><strong>Exams</strong>
+</p>
+<p>Orderliness and silence must be observed in the examination room.</p>
+<p>Students should ensure that mobile devices are not brought into the&nbsp;examination
+hall or classrooms. They have to surrender them before&nbsp;entering the
+examination venues. The mobile devices will only be&nbsp;returned after
+all the examinations have ended for the day.</p>
+<p>Cheating is a major and serious offence. Disciplinary action will be&nbsp;taken
+against candidates found cheating, attempting to cheat or&nbsp;helping
+others to cheat in an examination.</p>
+<h3>Thermometers</h3>
+<p>This is a reminder for all pupils to bring your Oral Digital Thermometers
+(ODT) to school daily. The school will be conducting thermometer checks
+during morning assembly daily. Please check regularly that your ODT is
+working.</p>
+<h3>Library Opening Hours</h3>
+<p>Our Library is open during school term from Monday to Thursday, 7.30 am
+to 4.30 pm and 7.30 am to 4.00 pm on Friday.</p>
+<p>During school holidays, please check with the General Office for the opening
+hours of the Library.</p>
+<h3>Dental Clinic Opening Hours</h3>
+<p>Our dental clinic's opening hours are as follows:</p>
+<table>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p><strong>Day</strong>
+</p>
+</th>
+<th rowspan="1" colspan="1">
+<p><strong>Time</strong>
+</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Monday &amp; Thursday</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>8.00 am to 5.30 pm</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Friday</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>8.00 am to 5.00 pm</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p>Please take note that the dental clinic will be closed during lunch time:&nbsp;<strong>1 pm - 2 pm</strong>.&nbsp;</p>
+<p>Tel: 87647987</p>
+<h3>School Bookshop</h3>
+<p>Our school bookshop's opening hours are as follows:
+<br>Monday to Friday:&nbsp;<strong>9.00 am to&nbsp;3.00 pm</strong>
+<br>Tel/Fax: 6451 7450</p>
