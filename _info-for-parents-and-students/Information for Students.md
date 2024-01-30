@@ -5,8 +5,33 @@ description: ""
 variant: tiptap
 ---
 <h1><strong>Information for Students</strong></h1>
-<h3>Rules and Regulations</h3>
-<p>All students must observe the following attire rule:-</p>
+<h3>School Rules </h3>
+<ol data-tight="true" class="tight">
+<li>
+<p><strong>RESPECT AND DIGNITY</strong>
+</p>
+<p>1.1 Every student of Jing Shan Primary School must be respectful to everyone
+at all times. Students must show kindness in words and actions.</p>
+<p>1.2 Every student must conduct him/herself in a manner which upholds the
+good name of the school.</p>
+<p></p>
+</li>
+<li>
+<p>ATTENDANCE AND PUNCTUALITY</p>
+<p>2.1 Students must attend school regularly and punctually.</p>
+<p>2.2 Students must not leave the school grounds during the school day without
+permission.</p>
+<p>2.3 Students attending afternoon activities are not allowed to leave the
+school premises during the lunch</p>
+</li>
+<li>
+<p>NATIONAL ANTHEM AND PLEDGE</p>
+</li>
+<li>
+<p>ATTIRE AND APPERANCE</p>
+<p></p>
+</li>
+</ol>
 <p><strong>F -</strong>&nbsp;<strong>Fingernails</strong>&nbsp;must be kept
 short and clean.
 <br><strong>A -</strong>&nbsp;<strong>Attire</strong>&nbsp;for school and
@@ -106,5 +131,5 @@ hours of the Library.</p>
 <p>Tel: 87647987</p>
 <h3>School Bookshop</h3>
 <p>Our school bookshop's opening hours are as follows:
-<br>Monday to Friday:&nbsp;<strong>9.00 am to&nbsp;3.00 pm</strong>
+<br>Monday to Friday:&nbsp;<strong>9.00 am to&nbsp;3.00 pm</strong> 
 <br>Tel/Fax: 6451 7450</p>
