@@ -5,7 +5,7 @@ description: ""
 variant: tiptap
 ---
 <h1><strong>Information for Students</strong></h1>
-<h3>School Rules </h3>
+<h3>School Rules</h3>
 <ol data-tight="true" class="tight">
 <li>
 <p><strong>RESPECT AND DIGNITY</strong>
@@ -17,45 +17,78 @@ good name of the school.</p>
 <p></p>
 </li>
 <li>
-<p>ATTENDANCE AND PUNCTUALITY</p>
+<p><strong>ATTENDANCE AND PUNCTUALITY</strong>
+</p>
 <p>2.1 Students must attend school regularly and punctually.</p>
 <p>2.2 Students must not leave the school grounds during the school day without
 permission.</p>
 <p>2.3 Students attending afternoon activities are not allowed to leave the
-school premises during the lunch</p>
+school premises during the lunch break before the commencement of the afternoon
+activity.</p>
+<p></p>
 </li>
 <li>
-<p>NATIONAL ANTHEM AND PLEDGE</p>
+<p><strong>NATIONAL ANTHEM AND PLEDGE</strong>
+</p>
+<p>3.1 All students must display respectful behaviour during the singing
+of the National Anthem and the recitation of the National Pledge.</p>
+<p>3.2 Students who are Singapore Citizens must sing the National Anthem
+and take the pledge. Students will take the pledge with the right fist
+placed over the heart.</p>
+<p></p>
 </li>
 <li>
-<p>ATTIRE AND APPERANCE</p>
+<p><strong>ATTIRE AND APPEARANCE</strong>
+</p>
+<p>4.1 Students must wear the prescribed school uniform (as well as PE attire)
+and modification to the school uniform (as well as PE attire) is not allowed.</p>
+<p>4.2 Boys are neat in appearance and clean-shaven with no facial-hair.</p>
+<p>4.3 Students must not wear jewellery, accessories and make-up to school.
+Girls may wear one pair of small ear studs. Multiples ear studs on one
+ear are not allowed.</p>
+<p></p>
+</li>
+<li>
+<p><strong>PERSONAL ITEMS</strong>
+</p>
+<p>Students should not bring personal items that will cause distraction to
+themselves and others (e.g. toys and trading cards) to school on our own
+accord. Any student who does not follow the rule may have the items confiscated
+by the school as a disciplinary measure or for the purpose of investigation.</p>
+<p></p>
+</li>
+<li>
+<p><strong>SERIOUS OFFENCE</strong>
+</p>
+<p>6.1 Students are not allowed to have in their possession any weapon. They
+are also not allowed to bring any weapon-like item which is used or intended
+to be used to cause harm to others.</p>
+<p>6.2 All students carry out mindful practices and must not commit the following
+serious offences:</p>
+<p>a) Vandalism</p>
+<p>b) Fighting</p>
+<p>c) Assault</p>
+<p>d) Bullying</p>
+<p>e) Theft</p>
+<p>f) Forgery</p>
+<p>g) Cheating during a test or examination</p>
+<p>h) Setting off of fire alarm</p>
+<p>i) Arson</p>
+<p>j) Smoking</p>
+<p>k) Substance abuse</p>
+<p>l) Bringing of undesirable or banned items to school</p>
+<p>m) Altering or hacking of computer programs</p>
+<p>n) Surfing of undesirable websites or installation of undesirable software
+or programs</p>
+<p>o) Any other offence deemed serious by the School</p>
 <p></p>
 </li>
 </ol>
-<p><strong>F -</strong>&nbsp;<strong>Fingernails</strong>&nbsp;must be kept
-short and clean.
-<br><strong>A -</strong>&nbsp;<strong>Attire</strong>&nbsp;for school and
-PE must be the prescribed and no&nbsp;modifications to be made.
-<br><strong>S -</strong>&nbsp;<strong>Socks</strong>&nbsp;and&nbsp;<strong>shoes</strong>&nbsp;must
-be black.
-<br><strong>H -</strong>&nbsp;<strong>Hair</strong>&nbsp;must be neat and
-tidy. Unacceptable hairstyles or dyed/coloured hair are strictly prohibited.
-<br><strong>I -</strong>&nbsp;&nbsp;<strong>Include</strong>&nbsp;accessories
-and jewellery. Only black hair/darkblue accessories are allowed. Only a&nbsp;small,
-plain silver/gold&nbsp;pair of ear studs may be worn by the girls. Body
-jewellery&nbsp;and accessories such as nose studs or nose rings are not&nbsp;allowed.
-<br><strong>O&nbsp;-</strong>&nbsp;<strong>Overall</strong>&nbsp;cleanliness.
-<br><strong>N -</strong>&nbsp;<strong>Nametag</strong>&nbsp;must be attached
-to all uniforms and PE T-shirts.</p>
-<p><strong>Behaviour</strong>
-</p>
-<p>Students must show respect, in speech and/or body language&nbsp;towards
-others.</p>
-<p>Students must play their part in ensuring that the school is a&nbsp;conducive
-and safe environment for learning to take place.</p>
-<p>Students are not to cheat, forge signatures or make changes on&nbsp;consent
-forms, medical certificates or test papers.</p>
-<p>Students are to submit all homework and assignments on time.</p>
+<p><strong>CONSEQUENCES</strong>
+<br>School rules are for compliance. The consequences will be in accordance
+with the type and nature of the offence for students to work on his or
+her strengths and correct the misbehaviour.</p>
+<p></p>
 <p><strong>Use of Technology</strong>
 </p>
 <p>Our school policy on students' use of personal mobile devices (such as
