@@ -17,7 +17,7 @@ around them. The art club members in Jing Shan are given the opportunity
 to explore and experiment with different mediums in the making of art.
 It also takes into consideration the child's creative growth as it relates
 to his/her emotional, physical and intellectual development.</p>
-<p><strong>Objectives</strong>
+<p><strong>Objectives</strong> 
 <br>1. Explore and experiment materials and tool
 <br>2. Appraise every piece of artwork
 <br>3. Exposure to Art appreciation
@@ -80,8 +80,9 @@ environment.</p>
 </li>
 </ul>
 <h3>Modern Dance</h3>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/MODERN_DANCE_CCA_2024_School_Website.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/6_Feb_MODERN_DANCE_CCA.png">
 </div>
 <p>Our&nbsp;Modern Dance CCA aims to develop the physical skills and deportment
 of our students, as well as to build up their enthusiasm in the performing
@@ -91,7 +92,7 @@ in all performances. We believe with all these in place, our students will
 be better prepared to represent the school in future SYF. Our Modern Dance
 team was awarded the Certificate of Accomplishment in the Singapore Youth
 Festival (SYF) Arts Presentation in 2016.</p>
-<p><strong>Objectives</strong>
+<p><strong>Objectives</strong> 
 <br>1. To build up pupils’ enthusiasm in the performing arts
 <br>2. To instil teamwork and responsibility in each member
 <br>3. To prepare our pupils to represent the school in SYF, striving for
