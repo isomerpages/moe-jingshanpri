@@ -45,7 +45,7 @@ with a life-long passion for the game. We also hope to inculcate in every
 player, the importance of teamwork and respect. The CCA is open to all
 and students who show potential and good learning attitude may be selected
 to take part in external competitions.</p>
-<p><strong>Objectives</strong>
+<p><strong>Objectives</strong> 
 <br>1. To form a nucleus of players starting from P3 who will eventually be
 ready to represent the school in junior and senior tournaments.
 <br>2. To inculcate in players high levels of integrity and sportsmanship
@@ -99,8 +99,9 @@ CCA and competitions.</p>
 </li>
 </ul>
 <h3>Football</h3>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Football_CCA_2024_School_Website.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/6_Feb_Football_CCA.png">
 </div>
 <p><strong>Objectives</strong>
 </p>
