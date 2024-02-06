@@ -111,8 +111,9 @@ excellence in all performances and competitions.</p>
 </li>
 </ul>
 <h3>Cultural Dance</h3>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Cultural_Dance_CCA_2024_School_Website.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/6_Feb_Cultural_Dance_CCA.png">
 </div>
 <p>The JSPS Cultural Dance CCA aims to provide students with experiences
 to immerse themselves in the vast world of music and movement in global
