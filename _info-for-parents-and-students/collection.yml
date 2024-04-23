@@ -2,6 +2,7 @@ collections:
   info-for-parents-and-students:
     output: true
     order:
+      - Traffic Management Plan.md
       - Information for Parents and Students.md
       - Information for Parents/.keep
       - Information for Parents/Homework Policy.md
