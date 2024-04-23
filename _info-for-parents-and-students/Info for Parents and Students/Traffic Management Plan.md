@@ -37,7 +37,6 @@ and MK@JS)</p>
 <p>6.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; The Main Gate serves
 both vehicles and pedestrians while the Side Gate and Back Gate are for
 pedestrians only.</p>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 80%;" height="auto" width="100%" alt="" src="/images/Traffic management/map.png">
 </div>
@@ -226,7 +225,6 @@ Gate).</p>
 <p>10.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <u>Wet Weather Plan</u>: During inclement
 weather, vehicles will be allowed entry into the school, where students
 will alight at the foyer.</p>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 80%;" height="auto" width="100%" alt="" src="/images/Traffic management/wetweather.png">
 </div>
