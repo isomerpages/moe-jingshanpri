@@ -5,12 +5,8 @@ variant: tiptap
 description: ""
 third_nav_title: Info for Parents and Students
 ---
-<p><strong>JING SHAN PRIMARY SCHOOL</strong>
-</p>
-<p><strong>SCHOOL TRAFFIC MANAGEMENT PLAN 2024</strong>
-</p>
-<p><strong>Introduction</strong>
-</p>
+<h1><strong>School Traffic Management Plan 2024</strong></h1>
+<h2><strong>Introduction</strong></h2>
 <p><strong>&nbsp;</strong>
 </p>
 <p>1.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; We seek always to be
@@ -36,8 +32,7 @@ notifications to parents), so as to ensure the effective and safe management
 of vehicular and personnel movement.</p>
 <p><strong>&nbsp;</strong>
 </p>
-<p><strong>Operating Hours of Gates</strong>
-</p>
+<h2><strong>Operating Hours of Gates</strong></h2>
 <p><strong>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</strong>
 </p>
 <p>5.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Commuters can gain
@@ -46,18 +41,13 @@ access into the school premises via the following ways:</p>
 Post)</p>
 <p>b)&nbsp;&nbsp;&nbsp; Side Gate – Appreciation Gate (Leading to School
 Canteen)</p>
-<p>c)&nbsp;&nbsp;&nbsp;&nbsp; Back Gate – Creativity Gate (Beside School
-Field and MK@JS)</p>
-<p>&nbsp;</p>
+<p>c)&nbsp;&nbsp;&nbsp;&nbsp;Back Gate – Creativity Gate (Beside School Field
+and MK@JS)</p>
+<p></p>
 <p>6.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; The Main Gate serves
 both vehicles and pedestrians while the Side Gate and Back Gate are for
 pedestrians only.</p>
 <p></p>
-<p>
-<br>
-</p>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
 <table>
 <tbody>
 <tr>
@@ -121,8 +111,7 @@ premises via Main Gate (Motivation Gate) for visitor registration.</p>
 </p>
 <p><strong>&nbsp;</strong>
 </p>
-<p><strong>Routes for Vehicles</strong>
-</p>
+<h2><strong>Routes for Vehicles</strong></h2>
 <p><u>&nbsp;</u>
 </p>
 <p>7.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Given the young age
@@ -232,8 +221,7 @@ be given to the school buses to move off. Parents who wish to drive into
 the school would only be allowed entry about 15 minutes after dismissal
 (i.e. after 1.45pm).</p>
 <p>&nbsp;</p>
-<p><strong>Safe Routes for Pedestrians</strong>
-</p>
+<h2><strong>Safe Routes for Pedestrians</strong></h2>
 <p><strong>&nbsp;</strong>
 </p>
 <p>12.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Staff and students who walk to school
@@ -250,22 +238,38 @@ to their destination.</p>
 <p>&nbsp;</p>
 <p>15.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; As pedestrians, students are reminded
 to adhere to the following:</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Remain vigilant at all times.</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Always use a designated crossing
-such as traffic lights and zebra crossing.&nbsp;</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Practise the kerb drill.</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; At the traffic junction, cross the
-road only when the green man is shown. Do not cross the road when the green
-man is blinking.</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Always walk on the pavement and
-footpath. Do not walk on the road.</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Do not play by the side of the road.</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Do not be distracted when walking
-and/or crossing the road (e.g. do not use mobile phone and do not read)</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Raise their hand when crossing the
-road to signal to the driver.</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Remind other students to observe
-traffic rules and practise good road safety habits.</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Remain vigilant at all times.</p>
+</li>
+<li>
+<p>Always use a designated crossing such as traffic lights and zebra crossing.&nbsp;</p>
+</li>
+<li>
+<p>Practise the kerb drill.</p>
+</li>
+<li>
+<p>At the traffic junction, cross the road only when the green man is shown.
+Do not cross the road when the green man is blinking.</p>
+</li>
+<li>
+<p>Always walk on the pavement and footpath. Do not walk on the road.</p>
+</li>
+<li>
+<p>Do not play by the side of the road.</p>
+</li>
+<li>
+<p>Do not be distracted when walking and/or crossing the road (e.g. do not
+use mobile phone and do not read)</p>
+</li>
+<li>
+<p>Raise their hand when crossing the road to signal to the driver.</p>
+</li>
+<li>
+<p>Remind other students to observe traffic rules and practise good road
+safety habits.</p>
+</li>
+</ul>
 <p>&nbsp;</p>
 <p>&nbsp;</p>
 <p>&nbsp;</p>
