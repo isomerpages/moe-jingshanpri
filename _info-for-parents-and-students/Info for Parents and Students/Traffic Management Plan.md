@@ -39,7 +39,7 @@ both vehicles and pedestrians while the Side Gate and Back Gate are for
 pedestrians only.</p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%;" height="auto" width="100%" alt="" src="/images/Traffic management/map.png">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/Traffic management/map.png">
 </div>
 <table>
 <tbody>
@@ -228,7 +228,7 @@ weather, vehicles will be allowed entry into the school, where students
 will alight at the foyer.</p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%;" height="auto" width="100%" alt="" src="/images/Traffic management/wetweather.png">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/Traffic management/wetweather.png">
 </div>
 <p>11.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <u>During Dismissal</u>: Priority will
 be given to the school buses to move off. Parents who wish to drive into
