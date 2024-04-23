@@ -3,7 +3,6 @@ collections:
     output: true
     order:
       - Traffic Management/.keep
-      - Information for Parents and Students.md
       - Information for Parents/.keep
       - Information for Parents/Homework Policy.md
       - Information for Parents/School Based Assessment Structure.md
