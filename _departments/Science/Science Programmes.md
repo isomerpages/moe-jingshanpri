@@ -61,8 +61,8 @@ the contextual theme of “Sustainability”.</p>
 <p>Through the ALP, JingShanites can apply their Science knowledge in novel
 situations related to environment sustainability, providing opportunities
 to develop their inventive thinking and entrepreneurial spirit, while boosting
-their creative thinking abilities. The ALP modules also incorporate design
-thinking principles. Students use their creativity to develop solutions
+their creative thinking abilities. The ALP modules also incorporate opportunities
+to learn design skills. Students use their creativity to develop solutions
 that are eco-friendly and kind to the environment.</p>
 <h3><strong>STEM Playground Challenges</strong></h3>
 <p>The STEM Playground Challenges, organised by the Singapore Science Centre,
