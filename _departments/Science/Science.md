@@ -57,10 +57,15 @@ and daily school experiences.</p>
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Science/sci_boy_girl_cartoon.png">
 </div>
 <p></p>
-<p>Learn more about the Science curriculum in JS:</p>
+<p>Learn more about the Science curriculum in JSPS:</p>
 <ul data-tight="true" class="tight">
 <li>
-<p></p>
+<p><a href="/the-js-experience/departments/science/science-programmes/" rel="noopener noreferrer nofollow" target="_blank">Science Programmes</a>
+</p>
+</li>
+<li>
+<p><a href="/the-js-experience/departments/science/science-ecogarden/" rel="noopener noreferrer nofollow" target="_blank">Science Ecogarden</a>
+</p>
 </li>
 </ul>
 <p></p>
