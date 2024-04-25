@@ -64,7 +64,7 @@ and daily school experiences.</p>
 </p>
 </li>
 <li>
-<p><a href="https://staging-lite.d249fl6cvg7trw.amplifyapp.com/the-js-experience/departments/science/science-ecogarden" rel="noopener noreferrer nofollow" target="_blank"><u>Science Ecogarden</u></a>
+<p><a href="/the-js-experience/departments/science/science-ecogarden/" rel="noopener noreferrer nofollow" target="_blank"><u>Science Ecogarden</u></a>
 </p>
 </li>
 </ol>
