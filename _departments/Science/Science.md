@@ -56,16 +56,4 @@ and daily school experiences.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Science/sci_boy_girl_cartoon.png">
 </div>
-<hr>
-<p>Find out more about our Science Curriculum here</p>
-<ol data-tight="true" class="tight">
-<li>
-<p><a href="/the-js-experience/departments/science/science-programmes/" rel="noopener noreferrer nofollow" target="_blank"><u>Science Programmes</u></a>
-</p>
-</li>
-<li>
-<p><a href="/the-js-experience/departments/science/science-ecogarden/" rel="noopener noreferrer nofollow" target="_blank"><u>Science Ecogarden</u></a>
-</p>
-</li>
-</ol>
-<p></p>
+<p>Test content</p>
