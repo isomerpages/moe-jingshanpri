@@ -5,7 +5,7 @@ description: ""
 third_nav_title: Science
 variant: tiptap
 ---
-<h1><strong>Developing Curious Young Scienists</strong></h1>
+<h1><strong>Developing Curious Young Scientists</strong></h1>
 <p>In alignment with the school vision, we envision every JingShanite to
 be a Young Scientist who is curious and passionate about learning Science;
 applies skills and processes in scientific inquiry and demonstrates conceptual
@@ -53,4 +53,16 @@ the opportunity to develop and demonstrate these scientific mental attitudes
 in lab work and problem-solving tasks. &nbsp;The value of being responsible
 stewards of a sustainable environment is also inculcated through lessons
 and daily school experiences.</p>
+<hr>
+<p>Find out more about our Science Curriculum here:</p>
+<ol data-tight="true" class="tight">
+<li>
+<p><a href="https://staging-lite.d249fl6cvg7trw.amplifyapp.com/the-js-experience/departments/science/science-programmes" rel="noopener noreferrer nofollow" target="_blank"><u>Science Programmes</u></a>
+</p>
+</li>
+<li>
+<p><a href="https://staging-lite.d249fl6cvg7trw.amplifyapp.com/the-js-experience/departments/science/science-ecogarden" rel="noopener noreferrer nofollow" target="_blank"><u>Science Ecogarden</u></a>
+</p>
+</li>
+</ol>
 <p></p>
