@@ -5,6 +5,7 @@ description: ""
 third_nav_title: Science
 variant: tiptap
 ---
+<h1>Signature Programmes for Science Learning</h1>
 <p>JingShanites go through a wide variety of classroom and out-of-classroom
 experiences that provides context and brings to life what they learn in
 Science.</p>
