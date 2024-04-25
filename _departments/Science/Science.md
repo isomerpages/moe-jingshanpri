@@ -58,4 +58,9 @@ and daily school experiences.</p>
 </div>
 <p></p>
 <p>Learn more about the Science curriculum in JS:</p>
+<ul data-tight="true" class="tight">
+<li>
+<p></p>
+</li>
+</ul>
 <p></p>
