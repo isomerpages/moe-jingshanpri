@@ -18,6 +18,11 @@ analysis and communication of findings; students are able to hone their
 reasoning, decision-making and creativity to hone their skills in creative
 problem-solving, decision making and investigation to solve real-world
 problems.</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/Science/sci_lab_work.jpg">
+</div>
+<h3></h3>
 <h3><strong>Technology-enhanced Learning</strong></h3>
 <p>Students are given the opportunity to learn at their own pace through
 the use of ICT tools. The <a href="https://www.learning.moe.edu.sg/" rel="noopener noreferrer nofollow" target="_blank">Student Learning Space</a> (SLS)
@@ -29,6 +34,7 @@ collaboration and peer learning among students through the affordances
 of ICT tools.</p>
 <p>Students are also exposed to the use of dataloggers, as part of developing
 skills like data analysis and interpretation.</p>
+<p></p>
 <h3><strong>Science Journaling</strong></h3>
 <p>Every JingShanite keeps a science journal to record their observations
 and notes on the topics they are studying. Journaling allows students to
