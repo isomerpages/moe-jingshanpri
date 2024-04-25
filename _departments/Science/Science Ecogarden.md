@@ -24,7 +24,7 @@ information about the plants, courtesy of the Nparks website.</p>
 to a wide spectrum of botanical wonders, each with its own distinctive
 characteristics. From aquatic plants to medicinal herbs, climbers to flowering
 marvels, the Ecogarden boasts a diverse ensemble of plant life. This carefully
-crafted ecosystem provides a captivating backdrop for observing the intricate
+crafted ecosystem provides opportunities for students to observe the intricate
 interactions between flora and fauna.</p>
 <p>Overall, the Science Ecogarden stands as a testament to our commitment
 to environmental education and experiential learning. It invites students
