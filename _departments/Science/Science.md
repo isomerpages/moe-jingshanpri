@@ -53,6 +53,9 @@ the opportunity to develop and demonstrate these scientific mental attitudes
 in lab work and problem-solving tasks. &nbsp;The value of being responsible
 stewards of a sustainable environment is also inculcated through lessons
 and daily school experiences.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Science/sci_boy_girl_cartoon.png">
+</div>
 <hr>
 <p>Find out more about our Science Curriculum here:</p>
 <ol data-tight="true" class="tight">
