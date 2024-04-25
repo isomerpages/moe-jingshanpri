@@ -14,15 +14,16 @@ and shows care and concern for living things and the environment.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Science%20050720.jpg">
 </div>
-<p>The JS Science curriculum is designed to provide opportunities to acquire
-scientific knowledge, develop scientific practices, and to instil values,
-ethics and attitudes that are essential to the scientific endeavour in
-our students. Emphasis is placed on the application of concepts to real
-life situations, inculcating a positive learning attitude and the development
-of reasoning and communication skills, metacognition, and creative problem-solving
-skills.&nbsp;These learning experiences tap on the students’ curiosity
-for learning, improving their intrinsic motivation to become independent
-learners.</p>
+<p>The JS Science curriculum is designed to provide opportunities for our
+students to acquire scientific knowledge, develop scientific practices,
+and to instil values, ethics and attitudes that are essential to the scientific
+endeavour in our students. Emphasis is placed on the application of concepts
+to real life situations, inculcating a positive learning attitude and the
+development of <a href="https://www.moe.gov.sg/education-in-sg/21st-century-competencies" rel="noopener noreferrer nofollow" target="_blank">21st Century Competencies</a> (21CC)
+such as Critical and Inventive Thinking, and Communication, Collaboration
+and Information Skills.&nbsp;These learning experiences tap on the students’
+curiosity for learning, improving their intrinsic motivation to become
+independent learners.</p>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 80%;" height="auto" width="100%" alt="" src="/images/Science/sci_hero_pic_1.jpg">
