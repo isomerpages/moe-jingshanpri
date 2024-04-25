@@ -56,4 +56,6 @@ and daily school experiences.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Science/sci_boy_girl_cartoon.png">
 </div>
-<p>Test content</p>
+<p></p>
+<p>Learn more about the Science curriculum in JS:</p>
+<p></p>
