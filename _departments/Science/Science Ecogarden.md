@@ -5,8 +5,7 @@ description: ""
 third_nav_title: Science
 variant: tiptap
 ---
-<h1><strong>Science Ecogarden</strong></h1>
-<h3>Introduction</h3>
+<h2>Introduction</h2>
 <p>The Science Ecogarden, nestled within the classroom block (Block C) of
 our school, is a vibrant oasis of greenery and life. Situated near the
 Ang Mo Kio Town Garden East, it enjoys frequent visits from a variety of
@@ -18,6 +17,7 @@ insects and other animals, contributing to the flourishing ecosystem within.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 80%;" height="auto" width="100%" alt="" src="/images/Science/Ecogarden/ecogarden_pond.jpg">
 </div>
+<h2>An Outdoor Classroom</h2>
 <p>Beyond its role in enhancing the school's aesthetics, the Ecogarden serves
 as an invaluable outdoor classroom. It provides students with a unique
 opportunity to engage with and appreciate the rich diversity of plants
@@ -38,6 +38,7 @@ information about the plants.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 80%;" height="auto" width="100%" alt="" src="/images/Science/Ecogarden/ecogarden_qrcode.jpg">
 </div>
+<h2>Diversity of Learning Opportunities</h2>
 <p>Our selection of plants has been meticulously curated to expose students
 to a wide spectrum of botanical wonders, each with its own distinctive
 characteristics. From aquatic plants to medicinal herbs, climbers to flowering
