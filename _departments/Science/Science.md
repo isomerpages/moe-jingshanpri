@@ -56,7 +56,7 @@ and daily school experiences.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Science/sci_boy_girl_cartoon.png">
 </div>
-<p></p>
+<hr>
 <p>Learn more about the Science curriculum in JSPS:</p>
 <ul data-tight="true" class="tight">
 <li>
