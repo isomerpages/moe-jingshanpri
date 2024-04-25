@@ -60,7 +60,7 @@ and daily school experiences.</p>
 <p>Find out more about our Science Curriculum here:</p>
 <ol data-tight="true" class="tight">
 <li>
-<p><a href="https://staging-lite.d249fl6cvg7trw.amplifyapp.com/the-js-experience/departments/science/science-programmes" rel="noopener noreferrer nofollow" target="_blank"><u>Science Programmes</u></a>
+<p><a href="/the-js-experience/departments/science/science-programmes/" rel="noopener noreferrer nofollow" target="_blank"><u>Science Programmes</u></a>
 </p>
 </li>
 <li>
