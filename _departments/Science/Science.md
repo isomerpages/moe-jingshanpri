@@ -5,7 +5,7 @@ description: ""
 third_nav_title: Science
 variant: tiptap
 ---
-<h1><strong>Developing Curious Young Scientists</strong></h1>
+<h1>Developing Curious Young Scientists</h1>
 <p>In alignment with the school vision, we envision every JingShanite to
 be a Young Scientist who is curious and passionate about learning Science;
 applies skills and processes in scientific inquiry and demonstrates conceptual
@@ -33,20 +33,20 @@ independent learners.</p>
 pedagogical approach in the teaching of Science that develops the (1) Core
 Ideas (2) Skills and Processes, and (3) Ethics and Attitudes domains in
 students:</p>
-<h3><strong>Core Ideas</strong></h3>
+<h3>Core Ideas</h3>
 <p>Teachers use the 3C (Capture, Construct, Consolidation) Pedagogical Framework<strong> </strong>to
 design their science lessons, providing coherence and connections across
 the different instructional activities. This is supplemented with key learning
 experiences such as project work and learning journeys that enriches the
 learning experience and provide opportunities for students to apply the
 knowledge learnt.</p>
-<h3><strong>Practices</strong></h3>
+<h3>Practices</h3>
 <p>Students are provided opportunities for students to develop scientific
 practices through activities such as lab work, research work and problem-solving
 tasks. Teachers advocate and model the use of approaches such as Claim-Evidence-Reasoning
 and Visible Thinking routines to further develop student’s critical thinking
 skills.</p>
-<h3><strong>Values, Ethics and Attitudes</strong></h3>
+<h3>Values, Ethics and Attitudes</h3>
 <p>In all scientific inquiry, the adoption of certain mental attitudes such
 as Curiosity, Creativity, Integrity, Objectivity, Openmindedness, Resilience,
 Responsibility and Healthy Scepticism are advocated. Students are given
@@ -58,6 +58,7 @@ and daily school experiences.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 75%;" height="auto" width="100%" alt="" src="/images/Science/sci_boy_girl_cartoon.png">
 </div>
+<h2>Learn More</h2>
 <p>Learn more about the Science curriculum in JSPS:</p>
 <ul data-tight="true" class="tight">
 <li>
