@@ -59,7 +59,7 @@ and daily school experiences.</p>
 <img style="width: 75%;" height="auto" width="100%" alt="" src="/images/Science/sci_boy_girl_cartoon.png">
 </div>
 <h2>Learn More</h2>
-<p>Learn more about the Science curriculum in JSPS:</p>
+<p>Learn more about the Science curriculum:</p>
 <ul data-tight="true" class="tight">
 <li>
 <p><a href="/the-js-experience/departments/science/science-programmes/" rel="noopener noreferrer nofollow" target="_blank">Science Programmes</a>
