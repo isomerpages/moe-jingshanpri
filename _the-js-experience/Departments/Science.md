@@ -58,6 +58,7 @@ and daily school experiences.</p>
 <img style="width: 80%;" height="auto" width="100%" alt="" src="/images/Science/sci_boy_girl_cartoon.png">
 </div>
 <h2>Find out more</h2>
+<p>Find out more about our science curriculum:</p>
 <ul data-tight="true" class="tight">
 <li>
 <p><a href="/the-js-experience/departments/science/science-programmes" rel="noopener noreferrer nofollow" target="_blank">Science programmes</a>
