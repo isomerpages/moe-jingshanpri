@@ -4,7 +4,6 @@ collections:
     order:
       - English.md
       - Mathematics.md
-      - Science/Science (new).md
       - Science/.keep
       - Science/Science.md
       - Science/Science Programmes.md
