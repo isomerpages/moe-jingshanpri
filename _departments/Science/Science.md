@@ -31,10 +31,9 @@ independent learners.</p>
 <h2>Pedagogical Approach</h2>
 <p>JSPS adopts&nbsp;an <strong>Inquiry-based approach </strong>as a thoughtful
 pedagogical approach in the teaching of Science that develops the (1) Core
-Ideas (2) Skills and Processes, and (3) Ethics and Attitudes domains in
-students:</p>
+Ideas (2) Practice, and (3) Values, Ethics and Attitudes domains in students:</p>
 <h3>Core Ideas</h3>
-<p>Teachers use the 3C (Capture, Construct, Consolidation) Pedagogical Framework<strong> </strong>to
+<p>Teachers use the 3C (Capture, Construct, Consolidation) pedagogical framework<strong> </strong>to
 design their science lessons, providing coherence and connections across
 the different instructional activities. This is supplemented with key learning
 experiences such as project work and learning journeys that enriches the
@@ -59,7 +58,7 @@ and daily school experiences.</p>
 <img style="width: 75%;" height="auto" width="100%" alt="" src="/images/Science/sci_boy_girl_cartoon.png">
 </div>
 <h2>Learn More</h2>
-<p>Learn more about the Science curriculum in JSPS:</p>
+<p>Learn more about the Science curriculum:</p>
 <ul data-tight="true" class="tight">
 <li>
 <p><a href="/the-js-experience/departments/science/science-programmes/" rel="noopener noreferrer nofollow" target="_blank">Science Programmes</a>

@@ -53,8 +53,19 @@ the opportunity to develop and demonstrate these scientific mental attitudes
 in lab work and problem-solving tasks. &nbsp;The value of being responsible
 stewards of a sustainable environment is also inculcated through lessons
 and daily school experiences.</p>
-<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Science/sci_boy_girl_cartoon.png">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/Science/sci_boy_girl_cartoon.png">
 </div>
+<h2>Find out more</h2>
+<p>Find out more about our science curriculum:</p>
+<ul data-tight="true" class="tight">
+<li>
+<p><a href="/the-js-experience/departments/science/science-programmes" rel="noopener noreferrer nofollow" target="_blank">Science programmes</a>
+</p>
+</li>
+<li>
+<p><a href="/the-js-experience/departments/science/science-ecogarden/" rel="noopener noreferrer nofollow" target="_blank">Science ecogarden</a>
+</p>
+</li>
+</ul>
 <p></p>
