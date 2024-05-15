@@ -5,7 +5,7 @@ description: ""
 third_nav_title: Departments
 variant: tiptap
 ---
-<h1>Developing Curious Young Scientists</h1>
+<h1>Developing Curious Young Scientists (JS Exp)</h1>
 <p>In alignment with the school vision, we envision every JingShanite to
 be a Young Scientist who is curious and passionate about learning Science;
 applies skills and processes in scientific inquiry and demonstrates conceptual
