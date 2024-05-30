@@ -6,7 +6,7 @@ third_nav_title: Information for Parents
 variant: tiptap
 ---
 <h1><strong>Canteen Food Pricelist</strong></h1>
-<p><strong>(Prices of food items w.e.f. 7 Jun 2024)</strong>
+<p><strong>(Prices of food items w.e.f. 28 Dec 2023)</strong>
 </p>
 <p>Click on the respective links below each stall to download the price list
 (PDF format).</p>
