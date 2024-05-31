@@ -20,7 +20,7 @@ variant: tiptap
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Canteen stall/STALL_2_JSPS.jpg">
 </div>
-<p><a href="/files/Canteen stall prices/stall_2 2024.pdf" rel="noopener noreferrer nofollow" target="_blank">Stall 2 Price List</a>
+<p><a href="/files/Canteen stall prices/stall_2_copy_of_canteen_menus_n_price_lists_2024__caa_7_may_2024.pdf" rel="noopener noreferrer nofollow" target="_blank">Stall 2 Price List</a>
 </p>
 <h3>Stall 3</h3>
 <div class="isomer-image-wrapper">
