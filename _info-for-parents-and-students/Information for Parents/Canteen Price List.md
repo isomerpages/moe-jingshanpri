@@ -14,7 +14,7 @@ variant: tiptap
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Stall%201.jpg">
 </div>
-<p><a href="/files/Canteen stall prices/Stall_1_Menu_and_Prices.pdf" rel="noopener noreferrer nofollow" target="_blank">Stall 1 Price List</a>
+<p><a href="/files/Canteen stall prices/stall_1_copy_of_canteen_menus_n_price_lists_2024__caa_7_may_2024.pdf" rel="noopener noreferrer nofollow" target="_blank">Stall 1 Price List</a>
 </p>
 <h3>Stall 2</h3>
 <div class="isomer-image-wrapper">
