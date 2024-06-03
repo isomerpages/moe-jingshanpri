@@ -26,16 +26,13 @@ variant: tiptap
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Stall%203.jpg">
 </div>
-<p><a href="/files/Canteen stall prices/Stall_3_Menu_and_Prices.pdf" rel="noopener noreferrer nofollow" target="_blank">Stall 3 P</a>
-<a href="/files/Canteen stall prices/stall_3_copy_of_canteen_menus_n_price_lists_2024__caa_7_may_2024.pdf" rel="noopener noreferrer nofollow" target="_blank">r</a><a href="/files/Canteen stall prices/Copy_of_Canteen_Menus_n_Price_Lists_2024__caa_7_May_2024_Stall_3.pdf" rel="noopener noreferrer nofollow" target="_blank">ic</a>
-<a href="/files/Canteen stall prices/Stall_3_Menu_and_Prices.pdf" rel="noopener noreferrer nofollow" target="_blank">e List</a>
+<p><a href="/files/Canteen stall prices/stall_3_copy_of_canteen_menus_n_price_lists_2024__caa_7_may_2024.pdf" rel="noopener noreferrer nofollow" target="_blank">Stall 3 Price List</a>
 </p>
 <h3>Stall 5</h3>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Stall%205.jpeg">
 </div>
-<p><a href="/files/Canteen stall prices/Stall_5_Menu_and_Prices.pdf" rel="noopener noreferrer nofollow" target="_blank">Stall 5 </a>
-<a href="/files/Canteen stall prices/stall_5_copy_of_canteen_menus_n_price_lists_2024__caa_7_may_2024.pdf" rel="noopener noreferrer nofollow" target="_blank">Price</a><a href="/files/Canteen stall prices/Stall_5_Menu_and_Prices.pdf" rel="noopener noreferrer nofollow" target="_blank">List</a>
+<p><a href="/files/Canteen stall prices/stall_5_copy_of_canteen_menus_n_price_lists_2024__caa_7_may_2024.pdf" rel="noopener noreferrer nofollow" target="_blank">Stall 5 Price List</a>
 </p>
 <h3>Stall 6</h3>
 <div class="isomer-image-wrapper">
