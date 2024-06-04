@@ -19,6 +19,15 @@ sections:
           description: Click here for more
           url: /quicklinks/for-students/
   - infopic:
+      title: Registration
+      subtitle: JS E-OPEN HOUSE 2024
+      id: infopic
+      description: Click below to register
+      button: Registration
+      url: https://form.gov.sg/664475819d45a78033997040
+      image: /images/jsps e-open house 2024.jpg
+      alt: Image alt text
+  - infopic:
       title: Presentation slides for e-Open House
       subtitle: JS e-Open House 2023
       description: Download the slides for the Principal's address and the Lower
