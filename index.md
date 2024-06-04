@@ -25,7 +25,7 @@ sections:
       description: Click below to register
       button: Registration
       url: https://form.gov.sg/664475819d45a78033997040
-      image: /images/WhatsApp_Image_2024_05_31_at_10_16_49_AM.jpg
+      image: /images/jsps e-open house 2024.jpg
       alt: Image alt text
   - infopic:
       title: Presentation slides for e-Open House
