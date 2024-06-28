@@ -101,10 +101,10 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mdm Teo Bee Khim</p>
+<p>Mrs Martin Christina Jennifer</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>teo_bee_khim@schools.gov.sg</p>
+<p>martin_christina_jennifer@schools.gov.sg</p>
 </td>
 </tr>
 <tr>
