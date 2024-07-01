@@ -57,6 +57,17 @@ variant: tiptap
 <p>junice_khng_kai_en@schools.gov.sg</p>
 </td>
 </tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Bai Huixin</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Senior SEN (Special Educational Needs) Officer</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>bai_huixin@schools.gov.sg</p>
+</td>
+</tr>
 </tbody>
 </table>
 <p></p>
