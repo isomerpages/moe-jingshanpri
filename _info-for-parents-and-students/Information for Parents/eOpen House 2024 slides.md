@@ -14,7 +14,7 @@ third_nav_title: Information for Parents
 </p>
 </li>
 <li>
-<p><a href="/files/EOpen House 2024/2024_0710_JS_e_Open_House_2024_Life_of_a_P1_JingShanite_by_YH.pdf" rel="noopener noreferrer nofollow" target="_blank">Year Head's Sharing: "Life of a P1 JingShanite"</a>
+<p><a href="/files/EOpen House 2024/2024_0710_JS_e_Open_House_2024_Life_of_a_P1_JingShanite_by_YH.pdf" rel="noopener noreferrer nofollow" target="_blank">Year Head's Sharing: "Life as a P1 JingShanite"</a>
 </p>
 </li>
 </ul>
