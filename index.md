@@ -19,23 +19,15 @@ sections:
           description: Click here for more
           url: /quicklinks/for-students/
   - infopic:
-      title: Registration
+      title: Download sharing slides
       subtitle: JS E-OPEN HOUSE 2024
       id: infopic
-      description: Click below to register
-      button: Registration
-      url: https://form.gov.sg/664475819d45a78033997040
+      description: Thank you for attending the e-Open House held on 10 July 2024.
+        Click on the link below to download slides from the session.
+      button: Download sharing slides
+      url: /eopen-house-2024-slides/
       image: /images/jsps e-open house 2024.jpg
       alt: Image alt text
-  - infopic:
-      title: Presentation slides for e-Open House
-      subtitle: JS e-Open House 2023
-      description: Download the slides for the Principal's address and the Lower
-        School Year Head's address.
-      button: Download here
-      alt: JS e-open house poster
-      url: /info-for-parents-and-students/information-for-parents/eopenhse23/
-      image: /images/js open house 2023.jpeg
   - infopic:
       title: Facebook
       subtitle: Follow us on
