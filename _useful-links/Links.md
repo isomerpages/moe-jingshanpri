@@ -2,14 +2,66 @@
 title: Links
 permalink: /useful-links/links/
 description: ""
+variant: tiptap
 ---
-# **Links**
-### Ministry of Education Websites
-
-
-
-
-
-
-
-<table style="border-collapse:collapse;border-spacing:0" class="tg"><thead><tr><th style="background-color:#E8EDFF;border-color:#002d13;border-style:solid;border-width:1px;color:#222;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:middle;word-break:normal"><span style="color:#222">MOE Website</span></th><th style="background-color:#E8EDFF;border-color:black;border-style:solid;border-width:1px;color:#21088A;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:left;text-decoration:underline;vertical-align:top;word-break:normal"><a href="http://www.moe.gov.sg/"><span style="font-weight:500;text-decoration:underline;color:#21088A">http://www.moe.gov.sg</span></a></th></tr></thead><tbody><tr><td style="background-color:#E8EDFF;border-color:black;border-style:solid;border-width:1px;color:#222;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:middle;word-break:normal"><span style="color:#222">School Information Service</span></td><td style="background-color:#E8EDFF;border-color:black;border-style:solid;border-width:1px;color:#21088A;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:left;text-decoration:underline;vertical-align:top;word-break:normal"><a href="http://sis.moe.gov.sg/"><span style="font-weight:500;text-decoration:underline;color:#21088A">http://sis.moe.gov.sg/</span></a></td></tr><tr><td style="background-color:#E8EDFF;border-color:black;border-style:solid;border-width:1px;color:#222;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:middle;word-break:normal"><span style="color:#222">Parents in Education (PiE)</span></td><td style="background-color:#E8EDFF;border-color:black;border-style:solid;border-width:1px;color:#21088A;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:left;text-decoration:underline;vertical-align:top;word-break:normal"><a href="http://parents-in-education.moe.gov.sg/" target="_blank" rel="noopener noreferrer"><span style="font-weight:500;text-decoration:underline;color:#21088A">http://parents-in-education.moe.gov.sg/</span></a></td></tr><tr><td style="background-color:#E8EDFF;border-color:black;border-style:solid;border-width:1px;color:#222;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:middle;word-break:normal"><span style="color:#222">Schoolbag – online blog for parents</span></td><td style="background-color:#E8EDFF;border-color:black;border-style:solid;border-width:1px;color:#21088A;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:left;text-decoration:underline;vertical-align:top;word-break:normal"><a href="http://schoolbag.sg/" target="_blank" rel="noopener noreferrer"><span style="font-weight:500;text-decoration:underline;color:#21088A">http://schoolbag.sg</span></a><br><br><img src="/images/schoolbag1.jpg" style="width:25%"><br></td></tr><tr><td style="background-color:#E8EDFF;border-color:black;border-style:solid;border-width:1px;color:#222;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:middle;word-break:normal"><span style="color:#222">MOE Facebook page</span></td><td style="background-color:#E8EDFF;border-color:black;border-style:solid;border-width:1px;color:#21088A;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:left;text-decoration:underline;vertical-align:top;word-break:normal"><a href="http://www.facebook.com/moesingapore"><span style="font-weight:500;text-decoration:underline;color:#21088A">http://www.facebook.com/moesingapore</span></a></td></tr><tr><td style="background-color:#E8EDFF;border-color:black;border-style:solid;border-width:1px;color:#222;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:middle;word-break:normal"><span style="color:#222">MOE Twitter</span></td><td style="background-color:#E8EDFF;border-color:black;border-style:solid;border-width:1px;color:#21088A;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:left;text-decoration:underline;vertical-align:top;word-break:normal"><a href="http://www.twitter.com/"><span style="font-weight:500;text-decoration:underline;color:#21088A">http://www.twitter.com/#!/MOEsg</span></a></td></tr><tr><td style="background-color:#E8EDFF;border-color:black;border-style:solid;border-width:1px;color:#222;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:middle;word-break:normal"><span style="color:#222">MOE Youtube</span></td><td style="background-color:#E8EDFF;border-color:black;border-style:solid;border-width:1px;color:#21088A;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:left;text-decoration:underline;vertical-align:top;word-break:normal"><a href="http://www.youtube.com/moespore" target="_blank" rel="noopener noreferrer"><span style="font-weight:500;text-decoration:underline;color:#21088A">http://www.youtube.com/moespore</span></a></td></tr><tr><td style="background-color:#E8EDFF;border-color:black;border-style:solid;border-width:1px;color:#222;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:middle;word-break:normal"><span style="color:#222">Cyber Wellness for Parents </span></td><td style="background-color:#E8EDFF;border-color:black;border-style:solid;border-width:1px;color:#21088A;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:left;text-decoration:underline;vertical-align:top;word-break:normal"><a href="http://ictconnection.moe.edu.sg/cyber-wellness/for-parents"><span style="font-weight:500;text-decoration:underline;color:#21088A">http://ictconnection.moe.edu.sg/cyber-wellness/for-parents</span></a></td></tr></tbody></table>
+<h1><strong>Links</strong></h1>
+<h3>Ministry of Education Websites</h3>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p><strong>MOE Website</strong>
+</p>
+</th>
+<th rowspan="1" colspan="1">
+<p><strong><a href="http://www.moe.gov.sg/" rel="noopener noreferrer nofollow" target="_blank"><u>http://www.moe.gov.sg</u></a></strong>
+</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>MOE Facebook page</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong><a href="http://www.facebook.com/moesingapore" rel="noopener noreferrer nofollow" target="_blank"><u>http://www.facebook.com/moesingapore</u></a></strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>MOE Twitter</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong><a href="http://www.twitter.com/" rel="noopener noreferrer nofollow" target="_blank"><u>http://www.twitter.com/#!/MOEsg</u></a></strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>MOE Youtube</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong><a href="http://www.youtube.com/moespore" rel="noopener noreferrer" target="_blank"><u>http://www.youtube.com/moespore</u></a></strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>MOE Intranet</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong><a href="https://intranet.moe.gov.sg/" rel="noopener noreferrer nofollow" target="_blank">https://intranet.moe.gov.sg/</a></strong>
+</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>
