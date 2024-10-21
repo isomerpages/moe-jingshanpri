@@ -2,6 +2,7 @@
 title: For Teachers
 permalink: /quicklinks/for-teachers/
 description: ""
+variant: markdown
 ---
 # **For Staff**
 
@@ -12,3 +13,4 @@ description: ""
 *   [HRP](https://www.hrp.gov.sg/hrp/#/)
 *   [MOE Intranet](https://intranet.moe.gov.sg/Pages/Home.aspx)
 *   [Resource Booking System](https://rbs.avero-tech.com/)
+*   [MIMS Portal](https://idp.mims.moe.gov.sg/nidp/app/login?locale=en_US)
