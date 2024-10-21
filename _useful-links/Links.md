@@ -62,66 +62,6 @@ variant: tiptap
 </p>
 </td>
 </tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>Resource Booking System (RBS)</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong><a href="https://rbs.avero-tech.com/" rel="noopener noreferrer nofollow" target="_blank">https://rbs.avero-tech.com/</a></strong>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>MIMS Portal</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong><a href="https://idp.mims.moe.gov.sg/nidp/app/login?locale=en_US" rel="noopener noreferrer nofollow" target="_blank">https://idp.mims.moe.gov.sg/nidp/app/login?locale=en_US</a></strong>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>Student Learning Space (SLS)</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong><a href="https://www.learning.moe.edu.sg/" rel="noopener noreferrer nofollow" target="_blank">https://www.learning.moe.edu.sg/</a></strong>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>HRP</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong><a href="https://www.hrp.gov.sg/hrp/saml/login?relayState=tgId%3DSingPass%26srvcId%3DHRPS-ESS-PENSIONER" rel="noopener noreferrer nofollow" target="_blank">https://www.hrp.gov.sg/hrp/saml/login?relayState=tgId%3DSingPass%26srvcId%3DHRPS-ESS-PENSIONER</a></strong>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>School Cockpit</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong><a href="https://schoolcockpit.moe.gov.sg/" rel="noopener noreferrer nofollow" target="_blank">https://schoolcockpit.moe.gov.sg/</a></strong>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>Opal 2.0</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong><a href="https://idm.opal2.moe.edu.sg/account/login?returnUrl=%2F" rel="noopener noreferrer nofollow" target="_blank">https://idm.opal2.moe.edu.sg/account/login?returnUrl=%2F</a></strong>
-</p>
-</td>
-</tr>
 </tbody>
 </table>
 <p></p>
