@@ -54,7 +54,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>MOE Intranet </strong>
+<p><strong>MOE Intranet</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -74,7 +74,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>MIMS Portal </strong>
+<p><strong>MIMS Portal</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
