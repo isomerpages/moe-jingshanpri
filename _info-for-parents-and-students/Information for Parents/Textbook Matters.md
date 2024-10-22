@@ -5,13 +5,13 @@ description: ""
 variant: markdown
 third_nav_title: Information for Parents
 ---
-# **Textbook Matters 2024**
+# **Textbook Matters 2025**
 
 ![](/images/Capture6.png)
 
-**Parents may pre-order the 2024 textbooks online:** [https://www.pacificbookstores.com/](https://www.pacificbookstores.com/)  
+**Parents may pre-order the 2025 textbooks online:** [https://www.pacificbookstores.com/](https://www.pacificbookstores.com/)  
 
-_Please note that online purchase will only be available from **16 Nov 2023**._   
+_Please note that online purchase will only be available from **07 Nov 2024**._   
   
 Pacific Bookstore will require you to register in order to purchase online.
   
