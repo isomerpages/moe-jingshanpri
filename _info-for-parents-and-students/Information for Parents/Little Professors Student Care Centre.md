@@ -1,8 +1,9 @@
 ---
 title: Little Professors Student Care Centre
-permalink: /info-for-parents-and-students/information-for-parents/little-professors-student-care-centre/
+permalink: /info-for-parents-and-students/information-for-parents/little-professors-student-care-centre/20-nov/
 description: ""
 third_nav_title: Information for Parents
+variant: markdown
 ---
 # **Little Professors Student Care Centre**
 
