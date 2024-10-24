@@ -40,7 +40,7 @@ School Bookstore opening hours:
 Normal School Days:
 Mon to Fri: (9am to 3pm)
 
-28 Nov 2023 to 29 Dec 2023: Tue to Fri (9am to 3pm)
+28 Nov 2024 to 29 Dec 2024: Tue to Fri (9am to 3pm)
   
 For Financial Assistance Scheme (FAS) applicants, please do not purchase until your approval for FAS is known. Do not use the online service. Please make your purchases through the school.
 
