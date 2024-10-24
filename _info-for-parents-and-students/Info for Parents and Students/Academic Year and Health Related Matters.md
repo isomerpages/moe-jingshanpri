@@ -8,7 +8,11 @@ third_nav_title: Info for Parents and Students
 <h1>Academic Year 2024</h1>
 <p><strong>The recess and snack break schedule for Semester One is as follows:</strong>
 </p>
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -86,12 +90,4 @@ to the following e-mail address:
 Ang Mo Kio Neighbourhood Police Centre at&nbsp;<strong>1800-64519999</strong>,&nbsp;if
 you see anyone&nbsp;</p>
 <p>not showing care and consideration in the use of the school's facilities.</p>
-<h2>Health Related Matters</h2>
-<p>Dear parents and pupils,</p>
-<p>This is an important reminder that we need to abide by the Medical Certificates
-that&nbsp;are&nbsp;issued by the doctors. If any child wants&nbsp;to return
-to school earlier than the given date in the MC,&nbsp;he or she&nbsp;needs
-to see the doctor to get clearance to return to school.</p>
-<p>We do not and cannot allow any child to return to school when he or she
-is still on medical leave as instructed by the doctors. Thank you for your
-cooperation.</p>
+<p></p>
