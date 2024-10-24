@@ -108,16 +108,6 @@ activity (e.g. recess, classroom lesson, CCA session and academic support/enrich
 lesson) without permission may have their handphones / smart watches confiscated
 as a disciplinary measure or for the purpose of investigation. The school
 will return the handphone / smart watch directly to the parents.</p>
-<p><strong>Exams</strong>
-</p>
-<p>Orderliness and silence must be observed in the examination room.</p>
-<p>Students should ensure that mobile devices are not brought into the&nbsp;examination
-hall or classrooms. They have to surrender them before&nbsp;entering the
-examination venues. The mobile devices will only be&nbsp;returned after
-all the examinations have ended for the day.</p>
-<p>Cheating is a major and serious offence. Disciplinary action will be&nbsp;taken
-against candidates found cheating, attempting to cheat or&nbsp;helping
-others to cheat in an examination.</p>
 <h3>Thermometers</h3>
 <p>This is a reminder for all pupils to bring your Oral Digital Thermometers
 (ODT) to school daily. The school will be conducting thermometer checks
@@ -130,7 +120,11 @@ to 4.30 pm and 7.30 am to 4.00 pm on Friday.</p>
 hours of the Library.</p>
 <h3>Dental Clinic Opening Hours</h3>
 <p>Our dental clinic's opening hours are as follows:</p>
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
