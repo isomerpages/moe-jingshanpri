@@ -25,6 +25,7 @@ sections:
       button: Read more
       url: /school-canteen-advertisement/
       image: /images/food.jpg
+      alt: Alt text
   - infopic:
       title: Download sharing slides
       subtitle: JS E-OPEN HOUSE 2024
