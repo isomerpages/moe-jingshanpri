@@ -20,7 +20,7 @@ sections:
           url: /quicklinks/for-students/
   - infopic:
       title: Vacancy for 2 Food Stalls
-      subtitle: School canteen Adverstisement
+      subtitle: 🍴School Canteen Advertisement
       id: infopic
       button: Read more
       url: /school-canteen-advertisement/
