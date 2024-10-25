@@ -42,7 +42,7 @@ stalls<strong>:</strong>
 </p>
 <p>1.&nbsp;&nbsp;&nbsp; Download and complete the application form. You may
 also request for a hardcopy from the School’s General Office.</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a rel="noopener noreferrer nofollow" target="_blank">Application Form</a>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;<a href="/files/Canteen_Application_form.pdf" rel="noopener nofollow" target="_blank">Application form</a>
 </p>
 <p></p>
 <p>2.&nbsp;&nbsp;&nbsp; Attach the following documents together with the
@@ -59,7 +59,7 @@ by closing date via email OR to the School’s General Office.</p>
 <p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Address: 5 Ang Mo Kio
 Street 52, Singapore 569228</p>
 <p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Contact No: 64566305</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Email: <a rel="noopener noreferrer nofollow" target="_blank">jsps@moe.edu.sg</a>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Email: <a href="jsps@moe.edu.sg" rel="noopener nofollow" target="_blank">jsps@moe.edu.sg</a>
 </p>
 <p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Contact Person: Mr Bob
 Chan</p>
@@ -82,7 +82,8 @@ school.</p>
 <p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Able to provide cooked
 food that meets the health / nutritional standards set by the Health Promotion
 Board (HPB) under the “Healthy Meals in Schools Programme (HMSP)” guidelines
-<a rel="noopener noreferrer nofollow" target="_blank">https://www.hpb.gov.sg/schools/school-programmes/healthy-meals-in-schools-programme</a>.</p>
+<a href="https://www.hpb.gov.sg/schools/school-programmes/healthy-meals-in-schools-programme" rel="noopener nofollow" target="_blank">refer to HPB website for more information</a>
+</p>
 <p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Able to maintain high
 standard of food safety and personal hygiene.</p>
 <p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Successful applicant
