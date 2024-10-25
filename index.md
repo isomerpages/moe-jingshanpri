@@ -19,6 +19,14 @@ sections:
           description: Click here for more
           url: /quicklinks/for-students/
   - infopic:
+      title: Vacancy for 2 Food Stalls
+      subtitle: 🍴School Canteen Advertisement
+      id: infopic
+      button: Read more
+      url: /school-canteen-advertisement/
+      image: /images/food.jpg
+      alt: Alt text
+  - infopic:
       title: Download sharing slides
       subtitle: JS E-OPEN HOUSE 2024
       id: infopic
