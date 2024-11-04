@@ -2,46 +2,48 @@
 title: Textbook Matters
 permalink: /info-for-parents-and-students/information-for-parents/textbook-matters/
 description: ""
-variant: markdown
+variant: tiptap
 third_nav_title: Information for Parents
 ---
-# **Textbook Matters 2025**
-
-![](/images/Capture6.png)
-
-**Parents may pre-order the 2025 textbooks online:** [https://www.pacificbookstores.com/](https://www.pacificbookstores.com/)  
-
-_Please note that online purchase will only be available from **07 Nov 2024**._   
-  
-Pacific Bookstore will require you to register in order to purchase online.
-  
-Links for other information:  
-[Home delivery FAQ](https://www.pacificbookstores.com/home-delivery-faq)  
-[Account registration guide](https://www.pacificbookstores.com/account-registration-guide)
-
-Please refer to the PDF below for 2024 booklists:   
-[P1 2024](/files/Textbook%20Matters%202024/p1%202024.pdf)
-
-[P2 2024](/files/Textbook%20Matters%202024/p2%202024.pdf)
-
-[P3 2024](/files/Textbook%20Matters%202024/p3%202024.pdf)
-
-[P4 2024](/files/Textbook%20Matters%202024/p4%202024.pdf)
-
-[P5 2024](/files/Textbook%20Matters%202024/p5%202024.pdf)
-
-[P5 Foundation 2024](/files/Textbook%20Matters%202024/p5%20foundation%202024.pdf)
-
-[P6 2024](/files/Textbook%20Matters%202024/p6%202024.pdf)
-
-[P6 Foundation 2024](/files/Textbook%20Matters%202024/p6%20foundation%202024.pdf)
-
-School Bookstore opening hours:  
-Normal School Days:
-Mon to Fri: (9am to 3pm)
-
-28 Nov 2024 to 29 Dec 2024: Tue to Fri (9am to 3pm)
-  
-For Financial Assistance Scheme (FAS) applicants, please do not purchase until your approval for FAS is known. Do not use the online service. Please make your purchases through the school.
-
-Please call in to school General Office for assistance:  [6456 6305](https://www.google.com/search?q=jing+shan+primary+school&rlz=1C1GCEA_enSG965SG965&oq=jing+shan+&aqs=chrome.0.69i59j46i175i199i512j69i57j0i457i512j0i512j69i60l3.4118j0j7&sourceid=chrome&ie=UTF-8#)
+<h1><strong>Textbook Matters 2025</strong></h1>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Capture6.png">
+</div>
+<p><strong>Parents may pre-order the 2025 textbooks online:</strong>&nbsp;
+<a href="https://www.pacificbookstores.com/" rel="noopener noreferrer nofollow" target="_blank">https://www.pacificbookstores.com/</a>
+</p>
+<p><em>Please note that online purchase will only be available from </em><strong><em>07 Nov 2024</em></strong><em>.</em>
+</p>
+<p>Pacific Bookstore will require you to register in order to purchase online.</p>
+<p>Links for other information:
+<br><a href="https://www.pacificbookstores.com/home-delivery-faq" rel="noopener noreferrer nofollow" target="_blank">Home delivery FAQ</a>
+<br><a href="https://www.pacificbookstores.com/account-registration-guide" rel="noopener noreferrer nofollow" target="_blank">Account registration guide</a>
+</p>
+<p>Please refer to the PDF below for 2024 booklists:</p>
+<p>
+<br><a href="/files/Booklist 2025/P1.pdf" rel="noopener nofollow" target="_blank">P1 2025</a>
+</p>
+<p><a href="/files/Booklist 2025/P2.pdf" rel="noopener nofollow" target="_blank">P2 2025</a>
+</p>
+<p><a href="/files/Booklist 2025/P3.pdf" rel="noopener nofollow" target="_blank">P3 2025</a>
+</p>
+<p><a href="/files/Booklist 2025/P4.pdf" rel="noopener nofollow" target="_blank">P4 2025</a>
+</p>
+<p><a href="/files/Booklist 2025/P5.pdf" rel="noopener nofollow" target="_blank">P5 2025</a>
+</p>
+<p><a href="/files/Booklist 2025/P5__FDN_.pdf" rel="noopener nofollow" target="_blank">P5 2025 Foundation</a>
+</p>
+<p><a href="/files/Booklist 2025/P6.pdf" rel="noopener nofollow" target="_blank">P6 2025</a>
+</p>
+<p><a href="/files/Booklist 2025/P6__FDN_.pdf" rel="noopener nofollow" target="_blank">P6 2025 Foundation</a>
+</p>
+<p></p>
+<p>School Bookstore opening hours:
+<br>Normal School Days: Mon to Fri: (9am to 3pm)</p>
+<p>28 Nov 2024 to 29 Dec 2024: Tue to Fri (9am to 3pm)</p>
+<p>For Financial Assistance Scheme (FAS) applicants, please do not purchase
+until your approval for FAS is known. Do not use the online service. Please
+make your purchases through the school.</p>
+<p>Please call in to school General Office for assistance:&nbsp;&nbsp;
+<a href="https://www.google.com/search?q=jing+shan+primary+school&amp;rlz=1C1GCEA_enSG965SG965&amp;oq=jing+shan+&amp;aqs=chrome.0.69i59j46i175i199i512j69i57j0i457i512j0i512j69i60l3.4118j0j7&amp;sourceid=chrome&amp;ie=UTF-8#" rel="noopener noreferrer nofollow" target="_blank">6456 6305</a>
+</p>
