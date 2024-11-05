@@ -38,12 +38,12 @@ third_nav_title: Information for Parents
 <p><a href="/files/Booklist 2025/P6__FDN_.pdf" rel="noopener nofollow" target="_blank">P6 2025 Foundation</a>
 </p>
 <p></p>
-<p>School Bookstore opening hours:
-<br>
-</p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Screenshot_2024_11_05_113109__2_.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Screenshot_2024_11_05_113109__1_.png">
 </div>
+<p>School Bookstore opening hours:</p>
+<p>Normal School Days: Mon to Fri: (9am to 3pm)</p>
+<p></p>
 <p>For Financial Assistance Scheme (FAS) applicants, please do not purchase
 until your approval for FAS is known. Do not use the online service. Please
 make your purchases through the school.</p>
