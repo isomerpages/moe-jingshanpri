@@ -39,8 +39,11 @@ third_nav_title: Information for Parents
 </p>
 <p></p>
 <p>School Bookstore opening hours:
-<br>Normal School Days: Mon to Fri: (9am to 3pm)</p>
-<p>28 Nov 2024 to 29 Dec 2024: Tue to Fri (9am to 3pm)</p>
+<br>
+</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Screenshot_2024_11_05_113109__2_.png">
+</div>
 <p>For Financial Assistance Scheme (FAS) applicants, please do not purchase
 until your approval for FAS is known. Do not use the online service. Please
 make your purchases through the school.</p>
