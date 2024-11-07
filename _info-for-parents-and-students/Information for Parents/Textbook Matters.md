@@ -19,7 +19,7 @@ third_nav_title: Information for Parents
 <br><a href="https://www.pacificbookstores.com/home-delivery-faq" rel="noopener noreferrer nofollow" target="_blank">Home delivery FAQ</a>
 <br><a href="https://www.pacificbookstores.com/account-registration-guide" rel="noopener noreferrer nofollow" target="_blank">Account registration guide</a>
 </p>
-<p>Please refer to the PDF below for 2024 booklists:</p>
+<p>Please refer to the PDF below for 2025 booklists:</p>
 <p>
 <br><a href="/files/Booklist 2025/P1.pdf" rel="noopener nofollow" target="_blank">P1 2025</a>
 </p>
