@@ -27,12 +27,10 @@ stalls<strong>:</strong>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>1.&nbsp;&nbsp;&nbsp; Malay Rice Stall</p>
-<p>2.&nbsp;&nbsp;&nbsp; Malay Noodles Stall&nbsp;</p>
+<p>1.&nbsp;&nbsp;&nbsp; Malay Noodles Stall&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>13 Nov 2024</p>
-<p>13 Nov 2024</p>
+<p>26 Dec 2024</p>
 </td>
 </tr>
 </tbody>
