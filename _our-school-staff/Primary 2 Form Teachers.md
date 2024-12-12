@@ -24,22 +24,30 @@ variant: tiptap
 </th>
 </tr>
 <tr>
-<td rowspan="2" colspan="1">
+<td rowspan="3" colspan="1">
 <p>2 Responsibility</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Fatimawati Affandi</p>
+<p>Mdm Hazirah Djuanda</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>fatimawati_affandi@schools.gov.sg</p>
+<p>hazirah_djuanda@schools.gov.sg</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mdm Yap Xuelin</p>
+<p>Ms Jolene Lim</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>yap_xuelin@schools.gov.sg</p>
+<p>lim_jie_yi_jolene@schools.gov.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mrs Manimegalai Mariyyappa</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>manimegalai_a@schools.gov.sg</p>
 </td>
 </tr>
 <tr>
@@ -47,22 +55,22 @@ variant: tiptap
 <p>2 Integrity</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Katie Soon</p>
+<p>Ms Joanne Kow</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>soon_hui_ying@schools.gov.sg</p>
+<p>kow_xiao_min_joanne@schools.gov.sg</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mrs Ferline Lim</p>
+<p>Ms Sutha Ayavoo</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>lin_lihui_ferline@schools.gov.sg</p>
+<p>sutha_ayavoo@schools.gov.sg</p>
 </td>
 </tr>
 <tr>
-<td rowspan="3" colspan="1">
+<td rowspan="2" colspan="1">
 <p>2 Gratitude</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -74,37 +82,37 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Sarifah Rahmat</p>
+<p>Mdm Ong Baojin</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>sarifah_rahmat@schools.gov.sg</p>
+<p>ong_baojin@schools.gov.sg</p>
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
-<p>Mdm Chua Su Lin</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>chua_su_lin_a@schools.gov.sg</p>
-</td>
-</tr>
-<tr>
-<td rowspan="2" colspan="1">
+<td rowspan="3" colspan="1">
 <p>2 Humility</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Melody Tan</p>
+<p>Mrs Karen Chew</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>tan_seow_min_melody@schools.gov.sg</p>
+<p>lee_peck_wah@schools.gov.sg</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mrs Martin Christina Jennifer</p>
+<p>Mdm Vasanthan Lavenyah</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>martin_christina_jennifer@schools.gov.sg</p>
+<p>vasanthan_lavenyah@schools.gov.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr Wong Foo Kheong</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>wong_foo_kheong@schools.gov.sg</p>
 </td>
 </tr>
 <tr>
@@ -112,18 +120,18 @@ variant: tiptap
 <p>2 Tenacity</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mrs Yap Yingying</p>
+<p>Mr Ong Yong Kian</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>lin_yingying@schools.gov.sg</p>
+<p>yong_kian_ong@schools.gov.sg</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Shannen Ang</p>
+<p>Ms Tan Soo Hian</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>shannen_ang@schools.gov.sg</p>
+<p>tan_soo_hian@schools.gov.sg</p>
 </td>
 </tr>
 </tbody>
