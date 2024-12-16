@@ -31,7 +31,7 @@ variant: tiptap
 <p>Mdm Chan Yan Sze</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>chan_yan_sze</p>
+<p>chan_yan_sze@schools.gov.sg</p>
 </td>
 </tr>
 <tr>
@@ -39,7 +39,7 @@ variant: tiptap
 <p>Ms Fiona Khim</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>khim_gek_pei_fiona</p>
+<p>khim_gek_pei_fiona@schools.gov.sg</p>
 </td>
 </tr>
 <tr>
@@ -50,7 +50,7 @@ variant: tiptap
 <p>Mdm Png Chiew Peng</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>png_chiew_peng</p>
+<p>png_chiew_peng@schools.gov.sg</p>
 </td>
 </tr>
 <tr>
@@ -58,7 +58,7 @@ variant: tiptap
 <p>Mdm Shakila Jamal</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>shakila_jamal_mohamed</p>
+<p>shakila_jamal_mohamed@schools.gov.sg</p>
 </td>
 </tr>
 <tr>
@@ -69,7 +69,7 @@ variant: tiptap
 <p>Ms Khoo Yuzhi</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>khoo_yuzhi</p>
+<p>khoo_yuzhi@schools.gov.sg</p>
 </td>
 </tr>
 <tr>
@@ -77,7 +77,7 @@ variant: tiptap
 <p>Mr Mohd Rendra</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>mohammad_rendra_mohammad_g</p>
+<p>mohammad_rendra_mohammad_g@schools.gov.sg</p>
 </td>
 </tr>
 <tr>
@@ -85,7 +85,7 @@ variant: tiptap
 <p>Mrs Uma Rama</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>dekshnamurthi_umavathi</p>
+<p>dekshnamurthi_umavathi@schools.gov.sg</p>
 </td>
 </tr>
 <tr>
