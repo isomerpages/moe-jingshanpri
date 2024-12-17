@@ -24,14 +24,60 @@ variant: tiptap
 </th>
 </tr>
 <tr>
-<td rowspan="3" colspan="1">
+<td rowspan="2" colspan="1">
 <p>1 Responsibility</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Hazirah Djuanda</p>
+<p>Ms Charlotte Lee</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>hazirah_djuanda@schools.gov.sg</p>
+<p>lee_jia_xin_charlotte@schools.gov.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mdm Teo Bee Khim</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>teo_bee_khim@schools.gov.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="2" colspan="1">
+<p>1 Integrity</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Susan Koh</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>koh_sucheng@schools.gov.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mdm Zahidah Anuar</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>nur_zahidah_anuar@schools.gov.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="3" colspan="1">
+<p>1 Gratitude</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mdm Chua Su Lin</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>chua_su_ling_a@schools.gov.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mrs Shanthi Magendran</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>shanti_magendran@schools.gov.sg</p>
 </td>
 </tr>
 <tr>
@@ -43,103 +89,41 @@ variant: tiptap
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
-<p>Mrs Manimegalai</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Manimegalai_a@schools.gov.sg</p>
-</td>
-</tr>
-<tr>
 <td rowspan="2" colspan="1">
-<p>1 Integrity</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Ms Joanne Kow</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>kow_xiao_min_joanne@schools.gov.sg</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Ms Sutha d/o Ayavoo</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>sutha_ayavoo@schools.gov.sg</p>
-</td>
-</tr>
-<tr>
-<td rowspan="2" colspan="1">
-<p>1 Gratitude</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mdm Ong Baojin</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>ong_baojin@schools.gov.sg</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Ms Susan Koh</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>koh_sucheng@schools.gov.sg</p>
-</td>
-</tr>
-<tr>
-<td rowspan="3" colspan="1">
 <p>1 Humility</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mrs Karen Chew</p>
+<p>Ms Fatimawati Affandi</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>lee_peck_wah@schools.gov.sg</p>
+<p>fatimawati_affandi@schools.gov.sg</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mdm Vasanthan Lavenyah</p>
+<p>Ms Shannen Ang</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>vasanthan_lavenyah@schools.gov.sg</p>
+<p>shannen_ang@schools.gov.sg</p>
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
-<p>Mr Wong Foo Kheong</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>wong_foo_kheong@schools.gov.sg</p>
-</td>
-</tr>
-<tr>
-<td rowspan="3" colspan="1">
+<td rowspan="2" colspan="1">
 <p>1 Tenacity</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Aliana Abdul Rahman</p>
+<p>Mrs Ferline Lim</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>aliana_abdul_rahim@schools.gov.sg</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mr Ong Yong Kian</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>yong_kian_ong@schools.gov.sg</p>
+<p>lin_lihui_ferline@schools.gov.sg</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Tan Soo Hian</p>
+<p>Ms Ning Shuang</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>tan_soo_hian@schools.gov.sg</p>
+<p>ning_shuang@schools.gov.sg</p>
 </td>
 </tr>
 </tbody>
