@@ -69,7 +69,7 @@ variant: tiptap
 <p>Mdm Chua Su Lin</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>chua_su_ling_a@schools.gov.sg</p>
+<p>chua_su_lin_a@schools.gov.sg</p>
 </td>
 </tr>
 <tr>
