@@ -36,7 +36,7 @@ variant: tiptap
 </p>
 <h3>Stall 7</h3>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Stall%207.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Canteen stall/Stall_7.jpg">
 </div>
 <p><a href="/files/2025 Canteen Stall Prices/Stall_7.pdf" rel="noopener nofollow" target="_blank">Stall 7 Price List</a>
 </p>
