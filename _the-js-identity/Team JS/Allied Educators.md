@@ -62,7 +62,7 @@ variant: tiptap
 <p>Ms Carmelia Trecia Arriola</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Lead SEN (Special Educational Needs) Officer</p>
+<p>Lead Allied Educator (LBS)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>carmelia_trecia_arriola@schools.gov.sg</p>
