@@ -59,6 +59,28 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Ms Carmelia Trecia Arriola</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Lead Allied Educator (LBS)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>carmelia_trecia_arriola@schools.gov.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Vethavalli Ramalingam</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>SEN (Special Educational Needs) Officer</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>vethavalli_ramalingam@schools.gov.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Ms Bai Huixin</p>
 </td>
 <td rowspan="1" colspan="1">
