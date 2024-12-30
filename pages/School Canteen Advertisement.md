@@ -30,7 +30,7 @@ stalls<strong>:</strong>
 <p>1.&nbsp;&nbsp;&nbsp; Malay Noodles Stall&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>26 Dec 2024</p>
+<p>31 Jan 2025</p>
 </td>
 </tr>
 </tbody>
