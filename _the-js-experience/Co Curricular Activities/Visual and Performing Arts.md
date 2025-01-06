@@ -28,7 +28,7 @@ environment</p>
 </p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Mdm Aliana Abdul Rahim (IC)</p>
+<p>Ms Zarinah Zainal (IC)</p>
 </li>
 <li>
 <p>Mr Norizam Samsudin</p>
@@ -73,10 +73,13 @@ environment.</p>
 </p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Mrs Yap Ying Ying (IC)</p>
+<p>Mrs Karen Chew (IC)</p>
 </li>
 <li>
-<p>Mrs Karen Chew</p>
+<p>Ms Khoo Yuzhi</p>
+</li>
+<li>
+<p>Ms Tan Soo Hian</p>
 </li>
 </ul>
 <h3>Modern Dance</h3>
@@ -153,7 +156,7 @@ challenging dance routines.</p>
 <p>Mdm Teo Bee Khim</p>
 </li>
 <li>
-<p>Mrs Yap Xuelin</p>
+<p>Ms Rachel Han</p>
 </li>
 </ul>
 <p></p>
