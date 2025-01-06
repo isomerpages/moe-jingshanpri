@@ -35,7 +35,7 @@ of the world.</p>
 <p>Ms Ang Geok Pheng (IC)</p>
 </li>
 <li>
-<p>Ms Shannen Ang</p>
+<p>Mdm Zahidah Anuar</p>
 </li>
 </ul>
 <p></p>
