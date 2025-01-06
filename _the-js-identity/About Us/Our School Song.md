@@ -3,6 +3,7 @@ title: Our School Song
 permalink: /the-js-identity/about-us/our-school-song/
 description: ""
 third_nav_title: About Us
+variant: markdown
 ---
 # **Our School Song**
 
@@ -33,5 +34,3 @@ Holding fast to integrity
 We'll live together as one   
 As we strive for excellence in all we do
 
-(insert JSPS school song)   
-Audio of Jing Shan Primary School Song
