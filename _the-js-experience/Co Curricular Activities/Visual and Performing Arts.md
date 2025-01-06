@@ -156,7 +156,7 @@ challenging dance routines.</p>
 <p>Mdm Teo Bee Khim</p>
 </li>
 <li>
-<p>Mrs Yap Xuelin</p>
+<p>Ms Rachel Han</p>
 </li>
 </ul>
 <p></p>
