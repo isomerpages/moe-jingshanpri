@@ -65,6 +65,9 @@ during training and tournaments.</p>
 <li>
 <p>Mr Caleb Chong</p>
 </li>
+<li>
+<p>Mr Terence Pang</p>
+</li>
 </ul>
 <h3>Basketball</h3>
 <div class="isomer-image-wrapper">
