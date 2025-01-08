@@ -5,7 +5,6 @@ description: ""
 variant: tiptap
 ---
 <h3>Our Team</h3>
-<p></p>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
@@ -32,7 +31,7 @@ variant: tiptap
 <p>Centre Head</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">mak_kit_meng@schools.gov.sg</a>
+<p><a rel="noopener noreferrer nofollow" target="_blank">Mak_Kit_Meng@schools.gov.sg</a>
 </p>
 </td>
 </tr>
@@ -50,42 +49,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Nur Asyiqin Binte Shafii</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Kindergarten Teacher (English Language)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">nur_asyiqin_shafii@schools.gov.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Vanessa Viroshanaa D/O Karthigesan</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Kindergarten Teacher (English Language)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">vanessa_viroshanaa_karthigesan@schools.gov.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Yasodha Letchumanan</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Kindergarten Teacher (English Language)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">yasodha_letchumanan@schools.gov.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Ching Hong Ying</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -98,13 +61,61 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Nur Asyiqin Binte Shafii</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Kindergarten Teacher (English Language)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a rel="noopener noreferrer nofollow" target="_blank">nur_asyiqin_shafii@schools.gov.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Tan Yan Ning, Amanda</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Kindergarten Teacher (English Language)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a rel="noopener noreferrer nofollow" target="_blank">Tan_Yan_Ning_Amanda@schools.gov.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Vanessa Viroshanaa D/O Karthigesan</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Kindergarten Teacher (English Language)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a rel="noopener noreferrer nofollow" target="_blank">Vanessa_Viroshanaa_Karthigesan@schools.gov.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Yasodha Letchumanan</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Kindergarten Teacher (English Language)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a rel="noopener noreferrer nofollow" target="_blank">Yasodha_Letchumanan@schools.gov.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Guo Dong Dong</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Kindergarten Teacher (Chinese Language)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">guo_dong_dong@schools.gov.sg</a>
+<p><a rel="noopener noreferrer nofollow" target="_blank">Guo_Dong_Dong@schools.gov.sg</a>
 </p>
 </td>
 </tr>
@@ -116,54 +127,7 @@ variant: tiptap
 <p>Kindergarten Teacher (Chinese Language)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">guo_jing@schools.gov.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Lee May Ling Teresa</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Flexi Adjunc Teacher Kindergarten Teacher</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>&nbsp;</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Siti Aisyah binte Ab Rahim</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Kindergarten Teacher (Malay Language)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">siti_aisyah_ab_rahim@schools.gov.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Xin Yongyi</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Kindergarten Teacher (Chinese Language)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">xin_yongyi@schools.gov.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Gayathri Sri Kumar</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Kindergarten Teacher Tamil Language)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">gayathri_sri_kumar@schools.gov.sg</a>
+<p><a rel="noopener noreferrer nofollow" target="_blank">Guo_Jing@schools.gov.sg</a>
 </p>
 </td>
 </tr>
@@ -181,19 +145,43 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Tan Yan Ning, Amanda</p>
+<p>Xin Yongyi</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Kindergarten Teacher (English Language)</p>
+<p>Kindergarten Teacher (Chinese Language)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">tan_yan_ning_amanda@schools.gov.sg</a>
+<p><a rel="noopener noreferrer nofollow" target="_blank">xin_yongyi@schools.gov.sg</a>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ong Pei Ling</p>
+<p>Siti Aisyah binte Ab Rahim</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Kindergarten Teacher (Malay Language)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a rel="noopener noreferrer nofollow" target="_blank">Siti_Aisyah_Ab_Rahim@schools.gov.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Gayathri Sri Kumar</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Kindergarten Teacher Tamil Language)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a rel="noopener noreferrer nofollow" target="_blank">Gayathri_Sri_Kumar@schools.gov.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Goh Mei Ching</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Flexi Adjunct Teacher Kindergarten Teacher</p>
@@ -204,7 +192,18 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Goh Mei Ching</p>
+<p>Lee May Ling Teresa</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Flexi Adjunc Teacher Kindergarten Teacher</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ong Pei Ling</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Flexi Adjunct Teacher Kindergarten Teacher</p>
