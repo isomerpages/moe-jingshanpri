@@ -4,7 +4,6 @@ permalink: /mk-at-jing-shan/our-team/
 description: ""
 variant: tiptap
 ---
-<h3>Our Team</h3>
 <p></p>
 <table style="minWidth: 75px">
 <colgroup>
@@ -26,18 +25,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Chan Jia En, Rachel</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Kindergarten Teacher (English Language)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">chan_jia_en_rachel@schools.gov.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Mak Kit Meng</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -50,6 +37,30 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Chan Jia En, Rachel</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Kindergarten Teacher (English Language)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a rel="noopener noreferrer nofollow" target="_blank">chan_jia_en_rachel@schools.gov.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ching Hong Ying</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Kindergarten Teacher (English Language)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a rel="noopener noreferrer nofollow" target="_blank">ching_hong_ying@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Nur Asyiqin Binte Shafii</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -57,6 +68,18 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p><a rel="noopener noreferrer nofollow" target="_blank">nur_asyiqin_shafii@schools.gov.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Tan Yan Ning, Amanda</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Kindergarten Teacher (English Language)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a rel="noopener noreferrer nofollow" target="_blank">tan_yan_ning_amanda@schools.gov.sg</a>
 </p>
 </td>
 </tr>
@@ -86,18 +109,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ching Hong Ying</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Kindergarten Teacher (English Language)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">ching_hong_ying@moe.edu.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Guo Dong Dong</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -122,24 +133,13 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Lee May Ling Teresa</p>
+<p>Guo Li</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Flexi Adjunc Teacher Kindergarten Teacher</p>
+<p>Kindergarten Teacher Chinese Language)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>&nbsp;</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Siti Aisyah binte Ab Rahim</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Kindergarten Teacher (Malay Language)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">siti_aisyah_ab_rahim@schools.gov.sg</a>
+<p><a rel="noopener noreferrer nofollow" target="_blank">guo_li@schools.gov.sg</a>
 </p>
 </td>
 </tr>
@@ -157,6 +157,18 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Siti Aisyah binte Ab Rahim</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Kindergarten Teacher (Malay Language)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a rel="noopener noreferrer nofollow" target="_blank">siti_aisyah_ab_rahim@schools.gov.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Gayathri Sri Kumar</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -169,31 +181,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Guo Li</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Kindergarten Teacher Chinese Language)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">guo_li@schools.gov.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Tan Yan Ning, Amanda</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Kindergarten Teacher (English Language)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">tan_yan_ning_amanda@schools.gov.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Ong Pei Ling</p>
+<p>Goh Mei Ching</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Flexi Adjunct Teacher Kindergarten Teacher</p>
@@ -204,7 +192,18 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Goh Mei Ching</p>
+<p>Lee May Ling Teresa</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Flexi Adjunc Teacher Kindergarten Teacher</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ong Pei Ling</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Flexi Adjunct Teacher Kindergarten Teacher</p>
