@@ -31,7 +31,7 @@ variant: tiptap
 <p>Centre Head</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">Mak_Kit_Meng@schools.gov.sg</a>
+<p><a rel="noopener noreferrer nofollow" target="_blank">mak_kit_meng@schools.gov.sg</a>
 </p>
 </td>
 </tr>
@@ -79,7 +79,7 @@ variant: tiptap
 <p>Kindergarten Teacher (English Language)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">Tan_Yan_Ning_Amanda@schools.gov.sg</a>
+<p><a rel="noopener noreferrer nofollow" target="_blank">tan_yan_ning_amanda@schools.gov.sg</a>
 </p>
 </td>
 </tr>
@@ -91,7 +91,7 @@ variant: tiptap
 <p>Kindergarten Teacher (English Language)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">Vanessa_Viroshanaa_Karthigesan@schools.gov.sg</a>
+<p><a rel="noopener noreferrer nofollow" target="_blank">vanessa_viroshanaa_karthigesan@schools.gov.sg</a>
 </p>
 </td>
 </tr>
@@ -103,7 +103,7 @@ variant: tiptap
 <p>Kindergarten Teacher (English Language)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">Yasodha_Letchumanan@schools.gov.sg</a>
+<p><a rel="noopener noreferrer nofollow" target="_blank">yasodha_letchumanan@schools.gov.sg</a>
 </p>
 </td>
 </tr>
@@ -115,7 +115,7 @@ variant: tiptap
 <p>Kindergarten Teacher (Chinese Language)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">Guo_Dong_Dong@schools.gov.sg</a>
+<p><a rel="noopener noreferrer nofollow" target="_blank">guo_dong_dong@schools.gov.sg</a>
 </p>
 </td>
 </tr>
@@ -127,7 +127,7 @@ variant: tiptap
 <p>Kindergarten Teacher (Chinese Language)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">Guo_Jing@schools.gov.sg</a>
+<p><a rel="noopener noreferrer nofollow" target="_blank">guo_jing@schools.gov.sg</a>
 </p>
 </td>
 </tr>
@@ -163,7 +163,7 @@ variant: tiptap
 <p>Kindergarten Teacher (Malay Language)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">Siti_Aisyah_Ab_Rahim@schools.gov.sg</a>
+<p><a rel="noopener noreferrer nofollow" target="_blank">siti_aisyah_ab_rahim@schools.gov.sg</a>
 </p>
 </td>
 </tr>
@@ -175,7 +175,7 @@ variant: tiptap
 <p>Kindergarten Teacher Tamil Language)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">Gayathri_Sri_Kumar@schools.gov.sg</a>
+<p><a rel="noopener noreferrer nofollow" target="_blank">gayathri_sri_kumar@schools.gov.sg</a>
 </p>
 </td>
 </tr>
