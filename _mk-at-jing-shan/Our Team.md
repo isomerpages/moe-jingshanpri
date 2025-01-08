@@ -26,18 +26,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Chan Jia En, Rachel</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Kindergarten Teacher (English Language)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">chan_jia_en_rachel@schools.gov.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Mak Kit Meng</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -45,6 +33,18 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p><a rel="noopener noreferrer nofollow" target="_blank">mak_kit_meng@schools.gov.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Chan Jia En, Rachel</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Kindergarten Teacher (English Language)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a rel="noopener noreferrer nofollow" target="_blank">chan_jia_en_rachel@schools.gov.sg</a>
 </p>
 </td>
 </tr>
