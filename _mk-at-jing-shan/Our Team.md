@@ -55,7 +55,7 @@ variant: tiptap
 <p>Kindergarten Teacher (English Language)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">ching_hong_ying@moe.edu.sg</a>
+<p><a href="mailto:ching_hong_ying@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">ching_hong_ying@schools.gov.sg</a>
 </p>
 </td>
 </tr>
@@ -187,7 +187,8 @@ variant: tiptap
 <p>Flexi Adjunct Teacher Kindergarten Teacher</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>&nbsp;</p>
+<p>&nbsp;<a href="mailto:goh_mei_ching@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">goh_mei_ching@schools.gov.sg</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -195,10 +196,11 @@ variant: tiptap
 <p>Lee May Ling Teresa</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Flexi Adjunc Teacher Kindergarten Teacher</p>
+<p>Flexi Adjunct Teacher Kindergarten Teacher</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>&nbsp;</p>
+<p>&nbsp;<a href="mailto:lee_teresa@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">lee_teresa@schools.gov.sg</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -209,7 +211,8 @@ variant: tiptap
 <p>Flexi Adjunct Teacher Kindergarten Teacher</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>&nbsp;</p>
+<p>&nbsp;<a href="mailto:ong_pei_ling_b@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">ong_pei_ling_b@schools.gov.sg</a>
+</p>
 </td>
 </tr>
 </tbody>
