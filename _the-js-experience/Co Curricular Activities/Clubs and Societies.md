@@ -35,7 +35,7 @@ competitions annually.</p>
 <p>In Robotics CCA, pupils learn basic concepts and technical aspects of
 robotics, the different types, methods and usages of robotics sensors and
 motors. They will also learn the basics of assembling and controlling simple
-robots using Lego EV3 Mindstorms.</p>
+robots using Lego SPIKE Prime.</p>
 <p><strong>Objectives</strong>
 <br>1. To equip all members with the basic skills in robotics assembling and
 programming.
