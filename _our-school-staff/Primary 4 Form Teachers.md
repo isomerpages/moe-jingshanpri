@@ -74,7 +74,7 @@ variant: tiptap
 <p>Mr Terence Pang</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>pang_piao_le_terrence@schools.gov.sg</p>
+<p>pang_piao_le_terence@schools.gov.sg</p>
 </td>
 </tr>
 <tr>
