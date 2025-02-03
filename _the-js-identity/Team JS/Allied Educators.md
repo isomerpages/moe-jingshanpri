@@ -37,6 +37,17 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Ms Carmelia Trecia Arriola</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>SEN (Special Educational Needs) Officer</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>carmelia_trecia_arriola@schools.gov.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Mdm Catherine Chin</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -55,17 +66,6 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>junice_khng_kai_en@schools.gov.sg</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Ms Carmelia Trecia Arriola</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Lead Allied Educator (LBS)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>carmelia_trecia_arriola@schools.gov.sg</p>
 </td>
 </tr>
 <tr>
