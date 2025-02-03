@@ -27,17 +27,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Valerie Morier</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Head of Department/English Language</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>morier_valerie@schools.gov.sg</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Mrs Wong Sujin</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -45,17 +34,6 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>liow_sujin@schools.gov.sg</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mrs Melissa Yap</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Head of Department/Mathematics</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>lau_sok_ling_melissa@schools.gov.sg</p>
 </td>
 </tr>
 <tr>
@@ -115,24 +93,24 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mdm Vasanthan Lavenyah</p>
+<p>Mrs Srividhya Shankar</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Year Head/Lower School (Int) &amp; Subject Head/Student Leader</p>
+<p>Head of Department/Character &amp; Citizenship Education</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>vasanthan_lavenyah@schools.gov.sg</p>
+<p>srividhya_mohan@schools.gov.sg</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mrs Penny Ng</p>
+<p>Mdm Vasanthan Lavenyah</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Year Head/Middle School</p>
+<p>Year Head/Lower School</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>lim_hong_yen_penny@schools.gov.sg</p>
+<p>vasanthan_lavenyah@schools.gov.sg</p>
 </td>
 </tr>
 <tr>
@@ -155,6 +133,17 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>khim_gek_pei_fiona@schools.gov.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Jolene Lim</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Level Head/ Chinese Language (Int)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>lim_jie_yi_jolene@schools.gov.sg</p>
 </td>
 </tr>
 <tr>
@@ -203,13 +192,13 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mrs Srividhya Shankar</p>
+<p>Ms Melody Tan Seow Min</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Head of Department/Character &amp; Citizenship Education (Int)</p>
+<p>Assistant Year Head (Int)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>srividhya_mohan@schools.gov.sg</p>
+<p>tan_seow_min_melody@schools.gov.sg</p>
 </td>
 </tr>
 <tr>
@@ -218,6 +207,7 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Lead Teacher/English Language</p>
+<p>Acting Head of Department/EL</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>shakila_jamal_mohamed@schools.gov.sg</p>
