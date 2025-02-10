@@ -3,11 +3,11 @@ collections:
     output: true
     order:
       - About Us.md
-      - Our Team.md
+      - Team MKJS.md
       - The MKJS Experience/.keep
       - The MKJS Experience/MK Curriculum.md
       - The MKJS Experience/MKJS Centre Based Programmes.md
       - Our Learning Space.md
       - Our Gallery.md
       - 2025 MK Open House.md
-      - Contact us.md
+      - Contact Us.md

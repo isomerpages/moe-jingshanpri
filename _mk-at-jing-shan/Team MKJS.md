@@ -1,6 +1,6 @@
 ---
-title: Our Team
-permalink: /mk-at-jing-shan/our-team/
+title: Team MKJS
+permalink: /mk-at-jing-shan/team-mkjs/
 description: ""
 variant: tiptap
 ---
@@ -31,7 +31,7 @@ variant: tiptap
 <p>Centre Head</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">mak_kit_meng@schools.gov.sg</a>
+<p><a href="mailto:mak_kit_meng@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">mak_kit_meng@schools.gov.sg</a>
 </p>
 </td>
 </tr>
@@ -43,7 +43,7 @@ variant: tiptap
 <p>Kindergarten Teacher (English Language)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">chan_jia_en_rachel@schools.gov.sg</a>
+<p><a href="mailto:chan_jia_en_rachel@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">chan_jia_en_rachel@schools.gov.sg</a>
 </p>
 </td>
 </tr>
@@ -67,7 +67,7 @@ variant: tiptap
 <p>Kindergarten Teacher (English Language)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">nur_asyiqin_shafii@schools.gov.sg</a>
+<p><a href="mailto:nur_asyiqin_shafii@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">nur_asyiqin_shafii@schools.gov.sg</a>
 </p>
 </td>
 </tr>
@@ -79,7 +79,7 @@ variant: tiptap
 <p>Kindergarten Teacher (English Language)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">tan_yan_ning_amanda@schools.gov.sg</a>
+<p><a href="mailto:tan_yan_ning_amanda@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">tan_yan_ning_amanda@schools.gov.sg</a>
 </p>
 </td>
 </tr>
@@ -91,7 +91,7 @@ variant: tiptap
 <p>Kindergarten Teacher (English Language)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">vanessa_viroshanaa_karthigesan@schools.gov.sg</a>
+<p><a href="mailto:vanessa_viroshanaa_karthigesan@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">vanessa_viroshanaa_karthigesan@schools.gov.sg</a>
 </p>
 </td>
 </tr>
@@ -103,7 +103,7 @@ variant: tiptap
 <p>Kindergarten Teacher (English Language)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">yasodha_letchumanan@schools.gov.sg</a>
+<p><a href="mailto:yasodha_letchumanan@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">yasodha_letchumanan@schools.gov.sg</a>
 </p>
 </td>
 </tr>
@@ -115,7 +115,7 @@ variant: tiptap
 <p>Kindergarten Teacher (Chinese Language)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">guo_dong_dong@schools.gov.sg</a>
+<p><a href="mailto:guo_dong_dong@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">guo_dong_dong@schools.gov.sg</a>
 </p>
 </td>
 </tr>
@@ -127,7 +127,7 @@ variant: tiptap
 <p>Kindergarten Teacher (Chinese Language)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">guo_jing@schools.gov.sg</a>
+<p><a href="mailto:guo_jing@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">guo_jing@schools.gov.sg</a>
 </p>
 </td>
 </tr>
@@ -139,7 +139,7 @@ variant: tiptap
 <p>Kindergarten Teacher Chinese Language)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">guo_li@schools.gov.sg</a>
+<p><a href="mailto:guo_li@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">guo_li@schools.gov.sg</a>
 </p>
 </td>
 </tr>
@@ -151,7 +151,7 @@ variant: tiptap
 <p>Kindergarten Teacher (Chinese Language)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">xin_yongyi@schools.gov.sg</a>
+<p><a href="mailto:xin_yongyi@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">xin_yongyi@schools.gov.sg</a>
 </p>
 </td>
 </tr>
@@ -163,7 +163,7 @@ variant: tiptap
 <p>Kindergarten Teacher (Malay Language)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">siti_aisyah_ab_rahim@schools.gov.sg</a>
+<p><a href="mailto:siti_aisyah_ab_rahim@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">siti_aisyah_ab_rahim@schools.gov.sg</a>
 </p>
 </td>
 </tr>
@@ -175,7 +175,7 @@ variant: tiptap
 <p>Kindergarten Teacher Tamil Language)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">gayathri_sri_kumar@schools.gov.sg</a>
+<p><a href="mailto:gayathri_sri_kumar@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">gayathri_sri_kumar@schools.gov.sg</a>
 </p>
 </td>
 </tr>
@@ -187,7 +187,7 @@ variant: tiptap
 <p>Flexi Adjunct Teacher Kindergarten Teacher</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>&nbsp;<a href="mailto:goh_mei_ching@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">goh_mei_ching@schools.gov.sg</a>
+<p><a href="mailto:goh_meh_ching@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">goh_meh_ching@schools.gov.sg</a>
 </p>
 </td>
 </tr>
@@ -199,8 +199,9 @@ variant: tiptap
 <p>Flexi Adjunct Teacher Kindergarten Teacher</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>&nbsp;<a href="mailto:lee_teresa@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">lee_teresa@schools.gov.sg</a>
+<p><a href="mailto:lee_teresa@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">lee_teresa@schools.gov.sg</a>
 </p>
+<p></p>
 </td>
 </tr>
 <tr>
@@ -211,7 +212,7 @@ variant: tiptap
 <p>Flexi Adjunct Teacher Kindergarten Teacher</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>&nbsp;<a href="mailto:ong_pei_ling_b@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">ong_pei_ling_b@schools.gov.sg</a>
+<p><a href="mailto:ong_pei_ling_b@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">ong_pei_ling_b@schools.gov.sg</a>
 </p>
 </td>
 </tr>
