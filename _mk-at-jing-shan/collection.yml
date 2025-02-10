@@ -2,7 +2,6 @@ collections:
   mk-at-jing-shan:
     output: true
     order:
-      - Contact us.md
       - About Us.md
       - Our Team.md
       - The MKJS Experience/.keep
@@ -11,3 +10,4 @@ collections:
       - Our Learning Space.md
       - Our Gallery.md
       - 2025 MK Open House.md
+      - Contact us.md
