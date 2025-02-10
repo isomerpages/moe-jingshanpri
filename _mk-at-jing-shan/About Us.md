@@ -37,10 +37,16 @@ the same premises.</p>
 <p>•School Term – 12pm to 7pm</p>
 <p>•School Holiday – 7am to 7pm</p>
 <p></p>
-<p><a href="https://www.moe.gov.sg/preschool/moe-kindergarten/mk-eyc" rel="noopener nofollow" target="_blank">MOE Kindergarten and Early Years Centre (EYC) Partnership </a>
+<p><a href="https://www.moe.gov.sg/preschool/moe-kindergarten/mk-eyc" rel="noopener nofollow" target="_blank">MOE Kindergarten and Early Years Centre (EYC) Partnership</a>
 </p>
 <p>Under this partnership<strong>, </strong>children from our 2 EYC partners
 are guaranteed a place at MK@Jing Shan.&nbsp; Our partner EYCs are :</p>
 <p></p>
 <p>•PCF Sparkletots Preschool @ Cheng San-Seletar Blk 502</p>
 <p>•PCF Sparkletots Preschool @ Cheng San-Seletar Blk 533</p>
+<p></p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/MK @ JingShan 2025/Illustration_03.jpg">
+</div>
+<p></p>
