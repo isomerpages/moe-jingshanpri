@@ -17,7 +17,7 @@ variant: tiptap
 <p>Name</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Designation / Appt /FT</p>
+<p>Designation</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Email</p>
