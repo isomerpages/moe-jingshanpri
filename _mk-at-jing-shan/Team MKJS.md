@@ -187,7 +187,7 @@ variant: tiptap
 <p>Flexi Adjunct Teacher Kindergarten Teacher</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>&nbsp;<a href="mailto:goh_mei_ching@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">goh_mei_ching@schools.gov.sg</a>
+<p><a href="mailto:goh_meh_ching@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">goh_meh_ching@schools.gov.sg</a>
 </p>
 </td>
 </tr>
@@ -199,8 +199,9 @@ variant: tiptap
 <p>Flexi Adjunct Teacher Kindergarten Teacher</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>&nbsp;<a href="mailto:lee_teresa@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">lee_teresa@schools.gov.sg</a>
+<p><a href="mailto:lee_teresa@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">lee_teresa@schools.gov.sg</a>
 </p>
+<p></p>
 </td>
 </tr>
 <tr>
@@ -211,7 +212,7 @@ variant: tiptap
 <p>Flexi Adjunct Teacher Kindergarten Teacher</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>&nbsp;<a href="mailto:ong_pei_ling_b@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">ong_pei_ling_b@schools.gov.sg</a>
+<p><a href="mailto:ong_pei_ling_b@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">ong_pei_ling_b@schools.gov.sg</a>
 </p>
 </td>
 </tr>
