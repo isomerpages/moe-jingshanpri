@@ -5,9 +5,11 @@ description: ""
 third_nav_title: The MKJS Experience
 variant: tiptap
 ---
-<h3>MKJS Centre Based Programmes</h3>
-<p></p>
+<h4>MKJS Centre Based Programmes</h4>
+<p>At MKJS, our centre-based programmes are aligned with the signature programmes
+of Jing Shan Primary School and have a strong flavour of sustainability
+and wellbeing.</p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/4_MKJS_Experience___CB_Programmes.JPG">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/MK @ JingShan 2025/MKJS_Centre_Based_Programmes.jpg">
 </div>
 <p></p>
