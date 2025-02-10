@@ -5,6 +5,7 @@ description: ""
 variant: tiptap
 ---
 <h4>Our Learning Space</h4>
+<p></p>
 <p>MOE Kindergarten (MK)'s learning environment is designed with the child
 in mind.</p>
 <p>Our creative use of available space encourages children to discover and
