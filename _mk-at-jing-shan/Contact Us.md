@@ -16,7 +16,7 @@ description: ""
 </p>
 <p>General Office: 6456 6305&nbsp;&nbsp;</p>
 <p>MK Office: 6252 1538</p>
-<p>Email: MK@Jingshan <a href="mailto:jingshan.kcare@littleprofessors.com.sg" rel="noopener noreferrer nofollow" target="_blank"><u>mk_jingshan@moe.edu.sg</u></a>
+<p>MK Email: <a href="mailto:mk_jingshan@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">mk_jingshan@moe.edu.sg</a>
 </p>
 <p></p>
 <p><strong>KCare Contact Numbers</strong>
