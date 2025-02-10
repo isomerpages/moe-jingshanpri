@@ -17,7 +17,7 @@ variant: tiptap
 <p>Name</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Designation / Appt /FT</p>
+<p>Designation</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Email</p>
@@ -217,4 +217,8 @@ variant: tiptap
 </tr>
 </tbody>
 </table>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/MK @ JingShan 2025/MK_Vision__On_to_a_strong_start_.jpg">
+</div>
 <p></p>

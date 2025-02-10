@@ -4,12 +4,18 @@ permalink: /mk-at-jing-shan/our-learning-space/
 description: ""
 variant: tiptap
 ---
-<h3>Our Learning Space</h3>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/5_Our_Learning_Space_v2.JPG">
-</div>
+<h4>Our Learning Space</h4>
+<p></p>
+<p>MOE Kindergarten (MK)'s learning environment is designed with the child
+in mind.</p>
+<p>Our creative use of available space encourages children to discover and
+explore their surroundings.</p>
+<p>Safe outdoor spaces promote learning, engagement and active play while
+inviting and thoughtfully-designed classrooms support teaching and learning.</p>
+<p></p>
+<h4>Every Space is a Learning Space</h4>
 <div class="iframe-wrapper">
-<iframe height="394" width="702" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/-Sman_En2iI"></iframe>
+<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/HxBUyjuf0mQ?si=8zS_X8l6MUzNRghd"></iframe>
 </div>
 <p></p>
 <p></p>
