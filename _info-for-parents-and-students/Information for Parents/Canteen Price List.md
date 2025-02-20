@@ -38,5 +38,5 @@ variant: tiptap
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Canteen stall/Stall_7.jpg">
 </div>
-<p><a href="/files/2025 Canteen Stall Prices/Stall_7.pdf" rel="noopener nofollow" target="_blank">Stall 7 Price List</a>
+<p><a href="/files/2025 Canteen Stall Prices/updated_stall_7.pdf" rel="noopener nofollow" target="_blank">Stall 7 Price List</a>
 </p>
