@@ -26,6 +26,9 @@ such as the&nbsp;<strong>P1 to 3 Ninja Course, P4 to 6</strong>&nbsp;<strong>Int
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Infographic%20-%20PE%20vA1%201-page-001.jpg">
 </div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/PE 2025/Picture1.png">
+</div>
 <p><strong>Physical Education Curriculum Framework (MOE, 2024)</strong>
 </p>
 <p></p>
@@ -46,5 +49,28 @@ values-based judgements.</p>
 <p>Goal 5: Enjoyment. Students enjoy and value physical activities and healthy
 living in a sustainable way.</p>
 <p>Let’s take a look at our students in action!</p>
-<h5></h5>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/PE 2025/Picture2.jpg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/PE 2025/Picture3.jpg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/PE 2025/Picture4.jpg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/PE 2025/Picture7.jpg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/PE 2025/Picture10.jpg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/PE 2025/Picture9.jpg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/PE 2025/Picture6.jpg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/PE 2025/Picture5.jpg">
+</div>
 <p></p>
