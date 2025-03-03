@@ -32,7 +32,7 @@ of the world.</p>
 </p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Ms Ang Geok Pheng (IC)</p>
+<p>Ms Ang Geok Pheng</p>
 </li>
 <li>
 <p>Mdm Zahidah Anuar</p>
