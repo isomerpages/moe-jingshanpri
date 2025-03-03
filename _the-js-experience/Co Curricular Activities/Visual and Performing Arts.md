@@ -28,7 +28,7 @@ environment</p>
 </p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Ms Zarinah Zainal (IC)</p>
+<p>Ms Zarinah Zainal</p>
 </li>
 <li>
 <p>Mr Norizam Samsudin</p>
@@ -73,7 +73,7 @@ environment.</p>
 </p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Mrs Karen Chew (IC)</p>
+<p>Mrs Karen Chew</p>
 </li>
 <li>
 <p>Ms Khoo Yuzhi</p>
@@ -104,7 +104,7 @@ excellence in all performances and competitions.</p>
 </p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Ms Jolene Lim (IC)</p>
+<p>Ms Jolene Lim</p>
 </li>
 <li>
 <p>Ms Lim Huishan</p>
@@ -150,7 +150,7 @@ challenging dance routines.</p>
 </p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Ms Ning Shuang (IC)</p>
+<p>Ms Ning Shuang</p>
 </li>
 <li>
 <p>Mdm Teo Bee Khim</p>
