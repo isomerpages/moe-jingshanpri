@@ -22,7 +22,7 @@ competitions annually.</p>
 </p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Ms Sarifah Rahmat (IC)</p>
+<p>Ms Sarifah Rahmat</p>
 </li>
 <li>
 <p>Ms Loh Chew Wi</p>
@@ -47,7 +47,7 @@ missions.</p>
 </p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Mdm Chua Hwee Leng (IC)</p>
+<p>Mdm Chua Hwee Leng</p>
 </li>
 <li>
 <p>Mdm Shanthi Megendran</p>
@@ -82,7 +82,7 @@ and projects that demonstrate science concepts and promote sustainability.</p>
 </p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Ms Peggy Cheong (IC)</p>
+<p>Ms Peggy Cheong</p>
 </li>
 <li>
 <p>Mrs Choo Choong Huat</p>
