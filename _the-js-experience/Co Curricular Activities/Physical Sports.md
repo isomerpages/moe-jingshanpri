@@ -27,7 +27,7 @@ CCA and competitions.</p>
 </p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Ms Fatimawati Affandi (IC)</p>
+<p>Ms Fatimawati Affandi</p>
 </li>
 <li>
 <p>Ms Chan Yan Sze</p>
@@ -54,7 +54,7 @@ during training and tournaments.</p>
 </p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Mrs Pramila Nayar (IC)</p>
+<p>Mrs Pramila Nayar</p>
 </li>
 <li>
 <p>Ms Melody Tan</p>
@@ -89,7 +89,7 @@ CCA and competitions.</p>
 </p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Mrs Ferline Lim (IC)</p>
+<p>Mrs Ferline Lim</p>
 </li>
 <li>
 <p>Mr James Seah</p>
@@ -122,7 +122,7 @@ CCA and competitions.</p>
 </p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Mrs Gunavathi Arulselvan (IC)</p>
+<p>Mrs Gunavathi Arulselvan</p>
 </li>
 <li>
 <p>Mr Mohd Rendra</p>
