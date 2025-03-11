@@ -49,28 +49,30 @@ values-based judgements.</p>
 <p>Goal 5: Enjoyment. Students enjoy and value physical activities and healthy
 living in a sustainable way.</p>
 <p>Let’s take a look at our students in action!</p>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/PE 2025/Picture2.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/PE 2025/Updated/WhatsApp_Image_2025_03_05_at_4_18_34_PM__5_.jpg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/PE 2025/Updated/WhatsApp_Image_2025_03_05_at_4_18_34_PM.jpg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/PE 2025/Updated/WhatsApp_Image_2025_03_05_at_4_18_34_PM__3_.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/PE 2025/Picture7.jpg">
 </div>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/PE 2025/Picture3.jpg">
 </div>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/PE 2025/Picture4.jpg">
-</div>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/PE 2025/Picture7.jpg">
-</div>
-<div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/PE 2025/Picture10.jpg">
 </div>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/PE 2025/Picture9.jpg">
-</div>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/PE 2025/Picture6.jpg">
-</div>
-<div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/PE 2025/Picture5.jpg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/PE 2025/Updated/WhatsApp_Image_2025_03_05_at_4_18_34_PM__1_.jpg">
 </div>
 <p></p>
