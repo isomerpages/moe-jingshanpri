@@ -29,6 +29,9 @@ to progress at their own pace.</p>
 collaborate with their peers, and develop essential digital competencies
 for the future.</p>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/ICT 2025/Picture1.png">
+</div>
 <p><strong>EdTech 2023: Preparing Jingshanites for the Future</strong>
 </p>
 <p>As we move towards 2030, Jing Shan Primary School is committed to leveraging
@@ -49,3 +52,11 @@ choices, and develop heathy digital habits.</p>
 </p>
 <p>Jingshanites engage in teamwork and digital learning as they explore and
 discuss ideas using their laptops.</p>
+<p></p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/ICT 2025/Screenshot_2025_03_18_110406.png">
+</div>
+<p>By focusing on these areas, we aim to prepare our jingshanites to be confident,
+competent, and responsible users of technology in an ever-evolving digital
+landscape.</p>
