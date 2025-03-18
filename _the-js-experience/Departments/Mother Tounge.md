@@ -26,11 +26,12 @@ the foundational social-emotional competencies. learning tasks engaging.
 Overall, enhancing students’ skills, knowledge, culture awareness and appreciation
 for the language.</p>
 <p></p>
-<p><u>MT Learning @ Jing Shan</u>
+<p><strong><u>MT Learning @ Jing Shan</u></strong>
 </p>
-<p><u>Insert image</u>
-</p>
-<p>Differentiated Learning</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/MT 2025/Picture2.jpg">
+</div>
+<h4><strong>Differentiated Learning</strong></h4>
 <p>Differentiated learning is implemented to cater to the different learning
 profiles. Within the curriculum, there is customized learning for those
 who are more conversant and skilled while bridging support lessons for
@@ -38,8 +39,7 @@ those who may have limited exposure to the language. The department uses
 a range of teaching and learning resources to cater to different profiles
 and ages. Teachers are trained to adopt and adapt teaching strategies to
 suit the range of learning profiles.</p>
-<p><strong>&nbsp;Leveraging Educational Technology</strong>
-</p>
+<h4><strong>&nbsp;Leveraging Educational Technology</strong></h4>
 <p>The department actively taps on the affordances of technology to enhance
 student engagement in their lessons. Teachers use features from the Student
 Learning Space (SLS) to customized and personalized learning resources
@@ -48,8 +48,7 @@ providing meaningful learning tasks, encouraging students to take ownership
 of their learning. Some of the learning tasks include audio and video recording
 of oral responses according to a topic and writing activities which require
 students to work collaboratively online.</p>
-<p><strong>Mother Tongue Language Signature Programmes</strong>
-</p>
+<h4><strong>Mother Tongue Language Signature Programmes</strong></h4>
 <p><u>MT Read</u>
 </p>
 <p>The MT Reading Programme aims to instill in students a love for reading
@@ -96,4 +95,11 @@ competitions, talent shows and ambassador programmes, all of which recognise
 students’ strength and offer them opportunities to shine.</p>
 <p></p>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/MT 2025/Picture3.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/MT 2025/Picture4.jpg">
+</div>
 <p></p>
