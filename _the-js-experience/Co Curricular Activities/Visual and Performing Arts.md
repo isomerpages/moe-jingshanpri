@@ -9,7 +9,7 @@ variant: tiptap
 <h3>Art &amp; Crafts</h3>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/6_Feb_Art_and_Craft_CCA.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA 2025/WhatsApp_Image_2025_03_17_at_4_32_15_PM__6_.jpg">
 </div>
 <p>Art education is one of the important areas in the holistic development
 of the child. It aims to instill in children an appreciation for things
@@ -35,8 +35,9 @@ environment</p>
 </li>
 </ul>
 <h3>Choir</h3>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Choir_CCA_2024_School_Website.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA 2025/WhatsApp_Image_2025_03_14_at_11_50_58_AM.jpg">
 </div>
 <p>JSPS Choir is a vibrant singing group that started in 2023. We are a community
 of budding singers who learn, grow and find our voices together. We celebrate
@@ -83,9 +84,8 @@ environment.</p>
 </li>
 </ul>
 <h3>Modern Dance</h3>
-<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/6_Feb_MODERN_DANCE_CCA.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA 2025/WhatsApp_Image_2025_03_17_at_4_33_18_PM.jpg">
 </div>
 <p>Our&nbsp;Modern Dance CCA aims to develop the physical skills and deportment
 of our students, as well as to build up their enthusiasm in the performing
@@ -114,9 +114,8 @@ excellence in all performances and competitions.</p>
 </li>
 </ul>
 <h3>Cultural Dance</h3>
-<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/6_Feb_Cultural_Dance_CCA.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA 2025/WhatsApp_Image_2025_03_17_at_4_32_15_PM__5_.jpg">
 </div>
 <p>The JSPS Cultural Dance CCA aims to provide students with experiences
 to immerse themselves in the vast world of music and movement in global
