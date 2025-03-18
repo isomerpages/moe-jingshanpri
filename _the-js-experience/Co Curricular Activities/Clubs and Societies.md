@@ -8,7 +8,7 @@ variant: tiptap
 <h1><strong>Clubs and Societies</strong></h1>
 <h3>Infocomm Technology (Media Production)</h3>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/ICT_Media_Production_CCA_2024_School_Website.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA 2025/WhatsApp_Image_2025_03_17_at_4_32_15_PM__1_.jpg">
 </div>
 <p>Our Infocomm Club provides opportunities for members to learn skills valuable
 in today’s digital age. Members learn skills such as programming in Scratch
@@ -30,7 +30,7 @@ competitions annually.</p>
 </ul>
 <h3>Robotics</h3>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Robotics_CCA_2024_School_Website.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA 2025/WhatsApp_Image_2025_03_17_at_4_32_15_PM__2_.jpg">
 </div>
 <p>In Robotics CCA, pupils learn basic concepts and technical aspects of
 robotics, the different types, methods and usages of robotics sensors and
@@ -58,7 +58,7 @@ missions.</p>
 </ul>
 <h3>Environmental Science</h3>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Environmental_Science_CCA_2024_School_Website.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA 2025/WhatsApp_Image_2025_03_17_at_4_32_15_PM.jpg">
 </div>
 <p>Environmental Science CCA seeks to develop students’ interest in Science
 and care for the sustainable environment based on the 3As, Advocate, Act
