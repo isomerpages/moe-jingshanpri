@@ -138,4 +138,46 @@ thoughtful food choices, developing Critical and Adaptive Thinking.</p>
 highlights energy conversions, conservation, and renewable energy, inspiring
 students to innovate clean solutions while showcasing the school's conservation
 efforts.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/ALP 2025/PBLA.png">
+</div>
+<p><strong>Greening @ JS</strong> brings our school’s corridors to life with
+vibrant greenery. Each class adopts potted plants, fostering responsibility
+and care for nature. Plant signages introduced in the campus gardens deepen
+students’ knowledge of different plant species. This initiative is part
+of the school’s efforts to promote planting habits, build a more informed
+campus community, and contribute to a greener environment—aligning with
+the ‘City in Nature’ vision in the SG Green Plan.</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/ALP 2025/science_8.png">
+</div>
+<p>Our school is actively engaged in <strong>community </strong>outreach through <strong>partnerships </strong>with
+various organizations. These collaborations aim to extend the impact of
+our initiatives beyond the school premises, fostering positive change and
+contributing to the well-being of the broader community. Through these
+partnerships, we implement programs and projects that align with and advance
+our sustainability agenda. As of 2025, some of our esteemed partners include:</p>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <strong>Apeiron Bioenergy, Used Cooking Oil (UCO) Recycling Programme</strong>:
+Our school community collects used cooking oil for recycling into biofuels.</p>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <strong>Pure Imagination by Janice Wong, Singapore Origin Chocolate Community Project</strong>:
+In support of the One Million Trees movement and SG Green Plan for a City
+in Nature, Pure Imagination provided six cocoa trees for the school to
+plant in the school campus. The school leverages on this partnership to
+educate students about sustainable agriculture and the school’s effort
+to contribute to build a resilient food future.</p>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <strong>Uniqlo, The Power of Clothing Schools Programme</strong>:
+Our school collaborates with family service centres to collect and redistribute
+pre-loved Uniqlo clothing, promoting the circular economy and reducing
+waste through the Neighbours Helping Neighbours Programme.</p>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <strong>Food from the Heart, Clean Plate Campaign: </strong>Every
+year, JingShanites participate in the 3-day campaign which aims to raise
+awareness about food wastage and encourage JingShanites to pledge and support
+the movement. Our Green Champs serve as advocates, encouraging JingShanites
+to finish their meals with a clean plate during recess. For every clean
+plate, $1 is raised, contributing to feeding those in need.</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/ALP 2025/science_9.png">
+</div>
 <p></p>
