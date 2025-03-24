@@ -7,9 +7,8 @@ variant: tiptap
 ---
 <h1><strong>Physical Sports</strong></h1>
 <h3>Rope Skipping</h3>
-<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/6_Feb_Rope_Skipping_CCA.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA 2025/WhatsApp_Image_2025_03_17_at_4_32_15_PM__4_.jpg">
 </div>
 <p><strong>Objectives</strong>
 </p>
@@ -34,9 +33,8 @@ CCA and competitions.</p>
 </li>
 </ul>
 <h3>Badminton</h3>
-<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/6_Feb_Badminton_CCA.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA 2025/WhatsApp_Image_2025_03_14_at_11_47_36_AM.jpg">
 </div>
 <p>Badminton aims to develop not only the basic skills of the game but also
 character values such as resilience, perseverance and sportsmanship. Through
@@ -71,7 +69,7 @@ during training and tournaments.</p>
 </ul>
 <h3>Basketball</h3>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Basketball_CCA_2024_School_Website.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA 2025/WhatsApp_Image_2025_03_17_at_4_32_15_PM__3_.jpg">
 </div>
 <p><strong>Objectives</strong>
 </p>
@@ -102,10 +100,10 @@ CCA and competitions.</p>
 </li>
 </ul>
 <h3>Football</h3>
-<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/6_Feb_Football_CCA.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA 2025/WhatsApp_Image_2025_03_14_at_11_54_57_AM.jpg">
 </div>
+<h3>             </h3>
 <p><strong>Objectives</strong>
 </p>
 <ul data-tight="true" class="tight">
