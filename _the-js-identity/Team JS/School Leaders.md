@@ -37,17 +37,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Angela Ng</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Vice-Principal</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>angela_ng_suat_theng@schools.gov.sg</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Mr Jonathon Loh Bin</p>
 </td>
 <td rowspan="1" colspan="1">
