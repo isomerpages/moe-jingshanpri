@@ -1,5 +1,5 @@
 collections:
-  info-for-parents-and-students:
+  partners:
     output: true
     order:
       - Info for Parents and Students/.keep
