@@ -2,6 +2,7 @@ collections:
   school-services:
     output: true
     order:
+      - Canteen Price List.md
       - Links.md
       - Feedback.md
       - Contact Us.md
