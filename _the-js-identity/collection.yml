@@ -3,6 +3,7 @@ collections:
     output: true
     order:
       - The JS Identity.md
+      - About Us/Our School's History.md
       - About Us/.keep
       - About Us/About Us.md
       - About Us/Our School's Crest.md
