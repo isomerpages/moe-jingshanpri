@@ -268,6 +268,17 @@ variant: tiptap
 <p>han_simin@schools.gov.sg</p>
 </td>
 </tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Dharshini</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Subject Head/CCE</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>dharshini_rajah@schools.gov.sg</p>
+</td>
+</tr>
 </tbody>
 </table>
 <p></p>
