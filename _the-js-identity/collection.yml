@@ -2,13 +2,13 @@ collections:
   the-js-identity:
     output: true
     order:
-      - About Us/Da Qiao's History.md
-      - About Us/Jing Shan's History.md
-      - About Us/Our School's History.md
       - About Us/.keep
       - About Us/Our School's Crest.md
       - About Us/Our School Song.md
       - About Us/Our School Facilities.md
+      - About Us/Our School's History.md
+      - About Us/Da Qiao's History.md
+      - About Us/Jing Shan's History.md
       - Team JS/.keep
       - Team JS/School Leaders.md
       - Team JS/Key Personnel.md
