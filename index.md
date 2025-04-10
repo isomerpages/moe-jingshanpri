@@ -9,8 +9,6 @@ sections:
   - hero:
       title: Jing Shan Primary School
       background: /images/jsps.gif
-      button: Contact Us
-      url: /contact-us/
       key_highlights:
         - title: Announcements
           description: Click here for more
