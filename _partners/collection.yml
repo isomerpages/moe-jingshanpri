@@ -2,6 +2,7 @@ collections:
   partners:
     output: true
     order:
+      - Our School Advisory Committee.md
       - Info for Parents and Students/.keep
       - Info for Parents and Students/Academic Year and Health Related Matters.md
       - Info for Parents and Students/Traffic Management Plan.md
