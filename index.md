@@ -27,16 +27,6 @@ sections:
       image: /images/food.jpg
       alt: Alt text
   - infopic:
-      title: Download sharing slides
-      subtitle: JS E-OPEN HOUSE 2024
-      id: infopic
-      description: Thank you for attending the e-Open House held on 10 July 2024.
-        Click on the link below to download slides from the session.
-      button: Download sharing slides
-      url: /eopen-house-2024-slides/
-      image: /images/jsps e-open house 2024.jpg
-      alt: Image alt text
-  - infopic:
       title: Facebook
       subtitle: Follow us on
       description: here!
