@@ -2,6 +2,7 @@ collections:
   partners:
     output: true
     order:
+      - faq.md
       - Parent Support Group.md
       - School Advisory Committee.md
       - Information for Parents/Traffic Management Plan.md
