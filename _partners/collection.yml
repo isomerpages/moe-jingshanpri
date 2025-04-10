@@ -2,7 +2,6 @@ collections:
   partners:
     output: true
     order:
-      - Parent Support Group.md
       - School Advisory Committee.md
       - Info for Parents and Students/.keep
       - Info for Parents and Students/Academic Year and Health Related Matters.md
