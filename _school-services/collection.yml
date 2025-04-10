@@ -2,7 +2,6 @@ collections:
   school-services:
     output: true
     order:
-      - faq.md
       - Links.md
       - Feedback.md
       - Contact Us.md
