@@ -17,14 +17,6 @@ sections:
           description: Click here for more
           url: /quicklinks/for-students/
   - infopic:
-      title: Vacancy for Muslim Food Stall
-      subtitle: 🍴School Canteen Advertisement
-      id: infopic
-      button: Read more
-      url: /school-canteen-advertisement/
-      image: /images/food.jpg
-      alt: Alt text
-  - infopic:
       title: Facebook
       subtitle: Follow us on
       description: here!
