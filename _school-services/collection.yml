@@ -2,6 +2,7 @@ collections:
   school-services:
     output: true
     order:
+      - Textbook Matters.md
       - Canteen Price List.md
       - Links.md
       - Feedback.md
