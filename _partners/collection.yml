@@ -2,6 +2,7 @@ collections:
   partners:
     output: true
     order:
+      - JSPS Parent Support Group.md
       - Our School Advisory Committee.md
       - Info for Parents and Students/.keep
       - Info for Parents and Students/Academic Year and Health Related Matters.md
