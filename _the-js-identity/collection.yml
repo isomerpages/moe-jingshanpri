@@ -2,7 +2,6 @@ collections:
   the-js-identity:
     output: true
     order:
-      - The JS Identity.md
       - About Us/Da Qiao's History.md
       - About Us/Jing Shan's History.md
       - About Us/Our School's History.md
