@@ -16,6 +16,7 @@ sections:
         - title: Quick Links
           description: Click here for more
           url: /quicklinks/for-students/
+      subtitle: United and True, Onward We Strive
   - infopic:
       title: Facebook
       subtitle: Follow us on
