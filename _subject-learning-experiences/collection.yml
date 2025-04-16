@@ -1,5 +1,5 @@
 collections:
-  our-subject-learning:
+  subject-learning-experiences:
     output: true
     order:
       - English Language.md
