@@ -2,11 +2,11 @@ collections:
   our-subject-learning:
     output: true
     order:
+      - English.md
+      - Mother Tounge.md
+      - Mathematics.md
+      - Science.md
+      - Physical Education (PE).md
+      - Aesthetics.md
       - Information and Communication Technology (ICT).md
       - Character and Citizenship Education (CCE).md
-      - Aesthetics.md
-      - Physical Education (PE).md
-      - Science.md
-      - Mathematics.md
-      - Mother Tounge.md
-      - English.md
