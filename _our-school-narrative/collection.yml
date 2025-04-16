@@ -2,7 +2,7 @@ collections:
   our-school-narrative:
     output: true
     order:
+      - Our School Vision.md
+      - Our School's History.md
       - Our School Song.md
       - Our School's Crest.md
-      - Our School's History.md
-      - Our School Vision.md
