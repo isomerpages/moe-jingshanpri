@@ -2,6 +2,7 @@ collections:
   our-development-experiences:
     output: true
     order:
+      - Student Leadership Development.md
       - National Education.md
       - Design Education.md
       - PAL.md
