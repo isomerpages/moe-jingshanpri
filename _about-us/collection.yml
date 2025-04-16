@@ -1,5 +1,5 @@
 collections:
-  our-school-narrative:
+  about-us:
     output: true
     order:
       - Our School Vision.md
