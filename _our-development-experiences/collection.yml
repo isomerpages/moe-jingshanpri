@@ -2,6 +2,7 @@ collections:
   our-development-experiences:
     output: true
     order:
+      - Character and Citizenship Education (CCE).md
       - Co Curricular Activites/Clubs and Societies.md
       - Co Curricular Activites/Visual and Performing Arts.md
       - Co Curricular Activites/Uniformed Groups.md
