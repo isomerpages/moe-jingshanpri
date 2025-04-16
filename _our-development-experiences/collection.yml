@@ -3,7 +3,6 @@ collections:
     output: true
     order:
       - Co Curricular Activites/.keep
-      - Co Curricular Activities.md
       - Level Signature Events.md
       - National Education Commemorative Days.md
       - Program for Active Learning.md
