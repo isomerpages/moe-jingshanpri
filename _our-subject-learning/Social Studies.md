@@ -4,3 +4,4 @@ permalink: /social-studies/
 variant: tiptap
 description: ""
 ---
+<p></p>
