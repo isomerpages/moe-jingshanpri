@@ -2,6 +2,7 @@ collections:
   our-development-experiences:
     output: true
     order:
+      - Co Curricular Activites/Physical Sports.md
       - Co Curricular Activites/.keep
       - Level Signature Events.md
       - National Education Commemorative Days.md
