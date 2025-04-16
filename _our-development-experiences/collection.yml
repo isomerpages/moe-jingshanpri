@@ -2,11 +2,11 @@ collections:
   our-development-experiences:
     output: true
     order:
-      - CCE/.keep
       - Applied Learning Programme (ALP).md
       - Learn For Life Programme (LLP).md
       - Design Education.md
       - Character and Citizenship Education (CCE).md
+      - CCE/.keep
       - National Education.md
       - Student Leadership Development.md
       - Co Curricular Activites/.keep
