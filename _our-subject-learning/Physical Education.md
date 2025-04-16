@@ -4,7 +4,7 @@ permalink: /the-js-experience/departments/physical-education-pe/
 description: ""
 variant: tiptap
 ---
-<h1><strong>Physical Education (PE)</strong></h1>
+<h1><strong>Physical Education </strong></h1>
 <p>Our PE curriculum is closely aligned to MOE’s PE syllabus. It is based
 on seven key learning areas -&nbsp;<strong>Athletics, Dance, Games and Sports, Gymnastics, Outdoor Education, Physical Health and Fitness,</strong>&nbsp;and&nbsp;<strong>Swimming.</strong>
 </p>
