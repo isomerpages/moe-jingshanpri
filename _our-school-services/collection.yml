@@ -2,10 +2,10 @@ collections:
   our-school-services:
     output: true
     order:
-      - School Bus Service.md
-      - Little Professors Student Care Centre.md
-      - School Uniform.md
-      - Textbook Matters.md
-      - Canteen Price List.md
-      - Feedback.md
       - Contact Us.md
+      - Canteen Price List.md
+      - Textbook Matters.md
+      - School Bus Service.md
+      - School Uniform.md
+      - Little Professors Student Care Centre.md
+      - Feedback.md
