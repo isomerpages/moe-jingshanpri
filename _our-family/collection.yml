@@ -2,7 +2,6 @@ collections:
   our-family:
     output: true
     order:
-      - School Advisory Committee.md
       - Executive & Administrative Staff.md
       - Allied Educators.md
       - Non Form Teachers.md
