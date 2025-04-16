@@ -2,5 +2,6 @@ collections:
   our-family:
     output: true
     order:
+      - Non Form Teachers.md
       - Form Teachers.md
       - School Executive Comittee.md
