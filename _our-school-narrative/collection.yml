@@ -3,7 +3,6 @@ collections:
     output: true
     order:
       - School Safety and Security/.keep
-      - Traffic Management Plan.md
       - Our School Vision.md
       - Our School's History.md
       - Our School Crest & Song.md
