@@ -2,7 +2,6 @@ collections:
   our-subject-learning:
     output: true
     order:
-      - Aesthetics/.keep
       - English Language.md
       - Mother Tongue Language.md
       - Mathematics.md
@@ -12,5 +11,6 @@ collections:
       - Science/Science.md
       - Physical Education.md
       - Aesthetics.md
+      - Aesthetics/.keep
       - Social Studies.md
       - Information and Communication Technology (ICT).md
