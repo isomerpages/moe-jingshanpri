@@ -3,9 +3,9 @@ collections:
     output: true
     order:
       - School Advisory Committee.md
-      - Parent Support Group.md
-      - Executive & Administrative Staff.md
-      - Allied Educators.md
-      - Non Form Teachers.md
       - Form Teachers.md
+      - Non Form Teachers.md
+      - Allied Educators.md
+      - Executive & Administrative Staff.md
       - School Executive Comittee.md
+      - Parent Support Group.md
