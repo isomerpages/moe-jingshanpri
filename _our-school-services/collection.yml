@@ -2,7 +2,7 @@ collections:
   our-school-services:
     output: true
     order:
-      - Contact Us.md
+      - Our Contact Information.md
       - Canteen Price List.md
       - Textbook Matters.md
       - School Bus Service.md
