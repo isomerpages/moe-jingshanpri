@@ -47,6 +47,17 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Ms Vethavalli Ramalingam</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>SEN (Special Educational Needs) Officer</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>vethavalli_ramalingam@schools.gov.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Mdm Catherine Chin</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -65,17 +76,6 @@ description: ""
 </td>
 <td rowspan="1" colspan="1">
 <p>junice_khng_kai_en@schools.gov.sg</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Ms Vethavalli Ramalingam</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>SEN (Special Educational Needs) Officer</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>vethavalli_ramalingam@schools.gov.sg</p>
 </td>
 </tr>
 <tr>
