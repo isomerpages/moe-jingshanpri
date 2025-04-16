@@ -1,5 +1,5 @@
 collections:
-  school-services:
+  our-school-services:
     output: true
     order:
       - Frequently Asked Question.md
