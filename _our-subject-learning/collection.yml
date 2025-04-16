@@ -2,12 +2,12 @@ collections:
   our-subject-learning:
     output: true
     order:
-      - Social Studies.md
       - English Language.md
       - Mother Tongue Language.md
       - Mathematics.md
       - Science.md
       - Physical Education.md
       - Aesthetics.md
+      - Social Studies.md
       - Information and Communication Technology (ICT).md
       - Character and Citizenship Education (CCE).md
