@@ -2,6 +2,7 @@ collections:
   our-school-narrative:
     output: true
     order:
+      - School Safety and Security/Traffic Management Plan.md
       - School Safety and Security/.keep
       - Our School Vision.md
       - Our School's History.md
