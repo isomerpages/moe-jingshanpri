@@ -25,4 +25,13 @@ sections:
       url: https://www.facebook.com/jingshanpri
       image: /images/homepage.jpg
       alt: Image alt text
+  - infopic:
+      title: Instagram
+      subtitle: Follow us on
+      id: infopic
+      description: here!
+      button: Click here
+      url: https://www.instagram.com/the_jsps_story/
+      image: /images/School logo/ChatGPT_Image_Apr_16__2025__11_31_58_AM.png
+      alt: Image alt text
 ---
