@@ -2,5 +2,6 @@ collections:
   our-development-experiences:
     output: true
     order:
+      - PAL.md
       - Learn For Life Programme (LLP).md
       - Applied Learning Programme (ALP).md
