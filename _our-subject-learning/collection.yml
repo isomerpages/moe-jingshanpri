@@ -2,6 +2,7 @@ collections:
   our-subject-learning:
     output: true
     order:
+      - Social Studies.md
       - English Language.md
       - Mother Tongue Language.md
       - Mathematics.md
