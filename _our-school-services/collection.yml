@@ -2,6 +2,7 @@ collections:
   our-school-services:
     output: true
     order:
+      - Our Dental Clinic.md
       - Our Contact Information.md
       - Our Canteen Price List.md
       - Our Textbook Matters.md
