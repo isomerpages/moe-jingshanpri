@@ -2,7 +2,7 @@ collections:
   our-subject-learning:
     output: true
     order:
-      - English.md
+      - English Language.md
       - Mother Tounge.md
       - Mathematics.md
       - Science.md
