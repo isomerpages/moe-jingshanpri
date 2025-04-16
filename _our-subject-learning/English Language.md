@@ -4,7 +4,7 @@ permalink: /the-js-experience/departments/english-language/
 description: ""
 variant: tiptap
 ---
-<h1><strong>English</strong></h1>
+<h1><strong>English Language</strong></h1>
 <p></p>
 <p>Every JingShanite is an Empathetic Communicator, a Discerning Reader and
 a Creative Inquirier.</p>
