@@ -2,6 +2,7 @@ collections:
   our-development-experiences:
     output: true
     order:
+      - Co Curricular Activites/Visual and Performing Arts.md
       - Co Curricular Activites/Uniformed Groups.md
       - Co Curricular Activites/Physical Sports.md
       - Co Curricular Activites/.keep
