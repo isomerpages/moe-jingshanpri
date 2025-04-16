@@ -2,11 +2,11 @@ collections:
   our-school-services:
     output: true
     order:
-      - Our Dental Clinic.md
       - Our Contact Information.md
       - Our Canteen Price List.md
       - Our Textbook Matters.md
       - Our School Bus Service.md
       - Our School Uniform.md
       - Our Little Professors Student Care Centre.md
+      - Our Dental Clinic.md
       - Feedback.md
