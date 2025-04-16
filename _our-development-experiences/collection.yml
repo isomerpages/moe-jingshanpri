@@ -2,18 +2,18 @@ collections:
   our-development-experiences:
     output: true
     order:
+      - Applied Learning Programme (ALP).md
+      - Learn For Life Programme (LLP).md
+      - Design Education.md
       - Character and Citizenship Education (CCE).md
+      - National Education.md
+      - Student Leadership Development.md
+      - Co Curricular Activites/.keep
       - Co Curricular Activites/Clubs and Societies.md
       - Co Curricular Activites/Visual and Performing Arts.md
       - Co Curricular Activites/Uniformed Groups.md
       - Co Curricular Activites/Physical Sports.md
-      - Co Curricular Activites/.keep
-      - Level Signature Events.md
-      - National Education Commemorative Days.md
-      - Program for Active Learning.md
-      - Student Leadership Development.md
-      - National Education.md
-      - Design Education.md
       - PAL.md
-      - Learn For Life Programme (LLP).md
-      - Applied Learning Programme (ALP).md
+      - National Education Commemorative Days.md
+      - Level Signature Events.md
+      - Program for Active Learning.md
