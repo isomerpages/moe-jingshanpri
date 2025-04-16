@@ -1,4 +1,5 @@
 collections:
   our-school-narrative:
     output: true
-    order: []
+    order:
+      - Our School Vision.md
