@@ -1,10 +1,12 @@
 logo: /images/logo.png
 links:
-  - title: The Js Identity
+  - title: Our School Narrative
     collection: the-js-identity
-  - title: The JS Experience
+  - title: Our family
     collection: the-js-experience
-  - title: Partners
+  - title: Our Subject Learning
+    collection: departments
+  - title: Our development experiences
     collection: partners
   - title: School Services
     collection: school-services
