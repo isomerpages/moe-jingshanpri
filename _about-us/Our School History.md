@@ -4,7 +4,7 @@ permalink: /the-js-identity/our-history/
 description: ""
 variant: tiptap
 ---
-<h1><strong>Our School's History</strong></h1>
+<h1><strong>Our School History</strong></h1>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/JING%20SHAN%20PS_HERITAGE%20MERGER%2021%20DEC.jpg">
 </div>
