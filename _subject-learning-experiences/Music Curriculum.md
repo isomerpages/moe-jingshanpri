@@ -2,8 +2,9 @@
 title: Music Curriculum
 permalink: /the-js-experience/departments/aesthetics/music-curriculum/
 description: ""
+variant: markdown
 ---
-# **Music Curriculum**
+# **Music**
 
 ![](/images/music.jpg)
 &nbsp;_My musical experience as I journey through lower, middle and upper school._  
