@@ -4,7 +4,7 @@ permalink: /the-js-experience/departments/mother-tongue-languages/
 description: ""
 variant: tiptap
 ---
-<h1><strong>Mother Tongue Language</strong></h1>
+<h1><strong>Mother Tongue Languages</strong></h1>
 <p>Mother Tongue Language (MTL) learning at Jing Shan Primary aims to help
 students experience the joy of learning and become confident users of their
 Mother Tongue. This is in line with the School Vision of ‘Thriving Explorers,
