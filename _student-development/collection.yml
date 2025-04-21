@@ -1,5 +1,5 @@
 collections:
-  development-experiences:
+  student-development:
     output: true
     order:
       - Applied Learning Programme (ALP).md
