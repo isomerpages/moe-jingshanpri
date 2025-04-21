@@ -28,7 +28,7 @@ description: ""
 <p>Ms M Bhairavi d/o Manimaran</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Senior School Counsellor</p>
+<p>Snr SC</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>m_bhairavi_manimaran@schools.gov.sg</p>
@@ -36,10 +36,10 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Carmelia Trecia Arriola</p>
+<p>Mdm Carmelia Trecia Arriola</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>SEN (Special Educational Needs) Officer</p>
+<p>Lead SENO</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>carmelia_trecia_arriola@schools.gov.sg</p>
@@ -50,7 +50,7 @@ description: ""
 <p>Ms Bai Huixin</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Senior SEN (Special Educational Needs) Officer</p>
+<p>Snr SENO</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>bai_huixin@schools.gov.sg</p>
@@ -61,7 +61,7 @@ description: ""
 <p>Ms Vethavalli Ramalingam</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>SEN (Special Educational Needs) Officer</p>
+<p>SENO</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>vethavalli_ramalingam@schools.gov.sg</p>
@@ -69,24 +69,24 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mdm Catherine Chin</p>
+<p>Ms Junice Khng</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>SEN (Special Educational Needs) Officer</p>
+<p>SENO</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>chin_yoke_fong_catherine@schools.gov.sg</p>
+<p>junice_khng_kai_en@schools.gov.sg</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Junice Khng</p>
+<p>Ms Clara Cheong</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>SEN (Special Educational Needs) Officer</p>
+<p>SENO</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>junice_khng_kai_en@schools.gov.sg</p>
+<p>cheong_yu_tong_b@schools.gov.sg</p>
 </td>
 </tr>
 </tbody>
