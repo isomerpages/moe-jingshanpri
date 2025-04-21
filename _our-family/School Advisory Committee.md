@@ -52,19 +52,3 @@ variant: tiptap
 </tbody>
 </table>
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/SAC 2024/WhatsApp_Image_2023_12_28_at_12_15_03_PM.jpeg">
-</div>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/SAC 2024/WhatsApp_Image_2023_12_28_at_12_15_03_PM__3_.jpeg">
-</div>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/SAC 2024/WhatsApp_Image_2023_12_28_at_12_15_03_PM__2_.jpeg">
-</div>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/SAC 2024/WhatsApp_Image_2023_12_28_at_12_15_03_PM__1_.jpeg">
-</div>
-<p></p>
