@@ -2,8 +2,6 @@ collections:
   subject-learning-experiences:
     output: true
     order:
-      - Music Curriculum.md
-      - Art Curriculum.md
       - English Language.md
       - Mother Tongue Languages.md
       - Mathematics.md
@@ -12,6 +10,8 @@ collections:
       - Science/Science Programmes.md
       - Science/Science.md
       - Physical Education.md
-      - Aesthetics/Aesthetics.md
+      - Art Curriculum.md
+      - Music Curriculum.md
       - Aesthetics/.keep
+      - Aesthetics/Aesthetics.md
       - Social Studies.md
