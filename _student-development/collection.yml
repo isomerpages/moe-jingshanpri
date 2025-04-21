@@ -3,7 +3,8 @@ collections:
     output: true
     order:
       - Applied Learning Programme (ALP) Green Explorers @ JS.md
-      - Learn For Life Programme (LLP).md
+      - "LLP Flourish @ JS: Character Strengths, Mindfulness and Gratitude in
+        Action.md"
       - Design Education.md
       - CCE/.keep
       - CCE/Character and Citizenship Education (CCE).md
