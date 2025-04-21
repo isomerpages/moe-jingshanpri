@@ -93,7 +93,7 @@ description: ""
 <p>1 Humility</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Fatimawati Affandi</p>
+<p>Mdm Fatimawati Affandi</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>fatimawati_affandi@schools.gov.sg</p>
@@ -152,7 +152,7 @@ description: ""
 <p>2 Responsibility</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Hazirah Djuanda</p>
+<p>Ms Hazirah Djuanda</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>hazirah_djuanda@schools.gov.sg</p>
@@ -615,7 +615,7 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mdm Loh Chew Wi</p>
+<p>Ms Loh Chew Wi</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>loh_chew_wi@schools.gov.sg</p>
@@ -655,7 +655,7 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Fiona Khim</p>
+<p>Mrs Fiona Dai</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>khim_gek_pei_fiona@schools.gov.sg</p>
@@ -666,7 +666,7 @@ description: ""
 <p>6 Responsibility</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Png Chiew Peng</p>
+<p>Ms Png Chiew Peng</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>png_chiew_peng@schools.gov.sg</p>
