@@ -4,7 +4,7 @@ permalink: /the-js-experience/departments/aesthetics/art/
 description: ""
 variant: tiptap
 ---
-<h1><strong>Art </strong></h1>
+<h1><strong>Art</strong></h1>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Art.jpg">
 </div>
@@ -136,7 +136,6 @@ signature programmes.</p>
 </div>
 <p>PAL Art</p>
 <p></p>
-<h1><strong>Aesthetics</strong></h1>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/aesthetics.jpg">
 </div>
