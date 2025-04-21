@@ -2,7 +2,7 @@ collections:
   student-development:
     output: true
     order:
-      - Applied Learning Programme (ALP).md
+      - Applied Learning Programme (ALP) @ Green Explorers @ JS.md
       - Learn For Life Programme (LLP).md
       - Design Education.md
       - CCE/.keep
