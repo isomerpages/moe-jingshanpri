@@ -77,7 +77,7 @@ description: ""
 <p>Mrs Shanthi Magendran</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>shanti_magendran@schools.gov.sg</p>
+<p>shanthi_magendran@schools.gov.sg</p>
 </td>
 </tr>
 <tr>
