@@ -2,7 +2,6 @@ collections:
   useful-information:
     output: true
     order:
-      - Useful Resources.md
       - Contact Us.md
       - School Canteen.md
       - Our Textbook Matters.md
@@ -10,3 +9,4 @@ collections:
       - School Uniform.md
       - Student Care Centre.md
       - School Dental Service.md
+      - Useful Resources.md
