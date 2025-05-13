@@ -2,7 +2,7 @@ collections:
   useful-information:
     output: true
     order:
-      - Our Contact Information.md
+      - Contact Us.md
       - Our Canteen Price List.md
       - Our Textbook Matters.md
       - Our School Bus Service.md
