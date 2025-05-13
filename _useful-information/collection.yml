@@ -1,5 +1,5 @@
 collections:
-  our-school-services:
+  useful-information:
     output: true
     order:
       - Our Contact Information.md
