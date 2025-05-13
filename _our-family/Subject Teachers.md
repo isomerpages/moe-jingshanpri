@@ -12,10 +12,12 @@ description: ""
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Teachers</p>
+<p><strong>Teachers</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Email address</p>
+<p><strong>Email address</strong>
+</p>
 </td>
 </tr>
 <tr>
