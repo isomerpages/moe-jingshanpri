@@ -24,6 +24,9 @@ sections:
       url: https://go.gov.sg/2025jspseopenhouse
       image: /images/EOpen House 2025/WhatsApp_Image_2025_05_21_at_2_12_58_PM.jpg
       alt: Image alt text
+      description: Parents with children entering P1 in 2026 are invited to learn
+        about Jing Shan Primary School and P1 student life. Register by 1 July
+        2025 at the link below.
   - infopic:
       title: Facebook
       subtitle: Follow us on
