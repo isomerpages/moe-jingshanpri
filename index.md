@@ -18,6 +18,16 @@ sections:
           url: /quicklinks/for-students/
       subtitle: United and True, Onward We Strive
   - infopic:
+      title: e-Open House 2025
+      id: infopic
+      description: Join our 2025 JS e-Open House via Zoom on 8 Jul, 3.30-5pm! Parents
+        of 2026 P1 children welcome. Learn about JSPS & P1 life. Register by 1
+        Jul.
+      button: Register here
+      url: https://go.gov.sg/2025jspseopenhouse
+      image: /images/EOpen House 2025/WhatsApp_Image_2025_05_21_at_2_12_58_PM.jpg
+      alt: Image alt text
+  - infopic:
       title: Facebook
       subtitle: Follow us on
       description: here!
