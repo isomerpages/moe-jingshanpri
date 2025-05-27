@@ -1,12 +1,14 @@
 logo: /images/logo.png
 links:
-  - title: The Js Identity
-    collection: the-js-identity
-  - title: The JS Experience
-    collection: the-js-experience
-  - title: Info for parents & students
-    collection: info-for-parents-and-students
-  - title: Useful Links
-    collection: useful-links
+  - title: About Us
+    collection: about-us
+  - title: Our family
+    collection: our-family
+  - title: Subject Learning
+    collection: subject-learning
+  - title: Student Development
+    collection: student-development
+  - title: Useful Information
+    collection: useful-information
   - title: MK@JS
     collection: mk-at-jing-shan

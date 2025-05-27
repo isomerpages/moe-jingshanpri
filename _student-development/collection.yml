@@ -1,0 +1,25 @@
+collections:
+  student-development:
+    output: true
+    order:
+      - ALP Green Explorers @ JS.md
+      - "LLP Flourish @ JS: Character Strengths, Mindfulness and Gratitude in
+        Action.md"
+      - Design Education.md
+      - CCE/.keep
+      - CCE/CCE(MTL).md
+      - CCE/CCE(FTGP).md
+      - CCE/National Education.md
+      - CCE/Education and Career Guidance.md
+      - CCE/Sexuality Education.md
+      - CCE/Values in Action Including Everyday Responsibilities.md
+      - CCE/Wonders of Wellbeing.md
+      - National Education.md
+      - Student Leadership Development.md
+      - Co Curricular Activites/.keep
+      - Co Curricular Activites/Clubs and Societies.md
+      - Co Curricular Activites/Visual and Performing Arts.md
+      - Co Curricular Activites/Uniformed Groups.md
+      - Co Curricular Activites/Physical Sports.md
+      - Program for Active Learning (PAL).md
+      - Level Signature Events.md

@@ -9,8 +9,6 @@ sections:
   - hero:
       title: Jing Shan Primary School
       background: /images/jsps.gif
-      button: Contact Us
-      url: /contact-us/
       key_highlights:
         - title: Announcements
           description: Click here for more
@@ -18,24 +16,7 @@ sections:
         - title: Quick Links
           description: Click here for more
           url: /quicklinks/for-students/
-  - infopic:
-      title: Vacancy for Muslim Food Stall
-      subtitle: 🍴School Canteen Advertisement
-      id: infopic
-      button: Read more
-      url: /school-canteen-advertisement/
-      image: /images/food.jpg
-      alt: Alt text
-  - infopic:
-      title: Download sharing slides
-      subtitle: JS E-OPEN HOUSE 2024
-      id: infopic
-      description: Thank you for attending the e-Open House held on 10 July 2024.
-        Click on the link below to download slides from the session.
-      button: Download sharing slides
-      url: /eopen-house-2024-slides/
-      image: /images/jsps e-open house 2024.jpg
-      alt: Image alt text
+      subtitle: United and True, Onward We Strive
   - infopic:
       title: Facebook
       subtitle: Follow us on
@@ -43,5 +24,14 @@ sections:
       button: Click here
       url: https://www.facebook.com/jingshanpri
       image: /images/homepage.jpg
+      alt: Image alt text
+  - infopic:
+      title: Instagram
+      subtitle: Follow us on
+      id: infopic
+      description: here!
+      button: Click here
+      url: https://www.instagram.com/the_jsps_story/
+      image: /images/School logo/ChatGPT_Image_Apr_16__2025__11_31_58_AM.png
       alt: Image alt text
 ---
