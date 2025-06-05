@@ -2,6 +2,7 @@ collections:
   our-family:
     output: true
     order:
+      - Subject Teachers/Art.md
       - Subject Teachers/Physical Education.md
       - Subject Teachers/Science.md
       - Subject Teachers/Mathematics.md
