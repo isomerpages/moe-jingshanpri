@@ -2,6 +2,7 @@ collections:
   our-family:
     output: true
     order:
+      - Subject Teachers/Science.md
       - Subject Teachers/Mathematics.md
       - Subject Teachers/Mother Tongue Languages.md
       - Subject Teachers/English Language.md
