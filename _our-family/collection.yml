@@ -2,7 +2,6 @@ collections:
   our-family:
     output: true
     order:
-      - Subject Teachers.md
       - School Executive Comittee.md
       - Form Teachers.md
       - Subject Teachers v1.md
