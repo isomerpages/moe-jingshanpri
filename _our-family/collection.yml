@@ -2,6 +2,7 @@ collections:
   our-family:
     output: true
     order:
+      - Subject Teachers/English Language.md
       - Subject Teachers/.keep
       - School Executive Comittee.md
       - Form Teachers.md
