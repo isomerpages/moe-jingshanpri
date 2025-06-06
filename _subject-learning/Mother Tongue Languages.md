@@ -53,8 +53,8 @@ learning. Some of the learning tasks include audio and video recording
 of oral responses according to a topic and writing activities which require
 students to work collaboratively online.</p>
 <p></p>
-<p><strong>Mother Tongue Language Signature Programmes</strong>
-</p>
+<p></p>
+<h4><strong>Mother Tongue Language Signature Programmes</strong></h4>
 <p><u>Mother Tongue Fortnight</u>
 </p>
 <p>Scheduled in Term 3, this annual 2-week programme is conducted during
