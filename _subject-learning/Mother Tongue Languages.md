@@ -92,8 +92,7 @@ growth as budding confident communicators. Featuring an integrated audio
 playback function, the platform allows readers to not only view the pages
 but also listen to narrated stories, enhancing the reading experience.&nbsp;
 Explore our JingShanites’ works at<a href="https://www.ezhishi.net/JSPSebook/index.html" rel="noopener noreferrer nofollow" target="_blank"> <u>www.ezhishi.net/JSPSebook/index.html</u></a>.&nbsp;</p>
-<p><u>&nbsp;</u>
-</p>
+<p></p>
 <p><u>Strength Spotlight Programme</u>
 </p>
 <p>The department recognises the uniqueness of each student and offers opportunities
