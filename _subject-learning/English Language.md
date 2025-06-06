@@ -50,11 +50,17 @@ approaches:</p>
 expressive, and impactful writing through a focus on ideas, organisation,
 voice, word choice, sentence fluency, and conventions.</p>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/English department/2025/EL12025.png">
+</div>
 <p>✨ <strong>Inquiry through Dialogue</strong> — encouraging meaningful conversations
 where students question, reflect, and co-construct understanding, fostering
 deeper learning through active participation.
 <br>
 </p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/English department/2025/EL22025.png">
+</div>
 <p>✨ <strong>Differentiated Instruction Approach</strong> — recognising the
 unique strengths and needs of each learner, we customise instruction to
 provide accessible, relevant, and challenging learning experiences for
@@ -62,6 +68,10 @@ all. Besides enacting DI approach in the classrooms, the EL department
 also<strong> </strong>adopts a progressive and inclusive 3S Approach — <em>Support, Strengthen, and Stretch</em> —
 to customise programmes and activities that cater to the diverse learning
 needs of our students.</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/English department/2025/EL32025.png">
+</div>
 <p>✨ <strong>Shared Book Approach (SBA)</strong> — nurturing a love for reading
 and developing language skills through engaging, rich texts that promote
 discussion, critical analysis, and text appreciation.</p>
@@ -70,15 +80,24 @@ digital platforms to create interactive, collaborative, and immersive learning
 environments that extend beyond the classroom walls.
 <br>
 </p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/English department/2025/EL42025.png">
+</div>
 <p>✨ <strong>Active Reading and Reading Comprehension</strong> —fostering a
 love for reading while equipping students with effective strategies to
 engage deeply with texts, develop critical literacy, make thoughtful inferences,
 evaluate information critically, and respond with insight.</p>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/English department/2025/EL52025.png">
+</div>
 <p>✨ <strong>Metacognitive Approach in Teaching Critical and Inventive Thinking</strong> —
 empowering learners to be assessment-capable learners who monitor, reflect
 on, and regulate their thought processes, fostering resilience and adaptability.</p>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/English department/2025/EL62025.png">
+</div>
 <p>✨ <strong>Modified Language Experience Approach (MLEA)</strong> — blending
 students’ personal experiences with language learning to create meaningful,
 authentic writing and communication opportunities.</p>
