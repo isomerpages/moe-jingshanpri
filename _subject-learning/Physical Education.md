@@ -9,7 +9,7 @@ variant: tiptap
 a love for physical activity and demonstrates excellence in Physical Education.</p>
 <p>Our Physical Education (PE) curriculum is closely aligned with the Ministry
 of Education (MOE)’s PE syllabus and is anchored in <strong>seven key learning areas</strong>:
-<br> <strong>Athletics, Dance, Games and Sports, Gymnastics, Outdoor Education, Physical Health and Fitness, and Swimming</strong>.</p>
+<br><strong>Athletics, Dance, Games and Sports, Gymnastics, Outdoor Education, Physical Health and Fitness, and Swimming</strong>.</p>
 <p></p>
 <hr>
 <p></p>
@@ -91,3 +91,32 @@ for students to be physically active and support their mental well-being.
 <p>Through our <strong>holistic PE programme</strong>, we aim to nurture every
 student to be a <strong>Joyful Athlete</strong> – enthusiastic, skilled,
 responsible, and ready to lead an active and healthy lifestyle</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/PE/2025/PE12025.png">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/PE/2025/PE22025.png">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/PE/2025/PE32025.png">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/PE/2025/PE42025.png">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/PE/2025/PE52025.png">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/PE/2025/PE62025.png">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/PE/2025/PE72025.png">
+</div>
+<p></p>
