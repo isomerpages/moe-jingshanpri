@@ -8,8 +8,8 @@ variant: tiptap
 <p></p>
 <p><strong>Every JingShanite is an Empathetic Communicator, a Discerning Reader and a Creative Inquirer!</strong>
 </p>
-<p>At JSPS, we are committed to nurturing empowered learners — confident
-in their voice and choice, curious in their inquiry, and compassionate
+<p>At Jing Shan Primary School, we are committed to nurturing empowered learners
+— confident in their voice and choice, curious in their inquiry, and compassionate
 in their interactions — ready to shape the future with courage, creativity,
 and conviction.&nbsp;</p>
 <p>Through the teaching and learning of English Language in JSPS, we aim
