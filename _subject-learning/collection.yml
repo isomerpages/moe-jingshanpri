@@ -2,10 +2,10 @@ collections:
   subject-learning:
     output: true
     order:
-      - Science.md
       - English Language.md
       - Mother Tongue Languages.md
       - Mathematics.md
+      - Science.md
       - Science/.keep
       - Physical Education.md
       - Art.md
