@@ -5,45 +5,74 @@ variant: tiptap
 description: ""
 ---
 <h1><strong>Social Studies</strong></h1>
-<p><strong>Primary 1</strong>
-</p>
-<p>The&nbsp;<strong>Scope and Sequence</strong>&nbsp;<strong>for</strong>&nbsp;<strong>Primary 1 Social Studies</strong>&nbsp;comprises&nbsp;<em>Knowing Myself, Others and My Surroundings</em>.
-The concepts to be taught&nbsp;include&nbsp;<em>Identity, Self-Awareness, Group, Community, Sense of Belonging, Respect, Responsibility, Relationship, Place, Space, Cooperation, and</em>&nbsp;<em>Neighbourhood.</em>
-</p>
-<p><em>Primary 1</em>
+<p><strong>Content Section: Text Input Area for Content</strong>&nbsp;</p>
+<p></p>
+<p>Every JingShanite an Active Citizen - where a JingShanite learns to value
+diversity in society, actively contribute to discussions, and exhibits
+curiosity to explore and understand the world</p>
+<p></p>
+<p>Aligned to the Singapore Social Studies curriculum, Social Studies lessons
+in Jing Shan aim to help students to grow in knowledge, develop skills
+and learn values through examining issues that are of concern to the society
+and the world in which they live.</p>
+<h4><strong>Clusters of Study</strong></h4>
+<p></p>
+<p>Across the 6 Primary School levels, Social Studies focuses on the development
+of Knowledge, Skills, Values through three broad themes:</p>
+<p></p>
+<ul>
+<li>
+<p>Discovering Self and Immediate Environment&nbsp;</p>
+</li>
+<li>
+<p>Understanding Singapore in the Past and Present&nbsp;</p>
+</li>
+<li>
+<p>Appreciating Singapore, the Region and the World We Live In&nbsp;</p>
+</li>
+</ul>
+<p></p>
+<p>Through Social Studies, students’ civic, global and cross-cultural literacy
+are developed, aiming for them to be both locally anchored and globally
+confident. Students will learn about Singapore in a wide range of ways.
+Building on the foundations of getting to know about themselves and their
+place in their communities, students will expand on that understanding
+to learn about the larger Singaporean landscape and environment, both past
+and present.&nbsp;</p>
+<p></p>
+<p>At the Lower School, students learn about personal and social identity
+as they find out what makes them unique and how their community shapes
+their identities. They move on to relate to the places around them and
+how despite Singapore being made up of diverse groups of people, we are
+united by common experiences and our National Symbols.</p>
+<p></p>
+<p>In the Middle School, the knowledge of places around Singapore helps students
+understand the nation’s landscape better and how its people play a key
+part in protecting their environment, while also adapting to overcome any
+challenges faced and meet the needs of society. To better understand the
+current Singapore landscape, students are exposed to the heritage of the
+people living here and the contributions made by early settlers and the
+journey to independence.</p>
+<p></p>
+<p>When students progress to the Upper School, they learn about the nation-building
+process and its challenges, before focusing on Singapore’s place in the
+region of diverse people and features. By Primary 6, students focus on
+understanding the concept of legacies from civilisations still having its
+place in the world today.</p>
+<h4><strong>Authenticity in Learning</strong></h4>
+<p>This is done through authentic learning, bridging what they learn in the
+classroom to the world around them. Artefacts and videos are used in class
+to enrich students’ learning through authentic learning experiences. Social
+Studies lessons are also paired with Learning Journeys to allow students
+to contextualise their learning experiences with real-world settings.</p>
+<p>
+<br>
 </p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Primary%201.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Social Studies/2025/SS12025.png">
 </div>
-<p>Knowing Self</p>
-<p><strong>Primary 2</strong>
-</p>
-<p>The&nbsp;<strong>Scope and Sequence for Primary 2 Social Studies</strong>&nbsp;comprises&nbsp;<em>Coming Together as a Nation</em>.
-The concepts to be taught include&nbsp;<em>Cultural Appreciation, Family, Home, National Identity, Shared Experiences, Roles and Responsibility, Unity, Overcoming Challenges, Harmony</em>&nbsp;<em>and Friendship</em>.</p>
-<p><strong>Primary 3</strong>
-</p>
-<p>The&nbsp;<strong>Scope and Sequence</strong>&nbsp;<strong>for</strong>&nbsp;<strong>Primary&nbsp;3 Social Studies</strong>&nbsp;comprises&nbsp; <em>Understanding Singapore.</em> The
-concepts to be taught include&nbsp;<em>Physical Environment,</em>&nbsp;<em>Change and Continuity, Decision Making, Land Use, Choice, Cause and Consequence, Nature Conservation, Personal Choice, Social Responsibility</em>&nbsp;<em>and Environmental Conservation.</em>
-</p>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Primary%203.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Social Studies/2025/SS22025.png">
 </div>
-<p><em>Map Reading</em>
-</p>
-<p><strong>Primary 4</strong>
-</p>
-<p>The&nbsp;<strong>Scope and Sequence</strong>&nbsp;<strong>for</strong>&nbsp;<strong>Primary&nbsp;4 Social Studies</strong>&nbsp;comprises&nbsp;<em>Valuing Our Past.</em>&nbsp;The
-concepts to be taught include&nbsp;<em>Contributions, Change and</em>&nbsp;<em>Continuity, Heritage, Diversity, Independence</em>&nbsp;and&nbsp;<em>Identity.</em>
-</p>
-<p><strong>Primary 5</strong>
-</p>
-<p>The&nbsp;<strong>Scope and Sequence</strong>&nbsp;<strong>for</strong>&nbsp;<strong>Primary&nbsp;5 Social Studies</strong>&nbsp;comprises&nbsp;<em>Appreciating The World.</em>&nbsp;The
-concepts to be taught include&nbsp;<em>Civilisation,</em>&nbsp;<em>Achievement, Change and Continuity, Legacy, Culture, Heritage</em>&nbsp;and&nbsp;<em>Interconnectedness</em>_._</p>
-<p><strong>Primary 6</strong>
-</p>
-<p>The&nbsp;<strong>Scope and Sequence</strong>&nbsp;<strong>for</strong>&nbsp;<strong>Primary&nbsp;6 Social Studies</strong>&nbsp;comprises&nbsp;<em>Discovering Southeast Asia.</em>&nbsp;The
-concepts to be taught include&nbsp;<em>Cooperation,</em>&nbsp;<em>Diversity, Culture, Change and Continuity, Legacy, Interconnectedness, Heritage</em>&nbsp;and&nbsp;<em>Interconnectedness</em>_._</p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Primary%206.jpg">
-</div>
-<p>Places and their significance</p>
+<p></p>
