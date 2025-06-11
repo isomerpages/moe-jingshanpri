@@ -142,6 +142,9 @@ footprint through thoughtful food choices, developing Critical and Adaptive
 Thinking. The <strong>Charged for Change</strong> wall highlights energy
 conversions, conservation, and renewable energy, inspiring students to
 innovate clean solutions while showcasing the school's conservation efforts.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/ALP 2025/2025/SDALP82025.png">
+</div>
 <p><strong><em>Greening @ JS </em></strong>brings our school’s corridors
 to life with vibrant greenery. Each class adopts potted plants, fostering
 responsibility and care for nature. Plant signages introduced in the campus
