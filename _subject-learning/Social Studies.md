@@ -5,7 +5,6 @@ variant: tiptap
 description: ""
 ---
 <h1><strong>Social Studies</strong></h1>
-<p><strong>Content Section: Text Input Area for Content</strong>&nbsp;</p>
 <p></p>
 <p>Every JingShanite an Active Citizen - where a JingShanite learns to value
 diversity in society, actively contribute to discussions, and exhibits
