@@ -11,6 +11,9 @@ solutions, and iterate designs. The programme integrates structured learning,
 open-ended exploration, and supported by a dynamic Makerspace environment,
 fosters creativity, collaboration, and independent problem-solving in students.</p>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Design Education/2025/DE12025.png">
+</div>
 <h4>JS Design Protocol</h4>
 <p>The JS Design Protocol guides the students in a series of steps in the
 design and making experience, to nurture them in critical and creative
