@@ -6,12 +6,20 @@ variant: tiptap
 ---
 <h1><strong>Our School Crest</strong></h1>
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/School logo/Screenshot_2025_04_10_115101.png">
-</div>
 <p></p>
-<p><strong>The book on the crest represents Knowledge which the pupils of the school must strive to achieve through hard work and perseverance.<br><br>The torch respresents Education which guides and leads the pupils towards wisdom and progress. <br>The letters J S which stand for Jing Shan are all in white set against a blue background.<br>The colour white signifies everlasting purity and virtue.<br>The colour blue is a symbol of loyalty.<br>The pupils are expected to do their best and seek a better future as indicated by the motto<br>"Onward We Strive".</strong>
-</p>
+<div class="isomer-image-wrapper">
+<img style="width: 30%;" height="auto" width="100%" alt="" src="/images/School logo/jing_shan_primary_school.jpg">
+</div>
+<p>In our school crest, the letters ‘J’ and ‘S’ are the initials of the school.</p>
+<p></p>
+<p>The book represents knowledge and learning, which students achieve through
+responsibility, humility and tenacity. The torch symbolises the pathway
+lighted up by education, which guides students towards growth and progress
+with bravery, inventiveness and gratitude</p>
+<p></p>
+<p>The colour white signifies unity and strength of character, while blue
+is a symbol of truth and integrity. The words ‘Onward We Strive’ remind
+students to do their best and build a stronger future together.</p>
 <h1><strong>Our School Song</strong></h1>
 <p>[Verse 1]</p>
 <p>We learn to tell what's right from wrong
@@ -29,7 +37,13 @@ variant: tiptap
 <br>Holding fast to integrity
 <br>We'll live together as one
 <br>As we strive for excellence in all we do</p>
-<div class="iframe-wrapper">
-<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/f_FJ3fksO8s?si=we5kGl08kAxtnJFC"></iframe>
+<p></p>
+<h1><strong>Our Bright Values</strong></h1>
+<p>The JS BRIGHT Values of Bravery, Responsibility, Integrity, Inventiveness,
+Gratitude, Humility and Tenacity guide our students and shape their&nbsp;positive
+behaviours. Each BRIGHT Value has a guiding statement that provides a vivid
+description of the positive behaviour.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/School logo/Picture1.jpg">
 </div>
 <p></p>
