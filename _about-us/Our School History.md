@@ -8,11 +8,11 @@ variant: tiptap
 Primary School and the former Jing Shan Primary School in 2019.</p>
 <p>For the history of the former Da Qiao Primary School, please refer to
 the MOE Heritage Centre website:</p>
-<p><a href="https://moehc.moe.edu.sg/school-histories/da-qiao-pri/" rel="noopener nofollow" target="_blank">https://moehc.moe.edu.sg/school-histories/da-qiao-pri/ </a>
+<p><a href="https://moehc.moe.edu.sg/school-histories/da-qiao-pri/" rel="noopener nofollow" target="_blank">https://moehc.moe.edu.sg/school-histories/da-qiao-pri/</a>
 </p>
 <p>For the history of the former Jing Shan Primary School, please refer to
 the MOE Heritage Centre website:</p>
-<p><a href="https://moehc.moe.edu.sg/school-histories/jing-shan-pri/" rel="noopener nofollow" target="_blank">https://moehc.moe.edu.sg/school-histories/jing-shan-pri/ </a>
+<p><a href="https://moehc.moe.edu.sg/school-histories/jing-shan-pri/" rel="noopener nofollow" target="_blank">https://moehc.moe.edu.sg/school-histories/jing-shan-pri/</a>
 </p>
 <p></p>
 <p></p>
