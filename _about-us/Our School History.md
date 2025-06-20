@@ -51,7 +51,6 @@ of School Partnership [GenEd-SPED] between Jing Shan Primary School and
 APSN Chaoyang School</p>
 <p>&nbsp;</p>
 <h4><strong>School Leaders since Merger in 2019</strong></h4>
-<p>&nbsp;</p>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
