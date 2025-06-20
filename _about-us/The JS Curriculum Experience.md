@@ -94,7 +94,6 @@ Strengths refer to the JS BRIGHT Values and JS Learning Dispositions.</p>
 </tbody>
 </table>
 <p>&nbsp;</p>
-<p>&nbsp;</p>
 <h4><strong>Subject Learning</strong></h4>
 <p>&nbsp;</p>
 <table style="minWidth: 50px">
@@ -400,10 +399,6 @@ focus and the developmental spotlight and tells the tribal story.</p>
 </tbody>
 </table>
 <p>&nbsp;</p>
-<p><strong><u><br></u></strong>
-</p>
-<p><strong><u>&nbsp;</u></strong>
-</p>
 <h4><strong>Growing Thriving JingShanites</strong></h4>
 <p>&nbsp;</p>
 <p>13.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; With the school vision
