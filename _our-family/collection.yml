@@ -4,7 +4,15 @@ collections:
     order:
       - School Executive Comittee.md
       - Form Teachers.md
-      - Subject Teachers.md
+      - Subject Teachers/.keep
+      - Subject Teachers/English Language.md
+      - Subject Teachers/Mother Tongue Languages.md
+      - Subject Teachers/Mathematics.md
+      - Subject Teachers/Science.md
+      - Subject Teachers/Physical Education.md
+      - Subject Teachers/Art.md
+      - Subject Teachers/Music.md
+      - Subject Teachers/Social Studies.md
       - Allied Educators.md
       - Executive & Administrative Staff.md
       - School Advisory Committee.md

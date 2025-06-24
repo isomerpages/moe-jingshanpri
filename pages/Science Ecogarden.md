@@ -2,7 +2,6 @@
 title: Science Ecogarden
 permalink: /the-js-experience/departments/science/science-ecogarden/
 description: ""
-third_nav_title: Science
 variant: tiptap
 ---
 <h2>Introduction</h2>

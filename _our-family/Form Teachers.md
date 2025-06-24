@@ -62,7 +62,7 @@ description: ""
 </td>
 </tr>
 <tr>
-<td rowspan="3" colspan="1">
+<td rowspan="2" colspan="1">
 <p>1 Gratitude</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -70,14 +70,6 @@ description: ""
 </td>
 <td rowspan="1" colspan="1">
 <p>chua_su_lin_a@schools.gov.sg</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mrs Shanthi Magendran</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>shanthi_magendran@schools.gov.sg</p>
 </td>
 </tr>
 <tr>
@@ -93,10 +85,10 @@ description: ""
 <p>1 Humility</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Fatimawati Affandi</p>
+<p>Mrs Shanthi Magendran</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>fatimawati_affandi@schools.gov.sg</p>
+<p>shanthi_magendran@schools.gov.sg</p>
 </td>
 </tr>
 <tr>
@@ -502,10 +494,10 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mrs Srividhya Shankar</p>
+<p>Ms Dharshini Rajah</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>srividhya_mohan@schools.gov.sg</p>
+<p>dharshini_rajah@schools.gov.sg</p>
 </td>
 </tr>
 <tr>
@@ -584,7 +576,7 @@ description: ""
 </td>
 </tr>
 <tr>
-<td rowspan="2" colspan="1">
+<td rowspan="3" colspan="1">
 <p>5 Integrity</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -596,10 +588,18 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Dharshini Rajah</p>
+<p>Mr Faizul Hashim</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>dharshini_rajah@schools.gov.sg</p>
+<p>muhammad_faizul_hashim@schools.gov.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mdm Fatimawati Affandi</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>fatimawati_affandi@schools.gov.sg</p>
 </td>
 </tr>
 <tr>

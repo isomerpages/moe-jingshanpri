@@ -4,8 +4,10 @@ permalink: /school-dental-service/
 variant: tiptap
 description: ""
 ---
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/School logo/ChatGPT_Image_Apr_21__2025__12_30_35_PM.png">
-</div>
-<p></p>
+<h4><strong>Jing Shan Primary School Dental</strong></h4>
+<p>Telephone: 8764 7987</p>
+<h4><strong>Buddy Dental Clinic (Ang Mo Kio Primary School)</strong></h4>
+<p>Telephone: 8764 5842</p>
+<p>
+<br>
+</p>

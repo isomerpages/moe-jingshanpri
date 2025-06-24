@@ -4,49 +4,46 @@ permalink: /national-education/
 variant: tiptap
 description: ""
 ---
-<h1><strong>National Education</strong></h1>
-<table style="minWidth: 25px">
-<colgroup>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<td rowspan="1" colspan="1">
-<p>National Education is part of a holistic education. It aims to develop
-national cohesion, cultivate the instinct for survival as a nation and
-instill in our students, confidence in our nation's future. It also emphasizes
-on cultivating a sense of belonging and emotional rootedness to Singapore.
+<p>Launched in 1997, National Education (NE) aims to provide students with
+the knowledge, skills, and values to understand Singapore’s history, realities
+and challenges that are unique to the nation while also appreciating the
+journey to nationhood and having the confidence in the country’s future.</p>
+<p></p>
+<p>NE seeks to empower students to make sense of what it means to be an engaged
+citizen of the nation - someone who is socially aware, adept at critical
+thinking and being informed about local, regional and global issues.</p>
+<p></p>
+<p>Through NE, students develop a sense of belonging, a sense of reality,
+and a sense of hope, which culminates in the will to act. These dispositions
+help shape our students into becoming active citizens who share the resolve
+to build a Singapore for all with understanding, confidence and optimism.</p>
+<p></p>
+<h4><strong>NE Commemorative Days</strong></h4>
+<p>One key facet of NE in Jing Shan is through the NE Commemorative Days
+that are linked to key moments in Singapore’s history.</p>
+<p></p>
+<p>Total Defence Day (TDD) commemorates the fall of Singapore to the Japanese
+in 1942. In commemorating TDD, students reflect on the importance of Total
+Defence as Singapore's response to threats and challenges that confront
+Singapore. They also reflect on the continuing relevance and importance
+of the six pillars of Total Defence - Military Defence, Civil Defence,
+Economic Defence, Social Defence, Digital Defence and Psychological Defence.</p>
+<p></p>
+<p>International Friendship Day (IFD) is dedicated to the understanding of
+Singapore's relations with neighbouring countries in Southeast Asia and
+the world beyond. Through IFD, students understand our region and the world,
+Singapore’s view of the world; and foster people-to-people international
+friendships.</p>
+<p></p>
+<p>Racial Harmony Day (RHD) marks the anniversary of the 1964 race riots.
+Students reflect on and celebrate Singapore as a harmonious society that
+is built on a diversity of cultures and the will and effort of everyone
+to promote social cohesion in the country.&nbsp;</p>
+<p></p>
+<p>National Day is celebrated to mark the nation’s separation from Malaysia
+in 1965.&nbsp;</p>
+<p></p>
+<p>
 <br>
-<br>Jing Shan Primary has adopted a two-pronged approach in the cultivation
-of national instincts among pupils: First, to develop an awareness of facts,
-circumstances and opportunities facing Singapore, so that they will be
-able to make decisions for their future with conviction and realism.
-<br>
-<br>Second, to develop a sense of emotional belonging and commitment to the
-community and nation. This approach is amply captured in the phrase "engaging
-hearts and mind".</p>
-</td>
-</tr>
-</tbody>
-</table>
-<h3>Total Defence Day</h3>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Total%20Defence%20Day.jpg">
-</div>
-<h3>&nbsp;International Friendship Day</h3>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/International%20Friendship.jpg">
-</div>
-<h3>Racial Harmony Day**</h3>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Racial%20Harmony%20Day.jpg">
-</div>
-<h3>National Day Observance Ceremony</h3>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/National%20Day%20Observance.jpg">
-</div>
-<h3>P5 NE Show</h3>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/P5%20NE%20show.jpg">
-</div>
+</p>
 <p></p>
