@@ -5,7 +5,7 @@ variant: tiptap
 description: ""
 third_nav_title: School Safety and Security
 ---
-<h1><strong>School Traffic Management Plan 2024</strong></h1>
+<h1><strong>School Traffic Management Plan 2025</strong></h1>
 <h2><strong>Introduction</strong></h2>
 <p>1.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; We seek always to be
 a Safe and Health-Promoting School, as set out in our School Operating
@@ -40,7 +40,12 @@ pedestrians only.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 80%;" height="auto" width="100%" alt="" src="/images/Traffic management/map.png">
 </div>
-<table>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
@@ -117,7 +122,11 @@ a stop. Parents are advised not to alight from the vehicle when dropping
 off their child.</p>
 <p>9.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; There are 5 possible
 vehicular drop-off points around the school.</p>
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
