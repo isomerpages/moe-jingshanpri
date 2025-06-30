@@ -34,7 +34,30 @@ and importance of the six pillars of Total Defence - Military Defence,
 Civil Defence, Economic Defence, Social Defence, Digital Defence and Psychological
 Defence.</p>
 <p></p>
-<p>
-<br>
-</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/School logo/NE1.png">
+</div>
+<p><strong>International Friendship Day (IFD)</strong> is dedicated to the
+understanding of Singapore's relations with neighbouring countries in Southeast
+Asia and the world beyond. Through IFD, students understand our region
+and the world, Singapore’s view of the world; and foster people-to-people
+international friendships.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/School logo/NE2.png">
+</div>
+<p><strong>Racial Harmony Day (RHD) </strong>marks the anniversary of the
+1964 race riots. Students reflect on and celebrate Singapore as a harmonious
+society that is built on a diversity of cultures and the will and effort
+of everyone to promote social cohesion in the country.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/School logo/NE3.png">
+</div>
+<p><strong>National Day</strong> is celebrated to mark the nation’s separation
+from Malaysia in 1965, and Singapore’s emergence as an independent nation.
+We commemorate Singapore’s journey to independence, focusing on the historical
+importance and significance, while also celebrating the progress that the
+country has made.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/School logo/NE4.png">
+</div>
 <p></p>
