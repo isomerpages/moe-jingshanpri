@@ -5,7 +5,7 @@ variant: tiptap
 description: ""
 third_nav_title: Subject Teachers
 ---
-<p></p>
+<h4>Chinese</h4>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -159,4 +159,115 @@ third_nav_title: Subject Teachers
 </tr>
 </tbody>
 </table>
+<h4>Malay</h4>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Teachers</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Email Addresses</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mdm Safidah Samsudin</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:safidah_samsudin@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">safidah_samsudin@schools.gov.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Hazirah Djuanda</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:hazirah_djuanda@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">hazirah_djuanda@schools.gov.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mdm Sarifah Rahmat</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:sarifah_rahmat@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">sarifah_rahmat@schools.gov.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Zurina Yahya</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:zurina_yahya@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">zurina_yahya@schools.gov.sg</a>
+</p>
+</td>
+</tr>
+</tbody>
+</table>
+<h4>Tamil</h4>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Teachers</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Email Addresses</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mdm Vasanthan Lavenyah</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:vasanthan_lavenyah@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">vasanthan_lavenyah@schools.gov.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mrs Shanthi Magendran</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:shanthi_magendran@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">shanthi_magendran@schools.gov.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mrs Rajendran</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:krishnaveni_ladamuthu@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">krishnaveni_ladamuthu@schools.gov.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mdm Paulraj Anitta</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:paulraj_anitta@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">paulraj_anitta@schools.gov.sg</a>
+</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>
 <p></p>
