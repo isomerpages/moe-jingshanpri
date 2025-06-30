@@ -11,7 +11,7 @@ variant: tiptap
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/ALP 2025/science_1.png">
 </div>
 <h5>Introduction</h5>
-<p>“Green Explorers @ JS” is <strong>Applied Learning Programme (ALP)</strong> that
+<p>“Green Explorers @ JSPS” is <strong>Applied Learning Programme (ALP)</strong> that
 focuses on sustainability through four themes – Conservation, Sustainable
 Living, Resilient Future, and Greening Our Home. The signature program
 aims to nurture eco-stewards who responsibly use resources and protect
