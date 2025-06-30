@@ -65,6 +65,14 @@ with the necessary skills to excel in their assigned leadership roles.</p>
 chosen to align with the unique responsibilities of each role. This strategic
 approach ensures effective channeling of efforts, maximizing collective
 impact and fostering practical application of leadership skills.</p>
-<p>
-<br>
-</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/School logo/SL1.png">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/School logo/SL2.png">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/School logo/SL3.png">
+</div>
+<p></p>
