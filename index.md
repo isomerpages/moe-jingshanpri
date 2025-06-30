@@ -2,7 +2,7 @@
 layout: homepage
 title: Jing Shan Primary School
 description: Official website of Jing Shan Primary School
-image: /images/logo.png
+image: /images/School logo/9ywue1.gif
 permalink: /
 notification: ""
 sections:
