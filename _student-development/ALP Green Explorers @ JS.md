@@ -11,7 +11,7 @@ variant: tiptap
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/ALP 2025/science_1.png">
 </div>
 <h5>Introduction</h5>
-<p>“Green Explorers @ JS” is our school’s <strong>Applied Learning Programme (ALP)</strong> that
+<p>“Green Explorers @ JS” is <strong>Applied Learning Programme (ALP)</strong> that
 focuses on sustainability through four themes – Conservation, Sustainable
 Living, Resilient Future, and Greening Our Home. The signature program
 aims to nurture eco-stewards who responsibly use resources and protect
@@ -31,11 +31,11 @@ Through intentional and purposeful programming, students are motivated
 to develop habits, exercise agency, and contribute to a more sustainable
 future.</p>
 <p>Our signature program is aligned with the school’s vision of developing
-“Thriving Explorers, Mindful Leaders” with emerging 21st Century Competencies.
-These competencies shape values-driven Green Explorers who can problem-solve
-to address emerging environmental challenges, take mindful actions to reduce
-their carbon footprints, and contribute to a kinder and more sustainable
-future for all.</p>
+“Thriving Explorers, Mindful Leaders” with emerging 21<sup>st</sup> Century
+Competencies. These competencies shape values-driven Green Explorers who
+can problem-solve to address emerging environmental challenges, take mindful
+actions to reduce their carbon footprints, and contribute to a kinder and
+more sustainable future for all.</p>
 <p></p>
 <p><strong><u>Teach</u></strong>
 </p>
@@ -57,7 +57,7 @@ Water Day and Earth Day are celebrated through this platform.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/ALP 2025/science_3.png">
 </div>
-<p>To celebrate globally recognized environmental days, we organize exciting
+<p>To celebrate globally recognised environmental days, we organize exciting
 programs during <strong>assembly</strong>. We collaborate with partners
 such as NParks, Uniqlo, Apeiron Bioenergy, and the Singapore Food Agency
 to enhance students' understanding and awareness of biodiversity issues.
@@ -105,7 +105,7 @@ members!</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/ALP 2025/science_6.png">
 </div>
-<p>To cultivate mindful habits, such as minimizing food wastage, purchasing
+<p>To cultivate mindful habits, such as minimising food wastage, purchasing
 or ordering only what is needed, and reusing waste materials, both staff
 and students practise <strong>food waste recycling</strong>. Food waste
 is recycled into compost using strategically placed food composters in
