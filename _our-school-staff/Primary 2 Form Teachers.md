@@ -116,7 +116,7 @@ variant: tiptap
 </td>
 </tr>
 <tr>
-<td rowspan="2" colspan="1">
+<td rowspan="3" colspan="1">
 <p>2 Tenacity</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -132,6 +132,14 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>tan_soo_hian@schools.gov.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mdm Paulraj Anitta</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>paulraj_anitta@schools.gov.sg</p>
 </td>
 </tr>
 </tbody>
