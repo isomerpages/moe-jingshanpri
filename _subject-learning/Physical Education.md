@@ -8,7 +8,7 @@ variant: tiptap
 <h3><strong>Every Jingshanite is a Joyful Athlete!</strong></h3>
 <p>JSPS Physical Education (PE) curriculum, closely aligns with the Ministry
 of Education (MOE)’s PE syllabus is anchored in <strong>seven key learning areas</strong>:
-<br> <strong>Athletics, Dance, Games and Sports, Gymnastics, Outdoor Education, Physical Health and Fitness, and Swimming</strong>.</p>
+<br><strong>Athletics, Dance, Games and Sports, Gymnastics, Outdoor Education, Physical Health and Fitness, and Swimming</strong>.</p>
 <p>The learning areas are scoped specifically to Jingshanites at the various
 different levels.</p>
 <p>
@@ -96,4 +96,28 @@ for students to be physically active and support their mental well-being.
 student to be a <strong>Joyful Athlete</strong> – enthusiastic, skilled,
 responsible, and ready to lead an active and healthy lifestyle</p>
 <p></p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/PE department/2025/PE12025.png">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/PE department/2025/PE22025.png">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/PE department/2025/PE32025.png">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/PE department/2025/PE42025.png">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/PE department/2025/PE52025.png">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/PE department/2025/PE62025.png">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/PE department/2025/PE72025.png">
+</div>
 <p></p>
