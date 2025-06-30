@@ -19,9 +19,6 @@ fosters creativity, collaboration, and independent problem-solving in students.<
 design and making experience, to nurture them in critical and creative
 thinking. Through the experience, students bring about advocacy in the
 areas of well-being, community and sustainability.</p>
-<p>
-<br>
-</p>
 <p>The JS Design Protocol consists of three stages: <strong>Understand</strong>, <strong>Build </strong>and <strong>Inspire</strong>.
 At each stage, students are guided through a series of steps to help them
 develop a solution that fulfils a design challenge. Through the Protocol,
@@ -31,9 +28,6 @@ hence the cyclic nature of the Protocol.</p>
 <h4>“Teach, Embed, Live” Approach</h4>
 <p>To create a structured and immersive experience, students are exposed
 to the Design Education programme through the "Teach, Embed, Live" approach:</p>
-<p>
-<br>
-</p>
 <ul>
 <li>
 <p><strong>Teach</strong>: Students learn problem identification, ideation,
