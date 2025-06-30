@@ -70,7 +70,7 @@ to customise programmes and activities that cater to the diverse learning
 needs of our students.</p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/English department/2025/EL32025.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/School logo/EL32025.png">
 </div>
 <p>✨ <strong>Shared Book Approach (SBA)</strong> — nurturing a love for reading
 and developing language skills through engaging, rich texts that promote
