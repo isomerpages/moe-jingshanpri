@@ -3,7 +3,7 @@ collections:
     output: true
     order:
       - Student Services/.keep
-      - Student Services/School Canteen.md
+      - Student Services/Our School Canteen.md
       - Student Services/Our Textbook Matters.md
       - Student Services/School Uniform.md
       - Student Services/School Bus Service.md
