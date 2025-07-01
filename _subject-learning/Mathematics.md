@@ -4,9 +4,8 @@ permalink: /the-js-experience/departments/mathematics/
 description: ""
 variant: tiptap
 ---
-<h1><strong>Mathematics</strong></h1>
-<p><strong>Every JingShanite a Mathematical Problem Solver!</strong>
-</p>
+<h4><strong>Every JingShanite a Mathematical Problem Solver!</strong></h4>
+<p></p>
 <p>Guided by the Singapore Mathematics Curriculum Framework, lessons in the
 Jing Shan mathematics classroom is designed to provide learning experiences
 which would allow for the mastery of mathematical concepts and skills,
