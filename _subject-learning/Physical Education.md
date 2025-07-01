@@ -4,13 +4,14 @@ permalink: /the-js-experience/departments/physical-education-pe/
 description: ""
 variant: tiptap
 ---
-<h4><strong>Every Jingshanite is a Joyful Athlete!</strong></h4>
+<h3><strong>Every Jingshanite is a Joyful Athlete!</strong></h3>
 <p>JSPS Physical Education (PE) curriculum, closely aligns with the Ministry
 of Education (MOE)’s PE syllabus is anchored in seven key learning areas:
 <br>Athletics, Dance, Games and Sports, Gymnastics, Outdoor Education, Physical
 Health and Fitness, and Swimming.</p>
 <p>The learning areas are scoped specifically to Jingshanites at the various
 different levels.</p>
+<p></p>
 <p></p>
 <h4><strong>Lower Primary: Building Strong Foundations</strong></h4>
 <p>At the lower primary level, students focus on developing <strong>fundamental movement and motor skills</strong>,
