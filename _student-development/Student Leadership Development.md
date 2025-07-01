@@ -4,7 +4,7 @@ permalink: /student-leadership-development/
 variant: tiptap
 description: ""
 ---
-<h2><strong>Our Vision: Mindful Leaders</strong></h2>
+<h2><strong>Every Jingshanite is a Mindful Leader</strong></h2>
 <p>At Jing Shan Primary School, our Student Leadership Development framework
 is deeply rooted in our School Vision. We champion the cultivation of <strong>Mindful Leaders</strong>,
 a concept central to shaping our students into "Thriving Explorers." These
@@ -22,7 +22,7 @@ attitude, celebrating team achievements and fostering involvement.</p>
 <h3><strong>❤Be Appreciative</strong></h3>
 <p>They act in service of both self and others, valuing the unique strengths
 and contributions of every team member. They cultivate an inclusive and
-supportive environment where everyone feels recognized, expressing gratitude
+supportive environment where everyone feels recognised, expressing gratitude
 and promoting mutual respect.</p>
 <h3><strong>💪Be Resilient</strong></h3>
 <p>They demonstrate resilience in the face of challenges, approaching setbacks
