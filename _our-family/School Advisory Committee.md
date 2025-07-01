@@ -29,26 +29,23 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Treasurer:&nbsp;</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mr Lim Li Boon Jonathan</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Members:</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Ang Teck Yeo Sam</p>
-<p>Mr Clifford Wei Lew</p>
 <p>Mr Hoo Chee Wai</p>
 <p>Mr Jayaram Kuppusamy</p>
 <p>Mdm Lai Hsing Hui Gina</p>
+<p>Mr Lim Li Boon Jonathan</p>
+<p>Dr Lau Weida</p>
+<p>Mr Ng Wee Keong</p>
 <p>Mr P Maniyasaru</p>
-<p>Mr Sim Kwang Yang Jason</p>
 </td>
 </tr>
 </tbody>
 </table>
 <p></p>
+<p>
+<br>
+</p>
