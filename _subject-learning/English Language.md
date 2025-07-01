@@ -99,6 +99,5 @@ on, and regulate their thought processes, fostering resilience and adaptability.
 <p>✨ <strong>Modified Language Experience Approach (MLEA)</strong> — blending
 students’ personal experiences with language learning to create meaningful,
 authentic writing and communication opportunities.</p>
-<p>
-<br>
-</p>
+<h4><br></h4>
+<p></p>
