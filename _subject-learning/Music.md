@@ -4,7 +4,6 @@ permalink: /the-js-experience/departments/aesthetics/music/
 description: ""
 variant: tiptap
 ---
-<h1><strong>Music</strong></h1>
 <h4><strong><em>Every JingShanite is an Expressive Musician!</em></strong></h4>
 <p></p>
 <p><strong><u>The Primary Music Curriculum</u></strong>
