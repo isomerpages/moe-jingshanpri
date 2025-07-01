@@ -2,30 +2,57 @@
 title: Music
 permalink: /the-js-experience/departments/aesthetics/music/
 description: ""
-variant: markdown
+variant: tiptap
 ---
-# **Music**
-
-![](/images/music.jpg)
-&nbsp;_My musical experience as I journey through lower, middle and upper school._  
-  
-The Music Curriculum seeks to empower all students with the knowledge, skills and dispositions to appreciate Music and participate in it. Musical understanding is developed through the integrated domains of Listening, Creating and Performing.
-
-It provides a key platform where every student is provided with Basic Music Education. It aims to:
-
-* Develop awareness and appreciation of music in local and global cultures
-* Develop ability for creative expression and communication through Music Making
-* Provide the basis to develop an informed and life-long involvement in Music
-
-![](/images/Music%20Curriculum%201.png)
-Joy of Learning in Music
-
-**Core Music Learning Experience**
-
-Music is a core subject. In JS, students from Primary 1 to 4 attend two periods of music lessons weekly. For Primary 5 and 6, students attend two periods of music lessons fortnightly.
-
-<table style="border-collapse:collapse;border-spacing:0" class="tg"><thead><tr><th style="background-color:#FFF;border-color:#000000;border-style:solid;border-width:1px;color:#000000;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">Programmes</th><th style="background-color:#FFF;border-color:#000000;border-style:solid;border-width:1px;color:#000000;font-family:Arial, sans-serif;font-size:14px;font-weight:normal;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal"> </th></tr></thead><tbody><tr><td style="background-color:#FFF;border-color:#000000;border-style:solid;border-width:1px;color:#000000;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">Termly Busking Performances</td><td style="background-color:#FFF;border-color:#000000;border-style:solid;border-width:1px;color:#000000;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">Students have the opportunity to showcase their  talents and interests during the termly recess busking performances.</td></tr><tr><td style="background-color:#FFF;border-color:black;border-style:solid;border-width:1px;color:#000000;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">JS Arts Festival and Performance</td><td style="background-color:#FFF;border-color:black;border-style:solid;border-width:1px;color:#000000;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">During the yearly JS Arts Festival, students will participate in music jamming sessions during recess. The Arts Festival also culminates in a school performance put up by our talented JingShanites.</td></tr><tr><td style="background-color:#FFF;border-color:black;border-style:solid;border-width:1px;color:#000000;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">Music Enrichment Programmes</td><td style="background-color:#FFF;border-color:black;border-style:solid;border-width:1px;color:#000000;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">Instrumental mastery is part of the core music learning experience in Jing Shan. Students learn to pick up the ukulele, guitar and keyboard and develop basic skills to play and appreciate music.</td></tr></tbody></table>
-
-![](/images/music1.jpg)
-
-![](/images/music2.jpg)
+<h1><strong>Music</strong></h1>
+<h4><strong><em>Every JingShanite is an Expressive Musician!</em></strong></h4>
+<p></p>
+<p><strong><u>The Primary Music Curriculum</u></strong>
+</p>
+<p>Music is a core subject. In JS, students from Primary 1 to 4 attend two
+periods of music lessons weekly. For Primary 5 and 6, students attend two
+periods of music lessons fortnightly.&nbsp;</p>
+<p></p>
+<p>Our Primary Music curriculum seeks to develop musical understanding through
+3 Musical Processes of <strong>Listening</strong>, <strong>Creating </strong>and <strong>Performing</strong> in
+both collaborative and individual settings. As illustrated below, the 3
+Musical Processes are core to the Music Curriculum Concept and interrelated
+and interdependent in practice.</p>
+<p></p>
+<p><strong><u>The Primary Music Curriculum in JSPS: Music Learning</u></strong>
+</p>
+<p>In Jingshan Primary, through 6 years of musical learning, students will
+discover music of <strong>different cultures and time periods</strong>,
+learn <strong>instruments (digital and non-digital)</strong>, alongside <strong>musical concepts and theory</strong>.&nbsp;</p>
+<p>The spiral progression of a Jingshanites’ learning can be seen in the
+illustration below.</p>
+<p></p>
+<p><strong><u>The Primary Music Curriculum in JSPS: Character Building</u></strong>
+</p>
+<p>The natural link between music and culture allows students to develop <strong>open-mindedness and a spirit of inclusiveness</strong> as
+they explore, learn and compare various types of music from other cultures
+and concepts. In turn, this develops an <strong>awareness and appreciation of music and people from local and global cultures.&nbsp;</strong>
+</p>
+<p><strong>Critical and inventive thinking</strong> can take place via musical
+experiences when students consider multiple perspectives and articulate
+reasonings for their musical decisions. Music also allows students to acquire
+and practise <strong>communication and collaboration skills </strong>when
+they work with each other in ensemble settings.</p>
+<p></p>
+<p><strong><u>Beyond the Curriculum - Our Signature Events</u></strong>
+</p>
+<p></p>
+<p>To further support our students in pursuing their interests, we also hold<strong> termly Busking sessions</strong> at
+the canteen, as well as talent competition<strong> JS Got Talent</strong>.
+At the P6 level, our P6s will also be involved in <strong>JS Celebrates</strong>,
+where they select different Performing Arts’ activities to perform during
+their graduation.&nbsp;</p>
+<p></p>
+<p>Interested students are also encouraged to take part in<strong> Afternoon Connection activities</strong> that
+involve Music!&nbsp;</p>
+<p>
+<br>
+</p>
+<p>
+<br>
+</p>
