@@ -2,7 +2,6 @@ collections:
   useful-information:
     output: true
     order:
-      - Student Services.md
       - Contact Us.md
       - School Canteen.md
       - Our Textbook Matters.md
