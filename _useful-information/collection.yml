@@ -2,6 +2,7 @@ collections:
   useful-information:
     output: true
     order:
+      - Student Services/Student Care Centre.md
       - Student Services/School Bus Service.md
       - Student Services/School Uniform.md
       - Student Services/Our Textbook Matters.md
