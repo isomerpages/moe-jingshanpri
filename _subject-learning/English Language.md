@@ -4,7 +4,7 @@ permalink: /the-js-experience/departments/english-language/
 description: ""
 variant: tiptap
 ---
-<h4><strong>Every JingShanite is an Empathetic Communicator, a Discerning Reader and a Creative Inquirer!</strong></h4>
+<h4><strong><em>Every JingShanite is an Empathetic Communicator, a Discerning Reader and a Creative Inquirer!</em></strong></h4>
 <p></p>
 <p>At Jing Shan Primary School, we are committed to nurturing empowered learners
 — confident in their voice and choice, curious in their inquiry, and compassionate
