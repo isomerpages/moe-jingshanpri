@@ -4,17 +4,15 @@ permalink: /social-studies/
 variant: tiptap
 description: ""
 ---
-<h1><strong>Social Studies</strong></h1>
-<p></p>
 <h3><strong>Every JingShanite is an Active Citizen!</strong></h3>
 <p>At Jing Shan Primary School, we believe in developing a JingShanite who
 learns to value diversity in society, actively contribute to discussions,
 and exhibits curiosity to explore and understand the world.</p>
 <p></p>
 <p>Aligned to the Singapore Social Studies curriculum, Social Studies lessons
-in Jing Shan Primary School<s> aim to help</s> ensure students <s>to </s>grow
-in knowledge, develop skills and learn values through examining issues
-that are of concern to the society and the world in which they live.</p>
+in Jing Shan Primary School<s> </s>ensure students grow in knowledge, develop
+skills and learn values through examining issues that are of concern to
+the society and the world in which they live.</p>
 <h4><strong>Areas of Focus</strong></h4>
 <p></p>
 <p>Across the six Primary School levels, Social Studies focuses on the development
