@@ -19,7 +19,6 @@ motivation in the field of robotics. It also fosters important values such
 as the joy of learning, teamwork, resilience, and discipline, all of which
 are essential for their holistic development.</p>
 <p></p>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA 2025/IT1.png">
 </div>
