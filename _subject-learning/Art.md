@@ -4,7 +4,6 @@ permalink: /the-js-experience/departments/aesthetics/art/
 description: ""
 variant: tiptap
 ---
-<p></p>
 <h4><strong><em>Every JingShanite is an Imaginative Artist!</em></strong></h4>
 <p><strong><u>The Primary Art Curriculum</u></strong>
 </p>
