@@ -13,7 +13,7 @@ Health and Fitness, and Swimming.</p>
 different levels.</p>
 <p></p>
 <p></p>
-<h4><strong>Lower Primary: Building Strong Foundations</strong></h4>
+<h4>Lower Primary: Building Strong Foundations</h4>
 <p>At the lower primary level, students focus on developing <strong>fundamental movement and motor skills</strong>,
 integrating movement concepts to build a strong physical foundation. In <strong>Primary 3</strong>,
 students participate in the <strong>SwimSafer 2.0 Programme</strong>, a
@@ -23,7 +23,7 @@ the risk of drowning.</p>
 <p></p>
 <hr>
 <p></p>
-<h4><strong>Upper Primary: Applying and Extending Skills</strong></h4>
+<h4>Upper Primary: Applying and Extending Skills</h4>
 <p>As students progress to the upper primary levels, they begin applying
 their foundational skills in more <strong>complex games and movement situations</strong>.
 Through a <strong>spiral approach</strong>, students engage in progressively
@@ -34,7 +34,7 @@ well-prepared for lifelong physical activity.</p>
 <p></p>
 <hr>
 <p></p>
-<h4><strong>Beyond the PE Curriculum: Holistic Development Through Enrichment</strong></h4>
+<h4>Beyond the PE Curriculum: Holistic Development Through Enrichment</h4>
 <p>To further support active and healthy lifestyles, students take part in
 a variety of enriching and meaningful programmes:</p>
 <ul>
