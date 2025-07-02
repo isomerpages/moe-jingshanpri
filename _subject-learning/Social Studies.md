@@ -4,7 +4,7 @@ permalink: /social-studies/
 variant: tiptap
 description: ""
 ---
-<h3><strong>Every JingShanite is an Active Citizen!</strong></h3>
+<h3><strong><em>Every JingShanite is an Active Citizen!</em></strong></h3>
 <p>At Jing Shan Primary School, we believe in developing a JingShanite who
 learns to value diversity in society, actively contribute to discussions,
 and exhibits curiosity to explore and understand the world.</p>
