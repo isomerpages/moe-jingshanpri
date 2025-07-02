@@ -4,7 +4,7 @@ permalink: /allied-educators/
 variant: tiptap
 description: ""
 ---
-<h3>Allied Educators</h3>
+<p></p>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
