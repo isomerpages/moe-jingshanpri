@@ -4,9 +4,8 @@ permalink: /the-js-experience/departments/mother-tongue-languages/
 description: ""
 variant: tiptap
 ---
-<h1><strong>Mother Tongue Languages</strong></h1>
-<p><strong>Every JingShanite is an Empathetic and Confident Communicator!</strong>
-</p>
+<h4><strong><em>Every JingShanite is an Empathetic and Confident Communicator!</em></strong></h4>
+<p></p>
 <p>Mother Tongue Language (MTL) learning at Jing Shan Primary aims to help
 students experience the joy of learning and become confident users of their
 Mother Tongue. This is in line with the School Vision of ‘Thriving Explorers,

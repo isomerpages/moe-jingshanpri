@@ -4,10 +4,8 @@ permalink: /the-js-experience/departments/english-language/
 description: ""
 variant: tiptap
 ---
-<h1><strong>English Language</strong></h1>
+<h4><strong><em>Every JingShanite is an Empathetic Communicator, a Discerning Reader and a Creative Inquirer!</em></strong></h4>
 <p></p>
-<p><strong>Every JingShanite is an Empathetic Communicator, a Discerning Reader and a Creative Inquirer!</strong>
-</p>
 <p>At Jing Shan Primary School, we are committed to nurturing empowered learners
 — confident in their voice and choice, curious in their inquiry, and compassionate
 in their interactions — ready to shape the future with courage, creativity,
@@ -70,7 +68,7 @@ to customise programmes and activities that cater to the diverse learning
 needs of our students.</p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/English department/2025/EL32025.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/School logo/EL32025.png">
 </div>
 <p>✨ <strong>Shared Book Approach (SBA)</strong> — nurturing a love for reading
 and developing language skills through engaging, rich texts that promote
@@ -101,6 +99,5 @@ on, and regulate their thought processes, fostering resilience and adaptability.
 <p>✨ <strong>Modified Language Experience Approach (MLEA)</strong> — blending
 students’ personal experiences with language learning to create meaningful,
 authentic writing and communication opportunities.</p>
-<p>
-<br>
-</p>
+<h4><br></h4>
+<p></p>

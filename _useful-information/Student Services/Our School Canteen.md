@@ -1,8 +1,9 @@
 ---
-title: School Canteen
-permalink: /school-canteen/
+title: Our School Canteen
+permalink: /our-school-canteen/
 description: ""
 variant: tiptap
+third_nav_title: Student Services
 ---
 <h1><strong>Canteen Food Pricelist</strong></h1>
 <p><strong>(Prices of food items w.e.f. 24 June 2024)</strong>

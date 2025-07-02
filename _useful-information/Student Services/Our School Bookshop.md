@@ -1,8 +1,9 @@
 ---
-title: Our Textbook Matters
-permalink: /info-for-parents-and-students/information-for-parents/textbook-matters/
+title: Our School Bookshop
+permalink: /our-school-bookshop/
 description: ""
 variant: tiptap
+third_nav_title: Student Services
 ---
 <h1><strong>Textbook Matters 2025</strong></h1>
 <div class="isomer-image-wrapper">

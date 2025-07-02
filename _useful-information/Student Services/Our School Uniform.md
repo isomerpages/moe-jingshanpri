@@ -1,8 +1,9 @@
 ---
-title: School Uniform
-permalink: /school-uniform/
+title: Our School Uniform
+permalink: /our-school-uniform/
 description: ""
 variant: tiptap
+third_nav_title: Student Services
 ---
 # **School Uniform**
 

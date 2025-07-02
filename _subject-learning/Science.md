@@ -4,7 +4,7 @@ permalink: /the-js-experience/departments/science/
 description: ""
 variant: tiptap
 ---
-<h1>Developing Curious Young Scientists</h1>
+<h4><em>Every Jingshanite is a Curious Young Scientist!</em></h4>
 <p>In alignment with the school vision, we envision every JingShanite to
 be a Young Scientist who is curious and passionate about learning Science;
 applies skills and processes in scientific inquiry and demonstrates conceptual
@@ -38,7 +38,7 @@ the different instructional activities. This is supplemented with key learning
 experiences such as project work and learning journeys that enriches the
 learning experience and provide opportunities for students to apply the
 knowledge learnt.</p>
-<h4>Ways of Thinking and Doing: Practices</h4>
+<h4>Practices: Ways of Thinking and Doing</h4>
 <p>Students are provided opportunities for students to develop scientific
 practices through activities such as lab work, research work and problem-solving
 tasks. Teachers advocate and model the use of approaches such as Claim-Evidence-Reasoning
@@ -78,8 +78,8 @@ students can access learning content at anytime and anywhere.</p>
 are delivered through SLS and other ICT platforms. Such lessons encourages
 collaboration and peer learning among students through the affordances
 of ICT tools.</p>
-<p>Students are also exposed to the use of dataloggers, as part of developing
-skills like data analysis and interpretation.</p>
+<p>Students developed skills like data interpretation and analysis with the
+use of dataloggers.</p>
 <h4><sub><br>Science Ecogarden</sub></h4>
 <p>The Science Ecogarden, nestled within the classroom block (Block C) of
 our school, is a vibrant oasis of greenery and life. Situated near the
@@ -117,18 +117,18 @@ Science to real-world situations, through play-based learning. Throughout
 the week, students are treated to many engaging demonstrations of the Science
 concepts in their daily lives. Science Ambassadors, consisting of JingShanites
 with talents in Science, facilitate these demonstrations. These students
-are handpicked and trained as Science ambassadors to guide their peers
-through various Science experiments.</p>
+trained as Science ambassadors to guide their peers through various Science
+experiments.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Science department/2025/SCI62025.png">
 </div>
 <h4><sub>Learning Journeys</sub></h4>
 <p>Out-of-classroom learning experiences are important in the learning of
-Science. The school eco-garden and other green spaces in and around the
+Science. The school ecogarden and other green spaces in and around the
 school allow the students to be exposed to nature and plants. Learning
-journeys to institutions like Science Centre and the Singapore Zoological
-Gardens enable students to expand their Science learning capacities through
-hands-on experiments and authentic learning.</p>
+journeys to Science Centre and the Singapore Zoological Gardens enable
+students to expand their Science learning capacities through hands-on experiments
+and authentic learning.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Science department/2025/SCI2025.png">
 </div>

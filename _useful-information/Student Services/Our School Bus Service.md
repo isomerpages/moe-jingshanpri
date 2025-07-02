@@ -1,8 +1,9 @@
 ---
-title: School Bus Service
-permalink: /school-bus-service/
+title: Our School Bus Service
+permalink: /our-school-bus-service/
 description: ""
 variant: tiptap
+third_nav_title: Student Services
 ---
 <h2>School Bus Operator and Bus Fare</h2><pre><code>KW Bus Pte Ltd
 764A Woodlands Circle #10-304

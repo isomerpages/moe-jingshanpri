@@ -1,8 +1,9 @@
 ---
-title: Student Care Centre
-permalink: /student-care-centre/
+title: Our Student Care Centre
+permalink: /our-student-care-centre/
 description: ""
 variant: markdown
+third_nav_title: Student Services
 ---
 # **Little Professors Student Care Centre**
 
