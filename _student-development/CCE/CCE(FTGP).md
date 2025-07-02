@@ -15,7 +15,7 @@ activities and reflections on topics related to the six CCE content areas
 Health, National Education and Sexuality Education. These topics are discussed
 in a developmentally appropriate way to help students make wise and responsible
 choices.</p>
-<p>&nbsp;</p>
+<p></p>
 <p>Curriculum time within CCE (FTGP) is also set aside to commemorate our
 four NE Days — Total Defence Day, International Friendship Day, Racial
 Harmony Day and National Day — to help students appreciate our shared national
@@ -29,6 +29,8 @@ in nurturing a strong and positive Teacher-Student Relationship (TSR).</p>
 for Primary 5 and 6 students. They learn about developing healthy and respectful
 relationships and making informed and responsible decisions on matters
 related to sexuality.</p>
-<p>
-<br>
-</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/FTGP01.png">
+</div>
+<p></p>
