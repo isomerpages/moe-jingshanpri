@@ -31,7 +31,8 @@ description: ""
 <p>Snr SC</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>m_bhairavi_manimaran@schools.gov.sg</p>
+<p><a href="mailto:m_bhairavi_manimaran@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">m_bhairavi_manimaran@schools.gov.sg</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -42,7 +43,8 @@ description: ""
 <p>Lead SENO</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>carmelia_trecia_arriola@schools.gov.sg</p>
+<p><a href="mailto:carmelia_trecia_arriola@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">carmelia_trecia_arriola@schools.gov.sg</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -53,7 +55,8 @@ description: ""
 <p>Snr SENO</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>bai_huixin@schools.gov.sg</p>
+<p><a href="mailto:bai_huixin@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">bai_huixin@schools.gov.sg</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -64,7 +67,8 @@ description: ""
 <p>SENO</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>vethavalli_ramalingam@schools.gov.sg</p>
+<p><a href="mailto:vethavalli_ramalingam@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">vethavalli_ramalingam@schools.gov.sg</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -75,7 +79,8 @@ description: ""
 <p>SENO</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>junice_khng_kai_en@schools.gov.sg</p>
+<p><a href="mailto:junice_khng_kai_en@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">junice_khng_kai_en@schools.gov.sg</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -86,7 +91,8 @@ description: ""
 <p>SENO</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>cheong_yu_tong_b@schools.gov.sg</p>
+<p><a href="mailto:cheong_yu_tong_b@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">cheong_yu_tong_b@schools.gov.sg</a>
+</p>
 </td>
 </tr>
 </tbody>
