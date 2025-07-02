@@ -5,7 +5,7 @@ description: ""
 third_nav_title: Co Curricular Activites
 variant: tiptap
 ---
-<h1><strong>Physical Sports</strong></h1>
+<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA 2025/WhatsApp_Image_2025_03_14_at_11_47_36_AM.jpg">
 </div>
