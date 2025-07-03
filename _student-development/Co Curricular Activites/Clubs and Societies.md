@@ -30,21 +30,19 @@ to participate in numerous IT-related competitions annually.</p>
 <p></p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA 2025/ES1.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/School logo/ES1.png">
 </div>
-<p>🌱 Advocate • ♻️ Act • 🌍 Appreciate</p>
-<p>The Environmental Science Club seeks to develop students’ interest in
-Science and care for the environment based on the 3As:</p>
-<p>🌱 Advocate: Raise awareness and promote sustainable practices to build
-a more environmentally responsible school community.</p>
-<p>♻️ Act: Lead and participate in green projects, applying 3R (Reduce, Reuse,
-Recycle) ideas through hands-on activities, innovation, and collaboration
-with external partners.</p>
-<p>🌍 Appreciate: Develop a deeper connection with nature through learning
-journeys and community engagement</p>
-<p>Through this CCA, students 🌟 seed positive change as confident eco-stewards
-equipped with scientific understanding, leadership skills, and a commitment
-to sustainability.</p>
+<p><strong>Environmental Science Club</strong> seeks to develop students’
+interest in Science and care for the environment based on the 3As:</p>
+<p>🌱 <strong>Advocate: </strong>Raise awareness and promote sustainable habits
+to foster a more environmentally responsible school community</p>
+<p>♻️ <strong>Act: </strong>Lead and take part in green initiatives by applying
+the 3Rs through hands-on activities, innovative projects, and collaboration
+with community partners</p>
+<p>🌍 <strong>Appreciate: </strong>Develop a deeper connection with nature
+through learning journeys and community engagement</p>
+<p>Through this CCA, students 🌟 seed positive change as confident eco-stewards,
+equipped with scientific understanding and a strong commitment to sustainability.</p>
 <p>
 <br>
 </p>
