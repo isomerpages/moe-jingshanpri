@@ -4,7 +4,7 @@ permalink: /the-js-identity/school-advisory-committee/
 description: ""
 variant: tiptap
 ---
-<h1><strong>School Advisory Committee</strong></h1>
+<p></p>
 <table style="minWidth: 50px">
 <colgroup>
 <col>

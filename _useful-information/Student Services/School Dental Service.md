@@ -1,5 +1,5 @@
 ---
-title: Our Dental Clinic
+title: School Dental Service
 permalink: /school-dental-service/
 variant: tiptap
 description: ""

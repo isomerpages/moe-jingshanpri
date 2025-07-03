@@ -1,6 +1,6 @@
 ---
 title: Social Studies
-permalink: /social-studies/
+permalink: /our-family/subject-teachers/social-studies/
 variant: tiptap
 description: ""
 third_nav_title: Subject Teachers

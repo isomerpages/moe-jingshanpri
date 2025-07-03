@@ -4,18 +4,16 @@ permalink: /social-studies/
 variant: tiptap
 description: ""
 ---
-<h1><strong>Social Studies</strong></h1>
-<p></p>
-<h3><strong>Every JingShanite is an Active Citizen!</strong></h3>
+<h4><strong><em>Every JingShanite is an Active Citizen!</em></strong></h4>
 <p>At Jing Shan Primary School, we believe in developing a JingShanite who
 learns to value diversity in society, actively contribute to discussions,
 and exhibits curiosity to explore and understand the world.</p>
 <p></p>
 <p>Aligned to the Singapore Social Studies curriculum, Social Studies lessons
-in Jing Shan Primary School<s> aim to help</s> ensure students <s>to </s>grow
-in knowledge, develop skills and learn values through examining issues
-that are of concern to the society and the world in which they live.</p>
-<h4><strong>Areas of Focus</strong></h4>
+in Jing Shan Primary School<s> </s>ensure students grow in knowledge, develop
+skills and learn values through examining issues that are of concern to
+the society and the world in which they live.</p>
+<h4>Areas of Focus</h4>
 <p></p>
 <p>Across the six Primary School levels, Social Studies focuses on the development
 of Knowledge, Skills, Values through three broad themes:</p>
@@ -59,7 +57,7 @@ about the nation-building process and its challenges, before focusing on
 Singapore’s place in the region of diverse people and features. By Primary
 Five and Six, students focus on understanding the concept of legacies from
 civilisations still having its place in the world today.</p>
-<h4><strong>Authenticity in Learning</strong></h4>
+<h4>Authenticity in Learning</h4>
 <p>This is done through authentic learning, bridging what they learn in the
 classroom to the world around them. Artefacts and videos are used in class
 to enrich students’ learning through authentic learning experiences. Social
@@ -71,7 +69,7 @@ to contextualise their learning experiences with real-world settings.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Social Studies/2025/SS22025.png">
 </div>
-<h4><strong>Cohort Learning Journeys</strong></h4>
+<h4>Cohort Learning Journeys</h4>
 <p></p>
 <p>To supplement their learning, a common Student Development Experience
 is the Cohort Learning Journeys. Cohort Learning Journeys provide all students

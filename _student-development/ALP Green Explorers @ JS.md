@@ -4,8 +4,6 @@ permalink: /the-js-experience/signature-programmes/applied-learning-programme-al
 description: ""
 variant: tiptap
 ---
-<h1><strong>Applied Learning Programme (ALP)</strong></h1>
-<p></p>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/ALP 2025/science_1.png">

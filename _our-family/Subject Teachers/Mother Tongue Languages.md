@@ -5,7 +5,7 @@ variant: tiptap
 description: ""
 third_nav_title: Subject Teachers
 ---
-<h4>Chinese</h4>
+<h4>Chinese Language</h4>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -159,7 +159,7 @@ third_nav_title: Subject Teachers
 </tr>
 </tbody>
 </table>
-<h4>Malay</h4>
+<h4>Malay Language</h4>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -214,7 +214,7 @@ third_nav_title: Subject Teachers
 </tr>
 </tbody>
 </table>
-<h4>Tamil</h4>
+<h4>Tamil Language</h4>
 <table style="minWidth: 50px">
 <colgroup>
 <col>

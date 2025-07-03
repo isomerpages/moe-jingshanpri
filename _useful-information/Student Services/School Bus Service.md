@@ -1,6 +1,6 @@
 ---
-title: Our School Bus Service
-permalink: /our-school-bus-service/
+title: School Bus Service
+permalink: /school-bus-service/
 description: ""
 variant: tiptap
 third_nav_title: Student Services

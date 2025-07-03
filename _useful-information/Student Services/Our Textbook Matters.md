@@ -1,6 +1,6 @@
 ---
-title: Our School Bookshop
-permalink: /our-school-bookshop/
+title: Our Textbook Matters
+permalink: /our-textbook-matters/
 description: ""
 variant: tiptap
 third_nav_title: Student Services

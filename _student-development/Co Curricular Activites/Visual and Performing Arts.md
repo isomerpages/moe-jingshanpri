@@ -5,8 +5,6 @@ description: ""
 third_nav_title: Co Curricular Activites
 variant: tiptap
 ---
-<h1><strong>Visual and Performing Arts</strong></h1>
-<p></p>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA 2025/CS1.png">

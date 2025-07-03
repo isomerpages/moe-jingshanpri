@@ -5,8 +5,6 @@ description: ""
 third_nav_title: Co Curricular Activites
 variant: tiptap
 ---
-<h1><strong>Clubs and Societies</strong></h1>
-<p></p>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA 2025/Rob1.png">
@@ -20,7 +18,6 @@ challenges with creativity and a positive mindset.&nbsp;</p>
 motivation in the field of robotics. It also fosters important values such
 as the joy of learning, teamwork, resilience, and discipline, all of which
 are essential for their holistic development.</p>
-<p></p>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA 2025/IT1.png">
