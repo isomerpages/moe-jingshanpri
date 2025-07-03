@@ -31,7 +31,8 @@ description: ""
 <p>AM</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>soh_goh_tee @schools.gov.sg</p>
+<p><a href="mailto:soh_goh_tee@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">soh_goh_tee@schools.gov.sg</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -42,7 +43,8 @@ description: ""
 <p>OM</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>p_manimaran@schools.gov.sg</p>
+<p><a href="mailto:p_manimaran@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">p_manimaran@schools.gov.sg</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -53,7 +55,8 @@ description: ""
 <p>OM</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>chan_ghim_hock@schools.gov.sg</p>
+<p><a href="mailto:chan_ghim_hock@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">chan_ghim_hock@schools.gov.sg</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -64,7 +67,8 @@ description: ""
 <p>AE</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>krishnaveni_kalimuthu@schools.gov.sg</p>
+<p><a href="mailto:krishnaveni_kalimuthu@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">krishnaveni_kalimuthu@schools.gov.sg</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -75,7 +79,8 @@ description: ""
 <p>AE</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>sivani_jagarnathan@schools.gov.sg</p>
+<p><a href="mailto:sivani_jagarnathan@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">sivani_jagarnathan@schools.gov.sg</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -86,7 +91,8 @@ description: ""
 <p>CSO</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>aenon_jaafar@schools.gov.sg</p>
+<p><a href="mailto:aenon_jaafar@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">aenon_jaafar@schools.gov.sg</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -97,7 +103,8 @@ description: ""
 <p>CSO</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>loke_low_ying@schools.gov.sg</p>
+<p><a href="mailto:loke_low_ying@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">loke_low_ying@schools.gov.sg</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -108,7 +115,8 @@ description: ""
 <p>ICTA</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>muhammad_naufal_zailani@schools.gov.sg</p>
+<p><a href="mailto:muhammad_naufal_zailani@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">muhammad_naufal_zailani@schools.gov.sg</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -119,7 +127,8 @@ description: ""
 <p>OSO</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>jsps@moe.edu.sg</p>
+<p><a href="mailto:jsps@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">jsps@moe.edu.sg</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -130,7 +139,8 @@ description: ""
 <p>OSO</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>jsps@moe.edu.sg</p>
+<p><a href="mailto:jsps@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">jsps@moe.edu.sg</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -141,7 +151,8 @@ description: ""
 <p>OSO</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>jsps@moe.edu.sg</p>
+<p><a href="mailto:jsps@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">jsps@moe.edu.sg</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -152,7 +163,8 @@ description: ""
 <p>OSO</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>jsps@moe.edu.sg</p>
+<p><a href="mailto:jsps@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">jsps@moe.edu.sg</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -163,7 +175,8 @@ description: ""
 <p>OSO</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>jsps@moe.edu.sg</p>
+<p><a href="mailto:jsps@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">jsps@moe.edu.sg</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -174,7 +187,8 @@ description: ""
 <p>OSO</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>jsps@moe.edu.sg</p>
+<p><a href="mailto:jsps@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">jsps@moe.edu.sg</a>
+</p>
 </td>
 </tr>
 </tbody>

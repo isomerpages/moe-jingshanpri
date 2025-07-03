@@ -8,7 +8,7 @@ notification: ""
 sections:
   - hero:
       title: Jing Shan Primary School
-      background: /images/ezgif_com_animated_gif_maker__4_.gif
+      background: /images/Site_Banner.gif
       key_highlights:
         - title: Announcements
           description: Click here for more
