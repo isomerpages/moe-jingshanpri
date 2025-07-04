@@ -22,10 +22,10 @@ confident and active contributors.</p>
 <br>Through the use of varied teaching resources such as hands-on manipulative,
 teachers encourage learning math concepts through exploration which lead&nbsp;to
 the development of deeper relational understanding. The provision of&nbsp;<em>authentic learning experiences</em>&nbsp;in
-the classroom and purposefully engineered&nbsp;&nbsp;&nbsp;&nbsp;tasks
-develop the proficiency required by the learners in carrying out skills
-such as visualizing space and use of mathematical tools such as measuring&nbsp;&nbsp;&nbsp;&nbsp;and
-reading data on a weighing scale.</p>
+the classroom and purposefully engineered tasks develop the proficiency
+required by the learners in carrying out skills such as visualizing space
+and use of mathematical tools such as measuring and reading data on a weighing
+scale.</p>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Math Department/2025/M12025.png">
