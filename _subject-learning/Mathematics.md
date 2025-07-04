@@ -41,7 +41,7 @@ and using tools like measuring tapes and weighing scales.</p>
 <p>Mathematical processes like reasoning and communication are important
 for solving problems and building knowledge. Students are given open tasks
 and problem-solving opportunities to apply concepts, express ideas clearly
-and demonstrate logical thinking using precise mathematical language.</p>
+and demonstrate logical thinking using mathematical language.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Math Department/2025/M32025.png">
 </div>
@@ -81,7 +81,7 @@ as reasoning.</p>
 </div>
 <p>For higher progress students, enrichment is provided through the E2K programme
 at P4 and P5 and participation in Mathematics Olympiads for selected students
-at the middle and upper levels.</p>
+at the upper levels.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Math Department/2025/M72025.png">
 </div>
