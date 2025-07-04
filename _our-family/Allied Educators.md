@@ -40,7 +40,7 @@ description: ""
 <p>Mdm Carmelia Trecia Arriola</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Lead SENO</p>
+<p>Master SENO</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:carmelia_trecia_arriola@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">carmelia_trecia_arriola@schools.gov.sg</a>
