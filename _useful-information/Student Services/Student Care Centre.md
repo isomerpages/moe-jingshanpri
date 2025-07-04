@@ -11,7 +11,7 @@ third_nav_title: Student Services
 
 **STUDENT CARE CENTRE @ JING SHAN PRIMARY SCHOOL**
 
-We are pleased to invite applications for 2022 student care places at Little Professors Student Care @ Jing Shan Primary School. Little Professors Learning Centre Pte. Ltd. is the appointed Student Care Centre (SCC) Operator at Jing Shan Primary School.
+We are pleased to invite applications for 2025 student care places at Little Professors Student Care @ Jing Shan Primary School. Little Professors Learning Centre Pte. Ltd. is the appointed Student Care Centre (SCC) Operator at Jing Shan Primary School.
 
 Little Professors has been operating Student Care services since 2005. We currently provide Student Care
 
@@ -20,7 +20,7 @@ services to more than 1000 students island wide. Little Professors believes in b
 
 **Admission Criteria**
 
-All P1(2022) children who have successfully been allocated a place in Jing Shan Primary School for 2022 can indicate their interest in joining Little Professors @ Jing Shan Primary School. Please note that placement in the SCC is subjected to vacancies and should there be more applicants for the vacancies, a ballot will be conducted.
+All Primary One (2025) children who have successfully been allocated a place in Jing Shan Primary School for 2025 can indicate their interest in joining Little Professors @ Jing Shan Primary School. Please note that placement in the SCC is subjected to vacancies and should there be more applicants for the vacancies, a ballot will be conducted.
 
 Please refer to the link below for “Student Care Form of Interest”:
 
@@ -28,7 +28,7 @@ Please refer to the link below for “Student Care Form of Interest”:
 
 ![](/images/Capture1-1.png)
 
-We will be contacting you again in November 2022, when you have selected the option to enrol your child for SCC in 2023.
+We will be contacting you again in November 2024, when you have selected the option to enrol your child for SCC in 2025.
 
 We look forward to welcoming your child to our family at Little Professors @ Jing Shan.
 
