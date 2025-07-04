@@ -56,7 +56,7 @@ students to work collaboratively online.</p>
 <p></p>
 <p></p>
 <h4><strong>Mother Tongue Language Signature Programmes</strong></h4>
-<p><u>Mother Tongue Fortnight</u>
+<p><strong>Mother Tongue Fortnight</strong>
 </p>
 <p>Scheduled in Term 3, this annual 2-week programme is conducted during
 and after curriculum hours. The programme includes novel and exciting language
@@ -66,7 +66,7 @@ learning, they develop cross-cultural literacy and apply the skills they
 have learnt in class while simultaneously appreciating the beauty of the
 language.</p>
 <p></p>
-<p><u>MT Read</u>
+<p><strong>MT Read</strong>
 </p>
 <p>The MT Reading Programme aims to instil in students a love for reading
 and encourage them to share the joy with their peers. Through the programme,
@@ -82,7 +82,7 @@ using the supplementary readers. Through the SOAR initiative, our youngest
 Jingshanites will Spark interest, Open minds, Appreciate cultural roots
 and Rise as bilingual readers.&nbsp;</p>
 <p></p>
-<p><u>JSPS Creative Writers&nbsp;</u>
+<p><strong>JSPS Creative Writers&nbsp;</strong>
 </p>
 <p>The MT Department is dedicated to nurturing young communicators who can
 express themselves confidently and creatively, both in speaking and writing.
@@ -94,7 +94,7 @@ playback function, the platform allows readers to not only view the pages
 but also listen to narrated stories, enhancing the reading experience.&nbsp;
 Explore our JingShanites’ works at<a href="https://www.ezhishi.net/JSPSebook/index.html" rel="noopener noreferrer nofollow" target="_blank"> <u>www.ezhishi.net/JSPSebook/index.html</u></a>.&nbsp;</p>
 <p></p>
-<p><u>Strength Spotlight Programme</u>
+<p><strong>Strength Spotlight Programme</strong>
 </p>
 <p>The department recognises the uniqueness of each student and offers opportunities
 for them to stretch their potential. Showcase platforms and programmes
