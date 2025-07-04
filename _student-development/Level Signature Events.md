@@ -24,7 +24,7 @@ our children to thrive. Whether it's through hands-on activities, shared
 celebrations, or student showcases, parents are invited to be active participants
 in their child's education.</p>
 <p></p>
-<h3><strong>Lower School (P1 and P2)</strong></h3>
+<h3><strong>Lower School (Primary One and Primary Two)</strong></h3>
 <p><strong>Tagline:</strong>  <em>Grow and Be Present<br></em>In these foundational
 years, our focus is on helping students settle into school life, build
 routines, and learn to manage themselves. The developmental spotlight is
@@ -53,7 +53,7 @@ into their child’s emerging interests.</p>
 </div>
 </li>
 </ul>
-<h3><strong>Middle School (P3 and P4)</strong></h3>
+<h3><strong>Middle School (Primary Three and Primary Four)</strong></h3>
 <p><strong>Tagline:</strong>  <em>Strive and Be Centred<br></em>As students
 grow in independence, they are encouraged to explore who they are and what
 they can become. The spotlight here is <strong>Self-Discovery</strong> —
@@ -71,7 +71,7 @@ journey of learning.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/School logo/LS3.png">
 </div>
-<h3><strong>Upper School (P5 and P6)</strong></h3>
+<h3><strong>Upper School (Primary Five and Primary Six)</strong></h3>
 <p><strong>Tagline:</strong>  <em>Flourish and Be Grateful<br></em>In their
 final two years with us, students are prepared to take flight — academically,
 socially, and emotionally. The focus is on fostering a <strong>Sense of Belonging</strong>,
