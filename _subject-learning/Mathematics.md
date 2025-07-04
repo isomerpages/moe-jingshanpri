@@ -73,7 +73,7 @@ as reasoning.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Math Department/2025/M52025.png">
 </div>
-<p><strong>Math Coaching Programme</strong>
+<p><strong>Mathematics Coaching Programme</strong>
 </p>
 <p>With a small teacher-student ratio, weekly one-hour sessions are conducted.</p>
 <div class="isomer-image-wrapper">
