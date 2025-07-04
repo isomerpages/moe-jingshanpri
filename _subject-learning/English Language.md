@@ -53,9 +53,7 @@ voice, word choice, sentence fluency, and conventions.</p>
 </div>
 <p>✨ <strong>Inquiry through Dialogue</strong> — encouraging meaningful conversations
 where students question, reflect, and co-construct understanding, fostering
-deeper learning through active participation.
-<br>
-</p>
+deeper learning through active participation.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/English department/2025/EL22025.png">
 </div>
@@ -66,7 +64,6 @@ all. Besides enacting DI approach in the classrooms, the EL department
 also<strong> </strong>adopts a progressive and inclusive 3S Approach — <em>Support, Strengthen, and Stretch</em> —
 to customise programmes and activities that cater to the diverse learning
 needs of our students.</p>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/School logo/EL32025.png">
 </div>
