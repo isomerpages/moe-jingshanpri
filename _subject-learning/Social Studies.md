@@ -75,29 +75,41 @@ to contextualise their learning experiences with real-world settings.</p>
 is the Cohort Learning Journeys. Cohort Learning Journeys provide all students
 with opportunities to explore their Singaporean identity through the arts,
 culture and heritage.</p>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Social Studies/2025/SS1.png">
 </div>
-<h4><sub>Primary One - Learning Journey to Ang Mo Kio Estate</sub></h4>
+<blockquote>
+<h3><sub>Primary One - Learning Journey to Ang Mo Kio Estate</sub></h3>
+</blockquote>
+<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Social Studies/2025/SS2.png">
 </div>
+<blockquote>
 <h4><sub>Primary Two - Learning Journey to Changi Airport</sub></h4>
+</blockquote>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Social Studies/2025/SS3.png">
 </div>
+<blockquote>
 <h4><sub>Primary Three - Learning Journey to Marina Barrage / Learning Journey to URA / Learning Journey to Changi Coastal Walk / Learning Journey to Geylang Serai</sub></h4>
+</blockquote>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Social Studies/2025/SS4.png">
 </div>
+<blockquote>
 <h4><sub>Primary Four - Learning Journey to Chinatown</sub></h4>
+</blockquote>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Social Studies/2025/SS5.png">
 </div>
+<blockquote>
 <h4><sub>Primary Five - Learning Journey to Little India</sub></h4>
+</blockquote>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Social Studies/2025/SS6.png">
 </div>
+<blockquote>
 <h4><sub>Primary Six - Learning Journey to Singapore River and Asian Civilisations Museum</sub></h4>
+</blockquote>
 <p></p>
