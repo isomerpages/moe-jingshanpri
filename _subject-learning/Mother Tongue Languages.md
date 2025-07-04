@@ -102,8 +102,15 @@ further expose students to the Mother Tongue languages. Examples include
 competitions, talent shows and ambassador programmes, all of which recognise
 students’ strength and offer them opportunities to shine.</p>
 <p></p>
-<p><u>MT Learning @ Jing Shan</u>
-</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Mother Tongue/2025/MT1.png">
+</div>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Mother Tongue/2025/MT2.png">
+</div>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Mother Tongue/2025/MT3.png">
+</div>
 <p></p>
