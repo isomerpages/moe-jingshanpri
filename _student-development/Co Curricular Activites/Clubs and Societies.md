@@ -7,7 +7,7 @@ variant: tiptap
 ---
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA 2025/Rob1.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA 2025/2025/WhatsApp_Image_2025_07_04_at_12_23_01_PM.jpg">
 </div>
 <p>Through the Robotics programme, students will acquire practical skills
 in building and programming using LEGO EV3 and LEGO Spike Prime. They will
@@ -18,16 +18,14 @@ challenges with creativity and a positive mindset.&nbsp;</p>
 motivation in the field of robotics. It also fosters important values such
 as the joy of learning, teamwork, resilience, and discipline, all of which
 are essential for their holistic development.</p>
-<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA 2025/IT1.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA 2025/2025/WhatsApp_Image_2025_07_04_at_12_22_00_PM.jpg">
 </div>
 <p>Our Info-comm Club provides opportunities for members to learn skills
 valuable in today’s digital age. Members learn skills such as programming.
 In addition they are equipped with many multimedia skills such as photography,
 video journaling and production. Students are also given the opportunities
 to participate in numerous IT-related competitions annually.</p>
-<p></p>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/School logo/ES1.png">
