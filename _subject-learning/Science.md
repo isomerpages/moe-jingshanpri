@@ -4,7 +4,7 @@ permalink: /the-js-experience/departments/science/
 description: ""
 variant: tiptap
 ---
-<h4>Every Jingshanite is a Curious Young Scientist!</h4>
+<h4><strong><em>Every Jingshanite is a Curious Young Scientist!</em></strong></h4>
 <p>In alignment with the school vision, we envision every JingShanite to
 be a Young Scientist who is curious and passionate about learning Science;
 applies skills and processes in scientific inquiry and demonstrates conceptual
