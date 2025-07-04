@@ -4,7 +4,6 @@ permalink: /the-js-experience/signature-programmes/learn-for-life-programme-llp/
 description: ""
 variant: tiptap
 ---
-<h4>Flourish @ JS: Character Strengths, Mindfulness and Gratitude in Action</h4>
 <p><strong>Flourish @ JS</strong> is Jing Shan Primary School’s Learning for
 Life Programme (LLP), designed to celebrate and nurture the character strengths
 of our students, developing them into <strong>Thriving Explorers</strong> and <strong>Mindful Leaders</strong>.</p>
