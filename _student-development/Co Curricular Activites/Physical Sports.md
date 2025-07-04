@@ -20,24 +20,24 @@ to take part in external competition.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA 2025/WhatsApp_Image_2025_03_17_at_4_32_15_PM__3_.jpg">
 </div>
-<p>The Basketball CCA aims to develop pupils' psychomotor skills through
+<p>The Basketball CCA aims to develop student's psychomotor skills through
 engaging drills and structured gameplay, with a strong focus on enhancing
 hand-eye coordination, agility, and anticipation. Through regular training
-and matches, pupils also learn the importance of teamwork and trust, as
-success on the court depends on effective communication and collaboration.
+and matches, student's also learn the importance of teamwork and trust,
+as success on the court depends on effective communication and collaboration.
 Additionally, the CCA fosters a strong sense of sportsmanship, encouraging&nbsp;
-pupils to compete with respect, resilience, and integrity—both during practice
-and in competitive settings.</p>
+student's to compete with respect, resilience, and integrity—both during
+practice and in competitive settings.</p>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA 2025/WhatsApp_Image_2025_03_14_at_11_54_57_AM.jpg">
 </div>
-<p>The Football CCA provides pupils with opportunities to develop essential
+<p>The Football CCA provides student's with opportunities to develop essential
 psychomotor skills such as coordination, balance, and anticipation through
 dynamic drills and match play. As a team sport, football emphasizes the
-importance of teamwork and trust, teaching pupils to communicate effectively,
+importance of teamwork and trust, teaching student's to communicate effectively,
 support one another, and work together towards a common goal. The CCA also
-nurtures a strong sense of sportsmanship, encouraging pupils to demonstrate
+nurtures a strong sense of sportsmanship, encouraging student's to demonstrate
 respect, fairness, and resilience during both training and competitive
 matches.</p>
 <p></p>
