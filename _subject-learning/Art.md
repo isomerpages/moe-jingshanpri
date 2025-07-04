@@ -43,7 +43,7 @@ peers. Reflective discussions help them understand the impact of their
 choices, fostering self-awareness and ethical decision-making.</p>
 <p></p>
 <p>Art-making in our classrooms is more than a technical exercise—it is a
-journey of discovery and personal growth. Pupils are encouraged to experiment
+journey of discovery and personal growth. Students are encouraged to experiment
 confidently with multiple media and techniques, from drawing and painting
 to sculpture and digital art. This exploration nurtures adaptability, curiosity,
 and perseverance, strengthening their ability to solve problems creatively
