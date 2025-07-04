@@ -1,6 +1,6 @@
 ---
 title: Our School History
-permalink: /the-js-identity/our-history/
+permalink: /our-school-history/
 description: ""
 variant: tiptap
 ---

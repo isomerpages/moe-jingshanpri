@@ -38,8 +38,8 @@ learn <strong>art techniques (digital and non-digital)</strong>, alongside <stro
 </p>
 <p>The Art curriculum supports character building by instilling core values
 such as respect, responsibility, and empathy. Collaborative projects teach
-pupils to appreciate different perspectives and work constructively with
-peers. Reflective discussions help them understand the impact of their
+student's to appreciate different perspectives and work constructively
+with peers. Reflective discussions help them understand the impact of their
 choices, fostering self-awareness and ethical decision-making.</p>
 <p></p>
 <p>Art-making in our classrooms is more than a technical exercise—it is a
@@ -51,8 +51,8 @@ and express ideas with clarity.</p>
 <p></p>
 <p>We believe that every child has the potential to be an artist and a thoughtful
 citizen. By integrating art appreciation and creation into their daily
-learning, we inspire pupils to see beauty in the world around them, connect
-with their cultural roots, and develop resilience in facing challenges.</p>
+learning, we inspire student's to see beauty in the world around them,
+connect with their cultural roots, and develop resilience in facing challenges.</p>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Art/2025/Art02.png">

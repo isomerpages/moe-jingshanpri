@@ -6,7 +6,7 @@ variant: tiptap
 third_nav_title: Student Services
 ---
 <h1><strong>Canteen Food Pricelist</strong></h1>
-<p><strong>(Prices of food items w.e.f. 24 June 2024)</strong>
+<p><strong>(Prices of food items w.e.f. 02 January 2025)</strong>
 </p>
 <p>Click on the respective links below each stall to download the price list
 (PDF format).</p>
