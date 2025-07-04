@@ -84,6 +84,17 @@ water safety and swimming confidence development.</p>
 <li>
 <p><strong>Primary Four to Primary Six Interclass Games</strong> – Friendly
 competitions that foster teamwork, sportsmanship, and school spirit.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/PE department/2025/PE10.png">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/PE department/2025/PE11.png">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/PE department/2025/PE12.png">
+</div>
 </li>
 <li>
 <p><strong>Primary Five Cohort Camp</strong> – A memorable outdoor adventure
