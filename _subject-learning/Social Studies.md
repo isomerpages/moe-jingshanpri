@@ -76,29 +76,28 @@ is the Cohort Learning Journeys. Cohort Learning Journeys provide all students
 with opportunities to explore their Singaporean identity through the arts,
 culture and heritage.</p>
 <p></p>
-<h4><sub>Primary One - Learning Journey to Ang Mo Kio Estate</sub></h4>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Social Studies/2025/SS1.png">
 </div>
-<h4><sub>Primary Two - Learning Journey to Changi Airport</sub></h4>
+<h4><sub>Primary One - Learning Journey to Ang Mo Kio Estate</sub></h4>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Social Studies/2025/SS2.png">
 </div>
-<h4><sub>Primary Three - Learning Journey to Marina Barrage / Learning Journey to URA / Learning Journey to Changi Coastal Walk / Learning Journey to Geylang Serai</sub></h4>
+<h4><sub>Primary Two - Learning Journey to Changi Airport</sub></h4>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Social Studies/2025/SS3.png">
 </div>
-<h4><sub>Primary Four - Learning Journey to Chinatown</sub></h4>
+<h4><sub>Primary Three - Learning Journey to Marina Barrage / Learning Journey to URA / Learning Journey to Changi Coastal Walk / Learning Journey to Geylang Serai</sub></h4>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Social Studies/2025/SS4.png">
 </div>
-<h4><sub>Primary Five - Learning Journey to Little India</sub></h4>
+<h4><sub>Primary Four - Learning Journey to Chinatown</sub></h4>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Social Studies/2025/SS5.png">
 </div>
-<h4><sub>Primary Six - Learning Journey to Singapore River and Asian Civilisations Museum</sub></h4>
+<h4><sub>Primary Five - Learning Journey to Little India</sub></h4>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Social Studies/2025/SS6.png">
 </div>
-<p></p>
+<h4><sub>Primary Six - Learning Journey to Singapore River and Asian Civilisations Museum</sub></h4>
 <p></p>

@@ -1,13 +1,12 @@
 ---
-title: CCE(FTGP)
-permalink: /cce-ftgp/
+title: Character and Citizenship Education Form Teacher Guidance Period (CCE FTGP)
+permalink: /character-and-citizenship-form-teacher-guidance-period/
 variant: tiptap
 description: ""
 third_nav_title: CCE
 ---
-<p>CCE (FTGP) stands for Character and Citizenship Education (Form Teacher
-Guidance Period). It is a dedicated programme in the school timetable designed
-to strengthen positive Teacher-Student Relationships (TSR), build supportive
+<p>CCE (FTGP) is a dedicated programme in the school timetable designed to
+strengthen positive Teacher-Student Relationships (TSR), build supportive
 peer relationships, and develop students’ social-emotional skills.</p>
 <p>During CCE (FTGP), Form teachers engage their students through discussions,
 activities and reflections on topics related to the six CCE content areas

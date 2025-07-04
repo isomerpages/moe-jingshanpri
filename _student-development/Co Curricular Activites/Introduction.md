@@ -38,5 +38,5 @@ backgrounds.
 </li>
 </ul>
 <p>To support the holistic development of students by nurturing values, social-emotional
-competencies, and essential <strong>21<sub>st</sub> Century Competencies (21CC)</strong>,
+competencies, and essential <strong>21<sup>st</sup> Century Competencies (21CC)</strong>,
 preparing them for a globalised and complex future.</p>

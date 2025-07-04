@@ -1,6 +1,6 @@
 ---
-title: CCE(MTL)
-permalink: /cce-mtl/
+title: Character and Citizenship Education Mother Tongue Language (CCE MTL)
+permalink: /character-and-citizenship-education-mother-tongue-language/
 variant: tiptap
 description: ""
 third_nav_title: CCE
