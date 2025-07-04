@@ -7,9 +7,7 @@ variant: tiptap
 <h4><strong><em>Every JingShanite is an Imaginative Artist!</em></strong></h4>
 <p><strong><u>The Primary Art Curriculum</u></strong>
 </p>
-<p>Art is a core subject. In JS, students from Primary 1 to 6 attend two
-periods of art lessons weekly.</p>
-<p>Our Primary Art curriculum follows a <strong>See</strong>, <strong>Express</strong>,
+<p>Jing Shan Primary School's Primary Art curriculum follows a <strong>See</strong>, <strong>Express</strong>,
 and <strong>Appreciate </strong>framework that engages students' minds,
 emotions, and hands-on skills. Through this approach, students learn to <strong>observe the world around them, develop their creative voice, and understand art's vital role in society</strong>.
 This experience makes art an essential subject that nurtures well-rounded
@@ -21,7 +19,7 @@ of life.</p>
 <p><em>Fig 1. Singapore Primary Art Syllabus Framework</em>
 </p>
 <p></p>
-<p>In addition, the framework is anchored by the <strong>3 Big Ideas in Art. </strong>They
+<p>In addition, the framework is anchored by the <strong>Three Big Ideas in Art. </strong>They
 are</p>
 <p>1. Art helps us to see in new ways&nbsp;</p>
 <p>2. Art tells stories about our world&nbsp;</p>
@@ -33,8 +31,8 @@ shows students that art isn't isolated—it's a powerful tool for understanding
 and exploring ideas across all areas of learning!</p>
 <p><strong><u>The Primary Art Curriculum in JSPS: Art Learning</u></strong>
 </p>
-<p>In Jingshan Primary, through 6 years of arts learning, students will discover
-various modes of Art forms of <strong>different media and regions</strong>,
+<p>In Jingshan Primary, through three years of arts learning, students will
+discover various modes of Art forms of <strong>different media and regions</strong>,
 learn <strong>art techniques (digital and non-digital)</strong>, alongside <strong>art concepts and theory</strong>.&nbsp;</p>
 <p><strong><u>The Primary Art Curriculum in JSPS: Character Building</u></strong>
 </p>
