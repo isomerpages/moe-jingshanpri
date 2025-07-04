@@ -28,7 +28,7 @@ description: ""
 <p>Mr Soh Goh Tee</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>AM</p>
+<p>Administration Manager</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:soh_goh_tee@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">soh_goh_tee@schools.gov.sg</a>
@@ -40,7 +40,7 @@ description: ""
 <p>Mr P Manimaran</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>OM</p>
+<p>Operations Manager</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:p_manimaran@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">p_manimaran@schools.gov.sg</a>
@@ -52,7 +52,7 @@ description: ""
 <p>Mr Bob Chan</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>OM</p>
+<p>Operations Manager</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:chan_ghim_hock@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">chan_ghim_hock@schools.gov.sg</a>
@@ -64,7 +64,7 @@ description: ""
 <p>Mdm Krishnaveni Kalimuthu</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>AE</p>
+<p>Administrative Executive</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:krishnaveni_kalimuthu@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">krishnaveni_kalimuthu@schools.gov.sg</a>
@@ -76,7 +76,7 @@ description: ""
 <p>Ms Sivani Jagarnathan</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>AE</p>
+<p>Administrative Executive</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:sivani_jagarnathan@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">sivani_jagarnathan@schools.gov.sg</a>
@@ -88,7 +88,7 @@ description: ""
 <p>Mdm Aenon Binte Jaafar</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>CSO</p>
+<p>Corporate Support Officer</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:aenon_jaafar@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">aenon_jaafar@schools.gov.sg</a>
@@ -100,7 +100,7 @@ description: ""
 <p>Ms Sandra Loke</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>CSO</p>
+<p>Corporate Support Officer</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:loke_low_ying@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">loke_low_ying@schools.gov.sg</a>
@@ -112,7 +112,7 @@ description: ""
 <p>Mr Muhammad Naufal Bin Zailani</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>ICTA</p>
+<p>ICT Associate</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:muhammad_naufal_zailani@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">muhammad_naufal_zailani@schools.gov.sg</a>
@@ -124,7 +124,7 @@ description: ""
 <p>Mdm Catherine Ong Hock Siew</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>OSO</p>
+<p>Operation Support Officer</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:jsps@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">jsps@moe.edu.sg</a>
@@ -136,7 +136,7 @@ description: ""
 <p>Mdm Lee Phaik See</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>OSO</p>
+<p>Operation Support Officer</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:jsps@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">jsps@moe.edu.sg</a>
@@ -148,7 +148,7 @@ description: ""
 <p>Mdm Liow Choo Keok</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>OSO</p>
+<p>Operation Support Officer</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:jsps@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">jsps@moe.edu.sg</a>
@@ -160,7 +160,7 @@ description: ""
 <p>Mdm Punetha</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>OSO</p>
+<p>Operation Support Officer</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:jsps@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">jsps@moe.edu.sg</a>
@@ -172,7 +172,7 @@ description: ""
 <p>Mr Aw Kum Chuen</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>OSO</p>
+<p>Operation Support Officer</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:jsps@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">jsps@moe.edu.sg</a>
@@ -184,7 +184,7 @@ description: ""
 <p>Mr Chian Choo Heng</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>OSO</p>
+<p>Operation Support Officer</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:jsps@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">jsps@moe.edu.sg</a>
