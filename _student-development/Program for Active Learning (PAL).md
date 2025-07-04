@@ -20,13 +20,13 @@ variant: tiptap
 <p>Values, character and social-emotional well-being&nbsp;</p>
 </li>
 </ul>
-<p>It is an integral part of the Primary 1 and 2 curriculum that nurtures
+<p>It is an integral part of the Primary One and Two curriculum that nurtures
 the whole child and broadens their primary school experience. Our PAL consists
 of modules in the 4 broad areas, Sports and Games, Outdoor Education, Performing
 Arts (Drama) and Visual Arts, which are carried out during curriculum time.&nbsp;&nbsp;</p>
-<p>Each module typically runs over 4 to 6 lessons, whereby students engage
-in collaborative work and meaningful play, allowing them to discover new
-interests, learn new skills and develop his or her social and emotional
+<p>Each module typically runs over Four to Six lessons, whereby students
+engage in collaborative work and meaningful play, allowing them to discover
+new interests, learn new skills and develop his or her social and emotional
 competencies.</p>
 <p>
 <br>
