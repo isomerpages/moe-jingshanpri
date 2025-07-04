@@ -1,5 +1,5 @@
 ---
-title: Character and Citizenship Education Mother Tongue Language (CCE MTL)
+title: Character and Citizenship Education (Mother Tongue Language)(CCE MTL)
 permalink: /character-and-citizenship-education-mother-tongue-language/
 variant: tiptap
 description: ""

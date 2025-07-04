@@ -10,7 +10,7 @@ variant: tiptap
 </p>
 <p>Jing Shan Primary School's Music curriculum seeks to develop musical understanding
 through three Musical Processes of <strong>Listening</strong>, <strong>Creating </strong>and <strong>Performing</strong> in
-both collaborative and individual settings. As illustrated below, the 3
+both collaborative and individual settings. As illustrated below, the three
 Musical Processes are core to the Music Curriculum Concept and interrelated
 and interdependent in practice.</p>
 <p></p>
@@ -48,7 +48,7 @@ they work with each other in ensemble settings.</p>
 </p>
 <p>To further support our students in pursuing their interests, we also hold<strong> termly Busking sessions</strong> at
 the canteen, as well as talent competition<strong> JS Got Talent</strong>.
-At the primary six level, our students will also be involved in <strong>JS Celebrates</strong>,
+At the Primary Six level, our students will also be involved in <strong>JS Celebrates</strong>,
 where they select different Performing Arts’ activities to perform during
 their graduation.&nbsp;</p>
 <p>Interested students are also encouraged to take part in<strong> Afternoon Connection activities</strong> that

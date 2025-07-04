@@ -68,12 +68,7 @@ A fun-filled event that encourages families to be active together.</p>
 <p><strong>Primary One to Primary Three Ninja Course</strong> – An engaging
 obstacle course that builds agility, balance, and coordination.</p>
 </li>
-<li>
-<p><strong>Primary Three SwimSafer Programme</strong> – A continuation of
-water safety and swimming confidence development.</p>
-</li>
 </ul>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/PE department/2025/Screenshot_2025_07_04_093203.png">
 </div>
@@ -82,8 +77,10 @@ water safety and swimming confidence development.</p>
 </div>
 <ul data-tight="true" class="tight">
 <li>
-<p><strong>Primary Four to Primary Six Interclass Games</strong> – Friendly
-competitions that foster teamwork, sportsmanship, and school spirit.</p>
+<p><strong>Primary Three SwimSafer Programme</strong> – A continuation of
+water safety and swimming confidence development.</p>
+</li>
+</ul>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/PE department/2025/PE10.png">
 </div>
@@ -95,11 +92,10 @@ competitions that foster teamwork, sportsmanship, and school spirit.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/PE department/2025/PE12.png">
 </div>
-</li>
+<ul data-tight="true" class="tight">
 <li>
-<p><strong>Primary Five Cohort Camp</strong> – A memorable outdoor adventure
-that nurtures resilience, independence, and collaboration.</p>
-<p></p>
+<p><strong>Primary Four to Primary Six Interclass Games</strong> – Friendly
+competitions that foster teamwork, sportsmanship, and school spirit.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/PE department/2025/PE72025.png">
 </div>
@@ -110,8 +106,9 @@ that nurtures resilience, independence, and collaboration.</p>
 </div>
 <ul data-tight="true" class="tight">
 <li>
-<p><strong>Primary Six Sports Education Programme (SEP)</strong> – Exposure
-to a range of sports to broaden students’ experiences and interests.</p>
+<p><strong>Primary Five Cohort Camp</strong> – A memorable outdoor adventure
+that nurtures resilience, independence, and collaboration.</p>
+<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/PE department/2025/PE7.png">
 </div>
@@ -122,11 +119,17 @@ to a range of sports to broaden students’ experiences and interests.</p>
 </div>
 <ul data-tight="true" class="tight">
 <li>
-<p><strong>Morning and Afternoon Connection Activities</strong> – Daily opportunities
-for students to be physically active and support their mental well-being.</p>
+<p><strong>Primary Six Sports Education Programme (SEP)</strong> – Exposure
+to a range of sports to broaden students’ experiences and interests.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/PE department/2025/PE22025.png">
 </div>
+</li>
+</ul>
+<ul data-tight="true" class="tight">
+<li>
+<p><strong>Morning and Afternoon Connection Activities</strong> – Daily opportunities
+for students to be physically active and support their mental well-being.</p>
 </li>
 </ul>
 <p>Through our <strong>holistic PE programme</strong>, we aim to nurture every

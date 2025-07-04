@@ -1,5 +1,5 @@
 ---
-title: Character and Citizenship Education Form Teacher Guidance Period (CCE FTGP)
+title: Character and Citizenship Education (Form Teacher Guidance Period)(CCE FTGP)
 permalink: /character-and-citizenship-form-teacher-guidance-period/
 variant: tiptap
 description: ""
