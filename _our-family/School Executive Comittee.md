@@ -44,7 +44,7 @@ description: ""
 <tr>
 <td rowspan="1" colspan="1">
 <p>Ms Ellen Lim</p>
-<p>Vice Principal</p>
+<p>Vice Principal (Administration)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:lee_jia_xin_charlotte@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">ellen_lim@schools.gov.sg</a>
