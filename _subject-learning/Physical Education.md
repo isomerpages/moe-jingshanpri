@@ -75,8 +75,12 @@ obstacle course that builds agility, balance, and coordination.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/PE department/2025/PE12025.png">
 </div>
+<ul data-tight="true" class="tight">
+<li>
 <p><strong>Primary Three SwimSafer Programme</strong> – A continuation of
 water safety and swimming confidence development.</p>
+</li>
+</ul>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/PE department/2025/PE10.png">
 </div>
