@@ -5,115 +5,119 @@ description: ""
 variant: tiptap
 ---
 <h4><strong><em>Every Jingshanite is a Joyful Athlete!</em></strong></h4>
-<p>JSPS Physical Education (PE) curriculum, closely aligns with the Ministry
-of Education (MOE)’s PE syllabus is anchored in seven key learning areas:
-<br>Athletics, Dance, Games and Sports, Gymnastics, Outdoor Education, Physical
-Health and Fitness, and Swimming.</p>
-<p>The learning areas are scoped specifically to Jingshanites at the various
-different levels.</p>
+<p>Every Jingshanite skifully applies a range of movement skills across various
+physical activities, consistently demonstrating safe practices in Physical
+Education towards themselves, others, and the environment. They enthusiastically
+participate in all learning experiences with consistent joy</p>
 <p></p>
 <p></p>
-<h4>Lower Primary: Building Strong Foundations</h4>
-<p>At the lower primary level, students focus on developing <strong>fundamental movement and motor skills</strong>,
-integrating movement concepts to build a strong physical foundation. In <strong>Primary 3</strong>,
-students participate in the <strong>SwimSafer 2.0 Programme</strong>, a
-national initiative that equips children with swimming proficiency and
-essential water survival skills in a fun and engaging way — aimed at reducing
-the risk of drowning.</p>
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/PE department/2025/PE1.png">
+</div>
+<h4><strong>Lower School: Grow &amp; Be Present</strong></h4>
+<p>In the Lower School, students focus on developing fundamental movement
+and motor skills. These are reinforced through basic movement concepts
+that build a strong physical foundation while nurturing body awareness,
+coordination, and control in a fun and supportive environment.</p>
 <hr>
-<p></p>
-<h4>Upper Primary: Applying and Extending Skills</h4>
+<h4><strong>Middle School: Strive &amp; Be Centred</strong></h4>
+<p>In the Middle School, students continue to build upon the fundamental
+movement skills acquired in the lower years, progressing from basic execution
+to more refined application in game situations. As their coordination,
+control, and spatial awareness improve, students begin to explore a wider
+range of sports and games, applying movement concepts such as timing, strategy,
+and teamwork. Through structured practice and small-sided games, they move
+from simply developing skills to participating in more competitive scenarios,
+where they learn to make quick decisions, collaborate effectively, and
+demonstrate sportsmanship. This stage lays the groundwork for confident
+participation and a deeper understanding of fair play, effort, and resilience
+in both individual and team-based activities.</p>
+<hr>
+<h4><strong>Upper School: Flourish &amp; Be Grateful</strong></h4>
 <p>As students progress to the upper primary levels, they begin applying
-their foundational skills in more <strong>complex games and movement situations</strong>.
-Through a <strong>spiral approach</strong>, students engage in progressively
-challenging activities that enhance their <strong>efficiency, effectiveness, and versatility</strong>.
-By <strong>Primary 6</strong>, students are able to transfer and apply their
-skills across different learning areas, becoming <strong>competent and confident movers</strong>,
-well-prepared for lifelong physical activity.</p>
-<p></p>
-<hr>
-<p></p>
-<h4>Beyond the PE Curriculum: Holistic Development Through Enrichment</h4>
+their foundational movement skills to more complex games and physical challenges.
+Through a spiral curriculum, they engage in progressively demanding activities
+that enhance their physical efficiency, strategic thinking, and adaptability.
+By Primary Six, students are able to transfer and apply their skills across
+various learning areas, emerging as confident, competent movers prepared
+for a lifetime of physical activity and well-being.</p>
+<p>
+<br>
+</p>
+<h3><strong>Beyond the PE Curriculum: Holistic Development Through Enrichment</strong></h3>
 <p>To further support active and healthy lifestyles, students take part in
 a variety of enriching and meaningful programmes:</p>
+<ul data-tight="true" class="tight">
+<li>
+<p><strong>Primary One &amp; Primary Two Family Active Bonding Day</strong> –
+A fun-filled event that encourages families to be active together.</p>
+</li>
+</ul>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/PE department/2025/PE9.png">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/PE department/2025/PE3.png">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/PE department/2025/PE4.png">
+</div>
 <ul>
 <li>
-<p><strong>P1 &amp; P2 Family Active Bonding Day</strong> – A fun-filled event
-that encourages families to be active together.
-<br>
-<br>
-</p>
-</li>
-<li>
 <p><strong>P1 to P3 Ninja Course</strong> – An engaging obstacle course that
-builds agility, balance, and coordination.
-<br>
-<br>
-</p>
+builds agility, balance, and coordination.</p>
 </li>
 <li>
 <p><strong>P3 SwimSafer Programme</strong> – A continuation of water safety
-and swimming confidence development.
-<br>
-<br>
-</p>
+and swimming confidence development.</p>
 </li>
+</ul>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/PE department/2025/Screenshot_2025_07_04_093203.png">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/PE department/2025/PE12025.png">
+</div>
+<ul data-tight="true" class="tight">
 <li>
 <p><strong>P4 to P6 Interclass Games</strong> – Friendly competitions that
-foster teamwork, sportsmanship, and school spirit.
-<br>
-<br>
-</p>
+foster teamwork, sportsmanship, and school spirit.</p>
 </li>
 <li>
 <p><strong>P5 Cohort Camp</strong> – A memorable outdoor adventure that nurtures
-resilience, independence, and collaboration.
-<br>
-<br>
-</p>
+resilience, independence, and collaboration.</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/PE department/2025/PE72025.png">
+</div>
 </li>
+</ul>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/PE department/2025/PE52025.png">
+</div>
+<ul data-tight="true" class="tight">
 <li>
 <p><strong>P6 Sports Education Programme (SEP)</strong> – Exposure to a range
-of sports to broaden students’ experiences and interests.
-<br>
-<br>
-</p>
+of sports to broaden students’ experiences and interests.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/PE department/2025/PE7.png">
+</div>
 </li>
+</ul>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/PE department/2025/PE8.png">
+</div>
+<ul data-tight="true" class="tight">
 <li>
 <p><strong>Morning and Afternoon Connection Activities</strong> – Daily opportunities
-for students to be physically active and support their mental well-being.
-<br>
-<br>
-</p>
+for students to be physically active and support their mental well-being.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/PE department/2025/PE22025.png">
+</div>
 </li>
 </ul>
 <p>Through our <strong>holistic PE programme</strong>, we aim to nurture every
 student to be a <strong>Joyful Athlete</strong> – enthusiastic, skilled,
 responsible, and ready to lead an active and healthy lifestyle</p>
-<p></p>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/PE department/2025/PE12025.png">
-</div>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/PE department/2025/PE22025.png">
-</div>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/PE department/2025/PE32025.png">
-</div>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/PE department/2025/PE42025.png">
-</div>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/PE department/2025/PE52025.png">
-</div>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/PE department/2025/PE62025.png">
-</div>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/PE department/2025/PE72025.png">
-</div>
-<p></p>
