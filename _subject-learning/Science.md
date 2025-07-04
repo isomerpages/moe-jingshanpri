@@ -59,7 +59,7 @@ Science.</p>
 <p></p>
 <p></p>
 <h3>Within the classroom</h3>
-<h3>Investigative Performance Tasks</h3>
+<h4>Investigative Performance Tasks</h4>
 <p>Students experience and demonstrate their science inquiry skills and competencies
 by working on investigative performance tasks with their peers. Through
 analysis of real-world problems, experimentation and data collection, results
