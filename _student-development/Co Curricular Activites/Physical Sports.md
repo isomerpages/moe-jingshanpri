@@ -7,7 +7,7 @@ variant: tiptap
 ---
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA 2025/WhatsApp_Image_2025_03_14_at_11_47_36_AM.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA 2025/2025/WhatsApp_Image_2025_07_04_at_12_15_47_PM.jpg">
 </div>
 <p>Badminton aims to develop not only the basic skills of the game but also
 character values such as resilience, perseverance and sportsmanship. Through
@@ -16,9 +16,8 @@ with a life-long passion for the game. We also hope to inculcate in every
 player the importance of teamwork and respect. The CCA is open to all,
 and students who show potential and good learning attitude may be selected
 to take part in external competition.</p>
-<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA 2025/WhatsApp_Image_2025_03_17_at_4_32_15_PM__3_.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA 2025/2025/WhatsApp_Image_2025_07_04_at_12_19_30_PM.jpg">
 </div>
 <p>The Basketball CCA aims to develop student's psychomotor skills through
 engaging drills and structured gameplay, with a strong focus on enhancing
@@ -28,9 +27,8 @@ as success on the court depends on effective communication and collaboration.
 Additionally, the CCA fosters a strong sense of sportsmanship, encouraging&nbsp;
 student's to compete with respect, resilience, and integrity—both during
 practice and in competitive settings.</p>
-<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA 2025/WhatsApp_Image_2025_03_14_at_11_54_57_AM.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA 2025/2025/WhatsApp_Image_2025_07_04_at_12_20_28_PM.jpg">
 </div>
 <p>The Football CCA provides student's with opportunities to develop essential
 psychomotor skills such as coordination, balance, and anticipation through
@@ -42,7 +40,7 @@ respect, fairness, and resilience during both training and competitive
 matches.</p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA 2025/WhatsApp_Image_2025_03_17_at_4_32_15_PM__4_.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA 2025/2025/WhatsApp_Image_2025_07_04_at_12_26_49_PM.jpg">
 </div>
 <p>The Rope Skipping CCA focuses on refining students’ psychomotor abilities
 by developing key physical skills such as balance, coordination, and agility
