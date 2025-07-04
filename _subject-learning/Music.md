@@ -8,11 +8,8 @@ variant: tiptap
 <p></p>
 <p><strong><u>The Primary Music Curriculum</u></strong>
 </p>
-<p>Music is a core subject. In JS, students from Primary 1 to 4 attend two
-periods of music lessons weekly. For Primary 5 and 6, students attend two
-periods of music lessons fortnightly.&nbsp;</p>
-<p>Our Primary Music curriculum seeks to develop musical understanding through
-3 Musical Processes of <strong>Listening</strong>, <strong>Creating </strong>and <strong>Performing</strong> in
+<p>Jing Shan Primary School's Music curriculum seeks to develop musical understanding
+through three Musical Processes of <strong>Listening</strong>, <strong>Creating </strong>and <strong>Performing</strong> in
 both collaborative and individual settings. As illustrated below, the 3
 Musical Processes are core to the Music Curriculum Concept and interrelated
 and interdependent in practice.</p>
@@ -22,7 +19,7 @@ and interdependent in practice.</p>
 </div>
 <p><strong><u>The Primary Music Curriculum in JSPS: Music Learning</u></strong>
 </p>
-<p>In Jingshan Primary, through 6 years of musical learning, students will
+<p>In Jingshan Primary, through six years of musical learning, students will
 discover music of <strong>different cultures and time periods</strong>,
 learn <strong>instruments (digital and non-digital)</strong>, alongside <strong>musical concepts and theory</strong>.&nbsp;</p>
 <p>The spiral progression of a Jingshanites’ learning can be seen in the
@@ -51,7 +48,7 @@ they work with each other in ensemble settings.</p>
 </p>
 <p>To further support our students in pursuing their interests, we also hold<strong> termly Busking sessions</strong> at
 the canteen, as well as talent competition<strong> JS Got Talent</strong>.
-At the P6 level, our P6s will also be involved in <strong>JS Celebrates</strong>,
+At the primary six level, our students will also be involved in <strong>JS Celebrates</strong>,
 where they select different Performing Arts’ activities to perform during
 their graduation.&nbsp;</p>
 <p>Interested students are also encouraged to take part in<strong> Afternoon Connection activities</strong> that

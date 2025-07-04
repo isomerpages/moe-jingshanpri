@@ -201,6 +201,33 @@ third_nav_title: Subject Teachers
 </p>
 </td>
 </tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Tan Soo Hian</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:phua_si_ying@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">tan_soo_hian@schools.gov.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mdm Zahidah Bte Anuar</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:phua_si_ying@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">nur_zahidah_anuar@schools.gov.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Zarinah Zainal</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:phua_si_ying@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">zarinah_zainal@schools.gov.sg</a>
+</p>
+</td>
+</tr>
 </tbody>
 </table>
 <p></p>

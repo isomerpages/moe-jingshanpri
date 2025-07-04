@@ -25,22 +25,10 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms M Bhairavi d/o Manimaran</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Snr SC</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:m_bhairavi_manimaran@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">m_bhairavi_manimaran@schools.gov.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Mdm Carmelia Trecia Arriola</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Lead SENO</p>
+<p>Master SEN Officer</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:carmelia_trecia_arriola@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">carmelia_trecia_arriola@schools.gov.sg</a>
@@ -52,7 +40,7 @@ description: ""
 <p>Ms Bai Huixin</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Snr SENO</p>
+<p>Senior SENO</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:bai_huixin@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">bai_huixin@schools.gov.sg</a>
@@ -61,13 +49,25 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Vethavalli Ramalingam</p>
+<p>Ms M Bhairavi d/o Manimaran</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Senior SC</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:m_bhairavi_manimaran@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">m_bhairavi_manimaran@schools.gov.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Clara Cheong</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>SENO</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:vethavalli_ramalingam@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">vethavalli_ramalingam@schools.gov.sg</a>
+<p><a href="mailto:cheong_yu_tong_b@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">cheong_yu_tong_b@schools.gov.sg</a>
 </p>
 </td>
 </tr>
@@ -85,13 +85,13 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Clara Cheong</p>
+<p>Ms Vethavalli Ramalingam</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>SENO</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:cheong_yu_tong_b@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">cheong_yu_tong_b@schools.gov.sg</a>
+<p><a href="mailto:vethavalli_ramalingam@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">vethavalli_ramalingam@schools.gov.sg</a>
 </p>
 </td>
 </tr>

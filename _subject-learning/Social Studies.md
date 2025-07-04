@@ -10,7 +10,7 @@ learns to value diversity in society, actively contribute to discussions,
 and exhibits curiosity to explore and understand the world.</p>
 <p></p>
 <p>Aligned to the Singapore Social Studies curriculum, Social Studies lessons
-in Jing Shan Primary School<s> </s>ensure students grow in knowledge, develop
+in Jing Shan Primary School ensure students grow in knowledge, develop
 skills and learn values through examining issues that are of concern to
 the society and the world in which they live.</p>
 <h4>Areas of Focus</h4>

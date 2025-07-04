@@ -5,7 +5,9 @@ description: ""
 variant: tiptap
 ---
 <h4><strong><em>Every JingShanite is an Empathetic and Confident Communicator!</em></strong></h4>
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/MT 2025/Picture2.jpg">
+</div>
 <p>Mother Tongue Language (MTL) learning at Jing Shan Primary aims to help
 students experience the joy of learning and become confident users of their
 Mother Tongue. This is in line with the School Vision of ‘Thriving Explorers,
@@ -28,9 +30,9 @@ thinking; and</p>
 </li>
 <li>
 <p>equipping students with the foundational social-emotional competencies.</p>
+<p></p>
 </li>
 </ul>
-<p></p>
 <p><strong>Differentiated Learning</strong>
 </p>
 <p>Differentiated learning is implemented to cater to the different learning
@@ -100,17 +102,15 @@ further expose students to the Mother Tongue languages. Examples include
 competitions, talent shows and ambassador programmes, all of which recognise
 students’ strength and offer them opportunities to shine.</p>
 <p></p>
-<p><u>MT Learning @ Jing Shan</u>
-</p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/MT 2025/Picture2.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Mother Tongue/2025/MT1.png">
 </div>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/MT 2025/Picture3.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Mother Tongue/2025/MT2.png">
 </div>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/MT 2025/Picture4.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Mother Tongue/2025/MT3.png">
 </div>
 <p></p>

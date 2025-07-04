@@ -33,7 +33,7 @@ third_nav_title: Subject Teachers
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mrs Fiona Dai</p>
+<p>Ms Fiona Khim</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:seah_han_hui@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">khim_gek_pei_fiona@schools.gov.sg</a>
@@ -199,6 +199,51 @@ third_nav_title: Subject Teachers
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:seah_han_hui@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">rosiah_ahmad@schools.gov.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Shannen Ang</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:seah_han_hui@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">shannen_ang@schools.gov.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mrs Susan Chia</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:seah_han_hui@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">ng_ah_lum@schools.gov.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Sutha Ayavoo</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:seah_han_hui@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">sutha_ayavoo@schools.gov.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mrs Uma Rama</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:seah_han_hui@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">dekshnamurthi_umavathi@schools.gov.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mdm Zahidah Anuar</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:seah_han_hui@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">nur_zahidah_anuar@schools.gov.sg</a>
 </p>
 </td>
 </tr>
