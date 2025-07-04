@@ -7,7 +7,7 @@ variant: tiptap
 ---
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA 2025/Brownies1.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA 2025/2025/WhatsApp_Image_2025_07_04_at_12_16_45_PM.jpg">
 </div>
 <p>The JSPS Brownie experience aims to inculcate in our girls, self-awareness,
 self-reliance and self-leadership. Our girls are constantly encouraged
