@@ -7,7 +7,7 @@ variant: tiptap
 ---
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA 2025/CS1.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA 2025/2025/WhatsApp_Image_2025_07_04_at_12_18_45_PM.jpg">
 </div>
 <p><strong>Art Education at Jing Shan Primary School</strong>
 </p>
@@ -24,9 +24,8 @@ and intellectual development by allowing them to grow in a nurturing and
 imaginative space. Students are guided to appreciate both their own creations
 and the works of others, fostering empathy, confidence, and respect for
 diverse perspectives.</p>
-<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA 2025/CS2.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA 2025/2025/WhatsApp_Image_2025_07_04_at_12_17_38_PM.jpg">
 </div>
 <p>The JSPS Choir is a vibrant singing community of budding vocalists who
 learn, grow, and discover their voices together. We celebrate diversity
@@ -34,9 +33,8 @@ and discover the joy in music through exploring a diverse repertoire. Through
 practice sessions and performance opportunities, our young musicians are
 provided with a platform to develop confidence, teamwork, and a deep appreciation
 for the arts.</p>
-<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA 2025/CS3.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA 2025/2025/WhatsApp_Image_2025_07_04_at_12_25_15_PM.jpg">
 </div>
 <p>The JSPS Cultural Dance CCA aims to provide students with experiences
 to immerse themselves in the vast world of music and movement in global
@@ -50,9 +48,8 @@ thinking skills through their execution of the dance movements and teamwork.&nbs
 <p>The Cultural Dancers have been awarded the Certificate of Distinction
 at the Singapore Youth Festival (SYF) Performing Arts Presentation and
 garnered great support from external organisations during public performances.</p>
-<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA 2025/CS4.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA 2025/2025/WhatsApp_Image_2025_07_04_at_12_24_23_PM.jpg">
 </div>
 <p>Our Modern Dance CCA aims to develop the physical skills and deportment
 of our students, as well as to build up their enthusiasm in the performing
