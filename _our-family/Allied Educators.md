@@ -61,13 +61,13 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Clara Cheong</p>
+<p>Ms Vethavalli Ramalingam</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>SEN Officer</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:cheong_yu_tong_b@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">cheong_yu_tong_b@schools.gov.sg</a>
+<p><a href="mailto:vethavalli_ramalingam@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">vethavalli_ramalingam@schools.gov.sg</a>
 </p>
 </td>
 </tr>
@@ -85,13 +85,13 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Vethavalli Ramalingam</p>
+<p>Ms Clara Cheong</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>SEN Officer</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:vethavalli_ramalingam@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">vethavalli_ramalingam@schools.gov.sg</a>
+<p><a href="mailto:cheong_yu_tong_b@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">cheong_yu_tong_b@schools.gov.sg</a>
 </p>
 </td>
 </tr>
