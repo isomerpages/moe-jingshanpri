@@ -57,6 +57,7 @@ connect with their cultural roots, and develop resilience in facing challenges.<
 </div>
 <p><em>Fig 3. Jing Shan Aesthetics Curriculum - Why is the Arts Important</em>
 </p>
+<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Art/2025/Art04.png">
 </div>
