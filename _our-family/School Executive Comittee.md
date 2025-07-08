@@ -53,9 +53,6 @@ description: ""
 </tr>
 </tbody>
 </table>
-<p></p>
-<p></p>
-<p></p>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
@@ -98,9 +95,6 @@ description: ""
 </tr>
 </tbody>
 </table>
-<p></p>
-<p></p>
-<p></p>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -110,7 +104,7 @@ description: ""
 <tr>
 <td rowspan="1" colspan="1">
 <p>Mrs Dawn Koh</p>
-<p>School Staff Developer</p>
+<p>School Staff Developer&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:lee_jia_xin_charlotte@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">dawn_lim_hsiao_chin@schools.gov.sg</a>
@@ -120,7 +114,8 @@ description: ""
 <tr>
 <td rowspan="1" colspan="1">
 <p>Mrs Wong Sujin</p>
-<p>Head Of Department / Mother Tongue</p>
+<p>Head of Department /&nbsp;</p>
+<p>Mother Tongue Languages</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:lee_jia_xin_charlotte@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">liow_sujin@schools.gov.sg</a>
@@ -130,7 +125,8 @@ description: ""
 <tr>
 <td rowspan="1" colspan="1">
 <p>Mr Melvin Pao</p>
-<p>Head Of Department / Science</p>
+<p>Head of Department /</p>
+<p>Science</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:lee_jia_xin_charlotte@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">pao_wee_boon@schools.gov.sg</a>
@@ -140,7 +136,8 @@ description: ""
 <tr>
 <td rowspan="1" colspan="1">
 <p>Mr Lee Peng Soon</p>
-<p>Head Of Department / PE &amp; CCA</p>
+<p>Head of Department /</p>
+<p>Physical Education &amp; Co-Curricular Activities</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:lee_jia_xin_charlotte@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">lee_peng_soon@schools.gov.sg</a>
@@ -150,7 +147,8 @@ description: ""
 <tr>
 <td rowspan="1" colspan="1">
 <p>Mr Aaron Tan</p>
-<p>Head Of Department / ICT</p>
+<p>Head of Department /&nbsp;</p>
+<p>Information &amp; Communication Technology</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:lee_jia_xin_charlotte@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">aaron_tan_ah_chye@schools.gov.sg</a>
@@ -161,7 +159,8 @@ description: ""
 <tr>
 <td rowspan="1" colspan="1">
 <p>Mrs Srividhya Shankar</p>
-<p>Head Of Department / Character and Citizenship Education</p>
+<p>Head of Department /&nbsp;</p>
+<p>Character &amp; Citizenship Education</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:lee_jia_xin_charlotte@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">srividhya_mohan@schools.gov.sg</a>
@@ -171,7 +170,8 @@ description: ""
 <tr>
 <td rowspan="1" colspan="1">
 <p>Mdm Vasanthan Lavenyah</p>
-<p>Year Head / Lower Primary</p>
+<p>Year Head Lower School /</p>
+<p>Primary 1,2 &amp; 3</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:lee_jia_xin_charlotte@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">vasanthan_lavenyah@schools.gov.sg</a>
@@ -181,7 +181,8 @@ description: ""
 <tr>
 <td rowspan="1" colspan="1">
 <p>Mr Mohd Rendra</p>
-<p>Year Head / Upper Primary</p>
+<p>Year Head Upper School /</p>
+<p>Primary 4, 5 &amp; 6</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:lee_jia_xin_charlotte@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">mohammad_rendra_mohammad_g@schools.gov.sg</a>
@@ -191,7 +192,8 @@ description: ""
 <tr>
 <td rowspan="1" colspan="1">
 <p>Mrs Jaslina Mokhsin</p>
-<p>Head Of Department / Student Management</p>
+<p>Head of Department /&nbsp;</p>
+<p>Student Management</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:lee_jia_xin_charlotte@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">jaslina_yassin@schools.gov.sg</a>
@@ -201,7 +203,8 @@ description: ""
 <tr>
 <td rowspan="1" colspan="1">
 <p>Ms Fiona Khim</p>
-<p>Level Head / English Language</p>
+<p>Level Head /</p>
+<p>English Language</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:lee_jia_xin_charlotte@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">khim_gek_pei_fiona@schools.gov.sg</a>
@@ -211,7 +214,8 @@ description: ""
 <tr>
 <td rowspan="1" colspan="1">
 <p>Ms Jolene Lim</p>
-<p>Subject Head / Chinese Language</p>
+<p>Subject Head /</p>
+<p>Chinese Language</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:lee_jia_xin_charlotte@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">lim_jie_yi_jolene@schools.gov.sg</a>
@@ -221,7 +225,8 @@ description: ""
 <tr>
 <td rowspan="1" colspan="1">
 <p>Ms Peggy Cheong</p>
-<p>Subject Head / Science</p>
+<p>Subject Head /</p>
+<p>Science</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:lee_jia_xin_charlotte@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">cheong_peiqi_peggy@schools.gov.sg</a>
@@ -231,7 +236,8 @@ description: ""
 <tr>
 <td rowspan="1" colspan="1">
 <p>Mr Cedric Tan</p>
-<p>Subject Head / Social Studies</p>
+<p>Subject Head /</p>
+<p>Social Studies</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:lee_jia_xin_charlotte@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">tan_junwei_cedric@schools.gov.sg</a>
@@ -240,8 +246,9 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mrs Srividhya Shankar</p>
-<p>Head Of Department / Character and Citizenship Education</p>
+<p>Ms Dharshini Rajah</p>
+<p>Subject Head /</p>
+<p>Character &amp; Citizenship Education</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:lee_jia_xin_charlotte@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">dharshini_rajah@schools.gov.sg</a>
@@ -251,7 +258,8 @@ description: ""
 <tr>
 <td rowspan="1" colspan="1">
 <p>Mr Wilfred Ho</p>
-<p>Subject Head / Student Management</p>
+<p>Subject Head /</p>
+<p>Student Management</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:lee_jia_xin_charlotte@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">ho_wei_chyi@schools.gov.sg</a>
@@ -261,7 +269,7 @@ description: ""
 <tr>
 <td rowspan="1" colspan="1">
 <p>Ms Melody Tan</p>
-<p>Assistant Year Head (Interim)</p>
+<p>Assistant Year Head (Int)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:lee_jia_xin_charlotte@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">tan_seow_min_melody@schools.gov.sg</a>
@@ -271,7 +279,9 @@ description: ""
 <tr>
 <td rowspan="1" colspan="1">
 <p>Mdm Shakila Bte Jamal Mohamed</p>
-<p>Lead Teacher / English Language(Acting Head Of Department / English Language)</p>
+<p>Lead Teacher /</p>
+<p>English Language /</p>
+<p>(Acting HOD/EL)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:lee_jia_xin_charlotte@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">shakila_jamal_mohamed@schools.gov.sg</a>
@@ -281,7 +291,8 @@ description: ""
 <tr>
 <td rowspan="1" colspan="1">
 <p>Mdm Safidah Bte Samsudin</p>
-<p>Lead Teacher / Malay Language</p>
+<p>Lead Teacher /</p>
+<p>Malay Language</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:lee_jia_xin_charlotte@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">safidah_samsudin@schools.gov.sg</a>
@@ -291,7 +302,8 @@ description: ""
 <tr>
 <td rowspan="1" colspan="1">
 <p>Mdm Teo Bee Khim</p>
-<p>Senior Teacher / Chinese Language</p>
+<p>Senior Teacher /</p>
+<p>Chinese Language</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:lee_jia_xin_charlotte@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">teo_bee_khim@schools.gov.sg</a>
@@ -301,7 +313,8 @@ description: ""
 <tr>
 <td rowspan="1" colspan="1">
 <p>Mrs Shanthi Magendran</p>
-<p>Senior Teacher / Tamil Language</p>
+<p>Senior Teacher /</p>
+<p>Tamil Language</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:lee_jia_xin_charlotte@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">shanthi_magendran@schools.gov.sg</a>
@@ -311,7 +324,8 @@ description: ""
 <tr>
 <td rowspan="1" colspan="1">
 <p>Ms Rachel Han</p>
-<p>Senior Teacher / Aesthetics</p>
+<p>Senior Teacher /</p>
+<p>Aesthetics</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:lee_jia_xin_charlotte@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">han_simin@schools.gov.sg</a>
@@ -320,21 +334,23 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Susan Koh</p>
-<p>Senior Teacher / SEN</p>
+<p>Mr Ong Yong Kian</p>
+<p>Senior Teacher /</p>
+<p>Character &amp; Citizenship Education</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:lee_jia_xin_charlotte@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">koh_sucheng@schools.gov.sg</a>
+<p><a href="mailto:lee_jia_xin_charlotte@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">yong_kian_ong@schools.gov.sg</a>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Ong Yong Kian</p>
-<p>Senior Teacher / Character and Citizenship Education</p>
+<p>Ms Susan Koh</p>
+<p>Senior Teacher /</p>
+<p>SEN Officer</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:lee_jia_xin_charlotte@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">yong_kian_ong@schools.gov.sg</a>
+<p><a href="mailto:lee_jia_xin_charlotte@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">koh_sucheng@schools.gov.sg</a>
 </p>
 </td>
 </tr>

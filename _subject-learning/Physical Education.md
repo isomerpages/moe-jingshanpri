@@ -47,13 +47,6 @@ for a lifetime of physical activity and well-being.</p>
 <h3><strong>Beyond the PE Curriculum: Holistic Development Through Enrichment</strong></h3>
 <p>To further support active and healthy lifestyles, students take part in
 a variety of enriching and meaningful programmes:</p>
-<ul data-tight="true" class="tight">
-<li>
-<p><strong>Primary One &amp; Primary Two Family Active Bonding Day</strong> –
-A fun-filled event that encourages families to be active together.</p>
-</li>
-</ul>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/PE department/2025/PE9.png">
 </div>
@@ -63,6 +56,12 @@ A fun-filled event that encourages families to be active together.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/PE department/2025/PE4.png">
 </div>
+<ul data-tight="true" class="tight">
+<li>
+<p><strong>Primary One &amp; Primary Two Family Active Bonding Day</strong> –
+A fun-filled event that encourages families to be active together.</p>
+</li>
+</ul>
 <ul>
 <li>
 <p><strong>Primary One to Primary Three Ninja Course</strong> – An engaging
@@ -84,11 +83,9 @@ water safety and swimming confidence development.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/PE department/2025/PE10.png">
 </div>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/PE department/2025/PE11.png">
 </div>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/PE department/2025/PE12.png">
 </div>
