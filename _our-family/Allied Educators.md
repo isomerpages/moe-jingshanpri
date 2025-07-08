@@ -5,29 +5,25 @@ variant: tiptap
 description: ""
 ---
 <p></p>
-<table style="minWidth: 75px">
+<table style="minWidth: 50px">
 <colgroup>
-<col>
 <col>
 <col>
 </colgroup>
 <tbody>
 <tr>
-<th rowspan="1" colspan="1">
-<p>Name</p>
-</th>
-<th rowspan="1" colspan="1">
-<p>Designation</p>
-</th>
-<th rowspan="1" colspan="1">
-<p>Email Addresses</p>
-</th>
+<td rowspan="1" colspan="1">
+<p><strong>Name</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Email Addresses</strong>
+</p>
+</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p>Ms M Bhairavi d/o Manimaran</p>
-</td>
-<td rowspan="1" colspan="1">
 <p>Senior School Counsellor</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -38,8 +34,6 @@ description: ""
 <tr>
 <td rowspan="1" colspan="1">
 <p>Mdm Carmelia Trecia Arriola</p>
-</td>
-<td rowspan="1" colspan="1">
 <p>Master SEN Officer</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -50,8 +44,6 @@ description: ""
 <tr>
 <td rowspan="1" colspan="1">
 <p>Ms Bai Huixin</p>
-</td>
-<td rowspan="1" colspan="1">
 <p>Senior SEN Officer</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -62,9 +54,7 @@ description: ""
 <tr>
 <td rowspan="1" colspan="1">
 <p>Ms Vethavalli Ramalingam</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>SEN Officer</p>
+<p>SEN&nbsp; Officer</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:vethavalli_ramalingam@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">vethavalli_ramalingam@schools.gov.sg</a>
@@ -74,9 +64,7 @@ description: ""
 <tr>
 <td rowspan="1" colspan="1">
 <p>Ms Junice Khng</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>SEN Officer</p>
+<p>SEN&nbsp; Officer</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:junice_khng_kai_en@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">junice_khng_kai_en@schools.gov.sg</a>
@@ -86,9 +74,7 @@ description: ""
 <tr>
 <td rowspan="1" colspan="1">
 <p>Ms Clara Cheong</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>SEN Officer</p>
+<p>SEN&nbsp; Officer</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:cheong_yu_tong_b@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">cheong_yu_tong_b@schools.gov.sg</a>
@@ -97,4 +83,6 @@ description: ""
 </tr>
 </tbody>
 </table>
-<p></p>
+<p>
+<br>
+</p>
