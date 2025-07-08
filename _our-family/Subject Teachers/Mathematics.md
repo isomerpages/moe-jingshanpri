@@ -135,7 +135,8 @@ third_nav_title: Subject Teachers
 <p>Mdm Lianne Han</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a rel="noopener noreferrer nofollow" target="_blank">lianne_han@schools.gov.sg</a>
+</p>
 </td>
 </tr>
 <tr>
