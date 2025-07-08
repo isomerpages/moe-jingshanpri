@@ -62,6 +62,7 @@ a variety of enriching and meaningful programmes:</p>
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/PE department/2025/PE4.png">
 </div>
 <p></p>
+<p></p>
 <blockquote>
 <p><strong>Primary One to Primary Three Ninja Course – An engaging obstacle course that builds agility, balance, and coordination.</strong>
 </p>
@@ -73,6 +74,8 @@ a variety of enriching and meaningful programmes:</p>
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/PE department/2025/PE14.png">
 </div>
 <blockquote>
+<p></p>
+<p></p>
 <p><strong>Primary Three SwimSafer Programme – A continuation of water safety and swimming confidence development.</strong>
 </p>
 </blockquote>
@@ -83,13 +86,14 @@ a variety of enriching and meaningful programmes:</p>
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/PE department/2025/PE12025.png">
 </div>
 <blockquote>
+<p></p>
+<p></p>
 <p><strong>Primary Four to Primary Six Interclass Games – Friendly competitions that foster teamwork, sportsmanship, and school spirit.</strong>
 </p>
 </blockquote>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/PE department/2025/PE10.png">
 </div>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/PE department/2025/PE11.png">
 </div>
@@ -97,6 +101,7 @@ a variety of enriching and meaningful programmes:</p>
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/PE department/2025/PE12.png">
 </div>
 <blockquote>
+<p></p>
 <p><strong>Primary Five Cohort Camp – A memorable outdoor adventure that nurtures resilience, independence, and collaboration</strong>.</p>
 </blockquote>
 <div class="isomer-image-wrapper">
@@ -106,6 +111,8 @@ a variety of enriching and meaningful programmes:</p>
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/PE department/2025/PE52025.png">
 </div>
 <blockquote>
+<p></p>
+<p></p>
 <p><strong>Primary Six Sports Education Programme (SEP) – Exposure to a range of sports to broaden students’ experiences and interests.</strong>
 </p>
 </blockquote>
@@ -116,6 +123,8 @@ a variety of enriching and meaningful programmes:</p>
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/PE department/2025/PE8.png">
 </div>
 <blockquote>
+<p></p>
+<p></p>
 <p><strong>Morning and Afternoon Connection Activities</strong> – Daily opportunities
 for students to be physically active and support their mental well-being.</p>
 </blockquote>
