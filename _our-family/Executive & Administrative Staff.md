@@ -5,29 +5,25 @@ variant: tiptap
 description: ""
 ---
 <p></p>
-<table style="minWidth: 75px">
+<table style="minWidth: 50px">
 <colgroup>
-<col>
 <col>
 <col>
 </colgroup>
 <tbody>
 <tr>
-<th rowspan="1" colspan="1">
-<p>Name</p>
-</th>
-<th rowspan="1" colspan="1">
-<p>Designation</p>
-</th>
-<th rowspan="1" colspan="1">
-<p>Email Addresses</p>
-</th>
+<td rowspan="1" colspan="1">
+<p><strong>Name</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Email Addresses</strong>
+</p>
+</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p>Mr Soh Goh Tee</p>
-</td>
-<td rowspan="1" colspan="1">
 <p>Administration Manager</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -38,8 +34,6 @@ description: ""
 <tr>
 <td rowspan="1" colspan="1">
 <p>Mr P Manimaran</p>
-</td>
-<td rowspan="1" colspan="1">
 <p>Operations Manager</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -50,8 +44,6 @@ description: ""
 <tr>
 <td rowspan="1" colspan="1">
 <p>Mr Bob Chan</p>
-</td>
-<td rowspan="1" colspan="1">
 <p>Operations Manager</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -62,8 +54,6 @@ description: ""
 <tr>
 <td rowspan="1" colspan="1">
 <p>Mdm Krishnaveni Kalimuthu</p>
-</td>
-<td rowspan="1" colspan="1">
 <p>Administrative Executive</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -74,8 +64,6 @@ description: ""
 <tr>
 <td rowspan="1" colspan="1">
 <p>Ms Sivani Jagarnathan</p>
-</td>
-<td rowspan="1" colspan="1">
 <p>Administrative Executive</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -86,8 +74,6 @@ description: ""
 <tr>
 <td rowspan="1" colspan="1">
 <p>Mdm Aenon Binte Jaafar</p>
-</td>
-<td rowspan="1" colspan="1">
 <p>Corporate Support Officer</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -98,8 +84,6 @@ description: ""
 <tr>
 <td rowspan="1" colspan="1">
 <p>Ms Sandra Loke</p>
-</td>
-<td rowspan="1" colspan="1">
 <p>Corporate Support Officer</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -110,9 +94,7 @@ description: ""
 <tr>
 <td rowspan="1" colspan="1">
 <p>Mr Muhammad Naufal Bin Zailani</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>ICT Associate</p>
+<p>Information &amp; Communication Technology Associate</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:muhammad_naufal_zailani@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">muhammad_naufal_zailani@schools.gov.sg</a>
@@ -121,58 +103,18 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mdm Catherine Ong Hock Siew</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Operation Support Officer</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:jsps@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">jsps@moe.edu.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mdm Lee Phaik See</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Operation Support Officer</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:jsps@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">jsps@moe.edu.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mdm Liow Choo Keok</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Operation Support Officer</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:jsps@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">jsps@moe.edu.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mdm Punetha</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Operation Support Officer</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:jsps@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">jsps@moe.edu.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Mr Aw Kum Chuen</p>
+<p>Operations Support Officer</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Operation Support Officer</p>
+<p><a href="mailto:jsps@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">jsps@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mdm Catherine Ong</p>
+<p>Operations Support Officer</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:jsps@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">jsps@moe.edu.sg</a>
@@ -182,9 +124,37 @@ description: ""
 <tr>
 <td rowspan="1" colspan="1">
 <p>Mr Chian Choo Heng</p>
+<p>Operations Support Officer</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Operation Support Officer</p>
+<p><a href="mailto:jsps@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">jsps@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mdm Lee Phaik See</p>
+<p>Operations Support Officer</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:jsps@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">jsps@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mdm Liow Choo Keok</p>
+<p>Operations Support Officer</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:jsps@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">jsps@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mdm Punetha</p>
+<p>Operations Support Officer</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:jsps@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">jsps@moe.edu.sg</a>
