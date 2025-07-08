@@ -49,8 +49,8 @@ for a lifetime of physical activity and well-being.</p>
 a variety of enriching and meaningful programmes:</p>
 <p></p>
 <blockquote>
-<p><strong>Primary One &amp; Primary Two Family Active Bonding Day – A fun-filled event that encourages families to be active together.</strong>
-</p>
+<p><strong>Primary One &amp; Primary Two Family Active Bonding Day</strong> –
+A fun-filled event that encourages families to be active together.</p>
 </blockquote>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/PE department/2025/PE9.png">
@@ -64,8 +64,8 @@ a variety of enriching and meaningful programmes:</p>
 <p></p>
 <p></p>
 <blockquote>
-<p><strong>Primary One to Primary Three Ninja Course – An engaging obstacle course that builds agility, balance, and coordination.</strong>
-</p>
+<p><strong>Primary One to Primary Three Ninja Course</strong> – An engaging
+obstacle course that builds agility, balance, and coordination.</p>
 </blockquote>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/PE department/2025/PE13.png">
@@ -76,8 +76,8 @@ a variety of enriching and meaningful programmes:</p>
 <blockquote>
 <p></p>
 <p></p>
-<p><strong>Primary Three SwimSafer Programme – A continuation of water safety and swimming confidence development.</strong>
-</p>
+<p><strong>Primary Three SwimSafer Programme</strong> – A continuation of
+water safety and swimming confidence development.</p>
 </blockquote>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/PE department/2025/Screenshot_2025_07_04_093203.png">
@@ -88,8 +88,8 @@ a variety of enriching and meaningful programmes:</p>
 <blockquote>
 <p></p>
 <p></p>
-<p><strong>Primary Four to Primary Six Interclass Games – Friendly competitions that foster teamwork, sportsmanship, and school spirit.</strong>
-</p>
+<p><strong>Primary Four to Primary Six Interclass Games</strong> – Friendly
+competitions that foster teamwork, sportsmanship, and school spirit.</p>
 </blockquote>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/PE department/2025/PE10.png">
@@ -102,7 +102,8 @@ a variety of enriching and meaningful programmes:</p>
 </div>
 <blockquote>
 <p></p>
-<p><strong>Primary Five Cohort Camp – A memorable outdoor adventure that nurtures resilience, independence, and collaboration</strong>.</p>
+<p><strong>Primary Five Cohort Camp</strong> – A memorable outdoor adventure
+that nurtures resilience, independence, and collaboration.</p>
 </blockquote>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/PE department/2025/PE72025.png">
@@ -113,8 +114,8 @@ a variety of enriching and meaningful programmes:</p>
 <blockquote>
 <p></p>
 <p></p>
-<p><strong>Primary Six Sports Education Programme (SEP) – Exposure to a range of sports to broaden students’ experiences and interests.</strong>
-</p>
+<p><strong>Primary Six Sports Education Programme (SEP)</strong> – Exposure
+to a range of sports to broaden students’ experiences and interests.</p>
 </blockquote>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/PE department/2025/PE7.png">
