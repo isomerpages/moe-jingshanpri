@@ -89,6 +89,7 @@ a variety of enriching and meaningful programmes:</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/PE department/2025/PE10.png">
 </div>
+<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/PE department/2025/PE11.png">
 </div>
