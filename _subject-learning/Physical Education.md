@@ -8,7 +8,7 @@ variant: tiptap
 <p>Every Jingshanite skifully applies a range of movement skills across various
 physical activities, consistently demonstrating safe practices in Physical
 Education towards themselves, others, and the environment. They enthusiastically
-participate in all learning experiences with consistent joy</p>
+participate in all learning experiences with consistent joy.</p>
 <p></p>
 <p></p>
 <div class="isomer-image-wrapper">
@@ -47,6 +47,11 @@ for a lifetime of physical activity and well-being.</p>
 <h3><strong>Beyond the PE Curriculum: Holistic Development Through Enrichment</strong></h3>
 <p>To further support active and healthy lifestyles, students take part in
 a variety of enriching and meaningful programmes:</p>
+<p></p>
+<blockquote>
+<p><strong>Primary One &amp; Primary Two Family Active Bonding Day – A fun-filled event that encourages families to be active together.</strong>
+</p>
+</blockquote>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/PE department/2025/PE9.png">
 </div>
@@ -56,30 +61,31 @@ a variety of enriching and meaningful programmes:</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/PE department/2025/PE4.png">
 </div>
-<ul data-tight="true" class="tight">
-<li>
-<p><strong>Primary One &amp; Primary Two Family Active Bonding Day</strong> –
-A fun-filled event that encourages families to be active together.</p>
-</li>
-</ul>
-<ul>
-<li>
-<p><strong>Primary One to Primary Three Ninja Course</strong> – An engaging
-obstacle course that builds agility, balance, and coordination.</p>
-</li>
-</ul>
+<p></p>
+<blockquote>
+<p><strong>Primary One to Primary Three Ninja Course – An engaging obstacle course that builds agility, balance, and coordination.</strong>
+</p>
+</blockquote>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/PE department/2025/PE13.png">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/PE department/2025/PE14.png">
+</div>
+<blockquote>
+<p><strong>Primary Three SwimSafer Programme – A continuation of water safety and swimming confidence development.</strong>
+</p>
+</blockquote>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/PE department/2025/Screenshot_2025_07_04_093203.png">
 </div>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/PE department/2025/PE12025.png">
 </div>
-<ul data-tight="true" class="tight">
-<li>
-<p><strong>Primary Three SwimSafer Programme</strong> – A continuation of
-water safety and swimming confidence development.</p>
-</li>
-</ul>
+<blockquote>
+<p><strong>Primary Four to Primary Six Interclass Games – Friendly competitions that foster teamwork, sportsmanship, and school spirit.</strong>
+</p>
+</blockquote>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/PE department/2025/PE10.png">
 </div>
@@ -89,46 +95,33 @@ water safety and swimming confidence development.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/PE department/2025/PE12.png">
 </div>
-<ul data-tight="true" class="tight">
-<li>
-<p><strong>Primary Four to Primary Six Interclass Games</strong> – Friendly
-competitions that foster teamwork, sportsmanship, and school spirit.</p>
+<blockquote>
+<p><strong>Primary Five Cohort Camp – A memorable outdoor adventure that nurtures resilience, independence, and collaboration</strong>.</p>
+</blockquote>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/PE department/2025/PE72025.png">
 </div>
-</li>
-</ul>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/PE department/2025/PE52025.png">
 </div>
-<ul data-tight="true" class="tight">
-<li>
-<p><strong>Primary Five Cohort Camp</strong> – A memorable outdoor adventure
-that nurtures resilience, independence, and collaboration.</p>
-<p></p>
+<blockquote>
+<p><strong>Primary Six Sports Education Programme (SEP) – Exposure to a range of sports to broaden students’ experiences and interests.</strong>
+</p>
+</blockquote>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/PE department/2025/PE7.png">
 </div>
-</li>
-</ul>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/PE department/2025/PE8.png">
 </div>
-<ul data-tight="true" class="tight">
-<li>
-<p><strong>Primary Six Sports Education Programme (SEP)</strong> – Exposure
-to a range of sports to broaden students’ experiences and interests.</p>
+<blockquote>
+<p><strong>Morning and Afternoon Connection Activities</strong> – Daily opportunities
+for students to be physically active and support their mental well-being.</p>
+</blockquote>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/PE department/2025/PE22025.png">
 </div>
-</li>
-</ul>
-<ul data-tight="true" class="tight">
-<li>
-<p><strong>Morning and Afternoon Connection Activities</strong> – Daily opportunities
-for students to be physically active and support their mental well-being.</p>
-</li>
-</ul>
+<p></p>
 <p>Through our <strong>holistic PE programme</strong>, we aim to nurture every
 student to be a <strong>Joyful Athlete</strong> – enthusiastic, skilled,
 responsible, and ready to lead an active and healthy lifestyle</p>
