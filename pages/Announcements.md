@@ -15,7 +15,8 @@ variant: tiptap
 </div>
 </li>
 </ol>
-<p></p>
+<p>Click <a href="https://drive.google.com/file/d/1zIeQM9YdJ3Q6xghex4bHZCtv9HZFfX-5/view?usp=sharing" rel="noopener nofollow" target="_blank">here</a> for
+the slides</p>
 <p></p>
 <p></p>
 <ol start="2" data-tight="true" class="tight">
