@@ -61,6 +61,18 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Michele Maria Kon</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Kindergarten Teacher (English Language)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a rel="noopener noreferrer nofollow" target="_blank">michele_maria_kon@schools.gov.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Nur Asyiqin Binte Shafii</p>
 </td>
 <td rowspan="1" colspan="1">
