@@ -235,6 +235,17 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Mr Soo Wei Yi</p>
+<p>Subject Head /</p>
+<p>Physical Education &amp; Co-Curricular Activities</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:soo_wei_yi@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">soo_wei_yi@schools.gov.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Mr Cedric Tan</p>
 <p>Subject Head /</p>
 <p>Social Studies</p>
