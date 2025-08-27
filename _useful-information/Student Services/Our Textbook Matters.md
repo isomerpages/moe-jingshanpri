@@ -5,22 +5,39 @@ description: ""
 variant: tiptap
 third_nav_title: Student Services
 ---
-<h1><strong>Textbook Matters 2025</strong></h1>
+<h1><strong>Our School Bookshop</strong></h1>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Capture6.png">
+<img style="width: 30%;" height="auto" width="100%" alt="" src="/images/pacific.png">
 </div>
-<p><strong>Parents may pre-order the 2025 textbooks online:</strong>&nbsp;
-<a href="https://www.pacificbookstores.com/" rel="noopener noreferrer nofollow" target="_blank">https://www.pacificbookstores.com/</a>
+<p>Pacific Bookstores Pte Ltd</p>
+<p>Email: <a rel="noopener noreferrer nofollow" target="_blank">sales@pacificbookstores.com</a>
 </p>
-<p><em>Please note that online purchase will only be available from </em><strong><em>07 Nov 2024</em></strong><em>.</em>
+<p>Tel: 6929 8012</p>
+<p></p>
+<p></p>
+<p>Operating Hours: 9.00am to 3.00pm, Monday to Friday (during term time)</p>
+<p><u>Note</u>
 </p>
-<p>Pacific Bookstore will require you to register in order to purchase online.</p>
+<p><strong>Parents who wish to purchase items from the school bookshop will not be allowed to enter the school during the following peak periods:</strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>During recess from 9.00am to 10.30am</p>
+</li>
+<li>
+<p>During dismissal from 1.15pm to 1.45pm</p>
+<p></p>
+</li>
+</ul>
+<p>The operating hours during the year-end sales would be communicated to
+parents separately</p>
 <p>Links for other information:
 <br><a href="https://www.pacificbookstores.com/home-delivery-faq" rel="noopener noreferrer nofollow" target="_blank">Home delivery FAQ</a>
 <br><a href="https://www.pacificbookstores.com/account-registration-guide" rel="noopener noreferrer nofollow" target="_blank">Account registration guide</a>
 </p>
-<p>Please refer to the PDF below for 2025 booklists:</p>
-<p>
+<p></p>
+<p>Please refer to the PDF below for 2025 booklists:
 <br><a href="/files/Booklist 2025/P1.pdf" rel="noopener nofollow" target="_blank">P1 2025</a>
 </p>
 <p><a href="/files/Booklist 2025/P2.pdf" rel="noopener nofollow" target="_blank">P2 2025</a>
@@ -37,13 +54,6 @@ third_nav_title: Student Services
 </p>
 <p><a href="/files/Booklist 2025/P6__FDN_.pdf" rel="noopener nofollow" target="_blank">P6 2025 Foundation</a>
 </p>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Screenshot_2024_11_05_113109__1_.png">
-</div>
-<p></p>
-<p>School Bookstore opening hours:</p>
-<p>Normal School Days: Mon to Fri: (9am to 3pm)</p>
 <p></p>
 <p>For Financial Assistance Scheme (FAS) applicants, please do not purchase
 until your approval for FAS is known. Do not use the online service. Please
