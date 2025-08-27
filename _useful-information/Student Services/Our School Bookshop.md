@@ -7,6 +7,8 @@ third_nav_title: Student Services
 ---
 <h1><strong>Our School Bookshop</strong></h1>
 <p></p>
+<p></p>
+<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 30%;" height="auto" width="100%" alt="" src="/images/pacific.png">
 </div>
