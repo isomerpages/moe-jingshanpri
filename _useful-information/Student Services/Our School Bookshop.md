@@ -11,10 +11,14 @@ third_nav_title: Student Services
 <img style="width: 30%;" height="auto" width="100%" alt="" src="/images/pacific.png">
 </div>
 <p>Pacific Bookstores Pte Ltd</p>
-<p>Email: sales@pacificbookstores.com</p>
-<p>Tel: 6929 8012</p>
-<p><strong>Operating Hours: 9.00am to 3.00pm, Monday to Friday (during term time)</strong>
+<p>Email: jsps@pacificbookstores.com</p>
+<p>Tel: 94355737</p>
+<p><strong>Operating Hours: 9.00am to 3.00pm , Monday to Friday (during term time)</strong>
 </p>
+<p><strong><sub>*Lunch 11.30am to 12.30pm</sub></strong>
+</p>
+<p></p>
+<p></p>
 <p></p>
 <p><strong><u>Note</u></strong>
 </p>
