@@ -2,7 +2,6 @@ collections:
   about-us:
     output: true
     order:
-      - Engagement Charter.md
       - Our School Narrative.md
       - The JS Curriculum Experience.md
       - Our School Symbols.md
@@ -10,3 +9,4 @@ collections:
       - Our School Rules.md
       - School Safety and Security/.keep
       - School Safety and Security/Traffic Management Plan.md
+      - Engagement Charter.md
