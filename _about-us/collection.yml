@@ -2,6 +2,7 @@ collections:
   about-us:
     output: true
     order:
+      - Engagement Charter.md
       - Our School Narrative.md
       - The JS Curriculum Experience.md
       - Our School Symbols.md
