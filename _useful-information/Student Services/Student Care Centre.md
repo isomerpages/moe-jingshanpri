@@ -31,7 +31,7 @@ application for SCC by clicking the link below and completing the online
 form. For the application outcome to be known before the school’s P1 Orientation
 (which will be held on 31 October 2025), please submit your SCC application
 form latest by 10 October 2025.</p>
-<p> <a href="https://forms.gle/P9aDMq4rVp96hJpD9" rel="noopener nofollow" target="_blank">Link </a>to
+<p><a href="https://forms.gle/P9aDMq4rVp96hJpD9" rel="noopener nofollow" target="_blank">Link </a>to
 register</p>
 <p>Click <a href="/files/P1_2026_SCC_E_Briefing.pdf" rel="noopener nofollow" target="_blank">here </a>for
 a copy of the slides that were used during the SCC e-Briefing on 27 September
