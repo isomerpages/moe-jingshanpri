@@ -13,9 +13,9 @@ Tel: 84984950</code></pre>
 </p>
 <p><a href="/files/School Bus Fare 2026/School_Bus_Prices__Jan_2026_to_Dec_2027_.pdf" rel="noopener nofollow" target="_blank">School Bus Prices (Jan 2026 to Dec 2027)</a>
 </p>
-<p>To request for school bus services in 2025, click and fill in the eForm
+<p>To request for school bus services in 2026, click and fill in the eForm
 via the link below. The submission will be sent to the school bus operator
 directly.</p>
 <p></p>
-<p>2025 Registration link: <a href="https://forms.gle/1PxrP5g5MS49hfr2A" rel="noopener nofollow" target="_blank">KW Bus Pte Ltd School Bus Registration for 2026 - Jing Shan Primary School</a>
+<p>2026 Registration link: <a href="https://forms.gle/1PxrP5g5MS49hfr2A" rel="noopener nofollow" target="_blank">KW Bus Pte Ltd School Bus Registration for 2026 - Jing Shan Primary School</a>
 </p>
