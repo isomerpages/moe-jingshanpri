@@ -2,6 +2,7 @@ collections:
   mk-at-jing-shan:
     output: true
     order:
+      - K1 2026 Orientation Day.md
       - About Us.md
       - Team MKJS.md
       - MKJS Experiences/.keep
