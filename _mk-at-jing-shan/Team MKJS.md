@@ -218,14 +218,13 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ong Pei Ling</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Flexi Adjunct Teacher Kindergarten Teacher</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:ong_pei_ling_b@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">ong_pei_ling_b@schools.gov.sg</a>
-</p>
+<p></p>
 </td>
 </tr>
 </tbody>
