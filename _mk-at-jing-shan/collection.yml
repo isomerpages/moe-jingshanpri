@@ -2,7 +2,6 @@ collections:
   mk-at-jing-shan:
     output: true
     order:
-      - 2026 Enrollment.md
       - About Us.md
       - Team MKJS.md
       - MKJS Experiences/.keep
@@ -10,4 +9,5 @@ collections:
       - MKJS Experiences/MKJS Centre Based Programmes.md
       - Our Learning Space.md
       - Our Gallery.md
+      - 2026 Enrollment.md
       - 2025 MK Open House.md
