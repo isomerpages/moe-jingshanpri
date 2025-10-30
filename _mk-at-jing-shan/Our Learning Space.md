@@ -15,7 +15,6 @@ inviting and thoughtfully-designed classrooms support teaching and learning.</p>
 <p></p>
 <h4>Every Space is a Learning Space</h4>
 <div class="iframe-wrapper">
-<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/HxBUyjuf0mQ?si=8zS_X8l6MUzNRghd"></iframe>
+<iframe allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/4jG-4Yus3sQ?si=D_sUk-8jyVItYljq"></iframe>
 </div>
-<p></p>
 <p></p>
