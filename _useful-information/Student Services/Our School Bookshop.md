@@ -40,4 +40,19 @@ to 10.30am</p>
 <p></p>
 </li>
 </ol>
-<p></p>
+<p><a href="/files/2026 Booklist/P1.pdf" rel="noopener nofollow" target="_blank">P1 Book List</a>
+</p>
+<p><a href="/files/2026 Booklist/P2.pdf" rel="noopener nofollow" target="_blank">P2 Book List</a>
+</p>
+<p><a href="/files/2026 Booklist/P3.pdf" rel="noopener nofollow" target="_blank">P3 Book List</a>
+</p>
+<p><a href="/files/2026 Booklist/P4.pdf" rel="noopener nofollow" target="_blank">P4 Book List</a>
+</p>
+<p><a href="/files/2026 Booklist/P5.pdf" rel="noopener nofollow" target="_blank">P5 Book List</a>
+</p>
+<p><a href="/files/2026 Booklist/P6.pdf" rel="noopener nofollow" target="_blank">P6 Book List</a>
+</p>
+<p><a href="/files/2026 Booklist/P5__FDN_.pdf" rel="noopener nofollow" target="_blank">P5 (Foundation) Book List</a>
+</p>
+<p><a href="/files/2026 Booklist/P6__FDN_.pdf" rel="noopener nofollow" target="_blank">P6 (Foundation) Book List</a>
+</p>
