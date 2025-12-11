@@ -37,7 +37,10 @@ to 10.30am</p>
 <p><strong>The operating hours during the year-end sales would be communicated to parents separately</strong>
 </p>
 <p></p>
-<p></p>
+</li>
+<li>
+<p><strong>Book list here in PDF:</strong>
+</p>
 </li>
 </ol>
 <p><a href="/files/2026 Booklist/P1.pdf" rel="noopener nofollow" target="_blank">P1 Book List</a>
