@@ -64,7 +64,7 @@ circular economy practices, and meaningful actions in support of a greener
 future.</p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/ALP 2025/science_4.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/ALP 2025/2025/ALP_2026_1.png">
 </div>
 <p><strong><u>Embed</u></strong>
 </p>
