@@ -13,122 +13,87 @@ variant: tiptap
 </colgroup>
 <tbody>
 <tr>
-<th rowspan="1" colspan="1">
-<p>Classes</p>
-</th>
-<th rowspan="1" colspan="1">
-<p>Teachers</p>
-</th>
-<th rowspan="1" colspan="1">
-<p>Email Addresses</p>
-</th>
-</tr>
-<tr>
-<td rowspan="3" colspan="1">
+<td rowspan="2" colspan="1">
 <p>4 Gratitude</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Peggy Cheong</p>
+<p>Mdm Chua Hwee Leng</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>cheong_peiqi_peggy@schools.gov.sg</p>
+<p><a rel="noopener noreferrer nofollow" target="_blank">chua_hwee_leng@schools.gov.sg</a>
+</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Rachel Han</p>
+<p>Mdm Sarifah Rahmat</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>han_simin@schools.gov.sg</p>
+<p><a rel="noopener noreferrer nofollow" target="_blank">sarifah_rahmat@schools.gov.sg</a>
+</p>
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
-<p>Mrs Rajendran</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>krishnaveni_ladamuthu@schools.gov.sg</p>
-</td>
-</tr>
-<tr>
-<td rowspan="3" colspan="1">
+<td rowspan="2" colspan="1">
 <p>4 Responsibility</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mrs Dawn Koh</p>
+<p>Mr Chong Chai Hwa</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>dawn_lim_hsiao_chin@schools.gov.sg</p>
+<p><a rel="noopener noreferrer nofollow" target="_blank">chong_chai_hwa@schools.gov.sg</a>
+</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr James Seah</p>
+<p>Mrs Wong Sujin</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>seah_han_hui@schools.gov.sg</p>
+<p><a rel="noopener noreferrer nofollow" target="_blank">liow_sujin@schools.gov.sg</a>
+</p>
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
-<p>Mr Terence Pang</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>pang_piao_le_terence@schools.gov.sg</p>
-</td>
-</tr>
-<tr>
-<td rowspan="3" colspan="1">
+<td rowspan="2" colspan="1">
 <p>4 Integrity</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Katie Soon</p>
+<p>Mrs Jaslina Mokhsin</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>soon_hui_ying@schools.gov.sg</p>
+<p><a rel="noopener noreferrer nofollow" target="_blank">jaslina_yassin@schools.gov.sg</a>
+</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Kelly Phua</p>
+<p>Mr Lee Peng Soon</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>phua_si_ying@schools.gov.sg</p>
+<p><a rel="noopener noreferrer nofollow" target="_blank">lee_peng_soon@schools.gov.sg</a>
+</p>
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
-<p>Mr Soo Wei Yi</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>soo_wei_yi@schools.gov.sg</p>
-</td>
-</tr>
-<tr>
-<td rowspan="3" colspan="1">
+<td rowspan="2" colspan="1">
 <p>4 Tenacity</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Norizam Samsudin</p>
+<p>Mrs Choo Choong Huat</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>norizam_samsudin@schools.gov.sg</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mrs Srividhya Shankar</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>srividhya_mohan@schools.gov.sg</p>
+<p><a rel="noopener noreferrer nofollow" target="_blank">choo_choong_huat@schools.gov.sg</a>
+</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Wilfred Ho</p>
+<p>Mr Tan Kia Hwee</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>ho_wei_chyi@schools.gov.sg</p>
+<p><a rel="noopener noreferrer nofollow" target="_blank">tan_kia_hwee@schools.gov.sg</a>
+</p>
 </td>
 </tr>
 </tbody>
