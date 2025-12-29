@@ -154,7 +154,8 @@ description: ""
 <p>Mdm Catherine Low</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>&nbsp;</p>
+<p>&nbsp;<a href="mailto:Catherine_Koh@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Catherine_Koh@schools.gov.sg</a>
+</p>
 </td>
 </tr>
 <tr>
