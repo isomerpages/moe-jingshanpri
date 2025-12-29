@@ -43,6 +43,16 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Mr Koh Peng Yeow</p>
+<p>Vice Principal</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:koh_peng_yeow@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">koh_peng_yeow@schools.gov.sg</a> 
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Ms Ellen Lim</p>
 <p>Vice Principal (Administration)</p>
 </td>
