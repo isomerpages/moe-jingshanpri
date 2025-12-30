@@ -13,98 +13,141 @@ variant: tiptap
 </colgroup>
 <tbody>
 <tr>
-<th rowspan="1" colspan="1">
-<p>Classes</p>
-</th>
-<th rowspan="1" colspan="1">
-<p>Teachers</p>
-</th>
-<th rowspan="1" colspan="1">
-<p>Email Addresses</p>
-</th>
-</tr>
-<tr>
 <td rowspan="3" colspan="1">
 <p>5 Gratitude</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mrs Gunavathi Arulselvan</p>
+<p>Ms Png Chiew Peng&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>gunavathi_arulselvan@schools.gov.sg</p>
+<p><a rel="noopener noreferrer nofollow" target="_blank">png_chiew_peng@schools.gov.sg</a>
+</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Melvin Pao</p>
+<p>Mrs Rajendran</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>pao_wee_boon@schools.gov.sg</p>
+<p><a rel="noopener noreferrer nofollow" target="_blank">krishnaveni_ladamuthu@schools.gov.sg</a>
+</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mrs Saheerabanu Jiaudeen</p>
+<p>Mdm Shakila Jamal</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>saheerabanu_jiaudeen@schools.gov.sg</p>
+<p><a rel="noopener noreferrer nofollow" target="_blank">shakila_jamal_mohamed@schools.gov.sg</a>
+</p>
 </td>
 </tr>
 <tr>
-<td rowspan="2" colspan="1">
+<td rowspan="3" colspan="1">
 <p>5 Responsibility</p>
 </td>
-<td rowspan="1" colspan="1">
-<p>Mrs Pramila Nayar</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>pramila_raman_nayar@schools.gov.sg</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Ms Lim Huishan</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>lim_huishan@schools.gov.sg</p>
-</td>
-</tr>
-<tr>
-<td rowspan="2" colspan="1">
-<p>5 Integrity</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mr Caleb Chong</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>chong_wei_yang_caleb@schools.gov.sg</p>
-</td>
-</tr>
-<tr>
 <td rowspan="1" colspan="1">
 <p>Ms Dharshini Rajah</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>dharshini_rajah@schools.gov.sg</p>
+<p><a rel="noopener noreferrer nofollow" target="_blank">dharshini_rajah@schools.gov.sg</a>
+</p>
 </td>
 </tr>
 <tr>
-<td rowspan="2" colspan="1">
+<td rowspan="1" colspan="1">
+<p>Mdm Fatimawati Affandi</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a rel="noopener noreferrer nofollow" target="_blank">fatimawati_affandi@schools.gov.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Yang Yan Qi</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a rel="noopener noreferrer nofollow" target="_blank">yang_yan_qi@schools.gov.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="4" colspan="1">
+<p>5 Integrity</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Aaron Tan</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a rel="noopener noreferrer nofollow" target="_blank">aaron_tan_ah_chye@schools.gov.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Chen Yijie</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a rel="noopener noreferrer nofollow" target="_blank">chen_yijie@schools.gov.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mdm Hazirah Djuanda&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a rel="noopener noreferrer nofollow" target="_blank">hazirah_djuanda@schools.gov.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr Soo Wei Yi&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a rel="noopener noreferrer nofollow" target="_blank">soo_wei_yi@schools.gov.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="4" colspan="1">
 <p>5 Tenacity</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Cedric Tan</p>
+<p>Ms Ang Geok Pheng</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>tan_junwei_cedric@schools.gov.sg</p>
+<p><a rel="noopener noreferrer nofollow" target="_blank">ang_geok_pheng@schools.gov.sg</a>
+</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mdm Loh Chew Wi</p>
+<p>Mr Mohd Rendra</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>loh_chew_wi@schools.gov.sg</p>
+<p><a rel="noopener noreferrer nofollow" target="_blank">mohammad_rendra_mohammad_g@schools.gov.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mdm Safidah Samsudin</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a rel="noopener noreferrer nofollow" target="_blank">safidah_samsudin@schools.gov.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mrs Uma Rama</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a rel="noopener noreferrer nofollow" target="_blank">dekshnamurthi_umavathi@schools.gov.sg</a>
+</p>
 </td>
 </tr>
 </tbody>

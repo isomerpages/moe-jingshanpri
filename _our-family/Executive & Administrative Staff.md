@@ -43,11 +43,11 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Bob Chan</p>
+<p>Mr Anbalagan Jayaraman</p>
 <p>Operations Manager</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:chan_ghim_hock@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">chan_ghim_hock@schools.gov.sg</a>
+<p><a href="mailto:chan_ghim_hock@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">anbalagan_jayaraman_a@schools.gov.sg</a>
 </p>
 </td>
 </tr>

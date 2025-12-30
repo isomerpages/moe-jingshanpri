@@ -43,6 +43,16 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Mr Koh Peng Yeow</p>
+<p>Vice Principal</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:koh_peng_yeow@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">koh_peng_yeow@schools.gov.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Ms Ellen Lim</p>
 <p>Vice Principal (Administration)</p>
 </td>
@@ -135,6 +145,17 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Miss Yang Yan Qi</p>
+<p>Head of Department /</p>
+<p>Mathematics</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a rel="noopener noreferrer nofollow" target="_blank"><u><br>yang_yan_qi@schools.gov.sg</u></a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Mr Lee Peng Soon</p>
 <p>Head of Department /</p>
 <p>Physical Education &amp; Co-Curricular Activities</p>
@@ -171,7 +192,7 @@ description: ""
 <td rowspan="1" colspan="1">
 <p>Mdm Vasanthan Lavenyah</p>
 <p>Year Head Lower School /</p>
-<p>Primary 1,2 &amp; 3</p>
+<p>Primary 1 &amp; 2</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="vasanthan_lavenyah@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">vasanthan_lavenyah@schools.gov.sg</a>
@@ -180,9 +201,20 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Mr Tan Kia Hwee</p>
+<p>Year Head Middle School /</p>
+<p>Primary 3 &amp; 4</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a rel="noopener noreferrer nofollow" target="_blank">Tan_Kia_Hwee@schools.gov.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Mr Mohd Rendra</p>
 <p>Year Head Upper School /</p>
-<p>Primary 4, 5 &amp; 6</p>
+<p>Primary 5 &amp; 6</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mohammad_rendra_mohammad_g@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">mohammad_rendra_mohammad_g@schools.gov.sg</a>
