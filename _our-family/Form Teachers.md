@@ -421,10 +421,10 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Swarnapala Methias</p>
+<p>Mdm Chua Hwee Leng</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">swarnapala_n_b_methias@schools.gov.sg</a>
+<p><a rel="noopener noreferrer nofollow" target="_blank">chua_hwee_leng@schools.gov.sg</a>
 </p>
 </td>
 </tr>
@@ -496,10 +496,10 @@ description: ""
 <p>4 Gratitude</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Chua Hwee Leng</p>
+<p>Mr Swarnapala Methias</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">chua_hwee_leng@schools.gov.sg</a>
+<p><a rel="noopener noreferrer nofollow" target="_blank">swarnapala_n_b_methias@schools.gov.sg</a>
 </p>
 </td>
 </tr>
