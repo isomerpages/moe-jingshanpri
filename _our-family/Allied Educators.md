@@ -71,16 +71,6 @@ description: ""
 </p>
 </td>
 </tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Ms Clara Cheong</p>
-<p>SEN&nbsp; Officer</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:cheong_yu_tong_b@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">cheong_yu_tong_b@schools.gov.sg</a>
-</p>
-</td>
-</tr>
 </tbody>
 </table>
 <p>
