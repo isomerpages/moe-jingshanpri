@@ -40,19 +40,19 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Joanne Kow</p>
+<p>Ms Jolene Lim</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">kow_xiao_min_joanne@schools.gov.sg</a>
+<p><a rel="noopener noreferrer nofollow" target="_blank">lim_jie_yi_jolene@schools.gov.sg</a>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Jolene Lim</p>
+<p>Ms Joanne Kow</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">lim_jie_yi_jolene@schools.gov.sg</a>
+<p><a rel="noopener noreferrer nofollow" target="_blank">kow_xiao_min_joanne@schools.gov.sg</a>
 </p>
 </td>
 </tr>
@@ -100,15 +100,6 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Melody Tan&nbsp;</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">tan_seow_min_melody@schools.gov.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Mdm Ong Baojin</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -117,18 +108,18 @@ description: ""
 </td>
 </tr>
 <tr>
-<td rowspan="3" colspan="1">
-<p>1 Humility</p>
+<td rowspan="1" colspan="1">
+<p>Ms Melody Tan&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Aliana Abdul Rahim</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">aliana_abdul_rahim@schools.gov.sg</a>
+<p><a rel="noopener noreferrer nofollow" target="_blank">tan_seow_min_melody@schools.gov.sg</a>
 </p>
 </td>
 </tr>
 <tr>
+<td rowspan="3" colspan="1">
+<p>1 Humility</p>
+</td>
 <td rowspan="1" colspan="1">
 <p>Mdm Ginny Teo</p>
 </td>
@@ -147,6 +138,15 @@ description: ""
 </td>
 </tr>
 <tr>
+<td rowspan="1" colspan="1">
+<p>Mdm Aliana Abdul Rahim</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a rel="noopener noreferrer nofollow" target="_blank">aliana_abdul_rahim@schools.gov.sg</a>
+</p>
+</td>
+</tr>
+<tr>
 <td rowspan="4" colspan="1">
 <p>1 Tenacity</p>
 </td>
@@ -160,19 +160,19 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Cheow Mee Ping</p>
+<p>Ms Tan Soo Hian</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">Cheow_mee_ping@schools.gov.sg</a>
+<p><a rel="noopener noreferrer nofollow" target="_blank">Tan_soo_hian@schools.gov.sg</a>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Tan Soo Hian</p>
+<p>Ms Cheow Mee Ping</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">Tan_soo_hian@schools.gov.sg</a>
+<p><a rel="noopener noreferrer nofollow" target="_blank">Cheow_mee_ping@schools.gov.sg</a>
 </p>
 </td>
 </tr>
@@ -235,19 +235,19 @@ description: ""
 <p>2 Integrity</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Susan Koh&nbsp;</p>
+<p>Mdm Zahidah Bte Anuar</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">koh_sucheng@schools.gov.sg</a>
+<p><a rel="noopener noreferrer nofollow" target="_blank">nur_zahidah_anuar@schools.gov.sg</a>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mdm Zahidah Bte Anuar</p>
+<p>Ms Susan Koh&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">nur_zahidah_anuar@schools.gov.sg</a>
+<p><a rel="noopener noreferrer nofollow" target="_blank">koh_sucheng@schools.gov.sg</a>
 </p>
 </td>
 </tr>
@@ -352,15 +352,6 @@ description: ""
 <p>3 Gratitude</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr James Seah</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">seah_han_hui@schools.gov.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Ms Peggy Cheong</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -374,6 +365,15 @@ description: ""
 </td>
 <td rowspan="1" colspan="1">
 <p><a rel="noopener noreferrer nofollow" target="_blank">zarinah_zainal@schools.gov.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr James Seah</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a rel="noopener noreferrer nofollow" target="_blank">seah_han_hui@schools.gov.sg</a>
 </p>
 </td>
 </tr>
@@ -421,6 +421,15 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Mr Swarnapala Methias</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a rel="noopener noreferrer nofollow" target="_blank">swarnapala_n_b_methias@schools.gov.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Ms Ning Shuang</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -430,26 +439,19 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Swarnapala Methias</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">swarnapala_n_b_methias@schools.gov.sg</a>
-</p>
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 </tr>
 <tr>
 <td rowspan="3" colspan="1">
 <p>3 Tenacity</p>
 </td>
-<td rowspan="1" colspan="1">
-<p>Mdm Chan Yan Sze</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">chan_yan_sze@schools.gov.sg</a>
-</p>
-</td>
-</tr>
-<tr>
 <td rowspan="1" colspan="1">
 <p>Mrs Srividhya Shankar</p>
 </td>
@@ -465,6 +467,26 @@ description: ""
 <td rowspan="1" colspan="1">
 <p><a rel="noopener noreferrer nofollow" target="_blank">ho_wei_chyi@schools.gov.sg</a>
 </p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mdm Chan Yan Sze</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a rel="noopener noreferrer nofollow" target="_blank">chan_yan_sze@schools.gov.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 </tr>
 </tbody>
@@ -604,6 +626,15 @@ description: ""
 <p>5 Gratitude</p>
 </td>
 <td rowspan="1" colspan="1">
+<p>Mdm Shakila Jamal</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a rel="noopener noreferrer nofollow" target="_blank">shakila_jamal_mohamed@schools.gov.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Ms Png Chiew Peng&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -622,15 +653,17 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mdm Shakila Jamal</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">shakila_jamal_mohamed@schools.gov.sg</a>
-</p>
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 </tr>
 <tr>
-<td rowspan="3" colspan="1">
+<td rowspan="4" colspan="1">
 <p>5 Responsibility</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -638,6 +671,15 @@ description: ""
 </td>
 <td rowspan="1" colspan="1">
 <p><a rel="noopener noreferrer nofollow" target="_blank">dharshini_rajah@schools.gov.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Yang Yan Qi</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a rel="noopener noreferrer nofollow" target="_blank">yang_yan_qi@schools.gov.sg</a>
 </p>
 </td>
 </tr>
@@ -652,11 +694,10 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Yang Yan Qi</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">yang_yan_qi@schools.gov.sg</a>
-</p>
+<p></p>
 </td>
 </tr>
 <tr>
@@ -703,10 +744,10 @@ description: ""
 <p>5 Tenacity</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Ang Geok Pheng</p>
+<p>Mrs Uma Rama</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">ang_geok_pheng@schools.gov.sg</a>
+<p><a rel="noopener noreferrer nofollow" target="_blank">dekshnamurthi_umavathi@schools.gov.sg</a>
 </p>
 </td>
 </tr>
@@ -721,6 +762,15 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Ms Ang Geok Pheng</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a rel="noopener noreferrer nofollow" target="_blank">ang_geok_pheng@schools.gov.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Mdm Safidah Samsudin</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -730,11 +780,13 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mrs Uma Rama</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">dekshnamurthi_umavathi@schools.gov.sg</a>
-</p>
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 </tr>
 </tbody>
