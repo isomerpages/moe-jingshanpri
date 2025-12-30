@@ -47,7 +47,7 @@ description: ""
 <p>Vice Principal</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:koh_peng_yeow@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">koh_peng_yeow@schools.gov.sg</a> 
+<p><a href="mailto:koh_peng_yeow@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">koh_peng_yeow@schools.gov.sg</a>
 </p>
 </td>
 </tr>
