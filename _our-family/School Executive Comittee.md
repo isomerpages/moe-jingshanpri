@@ -43,7 +43,7 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Koh Peng Yeow</p>
+<p>Mr Remund Koh Peng Yeow</p>
 <p>Vice Principal</p>
 </td>
 <td rowspan="1" colspan="1">
