@@ -5,7 +5,7 @@ variant: tiptap
 description: ""
 third_nav_title: School Safety and Security
 ---
-<h1><strong>School Traffic Management Plan 2025</strong></h1>
+<h1><strong>School Traffic Management Plan 2026</strong></h1>
 <h2><strong>Introduction</strong></h2>
 <p>1.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; We seek always to be
 a Safe and Health-Promoting School, as set out in our School Operating
