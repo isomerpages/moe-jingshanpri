@@ -14,4 +14,7 @@ description: ""
 by mid-February 2026.&nbsp;
 <br>
 </p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/MK @ JingShan 2025/Picture1.jpg">
+</div>
 <p></p>
