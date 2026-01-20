@@ -10,8 +10,8 @@ description: ""
 6 March 2026.&nbsp; Details of the MK Open House will be updated by end-January
 2026.
 <br>
-<br>Information on the <u>2026 MK Registration Exercise</u> will be updated
-by mid-February 2026.&nbsp;
+<br>Information on the <a href="https://www.moe.gov.sg/preschool/moe-kindergarten/register" rel="noopener nofollow" target="_blank">2026 MK Registration Exercise</a> will
+be updated by mid-February 2026.&nbsp;
 <br>
 </p>
 <div class="isomer-image-wrapper">
