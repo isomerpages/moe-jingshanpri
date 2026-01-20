@@ -4,7 +4,6 @@ permalink: /mk-at-jing-shan/about-us/
 description: ""
 variant: tiptap
 ---
-<h3>About Us</h3>
 <p>MOE Kindergarten (MK) @ Jing Shan provides quality and affordable Kindergarten
 1 (K1) and Kindergarten 2 (K2) education to&nbsp;Singapore Citizens and
 Permanent Residents within Jing Shan Primary School.&nbsp;</p>
