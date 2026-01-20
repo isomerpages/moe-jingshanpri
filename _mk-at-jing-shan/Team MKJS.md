@@ -49,6 +49,18 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Liu Yiwen</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Kindergarten Teacher (English Language)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:Liu_Yiwen_B@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Liu_Yiwen_B@schools.gov.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Michele Maria Kon</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -68,6 +80,18 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:nur_asyiqin_shafii@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">nur_asyiqin_shafii@schools.gov.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Tan Ming Ming</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Kindergarten Teacher (English Language)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:Tan_Ming_Ming_A@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Tan_Ming_Ming_A@schools.gov.sg</a>
 </p>
 </td>
 </tr>
@@ -104,30 +128,6 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:yasodha_letchumanan@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">yasodha_letchumanan@schools.gov.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Tan Ming Ming</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Kindergarten Teacher (English Language)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:Tan_Ming_Ming_A@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Tan_Ming_Ming_A@schools.gov.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Liu Yiwen</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Kindergarten Teacher (English Language)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:Liu_Yiwen_B@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Liu_Yiwen_B@schools.gov.sg</a>
 </p>
 </td>
 </tr>
@@ -225,17 +225,6 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p><a href="mailto:lee_teresa@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">lee_teresa@schools.gov.sg</a>
 </p>
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
 <p></p>
 </td>
 </tr>
