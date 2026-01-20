@@ -22,7 +22,7 @@ Permanent Residents within Jing Shan Primary School.&nbsp;</p>
 <p>•Morning Session&nbsp; - 8am to 12pm</p>
 <p>•Afternoon Session - 1pm to 5pm</p>
 <p>The afternoon session is available to children who are registered for
-the MK programme only. <strong>Currently all our classes are in the morning only</strong>.</p>
+the MK programme only. Currently all our classes are in the morning only.</p>
 <p></p>
 <p><a href="https://www.moe.gov.sg/preschool/moe-kindergarten/kindergarten-care" rel="noopener nofollow" target="_blank">Kindergarten Care Programme</a>
 </p>
