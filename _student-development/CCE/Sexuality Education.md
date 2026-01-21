@@ -88,7 +88,10 @@ to make wise, informed and responsible decisions to keep themselves safe
 from sexuality-related risks.</p>
 </li>
 </ol>
-<p></p>
+<p>a</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCE (Sex Ed)/Screenshot_2026_01_21_133036.png">
+</div>
 <table style="minWidth: 100px">
 <colgroup>
 <col>
