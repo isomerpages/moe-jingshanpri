@@ -87,8 +87,20 @@ including those with members of the opposite sex. Students are also guided
 to make wise, informed and responsible decisions to keep themselves safe
 from sexuality-related risks.</p>
 </li>
-</ol>
+<li>
 <p></p>
+</li>
+</ol>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCE (Sex Ed)/Screenshot_2026_01_21_135320.png">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCE (Sex Ed)/Screenshot_2026_01_21_135355.png">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCE (Sex Ed)/Screenshot_2026_01_21_135439.png">
+</div>
 <ol start="8" data-tight="true" class="tight">
 <li>
 <p>Parents may opt their children out of Sexuality Education lessons, and/or
