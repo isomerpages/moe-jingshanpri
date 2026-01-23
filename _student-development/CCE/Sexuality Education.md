@@ -5,82 +5,123 @@ description: ""
 third_nav_title: CCE
 variant: tiptap
 ---
-<h3>INTRODUCTION</h3>
-<p>Sexuality Education in schools is about enabling students to:</p>
-<ul data-tight="true" class="tight">
-<li>
-<p>understand the physiological, social and emotional changes they experience
-as they mature;</p>
-</li>
-<li>
-<p>develop healthy and rewarding relationships including those with members
-of the opposite sex; and</p>
-</li>
-<li>
-<p>make wise, informed and responsible decisions on sexuality matters.</p>
-</li>
-</ul>
-<p>Sexuality Education covers the following dimensions of a person’s sexuality:</p>
-<ul data-tight="true" class="tight">
-<li>
-<p>Physical: Physical sexual maturation and intimacy, the physiology of sex
-and human reproduction;</p>
-</li>
-<li>
-<p>Emotional: Sexual attitudes and feelings towards self and others;</p>
-</li>
-<li>
-<p>Social: Sexual norms and behaviour and their legal, cultural and societal
-implications; and</p>
-</li>
-<li>
-<p>Ethical: Values and moral systems related to sexuality.</p>
-</li>
-</ul>
-<h3>GOALS OF SEXUALITY EDUCATION</h3>
-<p>To help students make wise, responsible and informed decisions through
-the provision of accurate, current and age-appropriate&nbsp;<strong>knowledge</strong>&nbsp;on
-human sexuality and the consequences of sexual activity;</p>
-<p>To help students know themselves and build healthy and rewarding relationships
-through the acquisition of&nbsp;<strong>social and emotional skills</strong>&nbsp;of
-self-awareness, management of their thoughts, feelings and behaviours,
-development of empathy for others, possession of effective communication,
-problem-solving and decision-making skills; and</p>
-<p>To help students develop a moral compass, respect for themselves and for
-others as sexual beings, premised on the heterosexual married couple forming
-a nuclear family as the basic unit of society, through the inculcation
-of&nbsp;<strong>positive mainstream values and attitudes</strong>&nbsp;about
-sexuality.</p>
-<h3>Conceptual Framework for Sexuality Education</h3>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/conceptual%20framework.png">
-</div>
-<p>The model comprises three components:</p>
-<p>The&nbsp;child&nbsp;at the centre highlights the child-centric aims of
-Sexuality Education. Sexuality Education helps our children love and respect
-themselves, build positive relationships with others, and be equipped to
-make wise, informed and responsible decisions in sexuality matters. These
-aims are anchored on the key values of Love, Respect and Responsibility.</p>
+<h3><strong>MOE SEXUALITY EDUCATION IN SCHOOLS</strong></h3>
 <ol data-tight="true" class="tight">
 <li>
-<p>The&nbsp;themes&nbsp;in the outer ring encapsulate what is essential in
-our Sexuality Education curriculum, namely, Human Development, Interpersonal
-Relationships, Sexual Health, Sexual Behaviour, and Culture, Society and
-Law. The requisite knowledge, skills and attitudes that show love, respect
-and responsibility will undergird each theme.</p>
+<p>Sexuality Education (SEd) in schools aims to enable students to understand
+the physiological, social and emotional changes they experience as they
+mature, develop healthy and rewarding relationships with others, including
+those with members of the opposite sex, and make wise, informed and responsible
+decisions on sexuality matters. SEd is premised on the importance of the
+family as the basic unit of society. This means encouraging healthy, heterosexual
+marriages and stable nuclear family units with extended family support.
+The teaching and learning of SEd is based on respect for the values and
+beliefs of the different ethnic and religious communities in Singapore
+on sexuality issues.</p>
+<p></p>
 </li>
 <li>
-<p>The&nbsp;triangle&nbsp;enfolding the child and themes for Sexuality Education
-represents the tripartite relationship between the home, school and community.
-For Sexuality Education to be effective, it requires (i) parent-ownership
-and quality parent-child communication in the Home; (ii) supportive school
-leadership and a team of specially selected and trained teachers in the
-School; and (iii) partnerships with relevant expertise from the Community.</p>
+<p>The <strong>Goals </strong>of Sexuality Education are:</p>
+<p></p>
+<p>(a) Support students in managing their physiological, social and emotional
+changes as they grow up and develop safe and healthy relationships.</p>
+<p>(b) Guide students to make wise, informed and responsible decisions on
+sexuality matters.</p>
+<p>(c) Help students develop a moral compass and respect for themselves and
+others by having positive mainstream values and attitudes about sexuality
+that are premised on the family as the basic unit of society.</p>
+<p></p>
+</li>
+<li>
+<p>The <strong>Key Messages</strong> of Sexuality Education are:</p>
+<p>(a) Love and respect yourself as you love and respect others;</p>
+<p>(b) Build positive relationships based on love and respect (which are
+the foundation for strong families);</p>
+<p>(c) Make responsible decisions for yourself, your family and society;
+and</p>
+<p>(d) Abstinence before marriage is the best protection against STIs/HIV
+and unintended pregnancies. Casual sex can harm and hurt you and your loved
+ones.</p>
 </li>
 </ol>
-<h3>THE GROWING YEARS PROGRAMME</h3>
-<p>The GY programme is developmental and spiral in nature, beginning at the
-Primary 5 through to the Junior College or Centralised Institute levels.
-The programme provides for the developmental needs of students at the different
-stages or levels. &nbsp;Themes covered at each stage are revisited and
-discussed in a greater depth at the next higher stage.</p>
+<p></p>
+<p>You may click <a href="https://go.gov.sg/moe-sexuality-education" rel="noopener nofollow" target="_blank">here</a> for
+more information on MOE Sexuality Education.</p>
+<p></p>
+<h3><strong>Overview of Jing Shan Primary School’s Sexuality Education Programme for 2026</strong></h3>
+<ol start="4" data-tight="true" class="tight">
+<li>
+<p>Sexuality Education is delivered in a holistic manner through the school
+curriculum. The content for Sexuality Education is grouped into five main
+themes: Human Development, Interpersonal Relationships, Sexual Health,
+Sexual Behaviour, and, Culture, Society and Law. You may click <a href="https://go.gov.sg/moe-sexuality-education-scope" rel="noopener nofollow" target="_blank">here</a> for
+more information on the scope of Sexuality Education in the school curriculum.</p>
+</li>
+<li>
+<p>The subjects that incorporate topics on sexuality include:</p>
+</li>
+</ol>
+<p>&nbsp;&nbsp;&nbsp;(a) Science</p>
+<p>&nbsp;&nbsp;&nbsp;(b) Character and Citizenship Education (CCE)</p>
+<p></p>
+<h3><strong>Sexuality Education Lessons</strong></h3>
+<ol start="6" data-tight="true" class="tight">
+<li>
+<p>The upper primary years mark the onset of puberty. With better nutrition
+and improved health care, children are reaching puberty at a younger age
+and have to grapple with physical, emotional and psychological changes
+in themselves. The implication is that our children are becoming biologically
+ready for sexual activity sooner without necessarily having the corresponding
+cognitive or emotional maturity to modulate their behaviours. Furthermore,
+our young are also exposed to a wide range of influences that could endanger
+health and undermine the integrity of the family. Our students require
+close guidance so that they can respond with discernment to the sexual
+messages in the media and other sources.</p>
+</li>
+<li>
+<p>Sexuality Education (SEd) lessons are taught as part of CCE (FTGP) at
+Primary 5 and 6. Through these lessons, students will learn healthy ways
+to manage the physiological, social and emotional changes in their growing
+years. They learn to build healthy and rewarding relationships with others,
+including those with members of the opposite sex. Students are also guided
+to make wise, informed and responsible decisions to keep themselves safe
+from sexuality-related risks.</p>
+</li>
+<li>
+<p></p>
+</li>
+</ol>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCE (Sex Ed)/Screenshot_2026_01_21_135320.png">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCE (Sex Ed)/Screenshot_2026_01_21_135355.png">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCE (Sex Ed)/Screenshot_2026_01_21_135439.png">
+</div>
+<ol start="8" data-tight="true" class="tight">
+<li>
+<p>Parents may opt their children out of Sexuality Education lessons, and/or
+supplementary Sexuality Education programmes by MOE-approved external providers.</p>
+</li>
+</ol>
+<p></p>
+<ol start="8" data-tight="true" class="tight">
+<li>
+<p>Parents who wish to opt their children out of the Sexuality Education
+lessons need to complete an opt-out form. This form will be communicated
+to parents at the start of the year and is also available <a href="https://go.gov.sg/2026jspsmoesexualityeducationoptoutform" rel="noopener nofollow" target="_blank">here</a>.
+The completed opt-out form is to be submitted by 11 February 2026.</p>
+<p></p>
+</li>
+</ol>
+<ol start="10" data-tight="true" class="tight">
+<li>
+<p>Parents can contact Mrs Srividhya Shankar (HOD Character and Citizenship)
+at 6456 6305 for discussion or to seek clarification about the school’s
+Sexuality Education programme.</p>
+</li>
+</ol>
+<p></p>
