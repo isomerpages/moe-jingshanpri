@@ -14,4 +14,8 @@ and sign up for a guided tour of your choice.
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/MK @ JingShan 2025/MK_Open_house_2026.png">
 </div>
-<p></p>
+<p>The <a href="https://www.moe.gov.sg/preschool/moe-kindergarten/register" rel="noopener nofollow" target="_blank">2026 MK Registration Exercise </a> for
+2027 K1 admissions will run from 9.00am on Monday, 23 March 2026 to 4.30pm
+on Tuesday, 31 March 2026. This applies to both Online Open Admissions
+(OA) and Early Years Centre (EYC) registration. For full details and application
+guidelines, please visit the MOE website.</p>
