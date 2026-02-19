@@ -19,11 +19,6 @@ variant: tiptap
 <p>Telephone: 6252 1538</p>
 <p>Email: <a href="mailto:mk_jingshan@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">mk_jingshan@moe.edu.sg</a>
 </p>
-<p><strong>KCare Contact Numbers</strong>
-</p>
-<p>KCare Office - 8661 8735
-<br>KCare Email - <a href="mailto:mk_jingshan@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>jingshan.kcare@littleprofessors.com.sg</u></a>
-</p>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/School logo/Screenshot_2025_07_04_150329.png">
