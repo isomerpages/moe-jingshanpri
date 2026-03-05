@@ -24,6 +24,31 @@ guidelines, please visit the MOE website.</p>
 find out more information about MK@Jing Shan, MK Curriculum, KCare services
 and MK Registration Exercise.</p>
 <p></p>
-<p>Click here to find out more about a <a href="" rel="noopener nofollow" target="_blank">day at MK@Jing Shan</a>.</p>
+<p>Play below to find out more about a a day at MK @ JingShan.</p>
+<div class="iframe-wrapper">
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/1AMw7SqKrPA?si=NWrYCG6kbXUS0_fg"></iframe>
+</div>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p></p>
+</th>
+<th rowspan="1" colspan="1">
+<p></p>
+</th>
+<th rowspan="1" colspan="1">
+<p></p>
+</th>
+</tr>
+</tbody>
+</table>
+<p></p>
+<p></p>
 <p></p>
 <p>Click here to find out what parents say about <a href="https://str.sg/oeH7s" rel="noopener nofollow" target="_blank">MOE Kindergarten and MK@JingShan</a>.</p>
