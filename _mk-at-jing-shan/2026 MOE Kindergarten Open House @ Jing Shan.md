@@ -20,7 +20,7 @@ on Tuesday, 31 March 2026. This applies to both Online Open Admissions
 (OA) and Early Years Centre (EYC) registration. For full details and application
 guidelines, please visit the MOE website.</p>
 <p></p>
-<p>Click here for the <a href="https://drive.google.com/file/d/1mG-bfv-VcFUCcrmbTBXxVXoryG9LF75Q/view?usp=sharing" rel="noopener nofollow" target="_blank"> 2026 MK@JS Open House slides</a> to
+<p>Click here for the <a href="https://drive.google.com/file/d/1mG-bfv-VcFUCcrmbTBXxVXoryG9LF75Q/view?usp=sharing" rel="noopener nofollow" target="_blank">2026 MK@JS Open House slides</a> to
 find out more information about MK@Jing Shan, MK Curriculum, KCare services
 and MK Registration Exercise.</p>
 <p></p>
