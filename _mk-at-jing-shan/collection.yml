@@ -2,7 +2,6 @@ collections:
   mk-at-jing-shan:
     output: true
     order:
-      - 2026 Enrollment.md
       - 2026 MOE Kindergarten Open House @ Jing Shan.md
       - About Us.md
       - Team MKJS.md
@@ -12,3 +11,4 @@ collections:
       - Our Learning Space.md
       - Our Gallery.md
       - 2026 K1 Orientation Day.md
+      - 2026 Enrollment.md
