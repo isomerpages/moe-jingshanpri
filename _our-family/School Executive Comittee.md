@@ -366,7 +366,7 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mrs Catherine Low</p>
+<p>Mrs Catherine Koh</p>
 <p>Senior Teacher /</p>
 <p>English Language</p>
 </td>
