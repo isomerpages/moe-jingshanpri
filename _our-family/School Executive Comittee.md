@@ -366,6 +366,18 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Mrs Catherine Low</p>
+<p>Senior Teacher /</p>
+<p>English Language</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:catherine_koh@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">catherine_koh@schools.gov.sg</a>
+</p>
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Ms Rachel Han</p>
 <p>Senior Teacher /</p>
 <p>Aesthetics</p>
