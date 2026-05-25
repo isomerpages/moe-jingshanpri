@@ -402,7 +402,7 @@ description: ""
 <td rowspan="1" colspan="1">
 <p>Ms Susan Koh</p>
 <p>Senior Teacher /</p>
-<p>SEN Officer</p>
+<p>Special Educational Needs</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="koh_sucheng@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">koh_sucheng@schools.gov.sg</a>
